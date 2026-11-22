@@ -19,6 +19,8 @@ topics: ["visual-studio", "git", "version-control", "pull-requests", "ai"]
 
 Version control, code generation and pull-request management inside Visual Studio without leaving the IDE.
 
+Note: the linked slide deck contains only an agenda (version control environment, creating a feature, local code review, version control with AI, creating and reviewing a pull request), so nothing further could be added from it.
+
 ## References
 
 - Session page: https://dotnet.microsoft.com/en-us/conf/2026/agenda/brk019

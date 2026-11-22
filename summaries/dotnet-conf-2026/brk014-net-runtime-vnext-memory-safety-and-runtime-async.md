@@ -19,6 +19,8 @@ topics: ["runtime", "async", "memory-safety", "performance", "jit", "dotnet-11"]
 
 Covers two large runtime changes: Runtime Async (moving async orchestration from the compiler into the JIT) and a stricter memory-safety model with better auditability of unsafe code.
 
+Note: the slide file linked below is a 1.2 KB placeholder in the conference repo (not a readable deck), so nothing could be added from it.
+
 ## References
 
 - Session page: https://dotnet.microsoft.com/en-us/conf/2026/agenda/brk014
