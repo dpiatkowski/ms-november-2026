@@ -1,0 +1,501 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>November 2026 Sessions</title>
+<meta name="description" content="Unofficial, filterable list of .NET Conf 2026 and Microsoft Ignite 2026 sessions. Not affiliated with Microsoft.">
+<style>
+:root {
+  color-scheme: light;
+  --bg: #ffffff;
+  --bg-soft: #f6f7f9;
+  --text: #1c1f24;
+  --muted: #5b626d;
+  --dim: #6b7280;
+  --border: #e2e5ea;
+  --chip: #f0f2f5;
+  --chip-border: #d9dde3;
+  --accent: #4338ca;
+  --accent-soft: #eef0ff;
+  --accent-text: #ffffff;
+  --focus: #4338ca;
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #15171b;
+  --bg-soft: #1c1f24;
+  --text: #e6e8eb;
+  --muted: #a3aab5;
+  --dim: #8f96a1;
+  --border: #2c3038;
+  --chip: #23272e;
+  --chip-border: #353a43;
+  --accent: #a5b4fc;
+  --accent-soft: #272c4a;
+  --accent-text: #15171b;
+  --focus: #a5b4fc;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --bg: #15171b;
+    --bg-soft: #1c1f24;
+    --text: #e6e8eb;
+    --muted: #a3aab5;
+    --dim: #8f96a1;
+    --border: #2c3038;
+    --chip: #23272e;
+    --chip-border: #353a43;
+    --accent: #a5b4fc;
+    --accent-soft: #272c4a;
+    --accent-text: #15171b;
+    --focus: #a5b4fc;
+  }
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font: 15px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+a { color: var(--accent); text-underline-offset: 2px; }
+:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; border-radius: 3px; }
+.mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 0.92em; }
+.sr-only {
+  position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
+  overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0;
+}
+
+/* Header */
+header {
+  position: sticky; top: 0; z-index: 2;
+  display: flex; align-items: center; gap: 16px;
+  padding: 12px 24px;
+  background: var(--bg);
+  border-bottom: 1px solid var(--border);
+}
+header h1 { margin: 0; font-size: 1.05rem; font-weight: 650; white-space: nowrap; }
+header h1 small { color: var(--muted); font-weight: 400; margin-left: 6px; }
+.search { margin-left: auto; position: relative; flex: 0 1 360px; min-width: 0; }
+.search input {
+  width: 100%;
+  padding: 7px 34px 7px 10px;
+  font: inherit;
+  color: var(--text);
+  background: var(--bg-soft);
+  border: 1px solid var(--chip-border);
+  border-radius: 6px;
+}
+.search input::placeholder { color: var(--dim); }
+.search kbd {
+  position: absolute; right: 8px; top: 50%; transform: translateY(-50%);
+  font: 12px ui-monospace, monospace; color: var(--muted);
+  border: 1px solid var(--chip-border); border-radius: 4px; padding: 0 5px;
+  pointer-events: none;
+}
+.icon-btn {
+  flex: none;
+  display: inline-grid; place-items: center;
+  width: 34px; height: 34px;
+  background: transparent; color: var(--text);
+  border: 1px solid var(--chip-border); border-radius: 6px;
+  cursor: pointer;
+}
+.icon-btn svg { width: 18px; height: 18px; }
+
+/* Layout */
+.layout {
+  display: grid;
+  grid-template-columns: 250px minmax(0, 1fr);
+  gap: 32px;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px 24px 40px;
+}
+.filters-toggle { display: none; }
+
+aside fieldset { border: 0; margin: 0 0 22px; padding: 0; min-width: 0; }
+aside legend {
+  padding: 0; margin-bottom: 6px;
+  font-size: 0.78rem; font-weight: 650; letter-spacing: 0.04em; text-transform: uppercase;
+  color: var(--muted);
+}
+.opt {
+  display: flex; align-items: center; gap: 8px;
+  padding: 3px 4px; margin: 0 -4px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.92rem;
+}
+.opt:hover { background: var(--bg-soft); }
+.opt input { margin: 0; accent-color: var(--accent); flex: none; }
+.opt .name { flex: 1; min-width: 0; }
+.opt .count { color: var(--muted); font-variant-numeric: tabular-nums; font-size: 0.85rem; }
+.opt.zero { cursor: default; }
+.opt.zero .name, .opt.zero .count { color: var(--dim); }
+.opt.zero:hover { background: none; }
+.opt:has(input:checked) .name { color: var(--accent); font-weight: 600; }
+
+/* Results */
+.result-line {
+  display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 12px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--border);
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+.result-line strong { color: var(--text); font-weight: 600; }
+.link-btn {
+  padding: 0; border: 0; background: none;
+  font: inherit; color: var(--accent); text-decoration: underline; text-underline-offset: 2px;
+  cursor: pointer;
+}
+ol.sessions { list-style: none; margin: 0; padding: 0; }
+.row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 4px 16px;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--border);
+  content-visibility: auto;
+  contain-intrinsic-size: auto 64px;
+}
+.row h2 { grid-column: 1 / -1; margin: 0; font-size: 1rem; font-weight: 600; line-height: 1.35; }
+.meta { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; min-width: 0; }
+.meta .ev { color: var(--muted); font-size: 0.82rem; }
+.chip {
+  padding: 1px 8px;
+  font: inherit; font-size: 0.78rem; line-height: 1.5;
+  color: var(--text);
+  background: var(--chip);
+  border: 1px solid var(--chip-border);
+  border-radius: 999px;
+  cursor: pointer;
+}
+.chip:hover { border-color: var(--accent); }
+.chip[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--accent-text); }
+.links { display: flex; gap: 14px; align-items: center; font-size: 0.88rem; white-space: nowrap; align-self: end; }
+.links svg { width: 11px; height: 11px; margin-left: 2px; vertical-align: -1px; }
+.empty { padding: 40px 0; text-align: center; color: var(--muted); }
+.empty p { margin: 0 0 8px; font-size: 1.05rem; color: var(--text); }
+.status { padding: 24px 0; color: var(--muted); }
+
+/* Footer */
+footer {
+  border-top: 1px solid var(--border);
+  background: var(--bg-soft);
+  color: var(--muted);
+  font-size: 0.84rem;
+}
+footer .inner { max-width: 1200px; margin: 0 auto; padding: 20px 24px 28px; }
+footer ul { margin: 0; padding-left: 18px; }
+footer li + li { margin-top: 4px; }
+
+@media (max-width: 760px) {
+  header { flex-wrap: wrap; padding: 10px 16px; gap: 10px; }
+  header h1 small { display: none; }
+  .search { order: 3; flex: 1 0 100%; margin-left: 0; }
+  .search kbd { display: none; }
+  header .icon-btn { margin-left: auto; }
+  .layout { display: block; padding: 12px 16px 32px; }
+  .filters-toggle {
+    display: inline-flex; align-items: center; gap: 6px;
+    margin-bottom: 12px; padding: 6px 12px;
+    font: inherit; font-size: 0.92rem; color: var(--text);
+    background: var(--bg-soft); border: 1px solid var(--chip-border); border-radius: 6px;
+    cursor: pointer;
+  }
+  .filters-toggle .badge {
+    min-width: 20px; padding: 0 6px; border-radius: 999px;
+    background: var(--accent); color: var(--accent-text); font-size: 0.78rem; text-align: center;
+  }
+  .filters-toggle .badge:empty { display: none; }
+  aside { display: none; margin-bottom: 16px; padding: 12px; border: 1px solid var(--border); border-radius: 8px; }
+  aside.open { display: block; }
+  .row { grid-template-columns: minmax(0, 1fr); }
+  .links { align-self: start; }
+  footer .inner { padding: 16px; }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .chip, .opt, .icon-btn, .link-btn { transition: background-color 0.12s, border-color 0.12s, color 0.12s; }
+}
+</style>
+</head>
+<body>
+<!--
+  Unofficial, independent project. Not affiliated with, endorsed by, or sponsored by Microsoft.
+  Session titles, speaker names, and links are included for identification and attribution only.
+  Original conference materials remain the property of their respective copyright holders.
+-->
+<header>
+  <h1>November 2026 Sessions <small>.NET Conf · Ignite · unofficial</small></h1>
+  <div class="search" role="search">
+    <label for="q" class="sr-only">Search sessions</label>
+    <input id="q" type="search" placeholder="Search titles, topics, speakers…" autocomplete="off" spellcheck="false">
+    <kbd aria-hidden="true">/</kbd>
+  </div>
+  <button type="button" class="icon-btn" id="theme" aria-label="Toggle dark theme" aria-pressed="false">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+  </button>
+</header>
+
+<div class="layout">
+  <div>
+    <button type="button" class="filters-toggle" id="filters-toggle" aria-expanded="false" aria-controls="filters">
+      Filters <span class="badge" id="filters-badge"></span>
+    </button>
+    <aside id="filters" aria-label="Filters">
+      <fieldset>
+        <legend>Event</legend>
+        <div id="events"></div>
+      </fieldset>
+      <fieldset>
+        <legend>Tags</legend>
+        <div id="tags"></div>
+      </fieldset>
+    </aside>
+  </div>
+
+  <main>
+    <div class="result-line">
+      <span id="count" aria-live="polite" aria-atomic="true">Loading sessions…</span>
+      <button type="button" class="link-btn clear" hidden>Clear filters</button>
+    </div>
+    <ol class="sessions" id="list"></ol>
+    <div class="empty" id="empty" hidden>
+      <p>No sessions match</p>
+      <button type="button" class="link-btn clear">Clear filters</button>
+    </div>
+  </main>
+</div>
+
+<footer>
+  <div class="inner">
+    <ul>
+      <li>Independent, unofficial project. Not affiliated with, endorsed by, or sponsored by Microsoft. No copyright infringement is intended.</li>
+      <li>Original editorial content is licensed <a href="https://creativecommons.org/licenses/by/4.0/" rel="license noopener" target="_blank">CC BY 4.0<span class="sr-only"> (opens in a new tab)</span></a>. Session titles, speaker names, and links are included for identification and attribution only; all original conference materials (descriptions, videos, slides, transcripts) remain the property of their respective copyright holders and are not relicensed.</li>
+      <li>Summaries and categories are AI-assisted and may contain inaccuracies.</li>
+      <li><a href="https://github.com/dpiatkowski/ms-november-2026" target="_blank" rel="noopener">Source repository<span class="sr-only"> (opens in a new tab)</span></a></li>
+    </ul>
+  </div>
+</footer>
+
+<script>
+(() => {
+  "use strict";
+
+  const EXT = '<svg viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M5 2H2v8h8V7M7 2h3v3M10 2 5.5 6.5"/></svg>';
+  const $ = (s) => document.querySelector(s);
+  const els = {
+    q: $("#q"), list: $("#list"), empty: $("#empty"), count: $("#count"),
+    events: $("#events"), tags: $("#tags"), aside: $("#filters"),
+    toggle: $("#filters-toggle"), badge: $("#filters-badge"), theme: $("#theme"),
+    clears: document.querySelectorAll(".clear"),
+  };
+
+  /* ---------- Theme ---------- */
+  const THEME_KEY = "theme";
+  const systemDark = matchMedia("(prefers-color-scheme: dark)");
+  const store = {
+    get(k) { try { return localStorage.getItem(k); } catch { return null; } },
+    set(k, v) { try { localStorage.setItem(k, v); } catch { /* ignore */ } },
+  };
+  function applyTheme(t) {
+    if (t === "light" || t === "dark") document.documentElement.dataset.theme = t;
+    else delete document.documentElement.dataset.theme;
+    const dark = t ? t === "dark" : systemDark.matches;
+    els.theme.setAttribute("aria-pressed", String(dark));
+  }
+  applyTheme(store.get(THEME_KEY));
+  systemDark.addEventListener("change", () => applyTheme(store.get(THEME_KEY)));
+  els.theme.addEventListener("click", () => {
+    const next = els.theme.getAttribute("aria-pressed") === "true" ? "light" : "dark";
+    store.set(THEME_KEY, next);
+    applyTheme(next);
+  });
+
+  /* ---------- State ---------- */
+  const slug = (s) => s.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+  const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  const norm = (s) => s.toLowerCase().normalize("NFKD").replace(/[̀-ͯ]/g, "");
+
+  let sessions = [];
+  let events = [];          // [{slug, label}]
+  let tagNames = [];        // sorted display names
+  const tagBySlug = new Map();
+  const state = { q: "", tags: new Set(), events: new Set() }; // tags/events hold slugs
+
+  function readUrl() {
+    const p = new URLSearchParams(location.search);
+    state.q = p.get("q") || "";
+    state.tags = new Set((p.get("tags") || "").split(",").filter((t) => tagBySlug.has(t)));
+    const evSlugs = new Set(events.map((e) => e.slug));
+    state.events = new Set((p.get("event") || "").split(",").filter((e) => evSlugs.has(e)));
+  }
+  function writeUrl() {
+    const p = new URLSearchParams();
+    if (state.tags.size) p.set("tags", [...state.tags].join(","));
+    if (state.events.size) p.set("event", [...state.events].join(","));
+    if (state.q.trim()) p.set("q", state.q.trim());
+    const qs = p.toString().replace(/%2C/g, ",");
+    history.replaceState(null, "", qs ? "?" + qs : location.pathname);
+  }
+
+  /* ---------- Matching ---------- */
+  function matchesText(s, terms) {
+    return terms.every((t) => s._hay.includes(t));
+  }
+  function matchesTags(s, tags) {
+    for (const t of tags) if (!s._tagSlugs.has(t)) return false;
+    return true;
+  }
+  function matchesEvent(s, evs) {
+    return evs.size === 0 || evs.size === events.length || evs.has(s.event.slug);
+  }
+
+  /* ---------- Render ---------- */
+  function renderFilters(base) {
+    // base: sessions matching search + selected tags (no event restriction)
+    const inEvent = base.filter((s) => matchesEvent(s, state.events));
+
+    els.events.innerHTML = events.map((e) => {
+      const n = base.filter((s) => s.event.slug === e.slug).length;
+      const checked = state.events.has(e.slug);
+      const zero = n === 0 && !checked;
+      return `<label class="opt${zero ? " zero" : ""}"><input type="checkbox" data-event="${e.slug}"${checked ? " checked" : ""}${zero ? " disabled" : ""}><span class="name">${esc(e.label)}</span><span class="count">${n}</span></label>`;
+    }).join("");
+
+    els.tags.innerHTML = tagNames.map((name) => {
+      const ts = slug(name);
+      const checked = state.tags.has(ts);
+      const n = checked ? inEvent.length : inEvent.filter((s) => s._tagSlugs.has(ts)).length;
+      const zero = n === 0 && !checked;
+      return `<label class="opt${zero ? " zero" : ""}"><input type="checkbox" data-tag="${ts}"${checked ? " checked" : ""}${zero ? " disabled" : ""}><span class="name">${esc(name)}</span><span class="count">${n}</span></label>`;
+    }).join("");
+  }
+
+  function rowHtml(s) {
+    const chips = s.tags.map((t) => {
+      const ts = slug(t);
+      return `<button type="button" class="chip" data-tag="${ts}" aria-pressed="${state.tags.has(ts)}">${esc(t)}</button>`;
+    }).join("");
+    const watch = s.videoUrl ? `<a href="${esc(s.videoUrl)}" target="_blank" rel="noopener">Watch${EXT}<span class="sr-only"> (opens in a new tab)</span></a>` : "";
+    const page = s.sessionUrl ? `<a href="${esc(s.sessionUrl)}" target="_blank" rel="noopener">Session page${EXT}<span class="sr-only"> (opens in a new tab)</span></a>` : "";
+    return `<li class="row"><h2>${esc(s.title)}</h2><div class="meta"><span class="ev">${esc(s.event.label)} <span class="mono">${esc(s.sessionId)}</span></span>${chips}</div><div class="links">${watch}${page}</div></li>`;
+  }
+
+  let lastCount = null;
+  function render() {
+    const terms = norm(state.q).split(/\s+/).filter(Boolean);
+    const base = sessions.filter((s) => matchesText(s, terms) && matchesTags(s, state.tags));
+    const results = base.filter((s) => matchesEvent(s, state.events));
+
+    renderFilters(base);
+    els.list.innerHTML = results.map(rowHtml).join("");
+    els.empty.hidden = results.length > 0;
+
+    const active = state.tags.size + state.events.size + (state.q.trim() ? 1 : 0);
+    els.clears.forEach((b) => { b.hidden = active === 0; });
+    els.empty.querySelector(".clear").hidden = false;
+    els.badge.textContent = state.tags.size + state.events.size || "";
+
+    const text = `${results.length} of ${sessions.length} sessions`;
+    if (text !== lastCount) {
+      els.count.innerHTML = `<strong>${results.length}</strong> of ${sessions.length} sessions`;
+      lastCount = text;
+    }
+    writeUrl();
+  }
+
+  function toggle(set, value, on) {
+    if (on ?? !set.has(value)) set.add(value); else set.delete(value);
+  }
+  function clearAll() {
+    state.q = ""; els.q.value = "";
+    state.tags.clear(); state.events.clear();
+    render();
+  }
+
+  /* ---------- Events ---------- */
+  els.aside.addEventListener("change", (e) => {
+    const t = e.target;
+    if (t.dataset.tag) toggle(state.tags, t.dataset.tag, t.checked);
+    else if (t.dataset.event) toggle(state.events, t.dataset.event, t.checked);
+    else return;
+    const key = t.dataset.tag ? `[data-tag="${t.dataset.tag}"]` : `[data-event="${t.dataset.event}"]`;
+    render();
+    els.aside.querySelector(key)?.focus(); // keep keyboard focus after re-render
+  });
+  els.list.addEventListener("click", (e) => {
+    const chip = e.target.closest(".chip");
+    if (!chip) return;
+    toggle(state.tags, chip.dataset.tag);
+    const li = chip.closest(".row");
+    const idx = [...els.list.children].indexOf(li);
+    render();
+    // Return focus to the same chip if its row is still listed, otherwise to the search box.
+    const again = els.list.children[idx]?.querySelector(`.chip[data-tag="${chip.dataset.tag}"]`);
+    (again || els.q).focus();
+  });
+  els.clears.forEach((b) => b.addEventListener("click", clearAll));
+
+  let qTimer;
+  els.q.addEventListener("input", () => {
+    state.q = els.q.value;
+    clearTimeout(qTimer);
+    qTimer = setTimeout(render, 80);
+  });
+  els.q.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") {
+      els.q.value = ""; state.q = "";
+      render();
+      els.q.blur();
+    }
+  });
+  document.addEventListener("keydown", (e) => {
+    if (e.key !== "/" || e.ctrlKey || e.metaKey || e.altKey) return;
+    const el = document.activeElement;
+    if (el && (el.isContentEditable || /^(INPUT|TEXTAREA|SELECT)$/.test(el.tagName))) return;
+    e.preventDefault();
+    els.q.focus();
+    els.q.select();
+  });
+
+  els.toggle.addEventListener("click", () => {
+    const open = els.aside.classList.toggle("open");
+    els.toggle.setAttribute("aria-expanded", String(open));
+  });
+
+  /* ---------- Load ---------- */
+  fetch("sessions.json")
+    .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then((data) => {
+      sessions = data;
+      const evMap = new Map();
+      const tagSet = new Set();
+      for (const s of sessions) {
+        evMap.set(s.event.slug, s.event);
+        s.tags.forEach((t) => tagSet.add(t));
+        s._tagSlugs = new Set(s.tags.map(slug));
+        s._hay = norm([s.title, s.sessionId, ...(s.search || [])].join(" \u0001 "));
+      }
+      events = [...evMap.values()];
+      tagNames = [...tagSet].sort((a, b) => a.localeCompare(b, "en", { sensitivity: "base" }));
+      tagNames.forEach((t) => tagBySlug.set(slug(t), t));
+      readUrl();
+      els.q.value = state.q;
+      render();
+    })
+    .catch((err) => {
+      els.count.textContent = "Could not load sessions.";
+      els.list.innerHTML = `<li class="status">Failed to load sessions.json (${esc(err.message)}). If you opened this file directly, serve the folder over HTTP instead.</li>`;
+    });
+})();
+</script>
+</body>
+</html>

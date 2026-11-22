@@ -9,3 +9,12 @@ All original conference materials, including session descriptions, videos, slide
 Summaries are generated with AI assistance from publicly available source materials. They are independent, unofficial interpretations and may contain inaccuracies.
 
 This project is not affiliated with, endorsed by, or sponsored by Microsoft.
+
+## Site
+
+`pages/` holds the static site published to GitHub Pages (see `DESIGN.md`). `pages/sessions.json` is generated from the summary frontmatter:
+
+```sh
+python3 scripts/build-sessions.py
+python3 -m http.server -d pages   # preview at http://localhost:8000
+```
