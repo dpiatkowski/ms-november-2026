@@ -13,6 +13,7 @@ start: "2026-11-20T19:30:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Security", "AI", "Security", "Azure Container Apps", "Microsoft Copilot", "Microsoft Purview", "Secure data"]
 topics: ["purview", "sensitivity-labels", "auto-labeling", "copilot", "oversharing"]
+categories: ["Microsoft Purview"]
 ---
 
 # Microsoft Purview: Scale data protection with sensitivity labels

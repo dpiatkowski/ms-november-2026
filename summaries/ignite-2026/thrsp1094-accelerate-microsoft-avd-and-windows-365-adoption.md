@@ -13,6 +13,7 @@ start: "2026-11-20T01:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI", "Windows 365", "Azure Virtual Desktop", "Multicloud", "W365 Cloud Apps", "Windows", "Windows Apps", "Microsoft Intune", "AVD", "Cloud PC", "Intune", "Cloud Endpoints"]
 topics: ["sponsor", "liquidware", "avd", "windows-365", "migration", "dex"]
+categories: ["Skilling and adoption", "Windows 365 and Azure Virtual Desktop"]
 ---
 
 # Accelerate Microsoft AVD and Windows 365 adoption

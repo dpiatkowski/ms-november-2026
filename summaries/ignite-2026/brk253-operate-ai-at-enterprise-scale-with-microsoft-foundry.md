@@ -13,6 +13,7 @@ start: "2026-11-19T22:45:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Agent Platform", "Microsoft Foundry", "Governance", "Microsoft Agent 365"]
 topics: ["foundry", "ai-gateway", "governance", "agent-identity", "finops"]
+categories: ["Microsoft Foundry"]
 ---
 
 # Operate AI at enterprise scale with Microsoft Foundry

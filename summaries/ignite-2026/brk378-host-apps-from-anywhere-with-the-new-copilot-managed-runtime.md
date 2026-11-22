@@ -13,6 +13,7 @@ start: "2026-11-19T00:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agentic Business Applications"]
 topics: ["copilot-managed-runtime", "managed-platform-sdk", "admin-center", "governance"]
+categories: ["Microsoft 365 Copilot"]
 ---
 
 # Host apps from anywhere with the new Copilot Managed Runtime

@@ -13,6 +13,7 @@ start: "2026-11-19T00:15:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Security", "AI", "Security", "Microsoft Copilot", "Microsoft Purview", "Secure AI", "Secure data"]
 topics: ["purview", "classification", "sensitivity-labels", "copilot"]
+categories: ["Microsoft Purview"]
 ---
 
 # Microsoft Purview: From understanding sensitive data to protecting it

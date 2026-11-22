@@ -13,6 +13,7 @@ start: "2026-11-19T22:50:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Copilot"]
 topics: ["partner", "copilot-adoption", "personalization", "managed-services"]
+categories: ["Microsoft 365 Copilot", "Partners and marketplace", "Skilling and adoption"]
 ---
 
 # Why Copilot Adoption Stalls, and How Partners Can Fix It at Scale

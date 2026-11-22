@@ -13,6 +13,7 @@ start: "2026-11-19T22:45:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "AI Security", "Azure Container Apps", "Microsoft Copilot"]
 topics: ["ai-strategy", "frontier-transformation", "ai-platform", "architecture", "security"]
+categories: ["Frontier transformation"]
 ---
 
 # Building an AI Operating System: The Layers of Frontier Transformation

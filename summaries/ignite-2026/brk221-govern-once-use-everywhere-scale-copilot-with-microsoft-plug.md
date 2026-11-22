@@ -13,6 +13,7 @@ start: "2026-11-19T22:45:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "Agents", "Microsoft Copilot", "Microsoft 365"]
 topics: ["copilot", "plugin-registry", "mcp", "governance", "extensibility"]
+categories: ["Microsoft 365 Copilot"]
 ---
 
 # Govern Once, Use Everywhere: Scale Copilot with Microsoft Plugin Registry

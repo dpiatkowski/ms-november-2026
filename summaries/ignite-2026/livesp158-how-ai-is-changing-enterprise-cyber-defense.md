@@ -13,6 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Security", "AI", "Security", "AI controls", "AI Security", "Secure AI", "Defend with AI", "Agentic defense"]
 topics: ["sponsor", "cyber-defense", "vulnerability-management", "ai", "demo"]
+categories: ["Security operations"]
 ---
 
 # How AI is changing enterprise cyber defense

@@ -13,6 +13,7 @@ start: "2026-11-19T23:25:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["finops", "azure-copilot", "github-copilot", "cost-optimization", "agents"]
+categories: ["FinOps"]
 ---
 
 # AI for FinOps, continuous optimization for every workload

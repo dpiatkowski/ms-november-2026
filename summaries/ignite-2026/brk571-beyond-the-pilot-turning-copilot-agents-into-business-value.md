@@ -13,6 +13,7 @@ start: "2026-11-18T17:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "Agents", "Copilot studio"]
 topics: ["copilot", "agents", "business-value", "panel", "adoption"]
+categories: ["Frontier transformation", "Microsoft 365 Copilot"]
 ---
 
 # Beyond the Pilot: Turning Copilot & Agents into Business Value

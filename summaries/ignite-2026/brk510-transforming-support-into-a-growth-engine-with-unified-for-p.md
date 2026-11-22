@@ -13,6 +13,7 @@ start: "2026-11-19T00:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["MAICPP", "Partner"]
 topics: ["partner", "support", "unified-for-partners", "retention"]
+categories: ["Partners and marketplace"]
 ---
 
 # Transforming support into a growth engine with Unified for Partners

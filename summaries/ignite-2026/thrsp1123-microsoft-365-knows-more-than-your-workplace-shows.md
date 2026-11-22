@@ -13,6 +13,7 @@ start: "2026-11-19T20:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Microsoft IQ", "Microsoft 365 apps", "Microsoft Teams", "Partner", "API", "Microsoft 365"]
 topics: ["sponsor", "microsoft-places", "workplace-analytics", "digital-signage", "panel"]
+categories: ["Microsoft 365 Copilot"]
 ---
 
 # Microsoft 365 knows more than your workplace shows

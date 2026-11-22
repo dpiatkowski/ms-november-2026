@@ -13,6 +13,7 @@ start: "2026-11-19T18:10:00Z"
 level: "(100) Foundational"
 ignite_topics: ["MAICPP"]
 topics: ["partner", "marketplace", "checklist", "co-sell"]
+categories: ["Partners and marketplace"]
 ---
 
 # 10 tips to maximize Microsoft Marketplace success

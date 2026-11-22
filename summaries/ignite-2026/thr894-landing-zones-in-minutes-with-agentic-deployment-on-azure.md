@@ -13,6 +13,7 @@ start: "2026-11-19T23:45:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Cloud & AI"]
 topics: ["azure-landing-zones", "agentic-deployment", "governance", "infrastructure"]
+categories: ["Azure infrastructure"]
 ---
 
 # Landing zones in minutes with agentic deployment on Azure​

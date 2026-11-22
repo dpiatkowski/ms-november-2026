@@ -13,6 +13,7 @@ start: "2026-11-20T01:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["azure-security", "iaas", "defense-in-depth", "identity", "zero-trust"]
+categories: ["Azure infrastructure", "Zero trust"]
 ---
 
 # Secure by default. Azure's multilayered embedded security capabilities

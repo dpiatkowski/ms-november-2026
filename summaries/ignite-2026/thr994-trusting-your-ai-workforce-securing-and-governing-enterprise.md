@@ -13,6 +13,7 @@ start: "2026-11-19T21:05:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Security", "MVP"]
 topics: ["agent-governance", "entra", "purview", "defender", "copilot-studio"]
+categories: ["Agent governance", "Agentic security"]
 ---
 
 # Trusting Your AI Workforce: Securing and Governing Enterprise Agents

@@ -13,6 +13,7 @@ start: "2026-11-19T18:10:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Other"]
 topics: ["ai-skills-navigator", "team-leaders", "learning-visibility"]
+categories: ["Skilling and adoption"]
 ---
 
 # Put AI Skills Navigator to work for your organization

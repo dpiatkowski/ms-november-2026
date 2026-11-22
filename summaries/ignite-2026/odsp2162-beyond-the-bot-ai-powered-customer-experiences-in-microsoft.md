@@ -13,6 +13,7 @@ start: null
 level: "(100) Foundational"
 ignite_topics: ["Agent Platform", "AI", "Agents", "Software Development Company", "Voice agents", "AI Transformation", "Contact Center"]
 topics: ["sponsor", "teams", "contact-center", "chatbot", "landis"]
+categories: ["Customer experience", "Microsoft Teams"]
 ---
 
 # Beyond the bot: AI-powered customer experiences in Microsoft Teams

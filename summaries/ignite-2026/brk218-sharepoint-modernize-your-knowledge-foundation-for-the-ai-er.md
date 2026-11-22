@@ -13,6 +13,7 @@ start: "2026-11-17T22:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "SharePoint", "Microsoft Copilot", "Microsoft 365"]
 topics: ["sharepoint", "copilot", "knowledge-management", "information-architecture", "skills"]
+categories: ["Microsoft 365 Copilot", "Migration and modernization", "SharePoint and OneDrive"]
 ---
 
 # SharePoint: Modernize your knowledge foundation for the AI era

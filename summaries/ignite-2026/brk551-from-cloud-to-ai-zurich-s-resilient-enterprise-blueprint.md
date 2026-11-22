@@ -13,6 +13,7 @@ start: "2026-11-19T17:00:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Cloud & AI", "Copilot"]
 topics: ["zurich", "customer-story", "cloud-modernization", "copilot", "resilience"]
+categories: ["Resilience"]
 ---
 
 # From Cloud to AI: Zurich’s Resilient Enterprise Blueprint

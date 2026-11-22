@@ -13,6 +13,7 @@ start: "2026-11-19T00:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform"]
 topics: ["copilot-studio", "persistent-agents", "business-processes", "computer-use", "agent-accounts"]
+categories: ["Copilot Studio"]
 ---
 
 # From tool to teammate: Persistent agents for shared processes in Copilot Studio

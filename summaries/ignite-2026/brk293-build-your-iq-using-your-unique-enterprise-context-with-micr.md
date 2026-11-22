@@ -13,6 +13,7 @@ start: "2026-11-17T22:00:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Microsoft IQ"]
 topics: ["microsoft-iq", "agents", "context", "knowledge", "governance"]
+categories: ["Data and grounding", "Microsoft IQ"]
 ---
 
 # Build your IQ using your unique enterprise context with Microsoft IQ

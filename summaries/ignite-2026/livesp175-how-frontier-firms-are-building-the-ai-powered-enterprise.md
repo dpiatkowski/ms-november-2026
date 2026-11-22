@@ -13,6 +13,7 @@ start: null
 level: "(100) Foundational"
 ignite_topics: ["Frontier Transformation", "Partner", "Customer"]
 topics: ["sponsor", "frontier-firm", "hitachi", "ai-strategy"]
+categories: ["Frontier transformation"]
 ---
 
 # How frontier firms are building the AI-powered enterprise

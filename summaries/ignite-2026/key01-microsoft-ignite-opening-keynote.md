@@ -13,6 +13,7 @@ start: "2026-11-17T18:00:00Z"
 level: null
 ignite_topics: ["Security", "Frontier Transformation", "Agent Platform", "Cloud & AI", "Microsoft IQ", "Copilot", "Defend with AI"]
 topics: ["keynote", "ai-transformation", "microsoft-ignite"]
+categories: ["Frontier transformation"]
 ---
 
 # Microsoft Ignite opening keynote

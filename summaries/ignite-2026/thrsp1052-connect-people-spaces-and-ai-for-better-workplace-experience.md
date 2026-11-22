@@ -13,6 +13,7 @@ start: "2026-11-19T17:00:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Windows", "AI", "Microsoft 365 apps", "Microsoft Teams", "Partner", "Windows", "Microsoft Copilot", "Microsoft 365", "Get Ready for AI"]
 topics: ["sponsor", "q-sys", "workplace", "av", "ai"]
+categories: ["Microsoft Teams"]
 ---
 
 # Connect people, spaces, and AI for better workplace experiences

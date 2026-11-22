@@ -13,6 +13,7 @@ start: null
 level: "(100) Foundational"
 ignite_topics: ["Other"]
 topics: ["sponsor", "ibm", "partnership", "enterprise-adoption"]
+categories: ["Partners and marketplace"]
 ---
 
 # Accelerate the enterprise with IBM and Microsoft

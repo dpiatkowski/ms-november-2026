@@ -13,6 +13,7 @@ start: "2026-11-19T22:10:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Frontier Transformation"]
 topics: ["sponsor", "kyndryl", "frontier-readiness", "copilot", "roadmap"]
+categories: ["Frontier transformation"]
 ---
 
 # Build your frontier blueprint to turn AI potential into value

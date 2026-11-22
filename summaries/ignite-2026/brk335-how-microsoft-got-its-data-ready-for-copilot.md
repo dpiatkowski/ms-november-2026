@@ -13,6 +13,7 @@ start: "2026-11-20T00:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Security", "AI", "Security", "Get Ready for AI", "Secure your foundation"]
 topics: ["copilot", "data-governance", "oversharing", "microsoft-internal", "ai-readiness"]
+categories: ["Data and grounding", "Microsoft 365 Copilot"]
 ---
 
 # How Microsoft got its data ready for Copilot

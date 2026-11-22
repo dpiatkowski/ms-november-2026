@@ -13,6 +13,7 @@ start: "2026-11-18T21:45:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Agentic Business Applications", "Agents"]
 topics: ["contact-center-intelligence", "voice-agents", "digital-agents", "modernization"]
+categories: ["Customer experience", "Dynamics 365", "Migration and modernization"]
 ---
 
 # Microsoft Contact Center Intelligence: modernize without rip and replace​

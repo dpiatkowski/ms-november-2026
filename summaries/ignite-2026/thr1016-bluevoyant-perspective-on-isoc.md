@@ -13,6 +13,7 @@ start: "2026-11-18T17:00:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Security", "Security", "Get Ready for AI", "Secure your foundation"]
 topics: ["bluevoyant", "isoc", "defender", "sentinel", "agentic-security", "partner"]
+categories: ["Microsoft Defender", "Partners and marketplace", "Security operations"]
 ---
 
 # BlueVoyant Perspective on ISOC

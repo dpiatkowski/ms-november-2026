@@ -13,6 +13,7 @@ start: "2026-11-18T23:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["MAICPP"]
 topics: ["partner", "skilling", "agentic-ai", "consultative-selling"]
+categories: ["Partners and marketplace", "Skilling and adoption"]
 ---
 
 # Building the Capability to Sell, Deliver and Scale Agentic AI Outcomes

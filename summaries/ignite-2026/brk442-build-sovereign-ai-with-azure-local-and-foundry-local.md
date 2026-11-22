@@ -13,6 +13,7 @@ start: "2026-11-19T17:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["azure-local", "foundry-local", "sovereign-ai", "disconnected", "inference"]
+categories: ["Azure infrastructure", "Microsoft Foundry", "Sovereignty and hybrid"]
 ---
 
 # Build sovereign AI with Azure Local and Foundry Local

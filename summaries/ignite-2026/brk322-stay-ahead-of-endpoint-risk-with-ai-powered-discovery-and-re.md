@@ -13,6 +13,7 @@ start: "2026-11-19T22:45:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Security", "AI", "Security", "Windows Autopatch", "Microsoft Intune", "Perception", "Defend with AI", "Defend with agents"]
 topics: ["endpoint-security", "exposure-management", "remediation", "patching"]
+categories: ["Microsoft Defender", "Security operations"]
 ---
 
 # Stay ahead of endpoint risk with AI-powered discovery and remediation

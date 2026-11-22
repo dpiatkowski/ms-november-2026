@@ -13,6 +13,7 @@ start: "2026-11-18T18:10:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI", "AI", "AI controls", "Agents", "Data governance", "Azure Container Apps", "Software Development Company"]
 topics: ["sponsor", "baker-hughes", "epam", "industrial", "architecture", "ai-operations"]
+categories: ["Industry solutions", "Migration and modernization", "Physical AI"]
 ---
 
 # Modernize industrial architecture for AI-powered operations

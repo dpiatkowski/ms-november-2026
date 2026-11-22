@@ -13,6 +13,7 @@ start: "2026-11-18T00:05:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agentic Business Applications", "Agents"]
 topics: ["dynamics-365", "cowork", "agentic-business-processes", "governance"]
+categories: ["Dynamics 365", "Microsoft 365 Copilot"]
 ---
 
 # Bring Dynamics 365 business data into the flow of work with Cowork

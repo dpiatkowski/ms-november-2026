@@ -13,6 +13,7 @@ start: "2026-11-20T01:15:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Cloud & AI", "Agents", "Data governance", "Microsoft Fabric", "Governance", "Fabric IQ"]
 topics: ["sponsor", "replit", "fabric", "rayfin", "governed-apps"]
+categories: ["Agent governance", "Microsoft Fabric"]
 ---
 
 # Go from idea to governed AI app with Replit and Microsoft Fabric

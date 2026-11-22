@@ -13,6 +13,7 @@ start: "2026-11-19T22:45:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Frontier Transformation", "AI", "Customer"]
 topics: ["sponsor", "frontier-enterprise", "trusted-data", "token-economics"]
+categories: ["Frontier transformation"]
 ---
 
 # The Frontier Enterprise: From trusted data to AI at scale

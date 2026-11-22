@@ -13,6 +13,7 @@ start: "2026-11-19T21:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Data"]
 topics: ["azure-databases", "database-selection", "relational", "nosql"]
+categories: ["Azure databases"]
 ---
 
 # Database SOS: Choosing the right engine for your job

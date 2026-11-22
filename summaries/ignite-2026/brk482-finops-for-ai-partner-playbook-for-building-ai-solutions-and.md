@@ -13,6 +13,7 @@ start: "2026-11-17T23:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "Cloud & AI", "Agentic Business Applications"]
 topics: ["partner", "finops", "ai-economics", "token-consumption"]
+categories: ["FinOps", "Partners and marketplace"]
 ---
 
 # FinOps for AI: Partner Playbook for Building AI Solutions and Services

@@ -13,6 +13,7 @@ start: "2026-11-19T21:40:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Cloud & AI", "AI", "Resiliency", "Security", "Azure Cosmos DB", "AI Security", "Partner", "Data governance", "Azure Container Apps", "Threat Intelligence", "Marketplace", "Secure AI", "Get Ready for AI"]
 topics: ["sponsor", "red-hat", "openshift", "security", "containers", "vms"]
+categories: ["Azure infrastructure"]
 ---
 
 # Build a secure platform for containers, VMs, and AI

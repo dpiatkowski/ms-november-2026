@@ -13,6 +13,7 @@ start: "2026-11-19T19:05:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform"]
 topics: ["marketplace", "monetization", "isv", "ai-apps", "agents"]
+categories: ["Building agents", "Partners and marketplace"]
 ---
 
 # Build, scale, and monetize apps and agents with Microsoft Marketplace

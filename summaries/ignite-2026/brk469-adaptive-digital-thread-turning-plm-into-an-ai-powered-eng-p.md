@@ -13,6 +13,7 @@ start: "2026-11-19T21:30:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Agent Platform", "AI", "Agents", "Partner", "Microsoft Foundry", "Microsoft Copilot"]
 topics: ["manufacturing", "plm", "digital-thread", "nvidia-omniverse", "digital-engineering"]
+categories: ["Industry solutions"]
 ---
 
 # Adaptive Digital Thread: Turning PLM into an AI-Powered Eng Platform

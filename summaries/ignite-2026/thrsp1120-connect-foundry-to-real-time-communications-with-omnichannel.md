@@ -13,6 +13,7 @@ start: "2026-11-19T18:45:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agentic Business Applications", "Identity and network access", "AI controls", "AI Security", "Agents", "Azure Virtual Desktop", "Partner", "Microsoft Foundry", "Azure Copilot", "Microsoft Foundry on Windows", "Mobile devices"]
 topics: ["sponsor", "twilio", "foundry", "omnichannel", "voice", "customer-service"]
+categories: ["Microsoft Foundry"]
 ---
 
 # Connect Foundry to real-time communications with omnichannel AI agents

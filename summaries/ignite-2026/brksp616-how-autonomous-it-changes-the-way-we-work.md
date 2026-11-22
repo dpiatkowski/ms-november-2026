@@ -13,6 +13,7 @@ start: "2026-11-18T23:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agentic Business Applications", "AI", "Windows 365", "Agents", "Microsoft Teams", "Microsoft Entra", "Windows", "Microsoft Intune", "Copilot Chat", "Intune", "Microsoft 365", "Secure AI", "Get Ready for AI", "Windows Agents", "SMB", "Lean IT", "Knowledge retrieval", "AI Transformation"]
 topics: ["sponsor", "autonomous-it", "agents", "incident-resolution"]
+categories: ["Cloud operations", "IT operations"]
 ---
 
 # How Autonomous IT changes the way we work

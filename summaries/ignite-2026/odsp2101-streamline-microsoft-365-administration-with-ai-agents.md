@@ -13,6 +13,7 @@ start: null
 level: "(100) Foundational"
 ignite_topics: ["Cloud & AI", "Security", "Microsoft Teams", "Management controls", "Data governance", "Azure Container Apps", "Microsoft Entra", "SharePoint", "Governance", "Work IQ", "Microsoft Purview", "Get Ready for AI", "Microsoft Purview Data Loss Prevention", "Data protection"]
 topics: ["sponsor", "microsoft-365-admin", "agents", "mcp", "governance"]
+categories: ["IT operations", "MCP", "Microsoft 365 Copilot"]
 ---
 
 # Streamline Microsoft 365 administration with AI agents

@@ -13,6 +13,7 @@ start: "2026-11-20T01:15:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Agent Platform", "Security", "GitHub", "Developer Tools"]
 topics: ["github-actions", "ci-security", "supply-chain", "hardening"]
+categories: ["Software engineering"]
 ---
 
 # Secure the CI pipeline: Practical defenses for GitHub Actions

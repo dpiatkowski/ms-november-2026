@@ -13,6 +13,7 @@ start: "2026-11-19T18:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Data"]
 topics: ["fabric", "real-time-intelligence", "streaming", "agents", "eventing"]
+categories: ["Microsoft Fabric"]
 ---
 
 # Fabric Real-Time Intelligence: From signal to action

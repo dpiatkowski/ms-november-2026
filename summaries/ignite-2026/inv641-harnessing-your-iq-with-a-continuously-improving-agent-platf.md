@@ -13,6 +13,7 @@ start: "2026-11-18T19:30:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Microsoft IQ"]
 topics: ["innovation-session", "microsoft-iq", "agent-platform", "model-choice"]
+categories: ["Building agents", "Microsoft IQ"]
 ---
 
 # Harnessing Your IQ with a continuously improving agent platform

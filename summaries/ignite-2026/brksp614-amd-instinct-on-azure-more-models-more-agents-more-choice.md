@@ -13,6 +13,7 @@ start: "2026-11-18T18:15:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Cloud & AI", "AI", "Agents", "Partner", "Microsoft Foundry", "Marketplace", "Customer", "Secure AI", "Get Ready for AI"]
 topics: ["sponsor", "amd", "instinct", "gpu", "rocm", "foundry-managed-compute"]
+categories: ["Azure infrastructure"]
 ---
 
 # AMD Instinct on Azure: More models. More agents. More choice.

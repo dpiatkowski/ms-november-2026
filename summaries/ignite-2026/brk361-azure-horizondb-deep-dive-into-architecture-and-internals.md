@@ -13,6 +13,7 @@ start: "2026-11-17T23:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Data"]
 topics: ["azure-horizondb", "postgresql", "database-internals", "storage-engine", "architecture"]
+categories: ["Azure databases"]
 ---
 
 # Azure HorizonDB: Deep dive into architecture and internals

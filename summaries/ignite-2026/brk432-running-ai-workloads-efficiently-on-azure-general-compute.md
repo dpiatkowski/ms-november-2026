@@ -13,6 +13,7 @@ start: "2026-11-20T00:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI", "Customer"]
 topics: ["azure-compute", "ai-workloads", "custom-silicon", "efficiency"]
+categories: ["Azure infrastructure"]
 ---
 
 # Running AI workloads efficiently on Azure general compute

@@ -13,6 +13,7 @@ start: "2026-11-17T23:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["app-service", "container-apps", "azure-functions", "agentic-platform", "sandboxing"]
+categories: ["Building agents"]
 ---
 
 # Build AI-native with Azure's agentic application platform

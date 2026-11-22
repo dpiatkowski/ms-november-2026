@@ -13,6 +13,7 @@ start: "2026-11-18T17:00:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Data"]
 topics: ["edge-ai", "manufacturing", "energy", "iot", "industrial"]
+categories: ["Azure infrastructure", "Physical AI"]
 ---
 
 # Intelligence at the edge

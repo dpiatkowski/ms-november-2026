@@ -13,6 +13,7 @@ start: "2026-11-18T00:30:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Cloud & AI", "SMB", "Small Business", "SME&C", "SMB Partner", "Lean IT", "Corporate"]
 topics: ["partner", "csp", "smb", "agents", "marketplace"]
+categories: ["Building agents", "Partners and marketplace"]
 ---
 
 # Build, Monetize, and Grow: The CSP Partner Agent Opportunity

@@ -13,6 +13,7 @@ start: "2026-11-20T18:15:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Microsoft IQ"]
 topics: ["work-iq", "copilot-studio", "github-copilot", "declarative-agents", "connectors"]
+categories: ["Microsoft IQ"]
 ---
 
 # Build personalized AI experiences with Work IQ

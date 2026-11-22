@@ -13,6 +13,7 @@ start: "2026-11-19T19:05:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Agent Platform", "MVP"]
 topics: ["agent-framework", "agent-harness", "state-management", "approvals", "memory"]
+categories: ["Building agents", "Microsoft Agent Framework"]
 ---
 
 # Build an Agent Harness with Microsoft Agent Framework

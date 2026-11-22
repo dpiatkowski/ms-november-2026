@@ -13,6 +13,7 @@ start: "2026-11-17T23:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["partner", "agent-platform", "microsoft-iq", "managed-services", "go-to-market"]
+categories: ["Microsoft IQ"]
 ---
 
 # Grow Your Agentic Practice on the Agent Platform and Microsoft IQ

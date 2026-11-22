@@ -13,6 +13,7 @@ start: "2026-11-19T21:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "Copilot Chat", "Microsoft Copilot", "Microsoft 365"]
 topics: ["copilot", "skills", "reusable-instructions", "productivity"]
+categories: ["Microsoft 365 Copilot"]
 ---
 
 # Skills in Microsoft Copilot

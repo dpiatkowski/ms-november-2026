@@ -13,6 +13,7 @@ start: null
 level: null
 ignite_topics: []
 topics: ["broadcast", "azure", "ai-infrastructure", "cobalt-200", "aks", "agent-sandbox"]
+categories: ["Azure infrastructure"]
 ---
 
 # Run AI at Scale: Scott Guthrie and Jessica Hawk on the Infrastructure Behind Every Agent

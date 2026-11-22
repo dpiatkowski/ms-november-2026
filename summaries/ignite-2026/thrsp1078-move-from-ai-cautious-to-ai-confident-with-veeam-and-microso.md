@@ -13,6 +13,7 @@ start: "2026-11-18T17:35:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Frontier Transformation", "AI", "Resiliency", "Security", "Azure Cosmos DB", "Data loss prevention", "AI Security", "Agents", "Microsoft Teams", "Data governance", "Azure Container Apps", "Azure Databricks", "Microsoft 365 Backup", "Microsoft Entra", "SharePoint", "Governance", "Microsoft Copilot", "Marketplace", "Microsoft Purview", "Microsoft Sentinel", "Microsoft 365", "Customer", "Secure AI", "Get Ready for AI", "Data protection", "Shadow AI"]
 topics: ["sponsor", "veeam", "microsoft-365", "ai-readiness", "backup"]
+categories: ["Microsoft 365 Copilot", "Resilience"]
 ---
 
 # Move from AI cautious to AI confident with Veeam and Microsoft 365

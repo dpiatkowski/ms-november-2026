@@ -13,6 +13,7 @@ start: "2026-11-20T01:15:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Microsoft IQ"]
 topics: ["web-iq", "grounding", "citations", "api", "tracing"]
+categories: ["Microsoft IQ"]
 ---
 
 # Build with Web IQ: From API call to cited answer

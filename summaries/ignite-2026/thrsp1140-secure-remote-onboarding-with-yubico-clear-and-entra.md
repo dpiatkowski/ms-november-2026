@@ -13,6 +13,7 @@ start: "2026-11-19T22:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Security", "Security in Windows", "Security", "Identity and network access", "Azure Cosmos DB", "Windows 365", "Data loss prevention", "AI Security", "Multicloud security", "Partner", "Azure Container Apps", "W365 Link", "Windows", "Zero Trust", "Copilot studio", "Community", "Cloud PC", "Microsoft 365", "Zero Trust for AI"]
 topics: ["sponsor", "yubico", "clear", "entra", "remote-onboarding", "zero-trust"]
+categories: ["Microsoft Entra"]
 ---
 
 # Secure remote onboarding with Yubico, CLEAR, and Entra

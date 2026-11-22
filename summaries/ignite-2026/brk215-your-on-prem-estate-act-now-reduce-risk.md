@@ -13,6 +13,7 @@ start: "2026-11-19T18:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "Security"]
 topics: ["on-premises", "security", "patching", "cloud-migration", "risk"]
+categories: ["Sovereignty and hybrid"]
 ---
 
 # Your On-prem estate: Act now. Reduce risk.

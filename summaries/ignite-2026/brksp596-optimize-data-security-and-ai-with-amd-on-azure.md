@@ -13,6 +13,7 @@ start: "2026-11-17T22:00:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Cloud & AI"]
 topics: ["sponsor", "amd", "azure", "confidential-computing", "databases", "ai-workloads"]
+categories: ["Azure infrastructure"]
 ---
 
 # Optimize data, security, and AI with AMD on Azure

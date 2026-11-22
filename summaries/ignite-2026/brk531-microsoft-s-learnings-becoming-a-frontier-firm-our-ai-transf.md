@@ -13,6 +13,7 @@ start: "2026-11-17T23:15:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Frontier Transformation", "AI", "AI Transformation"]
 topics: ["customer-zero", "ai-transformation", "frontier-firm", "microsoft-internal"]
+categories: ["Frontier transformation"]
 ---
 
 # Microsoft’s Learnings Becoming a Frontier Firm: Our AI Transformation Playbook

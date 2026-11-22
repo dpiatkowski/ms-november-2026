@@ -13,6 +13,7 @@ start: "2026-11-19T18:10:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "Microsoft Teams", "Microsoft Copilot", "Microsoft 365"]
 topics: ["planner", "copilot", "cowork", "work-management", "agents"]
+categories: ["Microsoft 365 Copilot"]
 ---
 
 # From goals to done: AI-powered work management with Microsoft Planner

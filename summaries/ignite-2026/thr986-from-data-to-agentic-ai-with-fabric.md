@@ -13,6 +13,7 @@ start: "2026-11-18T21:05:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Data", "MVP"]
 topics: ["fabric", "agentic-ai", "data-governance", "architecture-patterns"]
+categories: ["Microsoft Fabric"]
 ---
 
 # From Data to Agentic AI with Fabric

@@ -13,6 +13,7 @@ start: "2026-11-19T22:50:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Security", "AI", "Security", "Microsoft 365 apps", "Microsoft Defender for Cloud", "Data loss prevention", "Microsoft Defender XDR", "Microsoft Teams", "Threat Intelligence", "Microsoft Defender for Endpoint", "Microsoft 365", "Microsoft Defender", "Microsoft Defender Threat Intelligence", "Defender Cloud Security Posture Management (CSPM)", "Microsoft Defender Experts Threat Intelligence", "Microsoft Defender Experts MDR", "SMB", "Small Business"]
 topics: ["sponsor", "knowbe4", "behavioral-ai", "email-security", "threat-intelligence"]
+categories: ["Security operations"]
 ---
 
 # Layer KnowBe4 behavioral AI and threat intelligence onto Microsoft

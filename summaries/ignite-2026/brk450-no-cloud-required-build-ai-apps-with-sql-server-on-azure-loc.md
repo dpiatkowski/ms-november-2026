@@ -13,6 +13,7 @@ start: "2026-11-17T22:00:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Cloud & AI"]
 topics: ["sql-server", "azure-local", "foundry", "sovereign", "edge", "local-ai"]
+categories: ["Azure databases", "Azure infrastructure", "Sovereignty and hybrid"]
 ---
 
 # No cloud required: Build AI apps with SQL Server on Azure Local

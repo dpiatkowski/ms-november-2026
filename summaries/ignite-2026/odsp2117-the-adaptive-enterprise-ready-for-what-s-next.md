@@ -13,6 +13,7 @@ start: null
 level: "(100) Foundational"
 ignite_topics: ["Frontier Transformation"]
 topics: ["sponsor", "citrix", "adaptive-enterprise", "workspace"]
+categories: []
 ---
 
 # The adaptive enterprise: Ready for what’s next

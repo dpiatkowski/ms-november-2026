@@ -13,6 +13,7 @@ start: "2026-11-18T17:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["azure-infrastructure", "datacenter", "custom-silicon", "power-cooling", "efficiency"]
+categories: ["Azure infrastructure"]
 ---
 
 # Scaling Azure infrastructure: From intelligence into enterprise impact

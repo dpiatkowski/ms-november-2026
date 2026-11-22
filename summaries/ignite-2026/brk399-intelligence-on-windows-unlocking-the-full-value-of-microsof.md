@@ -13,6 +13,7 @@ start: "2026-11-20T00:00:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Windows", "AI", "Windows 365", "Agents", "W365 for Agents", "Windows", "Microsoft Copilot", "Cloud Endpoints", "Azure HorizonDB", "Perception", "Unmetered Intelligence", "Get Ready for AI", "Windows Agents", "FinOps"]
 topics: ["windows", "copilot", "adoption", "data-sovereignty", "productivity"]
+categories: ["Microsoft 365 Copilot", "Windows"]
 ---
 
 # Intelligence on Windows: Unlocking the Full Value of Microsoft Copilot

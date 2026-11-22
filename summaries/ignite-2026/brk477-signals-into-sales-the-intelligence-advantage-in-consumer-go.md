@@ -13,6 +13,7 @@ start: "2026-11-19T18:15:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Agentic Business Applications", "AI", "Agents", "Microsoft Copilot", "Get Ready for AI"]
 topics: ["consumer-goods", "agentic-ai", "demand-planning", "content-creation", "industry"]
+categories: ["Industry solutions"]
 ---
 
 # Signals into sales: The intelligence advantage in consumer goods

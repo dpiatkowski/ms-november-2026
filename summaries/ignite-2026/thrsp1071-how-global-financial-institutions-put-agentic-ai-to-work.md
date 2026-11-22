@@ -13,6 +13,7 @@ start: "2026-11-18T17:00:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Agentic Business Applications", "AI", "AI controls", "Accessibility", "Agents", "Partner", "Governance", "Voice agents"]
 topics: ["sponsor", "kore-ai", "financial-services", "agentic-ai"]
+categories: ["Industry solutions"]
 ---
 
 # How global financial institutions put agentic AI to work

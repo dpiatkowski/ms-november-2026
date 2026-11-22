@@ -13,6 +13,7 @@ start: null
 level: "(300) Advanced"
 ignite_topics: ["Agentic Business Applications", "AI", "Analytics", "Agents", "Governance", "Marketplace"]
 topics: ["sponsor", "compliance", "continuous-monitoring", "agents", "risk"]
+categories: ["Microsoft Purview"]
 ---
 
 # Make always-on compliance a reality

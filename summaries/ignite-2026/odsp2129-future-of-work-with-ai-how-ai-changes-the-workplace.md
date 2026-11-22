@@ -13,6 +13,7 @@ start: null
 level: "(100) Foundational"
 ignite_topics: ["Frontier Transformation", "AI"]
 topics: ["sponsor", "future-of-work", "workplace", "infosys", "leadership"]
+categories: ["Frontier transformation"]
 ---
 
 # Future of work with AI: How AI changes the workplace

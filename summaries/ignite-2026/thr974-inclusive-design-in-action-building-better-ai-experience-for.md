@@ -13,6 +13,7 @@ start: "2026-11-18T00:05:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI", "Windows", "Accessibility", "Azure Copilot"]
 topics: ["inclusive-design", "ai-experiences", "product-development", "demo"]
+categories: ["Accessibility"]
 ---
 
 # Inclusive Design in Action: Building Better AI Experience for Everyone

@@ -13,6 +13,7 @@ start: "2026-11-18T17:00:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Cloud & AI"]
 topics: ["career", "ai", "developers", "it-pros", "opinion"]
+categories: ["Skilling and adoption"]
 ---
 
 # Navigating the AI revolution

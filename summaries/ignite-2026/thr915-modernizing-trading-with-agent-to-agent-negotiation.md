@@ -13,6 +13,7 @@ start: "2026-11-20T00:20:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agentic Business Applications", "AI", "Agents", "Azure Container Apps", "Governance", "Customer"]
 topics: ["financial-services", "agent-to-agent", "bny", "treasury", "negotiation"]
+categories: ["Industry solutions", "Migration and modernization"]
 ---
 
 # Modernizing trading with agent-to-agent negotiation

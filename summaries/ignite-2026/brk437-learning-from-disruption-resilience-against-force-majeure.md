@@ -13,6 +13,7 @@ start: "2026-11-18T23:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["resilience", "reliability", "incident-learnings", "force-majeure"]
+categories: ["Resilience"]
 ---
 
 # Learning from disruption: Resilience against force majeure

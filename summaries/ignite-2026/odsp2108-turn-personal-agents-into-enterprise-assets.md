@@ -13,6 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Frontier Transformation", "AI", "Microsoft 365 apps", "Agents", "Data governance", "Microsoft Copilot", "Copilot Analytics", "Get Ready for AI", "Microsoft Agent 365", "Microsoft Copilot Studio"]
 topics: ["sponsor", "ey", "personal-agents", "enterprise-agents", "governance"]
+categories: ["Agent governance"]
 ---
 
 # Turn personal agents into enterprise assets

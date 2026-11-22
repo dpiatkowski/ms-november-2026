@@ -13,6 +13,7 @@ start: "2026-11-19T21:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["azure-arc", "hybrid", "governance", "sql-server", "database-hub"]
+categories: ["Azure infrastructure"]
 ---
 
 # Govern, secure, and operate anywhere with Azure Arc

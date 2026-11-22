@@ -13,6 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "AI", "AI controls", "AI Security", "Agents", "Microsoft Foundry"]
 topics: ["sponsor", "sdlc", "software-factory", "agent-evaluation", "agent-sprawl", "cost-management"]
+categories: ["Agent governance", "Evaluation and observability", "FinOps", "Software engineering"]
 ---
 
 # Transform your SDLC into a self-improving software factory

@@ -13,6 +13,7 @@ start: "2026-11-19T19:05:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Frontier Transformation", "Other", "Partner", "Skills"]
 topics: ["certifications", "exam-prep", "study-strategies", "research"]
+categories: ["Skilling and adoption"]
 ---
 
 # Certified pros told us everything. Here's the playbook.

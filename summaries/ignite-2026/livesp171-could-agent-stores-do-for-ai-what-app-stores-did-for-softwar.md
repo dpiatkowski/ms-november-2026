@@ -13,6 +13,7 @@ start: null
 level: "(100) Foundational"
 ignite_topics: ["Agentic Business Applications", "AI", "Microsoft 365 apps", "AI controls", "Agents", "Microsoft Copilot", "Microsoft 365", "Get Ready for AI", "Microsoft Agent 365"]
 topics: ["sponsor", "agent-store", "prebuilt-agents", "adoption"]
+categories: ["Building agents", "Skilling and adoption"]
 ---
 
 # Could agent stores do for AI what app stores did for software?

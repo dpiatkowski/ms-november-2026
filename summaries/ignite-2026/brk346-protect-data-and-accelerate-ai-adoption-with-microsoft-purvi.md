@@ -13,6 +13,7 @@ start: "2026-11-18T19:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Security", "AI", "Security", "Azure Container Apps", "Microsoft Copilot", "Microsoft Purview", "Secure data"]
 topics: ["purview", "data-security", "compliance", "copilot", "investigations"]
+categories: ["Microsoft Purview", "Skilling and adoption"]
 ---
 
 # Protect data and accelerate AI adoption with Microsoft Purview

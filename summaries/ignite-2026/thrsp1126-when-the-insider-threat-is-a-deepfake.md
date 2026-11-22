@@ -13,6 +13,7 @@ start: "2026-11-19T19:40:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Security", "AI", "Identity and network access", "AI Security", "Microsoft Teams", "Azure Databricks", "Threat Intelligence", "Get Ready for AI"]
 topics: ["sponsor", "pindrop", "deepfakes", "identity-verification", "security"]
+categories: ["Security operations"]
 ---
 
 # When the insider threat is a deepfake

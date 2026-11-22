@@ -13,6 +13,7 @@ start: "2026-11-19T00:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["MAICPP"]
 topics: ["partner", "marketplace", "partner-led-sales"]
+categories: ["Partners and marketplace"]
 ---
 
 # Sell more together: partner-led sales through Microsoft Marketplace

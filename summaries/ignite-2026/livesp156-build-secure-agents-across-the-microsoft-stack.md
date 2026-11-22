@@ -13,6 +13,7 @@ start: null
 level: "(100) Foundational"
 ignite_topics: ["Agent Platform", "Security", "Identity and network access", "Governance", "Community", "Microsoft Purview", "Microsoft Defender", "Microsoft Agent 365"]
 topics: ["sponsor", "secure-agents", "copilot-studio", "foundry", "least-privilege", "agent-identity"]
+categories: ["Agentic security", "Building agents"]
 ---
 
 # Build secure agents across the Microsoft stack

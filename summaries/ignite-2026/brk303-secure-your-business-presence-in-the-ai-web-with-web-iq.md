@@ -13,6 +13,7 @@ start: "2026-11-18T19:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Microsoft IQ", "Get Ready for AI", "Web IQ"]
 topics: ["web-iq", "ai-discovery", "agentic-web", "brand-visibility"]
+categories: ["Microsoft IQ"]
 ---
 
 # Secure your business presence in the AI web with Web IQ

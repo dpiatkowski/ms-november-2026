@@ -13,6 +13,7 @@ start: "2026-11-19T19:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Data"]
 topics: ["telecom", "agentic-ai", "network-operations", "root-cause-analysis"]
+categories: ["Industry solutions"]
 ---
 
 # Reimagine telecom with agentic AI

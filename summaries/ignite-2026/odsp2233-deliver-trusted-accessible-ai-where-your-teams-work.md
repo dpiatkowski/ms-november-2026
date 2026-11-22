@@ -13,6 +13,7 @@ start: null
 level: "(300) Advanced"
 ignite_topics: ["Cloud & AI", "AI", "Agents", "Microsoft Copilot", "Copilot studio"]
 topics: ["sponsor", "snowflake", "cortex-agents", "copilot-studio", "teams", "data-governance"]
+categories: ["Microsoft Teams"]
 ---
 
 # Deliver trusted, accessible AI where your teams work

@@ -13,6 +13,7 @@ start: "2026-11-18T00:40:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["MAICPP"]
 topics: ["partner", "unified-broker", "unified-ea-co-sell", "pipeline"]
+categories: ["Partners and marketplace"]
 ---
 
 # Grow your business with Unified Broker and Unified EA Co-sell​

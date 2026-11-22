@@ -13,6 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Windows", "Azure Virtual Desktop", "AVD", "Migration and modernization"]
 topics: ["sponsor", "avd", "vmware", "nerdio", "hybrid", "vdi"]
+categories: ["Azure infrastructure", "Migration and modernization", "Windows 365 and Azure Virtual Desktop"]
 ---
 
 # AVD Hybrid in action: Modernize with VMware vSphere and Nerdio

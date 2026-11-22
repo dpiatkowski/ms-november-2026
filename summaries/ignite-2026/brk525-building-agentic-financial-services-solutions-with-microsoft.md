@@ -13,6 +13,7 @@ start: "2026-11-19T21:30:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Agentic Business Applications"]
 topics: ["financial-services", "agentic-ai", "architecture", "partner", "governance"]
+categories: ["Industry solutions"]
 ---
 
 # Building agentic financial services solutions with Microsoft​

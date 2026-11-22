@@ -13,6 +13,7 @@ start: "2026-11-20T00:00:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Windows", "Windows 365", "Azure Virtual Desktop", "VDI", "AVD", "Cloud Endpoints"]
 topics: ["windows-365", "avd", "directstream", "remote-protocol"]
+categories: ["Windows 365 and Azure Virtual Desktop"]
 ---
 
 # Next-gen streaming protocol for Windows 365 and Azure Virtual Desktop

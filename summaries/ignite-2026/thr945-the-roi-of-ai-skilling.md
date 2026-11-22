@@ -13,6 +13,7 @@ start: "2026-11-20T00:20:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Frontier Transformation", "Other", "AI", "Get Ready for AI"]
 topics: ["skilling", "roi", "total-economic-impact", "study"]
+categories: ["Frontier transformation", "Skilling and adoption"]
 ---
 
 # The ROI of AI skilling

@@ -13,6 +13,7 @@ start: "2026-11-18T23:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Frontier Transformation", "Copilot", "MAICPP"]
 topics: ["partner", "telecom", "frontier-transformation", "ip"]
+categories: ["Frontier transformation", "Industry solutions", "Partners and marketplace"]
 ---
 
 # Frontier Telecoms: Intelligence, Trust and the partners who build them

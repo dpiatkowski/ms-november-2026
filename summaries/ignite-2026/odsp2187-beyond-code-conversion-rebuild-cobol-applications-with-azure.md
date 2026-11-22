@@ -13,6 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI", "AI", "Platform Engineering", "Agents", "Partner", "API", "Corporate Partner", "Partner-Led", "Azure Kubernetes Service", "Migration and modernization", "AI Transformation", "AI Infrastructure", "Azure Infrastructure", "Cloud Migration", "Application Modernization"]
 topics: ["sponsor", "cobol", "modernization", "azure-openai", "publicis-sapient", "java"]
+categories: ["Migration and modernization"]
 ---
 
 # Beyond code conversion: Rebuild COBOL applications with Azure AI

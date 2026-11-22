@@ -13,6 +13,7 @@ start: "2026-11-18T23:00:00Z"
 level: "(100) Foundational"
 ignite_topics: ["MAICPP"]
 topics: ["partner", "healthcare", "dragon-copilot", "marketplace", "isv"]
+categories: ["Industry solutions", "Partners and marketplace"]
 ---
 
 # Partner Impact in Healthcare with Dragon Copilot and Marketplace

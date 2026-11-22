@@ -13,6 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI", "Resiliency", "Marketplace", "Migration and modernization", "Open Source", "AI Infrastructure", "Site Reliability Engineering (SRE)"]
 topics: ["sponsor", "redis", "dragonfly", "hugging-face", "instacart", "in-memory-data"]
+categories: []
 ---
 
 # AI-scale growth: How Hugging Face and Instacart scale in-memory data

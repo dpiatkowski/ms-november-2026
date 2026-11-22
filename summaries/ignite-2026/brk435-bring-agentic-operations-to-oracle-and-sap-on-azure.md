@@ -13,6 +13,7 @@ start: "2026-11-17T22:00:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Cloud & AI"]
 topics: ["oracle", "sap", "azure", "aiops", "workload-intelligence"]
+categories: ["Azure infrastructure", "Cloud operations"]
 ---
 
 # Bring agentic operations to Oracle and SAP on Azure

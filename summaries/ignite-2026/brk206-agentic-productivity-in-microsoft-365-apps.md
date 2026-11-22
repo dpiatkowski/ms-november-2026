@@ -13,6 +13,7 @@ start: "2026-11-18T19:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "Agents", "Microsoft Copilot", "Microsoft 365"]
 topics: ["copilot", "microsoft-365", "agents", "word", "excel", "powerpoint", "outlook"]
+categories: ["Microsoft 365 Copilot"]
 ---
 
 # Agentic productivity in Microsoft 365 apps

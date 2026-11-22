@@ -13,6 +13,7 @@ start: "2026-11-18T23:00:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Data", "Azure Cosmos DB", "Customer", "Knowledge retrieval"]
 topics: ["cosmos-db", "vector-search", "agent-memory", "hybrid-search", "data-layer"]
+categories: ["Azure databases"]
 ---
 
 # Designing the data layer for AI apps and agents with Azure Cosmos DB

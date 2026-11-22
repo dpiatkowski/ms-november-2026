@@ -13,6 +13,7 @@ start: "2026-11-19T19:30:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Agent Platform", "GitHub", "Developer Tools"]
 topics: ["visual-studio", "governance", "copilot", "byok", "extensions", "admin"]
+categories: ["Agent governance", "Software engineering"]
 ---
 
 # Visual Studio governance for the agentic era

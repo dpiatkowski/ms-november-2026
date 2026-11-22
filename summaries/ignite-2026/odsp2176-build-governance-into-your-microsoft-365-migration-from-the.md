@@ -13,6 +13,7 @@ start: null
 level: "(300) Advanced"
 ignite_topics: ["Cloud & AI", "AI", "Security", "Agents", "Data governance", "Governance", "Microsoft Copilot", "Microsoft 365", "Get Ready for AI", "Migration and modernization", "Cloud Migration"]
 topics: ["sponsor", "microsoft-365-migration", "governance", "permissions", "copilot-readiness"]
+categories: ["Migration and modernization"]
 ---
 
 # Build governance into your Microsoft 365 migration from the start

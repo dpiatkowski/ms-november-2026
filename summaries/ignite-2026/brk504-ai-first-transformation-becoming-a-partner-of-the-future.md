@@ -13,6 +13,7 @@ start: "2026-11-19T22:45:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Agentic Business Applications"]
 topics: ["partner", "operating-model", "outcome-based", "ai-first"]
+categories: ["Partners and marketplace"]
 ---
 
 # AI-First Transformation – Becoming a Partner of the Future​

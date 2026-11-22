@@ -13,6 +13,7 @@ start: "2026-11-18T18:15:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Security", "AI", "Security", "Identity and network access", "AI Security", "Agents", "Microsoft Entra", "Zero Trust", "Governance", "Microsoft 365", "Perception", "Zero Trust for AI", "Secure AI", "Defend with AI", "Microsoft Agent 365", "Secure Agentic Insiders"]
 topics: ["entra", "identity", "network-access", "agents", "roadmap"]
+categories: ["Microsoft Entra"]
 ---
 
 # AI is changing access. See how Microsoft Entra helps you stay ahead.

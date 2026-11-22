@@ -13,6 +13,7 @@ start: "2026-11-18T23:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Security", "AI", "Security", "Agents", "Defend with AI", "Defend with agents"]
 topics: ["agentic-soc", "security-operations", "guardrails", "analyst-panel"]
+categories: ["Agentic security"]
 ---
 
 # Agentic Security Unfiltered with Allie Mellen: Hype vs. Reality

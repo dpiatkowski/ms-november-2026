@@ -13,6 +13,7 @@ start: "2026-11-19T20:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Windows", "Windows 365", "AI controls", "Agents", "Azure Virtual Desktop", "Multicloud", "Partner", "VDI", "W365 Cloud Apps", "Microsoft Intune", "Microsoft Copilot", "AVD", "Cloud PC", "Intune", "Cloud Endpoints", "Microsoft 365", "Get Ready for AI"]
 topics: ["sponsor", "intune", "avd", "dex", "autonomous-endpoint-management", "copilot"]
+categories: ["IT operations", "Microsoft 365 Copilot", "Microsoft Intune", "Windows 365 and Azure Virtual Desktop"]
 ---
 
 # Extend Intune, AVD, and Copilot with autonomous endpoint management

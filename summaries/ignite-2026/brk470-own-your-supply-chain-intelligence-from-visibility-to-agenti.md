@@ -13,6 +13,7 @@ start: "2026-11-19T00:15:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Agentic Business Applications", "AI", "Resiliency", "Agents", "Partner", "Microsoft Foundry", "Microsoft Copilot"]
 topics: ["supply-chain", "agentic-ai", "microsoft-internal", "human-in-the-loop", "industry"]
+categories: ["Industry solutions"]
 ---
 
 # Own your supply chain intelligence: From visibility to agentic action

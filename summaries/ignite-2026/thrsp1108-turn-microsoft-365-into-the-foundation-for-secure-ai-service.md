@@ -13,6 +13,7 @@ start: "2026-11-19T17:35:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Security", "AI", "Microsoft Edge for Business", "Identity and network access", "Windows 365", "Data loss prevention", "AI Security", "Microsoft Teams", "Data governance", "SharePoint", "Threat Intelligence", "Windows Autopatch", "Microsoft Intune", "Governance", "Microsoft Copilot", "Community", "Intune", "Microsoft Purview", "Microsoft Defender for Endpoint", "Microsoft 365", "Get Ready for AI", "Microsoft Defender", "Microsoft Purview Data Loss Prevention", "Microsoft Purview Insider Risk Management"]
 topics: ["sponsor", "msp", "microsoft-365", "inforcer", "secure-ai-services"]
+categories: ["Agentic security", "Microsoft 365 Copilot"]
 ---
 
 # Turn Microsoft 365 into the foundation for secure AI services

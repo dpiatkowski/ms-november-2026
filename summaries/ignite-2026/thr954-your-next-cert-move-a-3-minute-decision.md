@@ -13,6 +13,7 @@ start: "2026-11-18T22:50:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Frontier Transformation", "Other", "Partner"]
 topics: ["certifications", "applied-skills", "pro-badge", "career"]
+categories: ["Skilling and adoption"]
 ---
 
 # Your next cert move: A 3-minute decision

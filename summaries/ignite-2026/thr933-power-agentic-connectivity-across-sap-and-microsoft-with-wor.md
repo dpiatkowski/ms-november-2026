@@ -13,6 +13,7 @@ start: "2026-11-19T19:40:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Cloud & AI", "Agentic browsing"]
 topics: ["sap", "joule", "work-iq", "copilot", "integration", "identity"]
+categories: ["Microsoft IQ"]
 ---
 
 # Power agentic connectivity across SAP and Microsoft with Work IQ

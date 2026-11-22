@@ -13,6 +13,7 @@ start: "2026-11-17T22:00:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Agent Platform", "GitHub", "Developer Tools"]
 topics: ["github", "agent-native", "sdlc", "governance", "collaboration"]
+categories: ["GitHub Copilot", "Software engineering"]
 ---
 
 # GitHub, the agent native engineering system

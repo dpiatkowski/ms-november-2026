@@ -13,6 +13,7 @@ start: "2026-11-18T18:15:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Security", "AI", "Resiliency", "Security", "Management controls", "Windows", "Microsoft Intune", "Governance", "Cloud Endpoints", "Get Ready for AI", "Microsoft Defender", "Secure your foundation"]
 topics: ["intune", "endpoint-management", "device-management", "ai-readiness"]
+categories: ["Microsoft Intune"]
 ---
 
 # What’s New in Intune: Trusted device and app foundation for AI

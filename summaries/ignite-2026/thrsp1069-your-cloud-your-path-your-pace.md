@@ -13,6 +13,7 @@ start: "2026-11-17T23:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Windows", "Windows 365", "Azure Virtual Desktop", "VDI", "AVD", "Cloud PC", "Cloud Endpoints"]
 topics: ["sponsor", "avd", "windows-cloud", "desktop-modernization"]
+categories: ["Migration and modernization", "Windows 365 and Azure Virtual Desktop"]
 ---
 
 # Your cloud. Your path. Your pace.

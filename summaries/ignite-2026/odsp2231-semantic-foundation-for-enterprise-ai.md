@@ -13,6 +13,7 @@ start: null
 level: "(300) Advanced"
 ignite_topics: ["Agent Platform", "Microsoft Fabric", "Microsoft Foundry", "Power BI", "Foundry IQ", "Copilot studio", "Microsoft Purview", "Fabric IQ", "OneLake"]
 topics: ["sponsor", "semantic-fabric", "ontology", "knowledge-graph", "onelake", "fabric-iq"]
+categories: ["Data and grounding"]
 ---
 
 # Semantic foundation for enterprise AI

@@ -13,6 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Windows", "AI", "Microsoft Teams"]
 topics: ["sponsor", "yealink", "meeting-rooms", "cameras", "microphones"]
+categories: []
 ---
 
 # Yealink AuraVision: Where sound meets sight, naturally

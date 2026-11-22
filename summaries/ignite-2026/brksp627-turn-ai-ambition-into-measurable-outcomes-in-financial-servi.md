@@ -13,6 +13,7 @@ start: "2026-11-19T19:30:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Agentic Business Applications", "AI", "Customer"]
 topics: ["sponsor", "financial-services", "compliance", "risk", "ai-outcomes"]
+categories: ["Industry solutions"]
 ---
 
 # Turn AI ambition into measurable outcomes in financial services

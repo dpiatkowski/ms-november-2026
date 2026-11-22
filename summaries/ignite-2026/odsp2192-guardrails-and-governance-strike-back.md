@@ -13,6 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Security"]
 topics: ["sponsor", "agent-governance", "guardrails", "risk", "can-vs-should"]
+categories: ["Responsible AI"]
 ---
 
 # Guardrails and governance strike back

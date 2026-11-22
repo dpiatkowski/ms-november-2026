@@ -13,6 +13,7 @@ start: "2026-11-20T00:55:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Frontier Transformation", "Copilot"]
 topics: ["copilot-cowork", "finance", "plugins", "skills", "forecasting"]
+categories: ["Microsoft 365 Copilot"]
 ---
 
 # Copilot Cowork for Finance: Turn Forecasts into Review-Ready Insights

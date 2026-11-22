@@ -13,6 +13,7 @@ start: "2026-11-18T00:40:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Security", "AI Security", "Agents", "Microsoft Agent 365"]
 topics: ["executive", "ai-risk", "governance", "simulation", "agents"]
+categories: ["Frontier transformation"]
 ---
 
 # AI at Risk: An Executive Frontier Immersion

@@ -13,6 +13,7 @@ start: "2026-11-18T21:45:00Z"
 level: "(100) Foundational"
 ignite_topics: ["MAICPP"]
 topics: ["partner", "marketplace", "co-sell", "isv"]
+categories: ["Partners and marketplace"]
 ---
 
 # Co-sell at scale with Microsoft Marketplace

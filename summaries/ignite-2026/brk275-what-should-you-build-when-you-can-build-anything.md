@@ -13,6 +13,7 @@ start: "2026-11-18T17:00:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Agent Platform", "AI", "Agents", "Github Copilot", "Windows", "GitHub", "Azure Copilot", "Developer Tools"]
 topics: ["developer-inspiration", "windows", "github", "open-source", "demos"]
+categories: ["GitHub Copilot", "Windows"]
 ---
 
 # What should you build when you can build anything?

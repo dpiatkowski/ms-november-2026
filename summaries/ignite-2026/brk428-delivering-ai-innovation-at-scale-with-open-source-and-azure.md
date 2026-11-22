@@ -13,6 +13,7 @@ start: "2026-11-19T18:15:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Cloud & AI", "AI", "Community", "Azure Copilot"]
 topics: ["open-source", "azure-linux", "kubernetes", "github", "ai-infrastructure"]
+categories: ["Azure infrastructure"]
 ---
 
 # Delivering AI innovation at scale with Open Source and Azure

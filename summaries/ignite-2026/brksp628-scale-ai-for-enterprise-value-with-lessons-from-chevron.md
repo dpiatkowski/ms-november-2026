@@ -13,6 +13,7 @@ start: "2026-11-19T17:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "AI", "Security", "Microsoft 365 apps", "AI controls", "AI Security", "Agents", "Partner", "Data governance", "Microsoft Foundry", "Windows AI Foundry", "Governance", "Microsoft Copilot", "Microsoft Foundry on Windows", "Customer", "Microsoft Agent 365", "Microsoft Copilot Studio"]
 topics: ["sponsor", "chevron", "ibm", "client-zero", "ai-at-scale", "customer-story"]
+categories: ["Frontier transformation", "Industry solutions"]
 ---
 
 # Scale AI for enterprise value with lessons from Chevron

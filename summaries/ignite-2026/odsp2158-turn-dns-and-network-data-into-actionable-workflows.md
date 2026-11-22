@@ -13,6 +13,7 @@ start: null
 level: "(300) Advanced"
 ignite_topics: ["Cloud & AI", "Multicloud", "Governance", "API"]
 topics: ["sponsor", "dns", "ipam", "efficientip", "network-security"]
+categories: ["Azure infrastructure"]
 ---
 
 # Turn DNS and network data into actionable workflows

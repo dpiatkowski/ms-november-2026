@@ -13,6 +13,7 @@ start: "2026-11-19T22:45:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Cloud & AI", "AI", "Data loss prevention", "AI controls", "AI Security", "Data governance", "Azure Copilot", "Cloud Endpoints", "Migration and modernization", "AI Transformation", "Sovereignty & Compliance", "AI Infrastructure", "Azure Infrastructure", "Cloud Migration", "Application Modernization"]
 topics: ["sponsor", "frontier-enterprise", "cloud-modernization", "agent-governance", "ai-observability", "panel"]
+categories: ["Frontier transformation"]
 ---
 
 # Reimagine cloud and AI platforms for the Frontier Enterprise

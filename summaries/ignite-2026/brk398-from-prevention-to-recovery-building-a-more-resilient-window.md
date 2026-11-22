@@ -13,6 +13,7 @@ start: "2026-11-20T01:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Windows", "Windows 365", "Windows Recovery", "Windows Resiliency", "Cloud PC"]
 topics: ["windows", "resilience", "recovery", "windows-365-reserve", "drivers"]
+categories: ["Resilience", "Windows"]
 ---
 
 # From Prevention to Recovery: Building a More Resilient Windows Estate

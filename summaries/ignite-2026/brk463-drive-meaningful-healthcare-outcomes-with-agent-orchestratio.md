@@ -13,6 +13,7 @@ start: "2026-11-17T23:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Microsoft IQ", "AI", "Agents", "Microsoft Teams", "Azure Copilot"]
 topics: ["healthcare", "agent-orchestration", "workflow", "intermountain", "customer-story"]
+categories: ["Building agents", "Industry solutions"]
 ---
 
 # Drive Meaningful Healthcare Outcomes with Agent Orchestration

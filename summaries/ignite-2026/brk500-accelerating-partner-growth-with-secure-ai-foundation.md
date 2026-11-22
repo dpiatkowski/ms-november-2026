@@ -13,6 +13,7 @@ start: "2026-11-19T19:30:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Cloud & AI", "Agentic Business Applications"]
 topics: ["partner", "microsoft-365", "windows-365", "security", "go-to-market"]
+categories: ["Partners and marketplace"]
 ---
 
 # Accelerating Partner Growth with Secure AI Foundation

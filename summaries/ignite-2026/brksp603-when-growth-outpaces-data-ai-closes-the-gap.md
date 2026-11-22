@@ -13,6 +13,7 @@ start: "2026-11-19T18:15:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Data", "AI controls", "Data governance"]
 topics: ["sponsor", "insurance", "data-consolidation", "customer-story", "ai-platform"]
+categories: ["Data and grounding"]
 ---
 
 # When growth outpaces data, AI closes the gap

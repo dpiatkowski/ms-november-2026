@@ -13,6 +13,7 @@ start: "2026-11-18T21:40:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI", "AI Security", "Multicloud", "Windows Server"]
 topics: ["sponsor", "hpe", "windows-server", "modernization", "sovereignty"]
+categories: ["Migration and modernization", "Zero trust"]
 ---
 
 # Modernize today and build a secure, AI-ready foundation for tomorrow

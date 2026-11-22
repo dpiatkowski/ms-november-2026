@@ -13,6 +13,7 @@ start: "2026-11-19T21:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Microsoft IQ"]
 topics: ["fabric-iq", "microsoft-iq", "ontology", "enterprise-ai", "context"]
+categories: ["Data and grounding", "Microsoft Fabric", "Microsoft IQ"]
 ---
 
 # Fabric IQ: Trusted business context for enterprise AI

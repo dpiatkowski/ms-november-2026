@@ -13,6 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Frontier Transformation"]
 topics: ["sponsor", "kyndryl", "modernization", "agentic-ai", "mission-critical"]
+categories: ["Migration and modernization"]
 ---
 
 # Accelerate mission-critical modernization with agentic AI

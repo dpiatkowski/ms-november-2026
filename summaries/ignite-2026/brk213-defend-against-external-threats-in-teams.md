@@ -13,6 +13,7 @@ start: "2026-11-19T19:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "Microsoft Teams"]
 topics: ["teams", "security", "threat-protection", "phishing", "external-collaboration"]
+categories: ["Microsoft Teams"]
 ---
 
 # Defend Against External Threats in Teams

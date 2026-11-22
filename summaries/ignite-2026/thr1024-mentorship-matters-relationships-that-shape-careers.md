@@ -13,6 +13,7 @@ start: "2026-11-20T01:30:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Copilot", "Microsoft Surface", "Community", "Microsoft 365"]
 topics: ["mentorship", "career", "sponsorship", "community"]
+categories: []
 ---
 
 # Mentorship Matters: Relationships That Shape Careers

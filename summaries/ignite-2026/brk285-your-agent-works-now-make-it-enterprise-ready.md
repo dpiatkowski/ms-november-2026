@@ -13,6 +13,7 @@ start: "2026-11-19T18:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "Dynamics 365", "MCP", "Copilot studio", "Power Platform"]
 topics: ["agents", "enterprise-readiness", "autonomous-agents", "guardrails", "observability"]
+categories: ["Agent governance", "Building agents"]
 ---
 
 # Your agent works. Now make it enterprise-ready.

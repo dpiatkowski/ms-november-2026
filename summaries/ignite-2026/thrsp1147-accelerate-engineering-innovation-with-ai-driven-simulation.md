@@ -13,6 +13,7 @@ start: "2026-11-19T22:50:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI", "Partner", "Marketplace", "Cloud Operations", "Cloud Migration"]
 topics: ["sponsor", "siemens", "simcenter", "hpc", "simulation", "azure"]
+categories: ["Azure infrastructure", "Industry solutions"]
 ---
 
 # Accelerate engineering innovation with AI-driven simulation on Azure

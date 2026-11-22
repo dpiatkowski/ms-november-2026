@@ -13,6 +13,7 @@ start: "2026-11-20T00:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Frontier Transformation", "Platform Engineering", "AI controls", "AI Security", "Agents", "Data governance", "Azure Container Apps", "Github Copilot", "Microsoft Entra", "GitHub", "Work IQ", "API", "Secure AI", "Microsoft Agent 365", "Unified SecOps", "Azure compute", "Azure Kubernetes Service", "Azure Functions"]
 topics: ["sponsor", "onsemi", "ltm", "ai-platform", "customer-story"]
+categories: ["Frontier transformation", "Industry solutions"]
 ---
 
 # How onsemi is building an AI-ready enterprise with LTM

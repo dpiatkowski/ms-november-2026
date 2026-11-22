@@ -13,6 +13,7 @@ start: "2026-11-18T00:40:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Frontier Transformation", "Community"]
 topics: ["partner", "frontier-firm", "iamcp", "organizational-change"]
+categories: ["Frontier transformation"]
 ---
 
 # Nobody Becomes a Frontier Firm Alone

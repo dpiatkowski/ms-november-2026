@@ -13,6 +13,7 @@ start: "2026-11-19T19:05:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Windows", "Windows 365", "Analytics", "Multicloud", "Partner", "Windows Autopatch", "Microsoft Intune", "Cloud PC", "Intune", "Marketplace", "Cloud Endpoints"]
 topics: ["sponsor", "ninjaone", "endpoint-management", "entra", "intune", "windows-365"]
+categories: ["IT operations"]
 ---
 
 # Power to the practitioner: Connect Microsoft endpoint operations

@@ -13,6 +13,7 @@ start: "2026-11-17T22:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform"]
 topics: ["copilot-studio", "agents", "workflows", "apps", "roadmap"]
+categories: ["Copilot Studio"]
 ---
 
 # What's new in Copilot Studio

@@ -13,6 +13,7 @@ start: "2026-11-18T19:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "Microsoft Foundry", "Observability and evaluation"]
 topics: ["foundry", "agents", "tracing", "evaluation", "optimization"]
+categories: ["Evaluation and observability", "Microsoft Foundry"]
 ---
 
 # From traces to better agents: The Foundry improvement loop

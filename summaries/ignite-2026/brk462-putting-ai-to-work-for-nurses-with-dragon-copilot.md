@@ -13,6 +13,7 @@ start: "2026-11-19T19:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "AI", "Agents"]
 topics: ["healthcare", "dragon-copilot", "nursing", "adoption", "customer-story"]
+categories: ["Industry solutions"]
 ---
 
 # Putting AI to work for nurses with Dragon Copilot

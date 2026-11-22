@@ -13,6 +13,7 @@ start: "2026-11-17T23:10:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Copilot", "Other", "Skills"]
 topics: ["pro-badge", "credentials", "certification"]
+categories: ["Skilling and adoption"]
 ---
 
 # Pro Badge: The credential you've been asking for

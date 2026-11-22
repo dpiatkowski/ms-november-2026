@@ -13,6 +13,7 @@ start: "2026-11-18T00:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot"]
 topics: ["innovation-session", "copilot", "windows", "teams", "finops", "keynote-style"]
+categories: ["Frontier transformation"]
 ---
 
 # Expanding what’s possible: How AI is redesigning work

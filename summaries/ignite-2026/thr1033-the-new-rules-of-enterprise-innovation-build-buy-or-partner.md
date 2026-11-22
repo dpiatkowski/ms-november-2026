@@ -13,6 +13,7 @@ start: "2026-11-20T00:20:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Frontier Transformation", "Cloud & AI"]
 topics: ["enterprise-innovation", "startups", "build-buy-partner", "strategy"]
+categories: ["Partners and marketplace"]
 ---
 
 # The New Rules of Enterprise Innovation: Build, Buy, or Partner?

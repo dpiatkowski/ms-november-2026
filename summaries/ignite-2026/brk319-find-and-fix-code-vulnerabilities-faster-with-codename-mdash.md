@@ -13,6 +13,7 @@ start: "2026-11-18T00:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Security", "AI", "Security", "Agents", "MDASH", "Defend with AI", "Agentic defense", "Defend with agents"]
 topics: ["codename-mdash", "vulnerability-discovery", "agentic-security", "multi-model"]
+categories: ["Microsoft Defender"]
 ---
 
 # Find and fix code vulnerabilities faster with Codename MDASH

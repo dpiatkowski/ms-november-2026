@@ -13,6 +13,7 @@ start: "2026-11-20T00:55:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Agentic Business Applications", "Microsoft Surface", "Agents", "Microsoft Copilot Studio"]
 topics: ["copilot-studio", "community", "agent-building", "adoption"]
+categories: ["Copilot Studio", "Skilling and adoption"]
 ---
 
 # Scaling Copilot Studio Adoption Through Community-Led Agent Building

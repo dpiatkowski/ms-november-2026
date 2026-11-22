@@ -13,6 +13,7 @@ start: "2026-11-18T18:45:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Copilot", "Other", "Copilot administration", "Copilot Chat", "Microsoft Copilot", "Copilot studio"]
 topics: ["copilot-studio", "copilot-harness", "makers", "live-demo"]
+categories: ["Building agents", "Copilot Studio"]
 ---
 
 # Copilot Studio unlocked: The new Microsoft Copilot harness for makers

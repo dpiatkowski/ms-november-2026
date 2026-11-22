@@ -13,6 +13,7 @@ start: null
 level: "(300) Advanced"
 ignite_topics: ["Security", "Security", "AI Security", "Partner", "Windows", "BYOD", "SMB", "Small Business", "SME&C"]
 topics: ["sponsor", "asus", "endpoint-security", "firmware", "post-quantum"]
+categories: ["Windows", "Zero trust"]
 ---
 
 # Protect the endpoint before Windows even loads

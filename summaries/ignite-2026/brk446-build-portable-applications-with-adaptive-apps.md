@@ -13,6 +13,7 @@ start: "2026-11-20T19:30:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Cloud & AI"]
 topics: ["adaptive-apps", "azure-arc", "radius", "kubernetes", "portability"]
+categories: ["Azure infrastructure"]
 ---
 
 # Build portable applications with Adaptive Apps

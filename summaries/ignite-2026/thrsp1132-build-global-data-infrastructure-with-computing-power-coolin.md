@@ -13,6 +13,7 @@ start: "2026-11-19T20:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Data", "AI"]
 topics: ["sponsor", "datacenter", "power", "cooling", "ups", "ai-infrastructure"]
+categories: []
 ---
 
 # Build global data infrastructure with computing‑power‑cooling synergy

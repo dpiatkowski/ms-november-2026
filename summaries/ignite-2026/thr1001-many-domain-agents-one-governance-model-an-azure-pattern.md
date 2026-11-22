@@ -13,6 +13,7 @@ start: "2026-11-18T18:45:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Agent Platform", "MVP"]
 topics: ["agents", "governance", "api-management", "entra-agent-id", "mcp", "foundry-control-plane"]
+categories: ["Agent governance"]
 ---
 
 # Many Domain Agents, One Governance Model: An Azure Pattern

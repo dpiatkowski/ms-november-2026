@@ -13,6 +13,7 @@ start: "2026-11-19T21:30:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Data"]
 topics: ["fabric", "sql-database", "mcp", "vectors", "mirroring", "agents"]
+categories: ["Azure databases", "Microsoft Fabric"]
 ---
 
 # Where agents meet analytics: Build with SQL Database in Fabric

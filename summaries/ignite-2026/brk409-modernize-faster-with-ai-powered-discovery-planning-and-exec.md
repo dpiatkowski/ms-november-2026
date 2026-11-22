@@ -13,6 +13,7 @@ start: "2026-11-19T18:15:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Cloud & AI"]
 topics: ["azure-migrate", "migration-agent", "modernization", "business-case", "caf"]
+categories: ["Migration and modernization"]
 ---
 
 # Modernize faster with AI-powered discovery, planning, and execution

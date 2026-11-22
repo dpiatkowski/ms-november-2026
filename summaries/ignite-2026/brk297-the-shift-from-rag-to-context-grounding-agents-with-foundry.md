@@ -13,6 +13,7 @@ start: "2026-11-18T00:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Microsoft IQ"]
 topics: ["foundry-iq", "rag", "agentic-retrieval", "azure-ai-search", "knowledge-graphs"]
+categories: ["Data and grounding", "Microsoft Foundry", "Microsoft IQ"]
 ---
 
 # The shift from RAG to context: Grounding agents with Foundry IQ

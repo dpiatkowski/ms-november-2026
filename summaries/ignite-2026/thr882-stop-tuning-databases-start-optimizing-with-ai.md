@@ -13,6 +13,7 @@ start: "2026-11-19T18:10:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Data"]
 topics: ["database-optimization", "ai", "observability", "remediation", "fleet"]
+categories: ["Azure databases"]
 ---
 
 # Stop tuning databases, start optimizing with AI

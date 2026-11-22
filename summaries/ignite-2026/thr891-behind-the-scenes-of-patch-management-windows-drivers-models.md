@@ -13,6 +13,7 @@ start: "2026-11-18T18:10:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Windows", "Security in Windows", "Security", "Management controls", "Windows", "Windows Autopatch", "Windows Resiliency", "Work management", "Microsoft Intune", "Intune", "Cloud Endpoints"]
 topics: ["patch-management", "windows", "drivers", "models", "apps"]
+categories: ["Windows"]
 ---
 
 # Behind the scenes of patch management: Windows, drivers, models & apps

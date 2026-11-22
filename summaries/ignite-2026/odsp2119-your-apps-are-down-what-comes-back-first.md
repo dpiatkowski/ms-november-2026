@@ -13,6 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Data", "Resiliency", "Agents", "Microsoft 365"]
 topics: ["sponsor", "rubrik", "recovery", "minimum-viable-company", "business-continuity"]
+categories: ["Resilience"]
 ---
 
 # Your apps are down. What comes back first?

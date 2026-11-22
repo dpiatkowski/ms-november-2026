@@ -13,6 +13,7 @@ start: "2026-11-18T19:30:00Z"
 level: "(100) Foundational"
 ignite_topics: ["MAICPP"]
 topics: ["partner", "emea", "smec", "fy27-strategy"]
+categories: ["Partners and marketplace", "Small and medium business"]
 ---
 
 # EMEA Leadership Live: Accelerating Partner Impact for SME&C Customers​

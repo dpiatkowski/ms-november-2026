@@ -13,6 +13,7 @@ start: null
 level: "(100) Foundational"
 ignite_topics: ["Agentic Business Applications", "Agents", "Microsoft Teams", "Partner", "Software Development Company", "Copilot Chat", "MCP", "Microsoft Copilot", "Marketplace", "Microsoft 365", "Migration and modernization", "AI Transformation"]
 topics: ["sponsor", "eptura", "microsoft-places", "workplace", "copilot"]
+categories: ["Microsoft 365 Copilot", "Microsoft Teams"]
 ---
 
 # Connect Microsoft 365 and the built environment

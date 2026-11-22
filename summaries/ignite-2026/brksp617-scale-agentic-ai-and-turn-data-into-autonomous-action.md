@@ -13,6 +13,7 @@ start: "2026-11-18T21:45:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Data", "AI", "Agents", "Data governance", "Microsoft Foundry"]
 topics: ["sponsor", "azure-databricks", "azure-openai", "lakehouse", "agentic-ai", "data-governance"]
+categories: ["Building agents", "Data and grounding"]
 ---
 
 # Scale agentic AI and turn data into autonomous action

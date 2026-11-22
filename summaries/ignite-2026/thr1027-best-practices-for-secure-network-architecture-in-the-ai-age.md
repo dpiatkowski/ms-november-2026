@@ -13,6 +13,7 @@ start: "2026-11-19T17:35:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["network-security", "zero-trust", "segmentation", "ai-workloads", "multicloud"]
+categories: ["Azure infrastructure", "Zero trust"]
 ---
 
 # Best practices for secure network architecture in the AI age

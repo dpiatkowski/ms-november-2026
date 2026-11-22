@@ -13,6 +13,7 @@ start: "2026-11-19T00:15:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Microsoft IQ"]
 topics: ["foundry-iq", "knowledge-graphs", "rag", "agentic-retrieval", "azure-ai-search"]
+categories: ["Data and grounding", "Microsoft Foundry", "Microsoft IQ"]
 ---
 
 # Foundry IQ: Knowledge graphs for better enterprise context

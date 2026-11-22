@@ -13,6 +13,7 @@ start: "2026-11-20T17:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "Microsoft Copilot", "SMB", "Small Business", "SME&C", "SMB Partner", "Lean IT", "Corporate"]
 topics: ["copilot", "small-business", "plugins", "accounting"]
+categories: ["Microsoft 365 Copilot", "Small and medium business"]
 ---
 
 # Getting work done with Copilot as a small business

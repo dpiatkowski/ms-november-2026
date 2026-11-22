@@ -13,6 +13,7 @@ start: "2026-11-18T21:40:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Security", "Security", "AI Security", "Zero Trust", "Microsoft Intune", "Zero Trust for AI"]
 topics: ["sponsor", "asus", "intel", "endpoint-security", "hardware-root-of-trust", "post-quantum"]
+categories: ["Windows", "Zero trust"]
 ---
 
 # Trust that travels starts on the endpoint

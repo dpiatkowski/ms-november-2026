@@ -13,6 +13,7 @@ start: "2026-11-17T22:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "Microsoft Foundry", "Foundry IQ", "Observability and evaluation"]
 topics: ["foundry", "agents", "github", "vscode", "hosted-agents", "foundry-iq", "observability"]
+categories: ["Building agents", "Microsoft Foundry"]
 ---
 
 # Build and scale the next generation of AI agents in Microsoft Foundry

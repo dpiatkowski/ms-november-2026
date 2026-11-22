@@ -13,6 +13,7 @@ start: "2026-11-18T19:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Windows"]
 topics: ["sponsor", "dell", "windows", "copilot", "agentic-workplace"]
+categories: ["Building agents"]
 ---
 
 # Build the agentic workplace with Dell and Microsoft

@@ -13,6 +13,7 @@ start: "2026-11-19T18:10:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Data", "AI", "Agents", "Microsoft Foundry", "Customer"]
 topics: ["media", "collective-artists-network", "foundry", "agentic-pipeline", "customer-story"]
+categories: ["Industry solutions", "Microsoft Foundry"]
 ---
 
 # AI in pre-production: create smarter before the camera rolls

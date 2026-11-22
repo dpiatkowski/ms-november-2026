@@ -13,6 +13,7 @@ start: "2026-11-18T17:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "Microsoft Foundry", "Microsoft Copilot", "Model customization"]
 topics: ["microsoft-ai-models", "mai", "frontier-tuning", "foundry", "data-lineage"]
+categories: ["Microsoft Foundry"]
 ---
 
 # Turn enterprise data into a durable advantage with Microsoft AI models

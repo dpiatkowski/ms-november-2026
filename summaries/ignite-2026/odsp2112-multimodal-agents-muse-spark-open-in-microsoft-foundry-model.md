@@ -13,6 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI", "AI", "Agents", "Partner", "API", "Get Ready for AI", "AI Transformation"]
 topics: ["sponsor", "foundry-models", "multimodal", "muse-spark", "open-weight", "tool-calling"]
+categories: ["Microsoft Foundry"]
 ---
 
 # Multimodal agents: Muse Spark Open in Microsoft Foundry Models

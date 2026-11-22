@@ -13,6 +13,7 @@ start: null
 level: "(100) Foundational"
 ignite_topics: ["Agentic Business Applications", "Microsoft 365 apps", "Agents", "Marketplace", "Microsoft 365", "Lean IT", "AI Transformation"]
 topics: ["sponsor", "ai-coworkers", "it-service", "hr", "service-operations"]
+categories: ["IT operations"]
 ---
 
 # How AI coworkers can run IT, HR, and service operations

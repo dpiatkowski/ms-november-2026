@@ -13,6 +13,7 @@ start: "2026-11-19T22:45:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agentic Business Applications", "Agents", "Copilot Chat", "Microsoft Copilot", "Microsoft 365"]
 topics: ["nonprofit", "copilot", "agents", "grant-management"]
+categories: ["Building agents", "Industry solutions"]
 ---
 
 # From discovery to award: transforming grant management with AI agents

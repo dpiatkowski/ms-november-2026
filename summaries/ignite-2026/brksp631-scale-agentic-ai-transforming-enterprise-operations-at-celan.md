@@ -13,6 +13,7 @@ start: "2026-11-18T17:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI", "Agents"]
 topics: ["sponsor", "celanese", "ntt-data", "manufacturing", "agentic-ai", "customer-story"]
+categories: ["Building agents", "Industry solutions"]
 ---
 
 # Scale agentic AI: Transforming enterprise operations at Celanese

@@ -13,6 +13,7 @@ start: "2026-11-19T21:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["linux", "azure-migrate", "azure-monitor", "github-copilot", "migration"]
+categories: ["GitHub Copilot", "Migration and modernization"]
 ---
 
 # Plan, migrate, operate Linux estates with Azure and GitHub Copilot

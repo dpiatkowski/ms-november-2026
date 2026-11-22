@@ -13,6 +13,7 @@ start: "2026-11-20T00:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["azure-sre-agent", "sre", "reliability", "automation", "incident-response"]
+categories: ["Cloud operations"]
 ---
 
 # Scale operations, not toil, with your AI SRE teammate

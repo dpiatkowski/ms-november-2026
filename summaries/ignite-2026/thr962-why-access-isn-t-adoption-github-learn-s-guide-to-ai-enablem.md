@@ -13,6 +13,7 @@ start: "2026-11-20T17:35:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Other"]
 topics: ["github", "ai-enablement", "learning", "proficiency-modeling"]
+categories: ["Skilling and adoption"]
 ---
 
 # Why access isn't adoption: GitHub Learn's guide to AI enablement

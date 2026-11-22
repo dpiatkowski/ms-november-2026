@@ -13,6 +13,7 @@ start: "2026-11-19T22:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Microsoft IQ", "AI", "Partner", "Microsoft Foundry", "Microsoft Copilot", "Azure Copilot"]
 topics: ["sponsor", "mongodb", "live-data", "foundry-iq", "fabric-iq", "work-iq"]
+categories: ["Azure databases", "Data and grounding"]
 ---
 
 # Skip the pipelines and give AI live data with MongoDB

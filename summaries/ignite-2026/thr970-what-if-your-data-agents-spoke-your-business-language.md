@@ -13,6 +13,7 @@ start: "2026-11-20T17:00:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Data", "Other", "Data governance"]
 topics: ["fabric-iq", "ontology", "data-agents", "foundry", "business-language"]
+categories: ["Data and grounding", "Microsoft Fabric", "Microsoft Foundry", "Microsoft IQ"]
 ---
 
 # What if your data agents spoke your business language

@@ -13,6 +13,7 @@ start: "2026-11-17T23:15:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Agent Platform", "AI", "Agents", "Github Copilot", "GitHub", "Work IQ", "Azure Copilot", "Developer Tools"]
 topics: ["github-copilot", "parallel-agents", "autopilot", "pull-requests", "automation"]
+categories: ["GitHub Copilot"]
 ---
 
 # Ship more software with parallel agents in the GitHub Copilot app

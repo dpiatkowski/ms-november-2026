@@ -13,6 +13,7 @@ start: "2026-11-19T22:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["vmware", "azure", "migration", "sql-server", "oracle", "foundry"]
+categories: ["Azure infrastructure", "Migration and modernization"]
 ---
 
 # Bring VMware workloads to Azure and modernize with confidence​

@@ -13,6 +13,7 @@ start: "2026-11-19T22:45:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Data"]
 topics: ["azure-sql", "sql-server", "hyperscale", "hybrid", "customer-story"]
+categories: ["Azure databases"]
 ---
 
 # Why Azure is the best cloud for SQL

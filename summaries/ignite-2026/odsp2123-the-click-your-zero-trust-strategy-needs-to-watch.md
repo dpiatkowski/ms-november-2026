@@ -13,6 +13,7 @@ start: null
 level: "(300) Advanced"
 ignite_topics: ["Security", "AI controls", "AI Security", "Agents", "Zero Trust", "Zero Trust for AI", "Secure AI", "Agentic defense"]
 topics: ["sponsor", "zero-trust", "agent-identity", "prompt-injection", "print-scan"]
+categories: ["Zero trust"]
 ---
 
 # The click your Zero Trust strategy needs to watch

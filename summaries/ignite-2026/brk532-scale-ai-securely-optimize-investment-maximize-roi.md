@@ -13,6 +13,7 @@ start: "2026-11-18T19:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Frontier Transformation", "AI", "AI Transformation"]
 topics: ["ai-roi", "security", "investment", "executive"]
+categories: ["Frontier transformation"]
 ---
 
 # Scale AI securely. Optimize Investment. Maximize ROI.

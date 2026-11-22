@@ -13,6 +13,7 @@ start: "2026-11-19T19:40:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agentic Business Applications", "AI", "AI controls", "AI Security", "Agents", "Work IQ", "Microsoft Copilot", "Secure AI", "Get Ready for AI", "Microsoft Copilot Studio", "Shadow AI", "Fabric IQ", "Microsoft IQ", "Virtualization", "AI Transformation"]
 topics: ["sponsor", "cdata", "copilot-studio", "work-iq", "data-connectivity", "governance"]
+categories: ["Copilot Studio"]
 ---
 
 # Extend Copilot Studio agents to securely act on enterprise data

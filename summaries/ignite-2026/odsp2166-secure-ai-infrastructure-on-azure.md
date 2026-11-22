@@ -13,6 +13,7 @@ start: null
 level: "(100) Foundational"
 ignite_topics: ["Security"]
 topics: ["sponsor", "palo-alto", "ai-security", "azure", "firewall"]
+categories: ["Agentic security", "Azure infrastructure"]
 ---
 
 # Secure AI infrastructure on Azure

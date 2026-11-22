@@ -13,6 +13,7 @@ start: null
 level: "(100) Foundational"
 ignite_topics: ["Agentic Business Applications", "AI", "Agents", "Microsoft Teams", "Partner", "Work management", "AI Transformation"]
 topics: ["sponsor", "uipath", "procurement", "teams", "agents", "automation"]
+categories: ["Microsoft Teams"]
 ---
 
 # Agentic procurement in action: From a Teams request to a compliant PO

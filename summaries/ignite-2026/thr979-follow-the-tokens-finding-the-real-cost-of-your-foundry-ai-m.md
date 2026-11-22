@@ -13,6 +13,7 @@ start: "2026-11-18T00:40:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Cloud & AI", "MVP"]
 topics: ["foundry", "azure-monitor", "finops", "dotnet", "cost-tracking"]
+categories: ["FinOps", "Microsoft Foundry"]
 ---
 
 # Follow the Tokens: Finding the Real Cost of Your Foundry AI Models

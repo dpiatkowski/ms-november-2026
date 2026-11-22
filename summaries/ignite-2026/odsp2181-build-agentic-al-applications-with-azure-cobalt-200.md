@@ -13,6 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI", "Agents"]
 topics: ["sponsor", "arm", "azure-cobalt-200", "agentic-ai", "cpu"]
+categories: ["Azure infrastructure", "Building agents"]
 ---
 
 # Build agentic Al applications with Azure Cobalt 200

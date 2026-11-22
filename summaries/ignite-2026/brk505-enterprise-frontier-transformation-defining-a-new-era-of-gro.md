@@ -13,6 +13,7 @@ start: "2026-11-18T19:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Frontier Transformation"]
 topics: ["partner", "enterprise", "frontier-transformation", "ai-platform"]
+categories: ["Frontier transformation"]
 ---
 
 # Enterprise Frontier Transformation: Defining a New Era of Growth​

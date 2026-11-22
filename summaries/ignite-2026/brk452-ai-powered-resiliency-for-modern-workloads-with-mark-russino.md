@@ -13,6 +13,7 @@ start: "2026-11-18T21:45:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Cloud & AI", "AI", "Resiliency", "Security", "Azure Database for MySQL", "Microsoft Defender for Cloud", "Data loss prevention", "AI controls", "AI Security", "Accessibility", "Agents", "Multicloud", "Multicloud security", "Partner", "Data governance", "Azure Container Apps", "Software Development Company", "Threat Intelligence", "Windows Resiliency", "Zero Trust", "Copilot Chat", "Microsoft Copilot", "Community", "Microsoft Defender for Endpoint", "Customer", "Zero Trust for AI", "Secure AI", "Defend with AI", "Agentic defense", "Unified SecOps", "Defender Cloud Security Posture Management (CSPM)", "Agentic browsing", "Data protection"]
 topics: ["resilience", "mark-russinovich", "azure", "ai", "business-continuity"]
+categories: ["Resilience"]
 ---
 
 # AI-powered resiliency for modern workloads with Mark Russinovich

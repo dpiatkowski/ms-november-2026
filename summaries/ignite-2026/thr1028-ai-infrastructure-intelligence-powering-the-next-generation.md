@@ -13,6 +13,7 @@ start: "2026-11-18T17:35:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI", "Resiliency"]
 topics: ["ai-infrastructure", "gpu-efficiency", "predictive-analytics", "azure"]
+categories: ["Azure infrastructure"]
 ---
 
 # AI Infrastructure Intelligence: Powering the next generation of AI

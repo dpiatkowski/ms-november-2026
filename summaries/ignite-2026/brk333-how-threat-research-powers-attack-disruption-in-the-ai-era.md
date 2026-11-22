@@ -13,6 +13,7 @@ start: "2026-11-20T17:00:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Security", "Security", "Agents", "Threat Intelligence", "Get Ready for AI", "Microsoft Defender", "Secure your foundation"]
 topics: ["defender", "threat-research", "attack-disruption", "security-graph"]
+categories: ["Security operations"]
 ---
 
 # How Threat Research Powers Attack Disruption in the AI Era

@@ -13,6 +13,7 @@ start: "2026-11-18T17:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Microsoft IQ", "AI", "Agents", "Data governance", "Microsoft Foundry", "Secure AI"]
 topics: ["financial-services", "agents", "pimco", "customer-story", "governance"]
+categories: ["Industry solutions"]
 ---
 
 # Agentic AI in financial services: From assistants to business systems

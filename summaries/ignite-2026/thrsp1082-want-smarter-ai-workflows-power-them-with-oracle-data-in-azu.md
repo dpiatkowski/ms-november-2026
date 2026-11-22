@@ -13,6 +13,7 @@ start: "2026-11-18T19:40:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Data", "AI", "Multicloud"]
 topics: ["sponsor", "oracle", "azure", "oracle-ai-database", "microsoft-iq"]
+categories: ["Azure databases"]
 ---
 
 # Want smarter AI workflows? Power them with Oracle data in Azure

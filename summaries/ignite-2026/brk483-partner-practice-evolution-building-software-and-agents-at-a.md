@@ -13,6 +13,7 @@ start: "2026-11-18T23:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["partner", "software-development", "agents", "practice-building", "ip"]
+categories: ["Partners and marketplace"]
 ---
 
 # Partner Practice Evolution: Building Software and Agents at AI Speed​

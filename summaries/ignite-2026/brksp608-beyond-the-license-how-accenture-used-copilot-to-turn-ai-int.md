@@ -13,6 +13,7 @@ start: "2026-11-18T23:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "Agents", "Microsoft Copilot"]
 topics: ["sponsor", "accenture", "avanade", "copilot", "adoption", "customer-story"]
+categories: ["Microsoft 365 Copilot"]
 ---
 
 # Beyond the license: How Accenture used Copilot to turn AI into value

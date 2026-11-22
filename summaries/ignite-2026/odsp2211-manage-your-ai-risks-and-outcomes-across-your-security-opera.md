@@ -13,6 +13,7 @@ start: null
 level: "(100) Foundational"
 ignite_topics: ["Security", "AI", "Security in Windows", "Security", "Azure Database for MySQL", "Identity and network access", "Microsoft Defender for Cloud", "Azure Cosmos DB", "Windows 365", "Data loss prevention", "AI controls", "AI Security", "Microsoft Defender XDR", "Multicloud security", "Data governance", "Azure Container Apps", "Azure Databricks", "Threat Intelligence", "W365 Cloud Apps", "Windows", "Zero Trust", "Governance", "Cloud PC", "Azure Local", "Microsoft Purview", "Copilot for Security", "Cloud Endpoints", "Microsoft Defender for Endpoint", "Microsoft Sentinel", "Zero Trust for AI", "Secure AI", "Defend with AI", "Agentic defense", "Microsoft Defender", "Microsoft Agent 365", "Microsoft Defender Threat Intelligence", "Unified SecOps", "Defender Cloud Security Posture Management (CSPM)", "Microsoft Purview Insider Risk Management"]
 topics: ["sponsor", "cybermsi", "security-operations", "mdr", "ai-risk"]
+categories: ["Security operations"]
 ---
 
 # Manage your AI risks and outcomes across your security operations

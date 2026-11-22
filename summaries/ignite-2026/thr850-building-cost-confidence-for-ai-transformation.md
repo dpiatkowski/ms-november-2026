@@ -13,6 +13,7 @@ start: "2026-11-17T23:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "Agents", "Data governance", "Microsoft Copilot"]
 topics: ["ai-finops", "copilot-credits", "ai-flex-plans", "cost-governance"]
+categories: ["FinOps", "Frontier transformation"]
 ---
 
 # Building Cost Confidence for AI Transformation

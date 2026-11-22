@@ -13,6 +13,7 @@ start: "2026-11-18T19:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Security", "Security", "Governance", "Perception", "Defend with AI", "Defend with agents"]
 topics: ["security", "mai-models", "cyber-models", "evaluation", "vulnerability-analysis"]
+categories: ["Microsoft Defender", "Security operations"]
 ---
 
 # Behind the AI models built for security at scale

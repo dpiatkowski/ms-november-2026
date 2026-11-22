@@ -13,6 +13,7 @@ start: "2026-11-19T00:20:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Microsoft IQ"]
 topics: ["fabric-iq", "ontology", "grounding", "context-reuse"]
+categories: ["Microsoft Fabric", "Microsoft IQ"]
 ---
 
 # Build once, ground many with Fabric IQ

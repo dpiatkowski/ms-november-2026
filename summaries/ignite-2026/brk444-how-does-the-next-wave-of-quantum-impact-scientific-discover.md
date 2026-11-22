@@ -13,6 +13,7 @@ start: "2026-11-20T00:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["quantum", "microsoft-discovery", "scientific-rd", "agents"]
+categories: []
 ---
 
 # How does the next wave of quantum impact scientific discovery?

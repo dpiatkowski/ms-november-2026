@@ -13,6 +13,7 @@ start: "2026-11-20T17:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "Security", "Governance", "GitHub", "Developer Tools"]
 topics: ["github-code-quality", "autofix", "technical-debt", "governance"]
+categories: ["GitHub Copilot", "Migration and modernization", "Software engineering"]
 ---
 
 # Trusted code at scale, from legacy to AI

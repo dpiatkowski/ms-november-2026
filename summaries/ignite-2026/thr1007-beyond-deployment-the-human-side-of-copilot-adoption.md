@@ -13,6 +13,7 @@ start: "2026-11-20T17:00:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Copilot", "Microsoft Surface", "Community", "Microsoft 365"]
 topics: ["copilot", "adoption", "champions", "community", "change-management"]
+categories: ["Microsoft 365 Copilot", "Skilling and adoption"]
 ---
 
 # Beyond Deployment: The Human Side of Copilot Adoption

@@ -13,6 +13,7 @@ start: null
 level: "(100) Foundational"
 ignite_topics: ["Agentic Business Applications", "AI", "Windows 365", "Agents", "Microsoft Teams", "Microsoft Entra", "Windows", "Microsoft Intune", "Copilot Chat", "Intune", "Secure AI", "Get Ready for AI", "Windows Agents", "SMB", "Lean IT", "Knowledge retrieval", "AI Transformation"]
 topics: ["sponsor", "atera", "autonomous-it", "ticket-resolution", "demo"]
+categories: ["Cloud operations", "IT operations"]
 ---
 
 # See autonomous IT take on the ticket queue

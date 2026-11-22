@@ -13,6 +13,7 @@ start: "2026-11-18T00:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Frontier Transformation", "Agent Platform", "Cloud & AI", "Copilot", "Accessibility", "Agents", "Copilot Chat", "Microsoft Copilot", "Microsoft Agent 365"]
 topics: ["accessibility", "copilot", "agents", "inclusion"]
+categories: ["Accessibility"]
 ---
 
 # The AI Accessibility Flywheel: Ask, Act, Automate

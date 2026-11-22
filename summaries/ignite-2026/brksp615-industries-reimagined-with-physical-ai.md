@@ -13,6 +13,7 @@ start: "2026-11-19T18:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Data", "AI", "Agents", "Azure Virtual Desktop", "Multicloud", "Partner", "Microsoft Foundry", "VDI", "Windows", "Microsoft for Startups", "AVD", "Azure Copilot"]
 topics: ["sponsor", "nvidia", "physical-ai", "robotics", "autonomous-factories"]
+categories: ["Physical AI"]
 ---
 
 # Industries reimagined with physical AI

@@ -13,6 +13,7 @@ start: "2026-11-17T22:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Data"]
 topics: ["copilot", "rayfin", "app-platform", "fabric", "governance"]
+categories: ["Data and grounding", "Microsoft 365 Copilot", "Microsoft Fabric"]
 ---
 
 # Build like a startup. Deploy like an enterprise.

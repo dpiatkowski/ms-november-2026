@@ -13,6 +13,7 @@ start: "2026-11-19T18:15:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Agent Platform", "AI", "Agents", "Copilot administration", "Github Copilot", "Work management", "Governance", "GitHub", "Work IQ", "Developer Tools"]
 topics: ["github-copilot", "team-workflows", "code-review", "policies", "agents"]
+categories: ["GitHub Copilot"]
 ---
 
 # Build as a team with GitHub Copilot tailored to your workflow

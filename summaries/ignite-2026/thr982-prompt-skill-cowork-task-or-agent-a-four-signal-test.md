@@ -13,6 +13,7 @@ start: "2026-11-19T21:05:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "MVP"]
 topics: ["copilot", "decision-framework", "agents", "skills", "cowork"]
+categories: ["Microsoft 365 Copilot"]
 ---
 
 # Prompt, Skill, Cowork Task, or Agent? A Four-Signal Test

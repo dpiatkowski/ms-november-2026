@@ -13,6 +13,7 @@ start: "2026-11-18T23:00:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Cloud & AI"]
 topics: ["cobalt-200", "arm", "custom-silicon", "price-performance", "azure-vms"]
+categories: ["Azure infrastructure"]
 ---
 
 # Cobalt 200: Delivering Azure's best performance and efficiency

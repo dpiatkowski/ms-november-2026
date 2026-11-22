@@ -13,6 +13,7 @@ start: "2026-11-18T00:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Security"]
 topics: ["partner", "agent-365", "governance", "managed-services"]
+categories: ["Agent 365", "Partners and marketplace"]
 ---
 
 # Expanding the partner opportunity with Microsoft Agent 365​

@@ -13,6 +13,7 @@ start: "2026-11-19T19:30:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Frontier Transformation", "AI", "AI Security", "Secure AI", "AI Transformation"]
 topics: ["ai-governance", "risk-appetite", "security", "leadership"]
+categories: ["Responsible AI"]
 ---
 
 # Guardrails That Accelerate: Matching AI Ambition to Risk Appetite

@@ -13,6 +13,7 @@ start: null
 level: "(300) Advanced"
 ignite_topics: ["Frontier Transformation"]
 topics: ["sponsor", "harc-compose", "agent-governance", "trusted-engineering"]
+categories: ["Data and grounding", "Software engineering"]
 ---
 
 # Turn AI speed into trusted outcomes

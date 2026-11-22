@@ -13,6 +13,7 @@ start: "2026-11-18T00:30:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Data", "PostgreSQL", "Azure HorizonDB", "Knowledge retrieval"]
 topics: ["azure-horizondb", "postgresql", "vector-search", "knowledge-graphs", "ai-pipelines"]
+categories: ["Azure databases"]
 ---
 
 # Build integrated AI apps with Azure HorizonDB

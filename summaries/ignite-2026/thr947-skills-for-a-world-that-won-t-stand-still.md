@@ -13,6 +13,7 @@ start: "2026-11-19T17:35:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Frontier Transformation", "Other", "AI", "Get Ready for AI", "AI Transformation"]
 topics: ["skilling", "human-skills", "continuous-learning", "flow-of-work"]
+categories: ["Skilling and adoption"]
 ---
 
 # Skills for a world that won't stand still

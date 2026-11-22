@@ -13,6 +13,7 @@ start: "2026-11-19T18:10:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI", "Security", "Microsoft Defender for Cloud", "AI Security", "Azure Copilot", "Get Ready for AI"]
 topics: ["sponsor", "software-supply-chain", "aks", "defender-for-cloud", "trusted-open-source"]
+categories: ["Agentic security", "Azure infrastructure", "Microsoft Defender", "Software engineering"]
 ---
 
 # Protect your software supply chain from agents of chaos

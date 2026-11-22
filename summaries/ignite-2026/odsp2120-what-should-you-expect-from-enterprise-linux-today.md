@@ -13,6 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI", "Resiliency", "Security", "Multicloud", "Partner", "Software Development Company", "Community", "Azure Copilot", "Get Ready for AI"]
 topics: ["sponsor", "linux", "ubuntu", "landscape", "enterprise-linux", "entra-id"]
+categories: ["Azure infrastructure"]
 ---
 
 # What should you expect from Enterprise Linux today?

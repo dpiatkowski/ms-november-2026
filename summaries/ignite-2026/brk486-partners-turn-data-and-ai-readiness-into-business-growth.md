@@ -13,6 +13,7 @@ start: "2026-11-19T18:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["partner", "data-ai-readiness", "fabric", "foundry", "microsoft-iq"]
+categories: ["Partners and marketplace"]
 ---
 
 # Partners: Turn Data and AI Readiness into Business Growth

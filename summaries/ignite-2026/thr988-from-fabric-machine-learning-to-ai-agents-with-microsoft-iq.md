@@ -13,6 +13,7 @@ start: "2026-11-20T01:30:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Data", "MVP"]
 topics: ["fabric", "machine-learning", "churn", "ai-functions", "data-agent", "microsoft-iq"]
+categories: ["Microsoft Fabric", "Microsoft IQ"]
 ---
 
 # From Fabric Machine Learning to AI Agents with Microsoft IQ

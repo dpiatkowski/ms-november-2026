@@ -13,6 +13,7 @@ start: "2026-11-17T23:15:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Agent Platform", "Agentic Business Applications", "Copilot"]
 topics: ["partner", "copilot", "cowork", "ai-services"]
+categories: ["Frontier transformation", "Partners and marketplace"]
 ---
 
 # Frontier Transformation: AI Business Solutions Partner Opportunity

@@ -13,6 +13,7 @@ start: "2026-11-18T22:50:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agentic Business Applications", "Agents"]
 topics: ["copilot-studio", "app-building", "coding-agent", "low-code"]
+categories: ["Copilot Studio"]
 ---
 
 # Build an enterprise app from a single prompt with Copilot Studio

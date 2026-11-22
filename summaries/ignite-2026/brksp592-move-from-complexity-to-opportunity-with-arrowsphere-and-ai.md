@@ -13,6 +13,7 @@ start: "2026-11-18T21:45:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Agent Platform", "Agents", "Microsoft Copilot"]
 topics: ["partner", "distribution", "arrowsphere", "agents", "sales"]
+categories: ["Building agents", "Partners and marketplace"]
 ---
 
 # Move from complexity to opportunity with ArrowSphere and AI Agents

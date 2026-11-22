@@ -13,6 +13,7 @@ start: "2026-11-18T00:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["azure-monitor", "observability", "health-models", "fabric", "agents"]
+categories: ["Cloud operations"]
 ---
 
 # Drive modern operations with Azure Monitor

@@ -13,6 +13,7 @@ start: "2026-11-19T23:25:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agentic Business Applications", "AI", "Observability", "Security", "Identity and network access", "Data loss prevention", "AI controls", "AI Security", "Agents", "Management controls", "Data governance", "Windows AI Foundry", "Zero Trust", "Governance", "MCP", "Skills", "Perception", "Zero Trust for AI", "Secure AI", "Get Ready for AI", "Defend with AI", "Agentic defense", "Data protection", "Shadow AI", "Windows Agents", "FinOps", "Observability and evaluation", "Expertise", "AI Transformation", "Sovereignty & Compliance"]
 topics: ["sponsor", "agent-authority", "delegation", "trust", "governance"]
+categories: ["Agent governance"]
 ---
 
 # Why are we still treating AI agents as software?

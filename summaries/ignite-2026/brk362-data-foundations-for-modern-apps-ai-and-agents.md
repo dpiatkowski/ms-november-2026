@@ -13,6 +13,7 @@ start: "2026-11-18T17:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Data", "Fabric IQ", "Migration and modernization"]
 topics: ["databases", "data-platform", "ai-agents", "modernization", "azure"]
+categories: ["Azure databases", "Data and grounding"]
 ---
 
 # Data foundations for modern apps, AI, and agents

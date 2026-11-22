@@ -13,6 +13,7 @@ start: "2026-11-18T18:10:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI", "Migration and modernization", "AI Transformation", "Cloud Operations", "Cloud Migration", "Application Modernization"]
 topics: ["sponsor", "concierto", "sovereign-ai", "modernization", "private-inference"]
+categories: ["Migration and modernization", "Sovereignty and hybrid"]
 ---
 
 # Transform your legacy estate for sovereign AI

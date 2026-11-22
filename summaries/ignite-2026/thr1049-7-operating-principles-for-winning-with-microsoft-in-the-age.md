@@ -13,6 +13,7 @@ start: "2026-11-19T22:50:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["MAICPP", "Community"]
 topics: ["partner", "operating-principles", "co-sell", "marketplace", "fy27"]
+categories: ["Partners and marketplace"]
 ---
 
 # 7 Operating Principles for Winning with Microsoft in the Age of AI

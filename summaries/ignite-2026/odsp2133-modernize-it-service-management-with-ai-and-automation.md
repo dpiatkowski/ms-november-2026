@@ -13,6 +13,7 @@ start: null
 level: "(300) Advanced"
 ignite_topics: ["Cloud & AI", "AI", "Analytics", "Microsoft Teams", "Microsoft Intune", "Intune", "Microsoft 365"]
 topics: ["sponsor", "itsm", "azure-ai", "teamdynamix", "automation"]
+categories: ["IT operations", "Migration and modernization"]
 ---
 
 # Modernize IT service management with AI and automation

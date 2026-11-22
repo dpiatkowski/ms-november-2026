@@ -13,6 +13,7 @@ start: "2026-11-17T23:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "AI", "Agents"]
 topics: ["healthcare", "dragon-copilot", "copilot-studio", "clinical-workflows", "customer-story"]
+categories: ["Industry solutions"]
 ---
 
 # Reimagining clinical workflows: A Brown University Health story

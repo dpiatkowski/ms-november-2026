@@ -13,6 +13,7 @@ start: "2026-11-18T23:00:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Data", "Customer"]
 topics: ["financial-services", "lseg", "ontology", "retrieval", "citations", "customer-story"]
+categories: ["Data and grounding", "Industry solutions"]
 ---
 
 # From Market Signals to Trusted Intelligence: LSEG's AI Architecture

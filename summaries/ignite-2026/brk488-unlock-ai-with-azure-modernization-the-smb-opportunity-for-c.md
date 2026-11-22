@@ -13,6 +13,7 @@ start: "2026-11-17T23:15:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Cloud & AI", "SMB", "Small Business", "SME&C", "SMB Partner", "Lean IT", "Corporate"]
 topics: ["partner", "csp", "smb", "azure-sql", "database-modernization"]
+categories: ["Migration and modernization", "Small and medium business"]
 ---
 
 # Unlock AI with Azure Modernization: The SMB Opportunity for CSPs

@@ -13,6 +13,7 @@ start: "2026-11-18T00:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "AI", "Agents", "Microsoft Copilot"]
 topics: ["licensing", "benefits", "adoption", "investment"]
+categories: ["Dynamics 365", "Microsoft 365 Copilot", "Microsoft IQ"]
 ---
 
 # What Microsoft Benefit Is Right for Your Use Case?

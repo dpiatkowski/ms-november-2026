@@ -13,6 +13,7 @@ start: "2026-11-17T22:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "Agents", "Microsoft Intune", "Azure HorizonDB", "Microsoft Agent 365"]
 topics: ["agent-365", "shadow-ai", "agent-risk", "zenity", "runtime-security"]
+categories: ["Agent governance"]
 ---
 
 # Monday morning triage: from Shadow AI to Governed AI in minutes

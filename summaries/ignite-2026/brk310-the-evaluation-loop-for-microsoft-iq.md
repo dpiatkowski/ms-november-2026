@@ -13,6 +13,7 @@ start: "2026-11-20T18:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Microsoft IQ"]
 topics: ["microsoft-iq", "evaluation", "context-engineering", "rag", "quality"]
+categories: ["Evaluation and observability", "Microsoft IQ"]
 ---
 
 # The evaluation loop for Microsoft IQ

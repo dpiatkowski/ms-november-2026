@@ -13,6 +13,7 @@ start: "2026-11-17T22:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Microsoft IQ"]
 topics: ["foundry-iq", "pablo-castro", "azure-unplugged", "knowledge"]
+categories: ["Microsoft Foundry", "Microsoft IQ"]
 ---
 
 # Azure Unplugged: Foundry IQ with Pablo Castro

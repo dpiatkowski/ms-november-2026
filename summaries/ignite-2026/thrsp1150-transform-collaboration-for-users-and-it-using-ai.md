@@ -13,6 +13,7 @@ start: "2026-11-20T00:20:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI", "AI", "Microsoft Teams", "Partner", "Customer"]
 topics: ["sponsor", "collaboration", "meeting-rooms", "it-admin", "ai"]
+categories: ["IT operations", "Microsoft Teams"]
 ---
 
 # Transform collaboration for users and IT using AI

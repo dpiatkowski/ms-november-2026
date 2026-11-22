@@ -13,6 +13,7 @@ start: "2026-11-19T17:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Microsoft IQ"]
 topics: ["microsoft-iq", "work-iq", "fabric-iq", "foundry-iq", "web-iq", "agents"]
+categories: ["Data and grounding", "Microsoft IQ"]
 ---
 
 # Building context-aware agents with Microsoft IQ

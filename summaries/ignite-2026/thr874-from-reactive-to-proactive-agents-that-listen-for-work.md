@@ -13,6 +13,7 @@ start: "2026-11-18T18:10:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Microsoft IQ"]
 topics: ["agents", "event-driven", "proactive-agents", "human-in-the-loop"]
+categories: ["Building agents"]
 ---
 
 # From reactive to proactive: Agents that listen for work

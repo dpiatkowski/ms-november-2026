@@ -13,6 +13,7 @@ start: "2026-11-18T20:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "AI controls", "AI Security", "D&I", "Agents", "Github Copilot", "Microsoft 365", "AI Transformation"]
 topics: ["sponsor", "quest-diagnostics", "hcltech", "github-copilot", "modernization", "customer-story"]
+categories: ["Industry solutions"]
 ---
 
 # How Quest Diagnostics is improving the laboratory testing experience

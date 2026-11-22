@@ -13,6 +13,7 @@ start: null
 level: "(100) Foundational"
 ignite_topics: ["Data", "AI", "Agents", "Partner", "Data governance", "Software Development Company", "Governance", "Get Ready for AI"]
 topics: ["sponsor", "reltio", "sap", "master-data", "agentic-ai", "context"]
+categories: ["Data and grounding"]
 ---
 
 # Give AI agents data they can trust

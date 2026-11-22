@@ -13,6 +13,7 @@ start: "2026-11-19T19:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Frontier Transformation", "Copilot"]
 topics: ["partner", "frontier-transformation", "industry-solutions", "recurring-revenue"]
+categories: ["Frontier transformation", "Partners and marketplace"]
 ---
 
 # Frontier Transformation: The Trillion-Dollar Partner Opportunity

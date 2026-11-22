@@ -13,6 +13,7 @@ start: "2026-11-19T21:40:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Agentic Business Applications"]
 topics: ["partner", "ai-monetization", "ip", "agentic-solutions"]
+categories: ["Partners and marketplace"]
 ---
 
 # From Experimentation to Monetizing AI

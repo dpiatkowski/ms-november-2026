@@ -13,6 +13,7 @@ start: "2026-11-19T17:35:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "Microsoft 365 apps", "D&I", "Accessibility", "Microsoft Copilot"]
 topics: ["microsoft-365", "accessibility", "math", "latex", "mathml"]
+categories: ["Accessibility"]
 ---
 
 # Math in Microsoft 365: Easier to Create, Share, and Understand

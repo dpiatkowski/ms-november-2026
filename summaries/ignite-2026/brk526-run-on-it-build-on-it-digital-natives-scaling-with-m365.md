@@ -13,6 +13,7 @@ start: "2026-11-19T21:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI", "Microsoft Copilot", "Microsoft 365"]
 topics: ["partner", "digital-natives", "microsoft-365", "mcp", "agent-365", "customer-story"]
+categories: ["Agent 365", "Microsoft 365 Copilot"]
 ---
 
 # Run on it, Build on it: Digital Natives Scaling with M365​

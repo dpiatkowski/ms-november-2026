@@ -13,6 +13,7 @@ start: "2026-11-19T19:30:00Z"
 level: "(400) Expert"
 ignite_topics: ["Windows", "AI", "Management controls", "Windows", "Windows Developer", "Azure Copilot", "Azure HorizonDB", "Microsoft Foundry on Windows", "Unmetered Intelligence"]
 topics: ["windows-ml", "local-ai", "on-device", "npu", "enterprise-deployment"]
+categories: ["Windows"]
 ---
 
 # Build and deploy local AI at scale across enterprise PCs w/ Windows ML

@@ -13,6 +13,7 @@ start: "2026-11-20T01:15:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Agent Platform", "Microsoft Foundry", "Foundry IQ"]
 topics: ["foundry", "agents", "azure-ai-landing-zones", "production", "architecture"]
+categories: ["Azure infrastructure", "Microsoft Foundry"]
 ---
 
 # Production-ready Microsoft Foundry agents with Azure AI Landing Zones

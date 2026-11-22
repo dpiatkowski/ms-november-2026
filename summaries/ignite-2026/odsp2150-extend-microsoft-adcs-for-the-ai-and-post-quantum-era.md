@@ -13,6 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Security", "AI", "Security", "AI Security", "Azure Container Apps", "Azure Databricks", "Threat Intelligence", "Zero Trust", "Zero Trust for AI", "Get Ready for AI", "Agentic defense"]
 topics: ["sponsor", "entrust", "adcs", "pki", "post-quantum", "hsm"]
+categories: ["Microsoft Entra", "Zero trust"]
 ---
 
 # Extend Microsoft ADCS for the AI and post-quantum era

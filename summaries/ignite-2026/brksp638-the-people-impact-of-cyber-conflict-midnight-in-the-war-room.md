@@ -13,6 +13,7 @@ start: "2026-11-18T19:30:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Security", "Security", "Identity and network access", "AI Security", "Threat Intelligence"]
 topics: ["sponsor", "cyber-conflict", "documentary", "human-impact", "security-culture"]
+categories: ["Security operations"]
 ---
 
 # The people impact of cyber conflict: Midnight in the War Room

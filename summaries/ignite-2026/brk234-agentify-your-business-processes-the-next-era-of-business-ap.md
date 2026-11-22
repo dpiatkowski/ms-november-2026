@@ -13,6 +13,7 @@ start: "2026-11-17T22:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agentic Business Applications", "Agents"]
 topics: ["dynamics-365", "agents", "business-processes", "business-applications"]
+categories: ["Building agents", "Dynamics 365"]
 ---
 
 # Agentify your business processes-the next era of business applications

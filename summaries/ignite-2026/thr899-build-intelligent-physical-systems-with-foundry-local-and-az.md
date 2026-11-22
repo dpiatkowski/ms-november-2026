@@ -13,6 +13,7 @@ start: "2026-11-19T22:50:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["foundry-local", "azure-local", "physical-ai", "edge", "sovereign"]
+categories: ["Azure infrastructure", "Microsoft Foundry", "Sovereignty and hybrid"]
 ---
 
 # Build intelligent physical systems with Foundry Local and Azure Local

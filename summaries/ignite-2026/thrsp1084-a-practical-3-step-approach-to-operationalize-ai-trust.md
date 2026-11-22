@@ -13,6 +13,7 @@ start: "2026-11-20T01:15:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Security", "AI", "Security", "AI controls", "AI Security", "Agents", "Multicloud security", "Data governance", "Azure Container Apps", "SharePoint", "Zero Trust", "Zero Trust for AI", "Secure AI", "Get Ready for AI", "Agentic defense"]
 topics: ["sponsor", "ai-trust", "agent-risk", "framework", "mvp"]
+categories: ["Agent governance", "Responsible AI"]
 ---
 
 # A practical 3 step approach to operationalize AI trust

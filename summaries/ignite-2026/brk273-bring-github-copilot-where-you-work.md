@@ -13,6 +13,7 @@ start: "2026-11-20T18:15:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Agent Platform", "AI", "Agents", "Microsoft Teams", "Github Copilot", "GitHub", "Developer Tools"]
 topics: ["github-copilot", "ides", "terminal", "teams", "slack", "mobile"]
+categories: ["GitHub Copilot"]
 ---
 
 # Bring GitHub Copilot where you work

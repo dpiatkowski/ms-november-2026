@@ -13,6 +13,7 @@ start: "2026-11-19T18:15:00Z"
 level: "(400) Expert"
 ignite_topics: ["Windows", "Security in Windows", "Windows", "Windows Developer", "Governance", "Azure Copilot"]
 topics: ["wsl", "containers", "linux", "windows", "enterprise-dev"]
+categories: ["Windows"]
 ---
 
 # Inside WSL containers for application development ​

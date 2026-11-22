@@ -13,6 +13,7 @@ start: "2026-11-19T17:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "Agents", "Microsoft Copilot", "Microsoft Agent 365"]
 topics: ["copilot", "cowork", "plugins", "legal", "finance", "sales"]
+categories: ["Microsoft 365 Copilot"]
 ---
 
 # What's new in Microsoft Copilot for functional roles

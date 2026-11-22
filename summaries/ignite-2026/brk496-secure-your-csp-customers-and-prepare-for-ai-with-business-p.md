@@ -13,6 +13,7 @@ start: "2026-11-18T00:30:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Security", "Copilot", "SMB", "Small Business", "SME&C", "SMB Partner", "Lean IT", "Corporate"]
 topics: ["partner", "csp", "business-premium", "security", "smb"]
+categories: ["Partners and marketplace"]
 ---
 
 # Secure your CSP customers and prepare for AI with Business Premium​

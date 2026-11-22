@@ -13,6 +13,7 @@ start: "2026-11-19T17:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["MAICPP"]
 topics: ["partner", "incentives", "fy27", "copilot", "security"]
+categories: ["Partners and marketplace"]
 ---
 
 # Accelerate Growth through Partner Incentives

@@ -13,6 +13,7 @@ start: null
 level: "(300) Advanced"
 ignite_topics: ["Windows", "Software Development Company", "Windows", "Microsoft Intune", "Intune", "MVP", "Cloud Endpoints"]
 topics: ["sponsor", "autopilot", "intune", "mcp", "telemetry", "diagnostics"]
+categories: ["MCP", "Microsoft Intune", "Windows"]
 ---
 
 # Take the mystery out of Autopilot enrollment

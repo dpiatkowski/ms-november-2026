@@ -13,6 +13,7 @@ start: "2026-11-18T22:15:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Other"]
 topics: ["ai-skills-navigator", "agentic-learning", "learning-paths"]
+categories: ["Skilling and adoption"]
 ---
 
 # Experience agentic learning with AI Skills Navigator

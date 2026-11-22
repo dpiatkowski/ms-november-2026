@@ -13,6 +13,7 @@ start: "2026-11-19T21:35:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI", "Data loss prevention", "Multicloud", "Multicloud security", "Zero Trust"]
 topics: ["sponsor", "nutanix", "azure", "disaster-recovery", "hybrid"]
+categories: ["Resilience", "Sovereignty and hybrid"]
 ---
 
 # Go from outage to online with hybrid cloud disaster recovery

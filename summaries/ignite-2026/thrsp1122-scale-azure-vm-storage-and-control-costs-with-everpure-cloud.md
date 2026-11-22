@@ -13,6 +13,7 @@ start: "2026-11-19T19:40:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI", "Multicloud", "Data protection", "FinOps", "Azure storage", "Migration and modernization", "Virtualization", "VMware", "Azure Infrastructure", "Cloud Migration", "Application Modernization"]
 topics: ["sponsor", "everpure", "azure-storage", "finops", "vm-storage"]
+categories: ["Azure infrastructure", "FinOps"]
 ---
 
 # Scale Azure VM storage and control costs with Everpure Cloud

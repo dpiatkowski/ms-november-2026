@@ -13,6 +13,7 @@ start: "2026-11-19T21:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "Microsoft Teams"]
 topics: ["teams", "agents", "digital-teammates", "human-agent-collaboration"]
+categories: ["Microsoft Teams"]
 ---
 
 # Beyond the Agent: Building Digital Teammates in Microsoft Teams

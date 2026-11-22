@@ -13,6 +13,7 @@ start: "2026-11-18T18:15:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Microsoft IQ"]
 topics: ["microsoft-iq", "agents", "context", "fabric", "work-iq"]
+categories: ["Building agents", "Microsoft IQ"]
 ---
 
 # Microsoft IQ: Build trusted AI agents that know your business

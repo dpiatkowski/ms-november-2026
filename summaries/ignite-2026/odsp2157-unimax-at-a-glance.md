@@ -13,6 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Windows", "Microsoft 365 apps", "Windows 365", "Microsoft Teams", "Management controls", "Software Development Company", "Windows", "Windows Apps", "Governance", "MVP", "Microsoft 365", "Unified SecOps", "SMB", "Small Business", "Migration and modernization", "Corporate"]
 topics: ["sponsor", "unimax", "unified-communications", "management"]
+categories: []
 ---
 
 # Unimax at a Glance

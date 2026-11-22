@@ -13,6 +13,7 @@ start: "2026-11-19T19:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Security", "AI Security", "Microsoft Sentinel", "Defend with AI"]
 topics: ["sponsor", "accenture", "avanade", "soc", "agent-security", "non-human-identity"]
+categories: ["Security operations"]
 ---
 
 # You can't defend an AI-powered enterprise with yesterday's SOC

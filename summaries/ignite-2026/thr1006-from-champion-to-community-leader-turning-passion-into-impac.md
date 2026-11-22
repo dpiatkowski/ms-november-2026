@@ -13,6 +13,7 @@ start: "2026-11-20T00:20:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Copilot", "Microsoft Surface", "Community", "Microsoft 365"]
 topics: ["community", "career", "speaking", "mvp"]
+categories: []
 ---
 
 # From Champion to Community Leader: Turning Passion into Impact

@@ -13,6 +13,7 @@ start: "2026-11-18T19:30:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Copilot", "Agents", "Microsoft Copilot"]
 topics: ["employee-self-service", "agents", "hr", "it-support", "governance"]
+categories: ["Building agents", "IT operations", "Microsoft 365 Copilot"]
 ---
 
 # Employee Self-Service to Enterprise Scale: Managing Intelligent Agents

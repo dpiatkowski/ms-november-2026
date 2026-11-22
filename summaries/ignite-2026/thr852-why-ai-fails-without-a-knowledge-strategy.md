@@ -13,6 +13,7 @@ start: "2026-11-18T00:40:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "AI", "Microsoft Copilot"]
 topics: ["knowledge-strategy", "ai-readiness", "work-iq", "enterprise-search"]
+categories: ["Data and grounding"]
 ---
 
 # Why AI Fails Without a Knowledge Strategy

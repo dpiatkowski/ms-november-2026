@@ -13,6 +13,7 @@ start: "2026-11-19T18:45:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Data", "Agents", "Partner", "Data governance", "Governance", "Marketplace", "Copilot Analytics", "Customer"]
 topics: ["sponsor", "quantum-ai", "sas", "optimization", "hybrid-experimentation"]
+categories: []
 ---
 
 # Apply quantum AI to complex business decisions

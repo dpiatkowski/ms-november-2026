@@ -13,6 +13,7 @@ start: "2026-11-18T23:00:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Security", "Windows", "AI controls", "Agents", "Windows", "Windows Developer", "Governance", "Azure Copilot", "Intune", "Microsoft Purview", "Microsoft Defender"]
 topics: ["windows", "agents", "governance", "intune", "entra", "defender", "purview"]
+categories: ["Agent governance", "Windows"]
 ---
 
 # Manage and Govern AI Agents on Windows as Your Trusted Execution Layer

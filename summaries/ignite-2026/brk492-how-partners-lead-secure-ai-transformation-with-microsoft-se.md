@@ -13,6 +13,7 @@ start: "2026-11-17T22:00:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Security", "Cloud & AI"]
 topics: ["partner", "security", "fy27-strategy", "managed-services"]
+categories: ["Frontier transformation", "Partners and marketplace"]
 ---
 
 # How partners lead secure AI transformation with Microsoft Security

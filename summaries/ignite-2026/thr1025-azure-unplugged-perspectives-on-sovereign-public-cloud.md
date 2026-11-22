@@ -13,6 +13,7 @@ start: "2026-11-18T22:50:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["azure-unplugged", "sovereign-cloud", "azure-local", "adaptive-cloud"]
+categories: ["Sovereignty and hybrid"]
 ---
 
 # Azure Unplugged: Perspectives on sovereign public cloud

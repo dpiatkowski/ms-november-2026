@@ -13,6 +13,7 @@ start: null
 level: "(100) Foundational"
 ignite_topics: ["Cloud & AI", "Microsoft Teams"]
 topics: ["sponsor", "neat", "teams-rooms", "collaboration", "devices"]
+categories: ["Microsoft Teams"]
 ---
 
 # Future of AI collaboration in the workplace with Neat and Microsoft

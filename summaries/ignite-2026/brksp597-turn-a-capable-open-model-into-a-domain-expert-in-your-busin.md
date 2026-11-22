@@ -13,6 +13,7 @@ start: "2026-11-18T19:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "AI", "Agents", "Partner", "Windows AI Foundry", "API"]
 topics: ["sponsor", "nvidia", "nemotron", "foundry", "reinforcement-learning", "ey"]
+categories: ["Microsoft Foundry"]
 ---
 
 # Turn a capable open model into a domain expert in your business

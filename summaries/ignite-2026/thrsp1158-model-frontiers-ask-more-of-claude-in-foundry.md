@@ -13,6 +13,7 @@ start: "2026-11-17T23:10:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI", "AI", "Agents", "Microsoft Foundry", "Model customization", "Observability and evaluation"]
 topics: ["sponsor", "anthropic", "claude", "foundry", "evaluation", "context-management", "memory"]
+categories: ["Microsoft Foundry"]
 ---
 
 # Model Frontiers: Ask more of Claude in Foundry

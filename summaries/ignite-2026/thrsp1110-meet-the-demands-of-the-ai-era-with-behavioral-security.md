@@ -13,6 +13,7 @@ start: "2026-11-19T17:35:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Security", "AI", "Security", "Microsoft 365", "Secure AI", "Defend with AI"]
 topics: ["sponsor", "behavioral-security", "ai-security", "risk-context"]
+categories: ["Security operations"]
 ---
 
 # Meet the demands of the AI era with behavioral security

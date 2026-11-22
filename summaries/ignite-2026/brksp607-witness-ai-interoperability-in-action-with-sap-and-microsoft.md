@@ -13,6 +13,7 @@ start: "2026-11-18T23:00:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Agentic Business Applications", "AI", "Agents", "Data governance", "Microsoft Copilot"]
 topics: ["sponsor", "sap", "joule", "copilot", "interoperability"]
+categories: ["Dynamics 365", "Microsoft 365 Copilot"]
 ---
 
 # Witness AI interoperability in action with SAP and Microsoft

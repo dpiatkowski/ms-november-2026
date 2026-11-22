@@ -13,6 +13,7 @@ start: "2026-11-18T22:15:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Copilot"]
 topics: ["verizon", "5g-pcs", "roi", "field-productivity", "sponsor"]
+categories: []
 ---
 
 # Unlock up to 50% ROI with PCs powered by Verizon 5G

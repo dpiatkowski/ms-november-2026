@@ -13,6 +13,7 @@ start: null
 level: "(300) Advanced"
 ignite_topics: ["Security", "AI", "Security", "AI controls", "Microsoft Teams", "Microsoft Entra", "Microsoft Foundry", "SharePoint", "Microsoft Intune", "Microsoft Purview", "Microsoft 365", "Shadow AI"]
 topics: ["sponsor", "foxit", "documents", "ai-assistant", "foundry", "entra", "purview"]
+categories: ["Microsoft 365 Copilot", "Microsoft Foundry"]
 ---
 
 # AI, security, and Microsoft 365 integrations with Foxit

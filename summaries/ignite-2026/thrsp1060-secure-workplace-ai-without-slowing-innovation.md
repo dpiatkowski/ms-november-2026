@@ -13,6 +13,7 @@ start: "2026-11-17T22:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Security", "AI", "Security in Windows", "Security", "Data loss prevention", "AI controls", "AI Security", "Azure Databricks", "Threat Intelligence", "Windows", "Zero Trust", "Cloud Endpoints", "Zero Trust for AI", "Secure AI", "Get Ready for AI", "Defend with AI"]
 topics: ["sponsor", "workplace-ai", "data-exposure", "risk-mitigation"]
+categories: ["Agentic security", "Microsoft 365 Copilot"]
 ---
 
 # Secure workplace AI without slowing innovation

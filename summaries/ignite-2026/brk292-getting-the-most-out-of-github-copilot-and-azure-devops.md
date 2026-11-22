@@ -13,6 +13,7 @@ start: "2026-11-19T21:30:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Agent Platform", "GitHub", "Developer Tools"]
 topics: ["azure-devops", "github-copilot", "mcp", "code-review", "advanced-security"]
+categories: ["GitHub Copilot"]
 ---
 
 # Getting the most out of GitHub Copilot and Azure DevOps

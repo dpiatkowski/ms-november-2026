@@ -13,6 +13,7 @@ start: "2026-11-19T17:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agentic Business Applications"]
 topics: ["partner", "power-apps", "copilot-studio", "agents", "workflows"]
+categories: ["Partners and marketplace"]
 ---
 
 # Partners: Unlock growth with AI across apps, agents, and workflows​

@@ -13,6 +13,7 @@ start: "2026-11-19T19:30:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Cloud & AI", "AI", "Azure Database for MySQL", "Agents", "Data governance", "Microsoft Foundry", "Copilot Chat", "Microsoft Copilot", "Azure Copilot", "Get Ready for AI"]
 topics: ["sponsor", "fabric", "github-copilot", "data-engineering", "bi"]
+categories: ["GitHub Copilot", "Microsoft Fabric"]
 ---
 
 # Build AI-powered Microsoft Fabric workflows with GitHub Copilot

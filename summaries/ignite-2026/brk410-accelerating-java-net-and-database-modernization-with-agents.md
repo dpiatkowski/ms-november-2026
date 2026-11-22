@@ -13,6 +13,7 @@ start: "2026-11-18T21:45:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Cloud & AI"]
 topics: ["modernization", "java", "dotnet", "github-copilot", "database-migration", "containerization"]
+categories: ["Azure databases", "Migration and modernization", "Software engineering"]
 ---
 
 # Accelerating Java, .NET, and database modernization with agents

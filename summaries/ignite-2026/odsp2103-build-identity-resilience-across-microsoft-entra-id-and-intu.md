@@ -13,6 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Security", "Resiliency", "Security", "Identity and network access", "Microsoft Entra", "Zero Trust", "Microsoft Intune", "Zero Trust for AI"]
 topics: ["sponsor", "entra-id", "intune", "identity-resilience", "backup", "backupta"]
+categories: ["Microsoft Entra", "Microsoft Intune", "Resilience"]
 ---
 
 # Build identity resilience across Microsoft Entra ID and Intune

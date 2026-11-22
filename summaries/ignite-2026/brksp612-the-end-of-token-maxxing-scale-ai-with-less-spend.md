@@ -13,6 +13,7 @@ start: "2026-11-18T21:45:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Data", "AI", "Microsoft Foundry", "Azure Copilot"]
 topics: ["sponsor", "fireworks", "model-routing", "token-cost", "coding-workloads"]
+categories: ["FinOps"]
 ---
 
 # The end of token-maxxing? Scale AI with less spend

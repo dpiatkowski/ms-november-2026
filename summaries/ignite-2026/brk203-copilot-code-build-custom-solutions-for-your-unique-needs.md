@@ -13,6 +13,7 @@ start: "2026-11-19T00:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "Microsoft Copilot", "Azure Copilot", "Microsoft 365"]
 topics: ["copilot", "low-code", "vibe-coding", "custom-apps"]
+categories: ["Microsoft 365 Copilot"]
 ---
 
 # Copilot Code: Build custom solutions for your unique needs

@@ -13,6 +13,7 @@ start: "2026-11-18T17:35:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Cloud & AI", "MVP"]
 topics: ["agent-governance", "foundry", "ownership", "identity", "data-boundary", "lifecycle"]
+categories: ["Agent governance", "Microsoft Entra"]
 ---
 
 # Who Owns This Agent? Identity, Data, & Control across Microsoft Clouds

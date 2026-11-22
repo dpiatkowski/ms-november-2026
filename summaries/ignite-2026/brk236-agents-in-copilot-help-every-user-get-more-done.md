@@ -13,6 +13,7 @@ start: "2026-11-19T17:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "Agents", "Microsoft Copilot"]
 topics: ["copilot", "agents", "adoption", "change-management"]
+categories: ["Microsoft 365 Copilot"]
 ---
 
 # Agents in Copilot: help every user get more done

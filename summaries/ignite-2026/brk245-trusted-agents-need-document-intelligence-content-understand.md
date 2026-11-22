@@ -13,6 +13,7 @@ start: "2026-11-19T22:45:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "Content Understanding", "Knowledge retrieval"]
 topics: ["content-understanding", "document-intelligence", "multimodal", "agents", "azure-ai"]
+categories: ["Data and grounding"]
 ---
 
 # Trusted agents need Document Intelligence & Content Understanding

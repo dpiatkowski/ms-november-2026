@@ -13,6 +13,7 @@ start: "2026-11-19T20:15:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Cloud & AI", "Multicloud", "FinOps"]
 topics: ["sponsor", "prosperops", "finops", "reservations", "savings-plans"]
+categories: ["Azure infrastructure", "FinOps"]
 ---
 
 # Optimize your Azure costs with expert insights

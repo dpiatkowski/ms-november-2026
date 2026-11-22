@@ -13,6 +13,7 @@ start: "2026-11-18T21:45:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Agent Platform", "GitHub", "Developer Tools"]
 topics: ["agent-harness", "model-routing", "github-copilot-fusion", "architecture"]
+categories: ["Building agents"]
 ---
 
 # Designing an agent harness that orchestrates models

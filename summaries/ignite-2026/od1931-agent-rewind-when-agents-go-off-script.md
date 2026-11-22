@@ -13,6 +13,7 @@ start: null
 level: "(100) Foundational"
 ignite_topics: ["Security", "Security", "Agents", "Microsoft 365"]
 topics: ["agent-rewind", "microsoft-365", "agents", "recovery", "storage-management"]
+categories: ["Microsoft Teams", "Resilience", "SharePoint and OneDrive"]
 ---
 
 # Agent Rewind: When agents go off script

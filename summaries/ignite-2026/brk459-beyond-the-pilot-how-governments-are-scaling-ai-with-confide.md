@@ -13,6 +13,7 @@ start: "2026-11-18T18:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agentic Business Applications"]
 topics: ["government", "public-sector", "ai-at-scale", "customer-story"]
+categories: ["Frontier transformation", "Industry solutions"]
 ---
 
 # Beyond the pilot: How governments are scaling AI with confidence

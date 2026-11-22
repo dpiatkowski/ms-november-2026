@@ -13,6 +13,7 @@ start: "2026-11-18T19:30:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Agentic Business Applications", "Agents", "SMB", "Small Business", "SME&C", "SMB Partner", "Lean IT", "Corporate"]
 topics: ["dynamics-365", "business-central", "erp", "agents", "copilot"]
+categories: ["Dynamics 365"]
 ---
 
 # What’s new in Dynamics 365 Business Central​

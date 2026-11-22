@@ -13,6 +13,7 @@ start: "2026-11-19T19:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Security", "AI Security", "Agents", "Governance", "Secure AI", "Microsoft Agent 365", "Secure Agentic Insiders"]
 topics: ["agent-365", "security", "ciso", "governance", "microsoft-internal"]
+categories: ["Agent 365"]
 ---
 
 # Inside Look at Agent 365: Lessons from Microsoft's Office of the CISO

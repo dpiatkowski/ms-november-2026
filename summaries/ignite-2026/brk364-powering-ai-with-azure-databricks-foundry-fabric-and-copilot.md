@@ -13,6 +13,7 @@ start: "2026-11-19T18:15:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Data", "Azure Databricks", "Microsoft Fabric", "OneLake"]
 topics: ["azure-databricks", "unity-catalog", "onelake", "foundry", "copilot-studio", "integration"]
+categories: ["Microsoft 365 Copilot", "Microsoft Fabric", "Microsoft Foundry"]
 ---
 
 # Powering AI with Azure Databricks, Foundry, Fabric, and Copilot

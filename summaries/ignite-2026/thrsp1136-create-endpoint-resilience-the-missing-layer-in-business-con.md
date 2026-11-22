@@ -13,6 +13,7 @@ start: "2026-11-19T21:40:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Security", "Security in Windows", "Resiliency", "Security", "Microsoft 365 apps", "Windows 365", "AI Security", "Azure Virtual Desktop", "VDI", "W365 Cloud Apps", "Windows Apps", "Zero Trust", "AVD", "Cloud PC"]
 topics: ["sponsor", "endpoint-resilience", "business-continuity", "immutable-endpoint"]
+categories: ["Resilience"]
 ---
 
 # Create endpoint resilience: The missing layer in business continuity

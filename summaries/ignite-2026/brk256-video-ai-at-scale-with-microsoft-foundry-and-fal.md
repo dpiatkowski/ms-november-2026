@@ -13,6 +13,7 @@ start: "2026-11-19T17:00:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Agent Platform"]
 topics: ["foundry", "video-ai", "fal", "multimodal", "partnership"]
+categories: ["Microsoft Foundry"]
 ---
 
 # Video AI at scale with Microsoft Foundry and fal

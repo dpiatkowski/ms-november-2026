@@ -13,6 +13,7 @@ start: "2026-11-19T17:00:00Z"
 level: "(100) Foundational"
 ignite_topics: ["MAICPP", "Community"]
 topics: ["partner", "isv", "survey", "maicpp", "marketplace"]
+categories: ["Partners and marketplace"]
 ---
 
 # What 164 ISVs Reveal About Winning with Microsoft AI

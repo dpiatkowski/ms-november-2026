@@ -13,6 +13,7 @@ start: "2026-11-18T21:45:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot"]
 topics: ["telecom", "industry", "agentic-ai", "ai-at-scale", "governance"]
+categories: ["Frontier transformation"]
 ---
 
 # Beyond the AI pilot: How leading operators scale

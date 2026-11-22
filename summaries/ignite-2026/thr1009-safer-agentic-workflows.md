@@ -13,6 +13,7 @@ start: "2026-11-18T17:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform"]
 topics: ["agents", "guardrails", "evaluation", "human-in-the-loop", "safety"]
+categories: ["Agentic security", "Building agents"]
 ---
 
 # Safer Agentic Workflows

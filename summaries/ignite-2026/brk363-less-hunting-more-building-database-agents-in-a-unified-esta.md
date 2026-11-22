@@ -13,6 +13,7 @@ start: "2026-11-18T00:30:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Data", "PostgreSQL"]
 topics: ["database-agents", "fabric", "ssms", "vscode", "database-operations"]
+categories: ["Azure databases"]
 ---
 
 # Less hunting, more building: Database agents in a unified estate

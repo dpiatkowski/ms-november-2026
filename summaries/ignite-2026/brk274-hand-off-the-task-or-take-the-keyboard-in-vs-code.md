@@ -13,6 +13,7 @@ start: "2026-11-20T19:30:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Agent Platform", "AI", "Agents", "Github Copilot", "GitHub", "Work IQ", "Azure Copilot", "Visual Studio Code", "Developer Tools"]
 topics: ["github-copilot", "vscode", "agents", "claude", "codex"]
+categories: ["Software engineering"]
 ---
 
 # Hand off the task or take the keyboard in VS Code

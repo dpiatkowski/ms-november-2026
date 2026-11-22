@@ -13,6 +13,7 @@ start: "2026-11-20T00:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "Microsoft Foundry", "Observability and evaluation", "Voice agents"]
 topics: ["foundry", "voice-agents", "speech", "telephony", "evaluation"]
+categories: ["Building agents", "Microsoft Foundry"]
 ---
 
 # Voice agents in Microsoft Foundry: Prototype to production in 45 mins

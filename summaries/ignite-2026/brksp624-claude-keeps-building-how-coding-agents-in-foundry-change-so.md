@@ -13,6 +13,7 @@ start: "2026-11-18T17:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "Platform Engineering", "Agents", "Microsoft Foundry", "Software Development Company", "AI Transformation"]
 topics: ["sponsor", "anthropic", "claude-code", "foundry", "coding-agents", "sdlc"]
+categories: ["Microsoft Foundry", "Software engineering"]
 ---
 
 # Claude Keeps Building: How coding agents in Foundry change software development

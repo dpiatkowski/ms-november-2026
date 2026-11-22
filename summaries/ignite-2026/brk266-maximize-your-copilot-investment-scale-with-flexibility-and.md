@@ -13,6 +13,7 @@ start: "2026-11-19T18:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "Agents", "Microsoft Copilot"]
 topics: ["copilot", "ai-finops", "budgeting", "value-measurement"]
+categories: ["Microsoft 365 Copilot"]
 ---
 
 # Maximize your Copilot Investment: Scale with flexibility and control

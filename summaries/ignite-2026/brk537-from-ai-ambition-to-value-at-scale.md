@@ -13,6 +13,7 @@ start: "2026-11-20T17:00:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Frontier Transformation", "AI", "AI Security", "Secure AI", "AI Transformation"]
 topics: ["ai-roi", "consumption", "value-measurement", "leadership"]
+categories: ["Frontier transformation"]
 ---
 
 # From AI Ambition to Value at Scale

@@ -13,6 +13,7 @@ start: null
 level: "(300) Advanced"
 ignite_topics: ["Cloud & AI", "Microsoft 365 apps", "Microsoft Teams", "Partner", "Marketplace", "Microsoft 365", "Get Ready for AI", "SMB", "Small Business", "Migration and modernization", "Cloud Operations", "Cloud Migration"]
 topics: ["sponsor", "teams", "migration", "migrationwiz", "tenant-to-tenant"]
+categories: ["Microsoft Teams", "Migration and modernization"]
 ---
 
 # Teams private chat migration

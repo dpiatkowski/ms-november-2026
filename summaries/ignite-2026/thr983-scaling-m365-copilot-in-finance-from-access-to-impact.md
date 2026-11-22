@@ -13,6 +13,7 @@ start: "2026-11-18T19:05:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "MVP"]
 topics: ["copilot", "financial-services", "adoption", "op-pohjola", "customer-story"]
+categories: ["Microsoft 365 Copilot"]
 ---
 
 # Scaling M365 Copilot in Finance: From Access to Impact

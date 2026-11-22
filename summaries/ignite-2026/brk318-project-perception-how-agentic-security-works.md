@@ -13,6 +13,7 @@ start: "2026-11-19T18:15:00Z"
 level: "(400) Expert"
 ignite_topics: ["Security", "Security", "AI Security", "Agents", "Perception", "Defend with AI", "Defend with agents"]
 topics: ["project-perception", "agentic-security", "red-team", "blue-team", "multi-agent"]
+categories: ["Agentic security", "Microsoft Defender"]
 ---
 
 # Project Perception: How Agentic Security Works

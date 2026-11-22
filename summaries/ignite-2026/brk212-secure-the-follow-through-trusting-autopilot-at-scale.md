@@ -13,6 +13,7 @@ start: "2026-11-18T23:00:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Copilot", "AI Security", "Agents", "Azure Container Apps", "Microsoft Agent 365"]
 topics: ["autopilot", "security", "agents", "data-protection", "containment"]
+categories: ["Microsoft 365 Copilot"]
 ---
 
 # Secure the Follow-Through: Trusting Autopilot at Scale

@@ -13,6 +13,7 @@ start: "2026-11-19T21:40:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Data"]
 topics: ["sponsor", "netapp", "foundry", "grounding", "mcp", "zero-copy"]
+categories: ["Data and grounding", "MCP", "Microsoft Foundry"]
 ---
 
 # Skip the copy tax and ground AI on enterprise file data

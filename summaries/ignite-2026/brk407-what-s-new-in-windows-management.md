@@ -13,6 +13,7 @@ start: "2026-11-18T00:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Windows", "Security in Windows", "Security", "Windows 365", "Management controls", "Windows", "Windows Autopatch", "Windows Recovery", "Windows Resiliency", "Work management", "Zero Trust", "Microsoft Intune", "Cloud PC", "Intune", "Cloud Endpoints"]
 topics: ["windows-management", "autopatch", "declarative-management", "app-management", "customer-story"]
+categories: ["Windows"]
 ---
 
 # What's new in Windows Management

@@ -13,6 +13,7 @@ start: "2026-11-18T21:45:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["app-service", "managed-instance", "dotnet", "windows-server", "modernization", "github-copilot"]
+categories: ["Azure infrastructure", "Migration and modernization", "Windows"]
 ---
 
 # Modernize Windows Server apps with no code rewrite to App Service

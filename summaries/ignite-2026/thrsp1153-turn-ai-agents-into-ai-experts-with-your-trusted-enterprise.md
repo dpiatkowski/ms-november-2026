@@ -13,6 +13,7 @@ start: "2026-11-19T21:05:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agentic Business Applications", "Agents", "Microsoft Fabric", "Microsoft Foundry", "Partner-Led"]
 topics: ["sponsor", "informatica", "foundry", "fabric", "data-governance", "lineage", "context"]
+categories: ["Data and grounding"]
 ---
 
 # Turn AI agents into AI experts with your trusted enterprise context

@@ -13,6 +13,7 @@ start: "2026-11-19T17:00:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Agentic Business Applications", "AI", "Security", "Identity and network access", "Data loss prevention", "AI controls", "Agents", "Multicloud", "Data governance", "Microsoft Entra", "SharePoint", "Zero Trust", "MCP", "API", "Cloud Endpoints", "Power Apps", "Power Platform", "SMB", "Small Business", "Azure Logic Apps", "Azure storage", "Migration and modernization", "Sovereign cloud", "AI Transformation", "AI Infrastructure", "Azure Infrastructure", "Cloud Migration", "Application Modernization"]
 topics: ["sponsor", "banking", "towneBank", "agents", "api-management", "logic-apps", "file-transfer"]
+categories: ["Industry solutions"]
 ---
 
 # AI Agents for banking file transfers: Faster answers, less manual work

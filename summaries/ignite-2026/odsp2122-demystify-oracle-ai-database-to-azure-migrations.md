@@ -13,6 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI", "AI", "Multicloud"]
 topics: ["sponsor", "oracle", "azure", "migration", "zero-downtime"]
+categories: ["Azure databases", "Migration and modernization"]
 ---
 
 # Demystify Oracle AI database to Azure migrations

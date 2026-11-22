@@ -13,6 +13,7 @@ start: "2026-11-19T19:30:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Windows", "Windows"]
 topics: ["windows", "hybrid-ai", "ai-pc", "local-inference", "agents"]
+categories: ["Windows"]
 ---
 
 # Hybrid Intelligence: Making It Real with Windows PCs

@@ -13,6 +13,7 @@ start: "2026-11-20T00:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI", "MAICPP"]
 topics: ["partner", "partner-center", "agentic-co-sell", "partner-360"]
+categories: ["Partners and marketplace"]
 ---
 
 # Your AI-Powered Partnership: The E2E Partner Experience​

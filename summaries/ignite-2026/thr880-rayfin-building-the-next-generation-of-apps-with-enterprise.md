@@ -13,6 +13,7 @@ start: "2026-11-19T22:50:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Data"]
 topics: ["rayfin", "fabric", "app-platform", "copilot", "developer-experience"]
+categories: ["Data and grounding", "Microsoft 365 Copilot", "Microsoft Fabric"]
 ---
 
 # Rayfin: Building the next generation of apps with enterprise data

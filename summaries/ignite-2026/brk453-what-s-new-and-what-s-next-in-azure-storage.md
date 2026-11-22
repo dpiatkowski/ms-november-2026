@@ -13,6 +13,7 @@ start: "2026-11-18T23:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["azure-storage", "object", "file", "block", "data-movement", "ai"]
+categories: ["Azure infrastructure"]
 ---
 
 # What's new and what's next in Azure Storage​

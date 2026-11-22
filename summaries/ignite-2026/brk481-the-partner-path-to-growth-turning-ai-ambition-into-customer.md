@@ -13,6 +13,7 @@ start: "2026-11-17T22:00:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Cloud & AI"]
 topics: ["partner", "ai-growth", "go-to-market", "microsoft-partners"]
+categories: ["Partners and marketplace"]
 ---
 
 # The Partner Path to Growth: Turning AI Ambition into Customer Impact​

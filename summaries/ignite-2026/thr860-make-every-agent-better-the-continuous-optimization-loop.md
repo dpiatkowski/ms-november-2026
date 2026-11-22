@@ -13,6 +13,7 @@ start: "2026-11-19T22:15:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Agent Platform"]
 topics: ["foundry", "agent-optimization", "tracing", "continuous-improvement"]
+categories: ["Building agents", "Evaluation and observability"]
 ---
 
 # Make every agent better: The continuous optimization loop

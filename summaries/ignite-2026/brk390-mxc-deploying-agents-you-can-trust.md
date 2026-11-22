@@ -13,6 +13,7 @@ start: "2026-11-18T19:30:00Z"
 level: "(400) Expert"
 ignite_topics: ["Windows", "Identity and network access", "AI controls", "Agents", "Windows", "Windows Developer", "Governance", "Azure Copilot", "Secure AI"]
 topics: ["windows", "agents", "sandboxing", "microsoft-execution-containers", "security"]
+categories: ["Agent governance", "Agentic security", "Windows"]
 ---
 
 # MXC: Deploying Agents You Can Trust

@@ -13,6 +13,7 @@ start: "2026-11-19T18:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["windows-server", "hyper-v", "active-directory", "storage", "networking", "roadmap"]
+categories: ["Windows"]
 ---
 
 # What’s new and what’s next for Windows Server

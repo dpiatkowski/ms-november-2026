@@ -13,6 +13,7 @@ start: "2026-11-17T22:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["azure-engineering", "customer-zero", "ai-workloads", "architecture", "governance"]
+categories: ["Frontier transformation"]
 ---
 
 # Inside Azure engineering: Lessons from our own frontier transformation

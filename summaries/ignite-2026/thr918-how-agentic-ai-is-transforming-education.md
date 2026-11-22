@@ -13,6 +13,7 @@ start: "2026-11-19T21:40:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Other"]
 topics: ["education", "agentic-ai", "governance", "autonomy"]
+categories: ["Industry solutions"]
 ---
 
 # How agentic AI is transforming education

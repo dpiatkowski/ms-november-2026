@@ -13,6 +13,7 @@ start: "2026-11-19T22:45:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Agent Platform"]
 topics: ["partner", "agents", "governance", "ingram-micro", "managed-services"]
+categories: ["Agent governance", "Partners and marketplace"]
 ---
 
 # Give every agent a boss and build a scalable AI services practice

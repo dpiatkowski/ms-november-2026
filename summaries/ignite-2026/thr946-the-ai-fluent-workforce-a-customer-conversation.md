@@ -13,6 +13,7 @@ start: "2026-11-17T22:35:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Frontier Transformation", "Other", "AI", "Customer", "Get Ready for AI"]
 topics: ["skilling", "customer-conversation", "ai-fluency", "culture"]
+categories: ["Skilling and adoption"]
 ---
 
 # The AI-fluent workforce: A customer conversation

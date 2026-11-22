@@ -13,6 +13,7 @@ start: "2026-11-20T01:15:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Data"]
 topics: ["onelake", "fabric", "data-lake", "multicloud", "governance"]
+categories: ["Microsoft Fabric"]
 ---
 
 # Unify your data estate with Microsoft OneLake

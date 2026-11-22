@@ -13,6 +13,7 @@ start: "2026-11-17T22:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Data"]
 topics: ["power-bi", "fabric", "semantic-layer", "business-context"]
+categories: ["Data and grounding", "Microsoft Fabric", "Power Platform"]
 ---
 
 # The semantic layer for the AI era with Power BI and Microsoft Fabric

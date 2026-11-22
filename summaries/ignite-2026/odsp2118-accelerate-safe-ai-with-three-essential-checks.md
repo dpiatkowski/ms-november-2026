@@ -13,6 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Frontier Transformation", "AI", "Security", "Microsoft 365 apps", "Azure Cosmos DB", "Data loss prevention", "AI controls", "AI Security", "Agents", "Microsoft Teams", "Data governance", "Azure Container Apps", "Azure Databricks", "Microsoft 365 Backup", "Microsoft Entra", "SharePoint", "Governance", "Microsoft Copilot", "Marketplace", "Microsoft Purview", "Microsoft Sentinel", "Microsoft 365", "Get Ready for AI", "Microsoft Agent 365", "Data protection", "Shadow AI"]
 topics: ["sponsor", "veeam", "microsoft-365", "ai-readiness", "backup"]
+categories: ["Responsible AI"]
 ---
 
 # Accelerate safe AI with three essential checks

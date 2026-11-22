@@ -13,6 +13,7 @@ start: null
 level: "(400) Expert"
 ignite_topics: ["Frontier Transformation", "AI", "Agents", "Partner", "Customer", "Partner-Led", "AI Transformation"]
 topics: ["sponsor", "ntt-data", "ai-at-scale", "industry", "responsible-ai"]
+categories: ["Frontier transformation"]
 ---
 
 # Transform trusted AI innovation into business impact

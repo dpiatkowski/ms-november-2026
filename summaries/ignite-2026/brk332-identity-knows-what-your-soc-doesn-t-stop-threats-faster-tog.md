@@ -13,6 +13,7 @@ start: "2026-11-20T00:00:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Security", "Security", "Microsoft Defender XDR", "Microsoft Entra", "Threat Intelligence", "Get Ready for AI", "Secure your foundation"]
 topics: ["entra", "defender", "identity-security", "soc", "threat-detection"]
+categories: ["Microsoft Entra", "Security operations"]
 ---
 
 # Identity Knows What Your SOC Doesn’t: Stop Threats Faster Together

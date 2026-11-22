@@ -13,6 +13,7 @@ start: "2026-11-19T17:00:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Security", "AI Security", "Agents", "Data governance", "Microsoft Copilot", "Microsoft Purview"]
 topics: ["sponsor", "azure-landing-zones", "governance", "identity", "networking", "pitfalls"]
+categories: ["Azure infrastructure"]
 ---
 
 # Avoid common pitfalls in Azure landing zone deployment

@@ -13,6 +13,7 @@ start: "2026-11-20T17:35:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Data", "MVP"]
 topics: ["data-platform", "databricks", "snowflake", "iceberg", "catalog-federation", "architecture"]
+categories: ["Data and grounding", "Microsoft Fabric"]
 ---
 
 # Enterprise Data & AI with Azure, Azure Databricks and Snowflake

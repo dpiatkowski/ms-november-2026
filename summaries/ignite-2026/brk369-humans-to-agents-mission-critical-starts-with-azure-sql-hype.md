@@ -13,6 +13,7 @@ start: "2026-11-18T23:00:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Data", "Resiliency", "Azure SQL", "Knowledge retrieval"]
 topics: ["azure-sql-hyperscale", "vector", "agents", "transactional", "scalability"]
+categories: ["Azure databases"]
 ---
 
 # Humans to agents: Mission-critical starts with Azure SQL Hyperscale

@@ -13,6 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Frontier Transformation", "AI", "Security", "Microsoft 365 apps", "AI controls", "AI Security", "Agents", "Copilot administration", "Governance", "Copilot Chat", "Microsoft Copilot", "Copilot studio", "Copilot for Security", "Microsoft 365", "Zero Trust for AI", "Secure AI", "Get Ready for AI", "Microsoft Agent 365", "Microsoft Copilot Studio", "Data protection", "Shadow AI", "AI Transformation", "AI Infrastructure"]
 topics: ["sponsor", "frontier-firm", "microsoft-365-e7", "softwareone", "adoption"]
+categories: ["Frontier transformation"]
 ---
 
 # Your path from AI pilots to a Frontier Firm

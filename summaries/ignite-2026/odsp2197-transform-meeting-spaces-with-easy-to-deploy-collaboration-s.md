@@ -13,6 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Windows", "Microsoft Teams"]
 topics: ["sponsor", "yealink", "meeting-rooms", "teams", "devices"]
+categories: ["Microsoft Teams"]
 ---
 
 # Transform meeting spaces with easy-to-deploy collaboration solutions

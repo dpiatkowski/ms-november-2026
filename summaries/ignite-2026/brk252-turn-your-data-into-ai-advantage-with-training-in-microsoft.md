@@ -13,6 +13,7 @@ start: "2026-11-19T00:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "Microsoft Foundry", "Customer", "Model customization"]
 topics: ["foundry", "fine-tuning", "reinforcement-learning", "model-training", "customer-story"]
+categories: ["Microsoft Foundry"]
 ---
 
 # Turn your data into AI advantage with Training in Microsoft Foundry

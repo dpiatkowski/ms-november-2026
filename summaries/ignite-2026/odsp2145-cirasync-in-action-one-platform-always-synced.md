@@ -13,6 +13,7 @@ start: null
 level: "(100) Foundational"
 ignite_topics: ["Windows", "Windows 365", "Microsoft 365"]
 topics: ["sponsor", "cirasync", "contacts", "calendars", "microsoft-365"]
+categories: []
 ---
 
 # CiraSync in action: One platform, always synced

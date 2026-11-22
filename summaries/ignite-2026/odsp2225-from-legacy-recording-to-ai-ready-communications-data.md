@@ -13,6 +13,7 @@ start: null
 level: "(100) Foundational"
 ignite_topics: ["Data", "AI", "Analytics", "Microsoft Teams", "Partner", "Data governance", "Microsoft Entra", "Microsoft Fabric", "Microsoft Foundry", "Power BI", "SharePoint", "Governance", "Microsoft Copilot", "Marketplace", "Copilot Analytics", "API", "Microsoft Purview", "Microsoft 365", "Mobile devices", "Corporate Partner", "Partner-Led", "Azure storage", "Migration and modernization", "Real-Time Intelligence", "Sovereign cloud", "AI Transformation", "Sovereignty & Compliance", "Azure Infrastructure", "Cloud Migration", "Contact Center"]
 topics: ["sponsor", "communications-data", "compliance", "azure", "ai-readiness"]
+categories: ["Migration and modernization"]
 ---
 
 # From legacy recording to AI-ready communications data

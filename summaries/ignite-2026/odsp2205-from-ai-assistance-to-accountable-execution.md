@@ -13,6 +13,7 @@ start: null
 level: "(300) Advanced"
 ignite_topics: ["Agent Platform", "AI", "Agents", "PostgreSQL", "Governance", "MCP", "Marketplace", "Azure Kubernetes Service", "Observability and evaluation", "AI Transformation"]
 topics: ["sponsor", "accountable-execution", "human-review", "workflow", "agents"]
+categories: ["Building agents", "Responsible AI"]
 ---
 
 # From AI assistance to accountable execution

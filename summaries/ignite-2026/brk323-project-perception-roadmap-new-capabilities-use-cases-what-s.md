@@ -13,6 +13,7 @@ start: "2026-11-17T22:00:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Security", "AI", "Security", "AI controls", "Agents", "Perception", "Secure AI", "Defend with AI", "Defend with agents"]
 topics: ["project-perception", "agentic-security", "roadmap", "soc"]
+categories: ["Microsoft Defender"]
 ---
 
 # Project Perception Roadmap: New Capabilities, Use Cases & What's Next

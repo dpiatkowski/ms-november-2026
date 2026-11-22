@@ -13,6 +13,7 @@ start: "2026-11-19T19:40:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "AI", "Agents", "Microsoft Foundry", "Microsoft Copilot", "Customer"]
 topics: ["industrial-ai", "abb", "genix", "digital-twins", "agentic-ai"]
+categories: ["Industry solutions", "Physical AI"]
 ---
 
 # Industrial AI in Action: From Insight to Autonomous Operations

@@ -13,6 +13,7 @@ start: "2026-11-20T00:00:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Agentic Business Applications", "AI", "Agents", "Microsoft Foundry", "Customer"]
 topics: ["media", "advertising", "agent-framework", "foundry", "kantar", "optimization-loops"]
+categories: ["Industry solutions"]
 ---
 
 # Agentic media operations: Run at scale

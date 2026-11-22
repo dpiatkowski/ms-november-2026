@@ -13,6 +13,7 @@ start: "2026-11-19T18:15:00Z"
 level: "(100) Foundational"
 ignite_topics: ["MAICPP"]
 topics: ["partner", "americas", "smec", "fy27-strategy"]
+categories: ["Partners and marketplace", "Small and medium business"]
 ---
 
 # Accelerating Americas Partner Impact for SME&C Customers​​

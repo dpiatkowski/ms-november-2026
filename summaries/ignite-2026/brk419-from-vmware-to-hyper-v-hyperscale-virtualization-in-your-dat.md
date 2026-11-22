@@ -13,6 +13,7 @@ start: "2026-11-19T21:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["hyper-v", "windows-admin-center", "vmware-migration", "virtualization", "on-premises"]
+categories: ["Azure infrastructure", "Migration and modernization"]
 ---
 
 # From VMware to Hyper-V: Hyperscale virtualization in your datacenter

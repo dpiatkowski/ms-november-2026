@@ -13,6 +13,7 @@ start: "2026-11-17T23:15:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Agent Platform", "Github Copilot", "GitHub", "Model customization", "Observability and evaluation", "Developer Tools"]
 topics: ["microsoft-ai", "coding-models", "model-training", "github-copilot"]
+categories: ["Software engineering"]
 ---
 
 # Building a model for software development from the ground up

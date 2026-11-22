@@ -13,6 +13,7 @@ start: "2026-11-19T23:45:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Security", "AI", "Security", "AI Security", "Agents", "Microsoft Copilot", "Copilot for Security", "Microsoft Sentinel", "Secure AI", "Get Ready for AI"]
 topics: ["sponsor", "cribl", "sentinel", "telemetry", "siem", "ai-investigation"]
+categories: ["Microsoft Defender"]
 ---
 
 # Get a clean signal, faster answers with Cribl and Microsoft Sentinel

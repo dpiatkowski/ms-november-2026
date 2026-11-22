@@ -13,6 +13,7 @@ start: "2026-11-19T18:45:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI", "Resiliency", "Security", "AI Security", "Agents", "Azure Container Apps", "Microsoft Copilot", "Community", "Copilot for Security", "Microsoft Sentinel", "Microsoft 365", "Microsoft Agent 365", "Microsoft Copilot Studio"]
 topics: ["sponsor", "cyber-resilience", "active-directory", "entra-id", "immutable-backup"]
+categories: ["Resilience"]
 ---
 
 # Build resilience and recover Microsoft operations after compromise

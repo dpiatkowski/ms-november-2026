@@ -13,6 +13,7 @@ start: "2026-11-17T22:00:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Cloud & AI", "Security", "AI Security", "Microsoft Teams", "Management controls", "Data governance", "Microsoft Entra", "SharePoint", "Governance", "Work IQ", "Microsoft Purview", "Get Ready for AI", "Microsoft Purview Data Loss Prevention", "Data protection"]
 topics: ["sponsor", "ai-governance", "it-workload", "mvp", "continuous-governance"]
+categories: ["Agent governance"]
 ---
 
 # How to keep up when everyone wants more AI

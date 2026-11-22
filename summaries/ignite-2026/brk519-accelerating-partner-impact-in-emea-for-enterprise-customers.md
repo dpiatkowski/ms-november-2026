@@ -13,6 +13,7 @@ start: "2026-11-19T22:45:00Z"
 level: "(100) Foundational"
 ignite_topics: ["MAICPP"]
 topics: ["partner", "emea", "enterprise", "fy27-strategy"]
+categories: ["Partners and marketplace"]
 ---
 
 # Accelerating Partner Impact in EMEA for Enterprise Customers​​

@@ -13,6 +13,7 @@ start: "2026-11-17T23:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Security", "AI", "Security", "Microsoft Entra", "Zero Trust", "Microsoft Purview", "Get Ready for AI", "Secure your foundation"]
 topics: ["zero-trust", "identity", "devices", "email-security", "ai-readiness"]
+categories: ["Agentic security", "Microsoft Entra", "Zero trust"]
 ---
 
 # Build secure foundations to scale AI across your organization

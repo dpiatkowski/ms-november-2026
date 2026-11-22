@@ -13,6 +13,7 @@ start: null
 level: "(100) Foundational"
 ignite_topics: ["Cloud & AI", "Azure Container Apps"]
 topics: ["sponsor", "vast", "data-platform", "ai-data", "vector-search", "azure"]
+categories: ["Azure infrastructure", "Data and grounding"]
 ---
 
 # Where does your data live? Unifying AI data on Azure with VAST

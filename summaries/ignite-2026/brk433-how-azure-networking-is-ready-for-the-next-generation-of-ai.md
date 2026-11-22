@@ -13,6 +13,7 @@ start: "2026-11-18T00:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["azure-networking", "ai", "low-latency", "security", "automation"]
+categories: ["Azure infrastructure"]
 ---
 
 # How Azure Networking is ready for the next generation of AI solutions

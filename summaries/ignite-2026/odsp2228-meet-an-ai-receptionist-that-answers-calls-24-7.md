@@ -13,6 +13,7 @@ start: null
 level: "(300) Advanced"
 ignite_topics: ["Cloud & AI", "AI", "AI controls", "Partner", "Work management", "Get Ready for AI", "Mobile devices", "SMB", "Small Business", "SMB Partner", "Partner-Led", "Migration and modernization", "Real-Time Intelligence", "Voice agents"]
 topics: ["sponsor", "ai-receptionist", "voice-agents", "conversational-ai"]
+categories: ["Building agents", "Customer experience"]
 ---
 
 # Meet an AI receptionist that answers calls, 24/7

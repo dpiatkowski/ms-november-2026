@@ -13,6 +13,7 @@ start: "2026-11-18T21:45:00Z"
 level: "(100) Foundational"
 ignite_topics: ["MAICPP"]
 topics: ["partner", "sdc", "si", "panel", "co-sell"]
+categories: ["Partners and marketplace"]
 ---
 
 # Unlock AI growth: Inside strategies from SDC & SI leaders + partners​

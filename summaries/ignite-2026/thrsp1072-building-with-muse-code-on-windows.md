@@ -13,6 +13,7 @@ start: "2026-11-19T21:40:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI", "AI", "AI controls", "AI Security", "Secure AI", "Get Ready for AI", "Shadow AI", "AI Transformation", "AI Infrastructure"]
 topics: ["sponsor", "muse-code", "meta", "coding-agent", "windows", "cli"]
+categories: ["Windows"]
 ---
 
 # Building with Muse Code on Windows

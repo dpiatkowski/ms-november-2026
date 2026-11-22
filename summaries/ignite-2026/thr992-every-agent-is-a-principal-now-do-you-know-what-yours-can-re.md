@@ -13,6 +13,7 @@ start: "2026-11-20T00:00:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Security", "MVP"]
 topics: ["entra-agent-id", "copilot-studio", "agent-identity", "conditional-access", "tenant-admin"]
+categories: ["Copilot Studio", "Microsoft Entra"]
 ---
 
 # Every agent is a principal now. Do you know what yours can reach?

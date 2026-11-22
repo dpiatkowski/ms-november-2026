@@ -13,6 +13,7 @@ start: "2026-11-18T21:40:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Frontier Transformation", "Other", "AI", "Get Ready for AI"]
 topics: ["skilling", "workforce-readiness", "ai-adoption", "role-based-learning"]
+categories: ["Skilling and adoption"]
 ---
 
 # Skills to impact: Moving from AI experimentation to business results

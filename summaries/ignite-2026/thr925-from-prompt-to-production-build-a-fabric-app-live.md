@@ -13,6 +13,7 @@ start: "2026-11-18T00:05:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Data"]
 topics: ["rayfin", "fabric", "github-copilot", "app-building", "live-demo"]
+categories: ["Microsoft Fabric"]
 ---
 
 # From prompt to production: Build a Fabric app live

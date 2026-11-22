@@ -13,6 +13,7 @@ start: "2026-11-20T01:15:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Cloud & AI"]
 topics: ["partner", "agent-factory", "stage-gates", "evaluation", "observability", "maturity-model"]
+categories: ["Partners and marketplace"]
 ---
 
 # From POC to Pattern: The Agent Factory Model for Partners

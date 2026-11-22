@@ -13,6 +13,7 @@ start: "2026-11-18T21:45:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Microsoft IQ"]
 topics: ["fabric", "conversational-analytics", "fabric-iq", "power-bi", "data-agents"]
+categories: ["Data and grounding", "Microsoft Fabric", "Microsoft IQ"]
 ---
 
 # Bringing conversational analytics to where decisions happen

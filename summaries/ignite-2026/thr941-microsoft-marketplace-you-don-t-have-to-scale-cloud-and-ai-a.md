@@ -13,6 +13,7 @@ start: "2026-11-18T19:40:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Frontier Transformation", "AI", "AI Transformation"]
 topics: ["marketplace", "partner-ecosystem", "cloud-ai-strategy"]
+categories: ["Partners and marketplace"]
 ---
 
 # Microsoft Marketplace: You don’t have to scale cloud and AI alone

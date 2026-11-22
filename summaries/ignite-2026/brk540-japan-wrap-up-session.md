@@ -13,6 +13,7 @@ start: "2026-11-20T18:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "Microsoft IQ", "AI", "Security", "Agents", "Data governance", "Microsoft Foundry", "Work IQ", "Microsoft Copilot", "Copilot studio", "Microsoft Agent 365"]
 topics: ["japan", "recap", "ignite-announcements", "localized"]
+categories: []
 ---
 
 # Japan Wrap-up Session

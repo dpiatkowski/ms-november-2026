@@ -13,6 +13,7 @@ start: "2026-11-18T17:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Data", "AI", "Microsoft Foundry"]
 topics: ["foundry", "fireworks", "open-models", "model-customization", "customer-story", "sponsor"]
+categories: ["Microsoft Foundry"]
 ---
 
 # Own your intelligence with Fireworks on Foundry

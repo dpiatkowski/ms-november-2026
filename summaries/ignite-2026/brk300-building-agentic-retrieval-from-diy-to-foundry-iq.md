@@ -13,6 +13,7 @@ start: "2026-11-19T22:45:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Microsoft IQ", "Foundry IQ", "Knowledge retrieval", "Model customization"]
 topics: ["foundry-iq", "agentic-retrieval", "azure-ai-search", "rag", "performance"]
+categories: ["Microsoft Foundry", "Microsoft IQ"]
 ---
 
 # Building agentic retrieval: From DIY to Foundry IQ

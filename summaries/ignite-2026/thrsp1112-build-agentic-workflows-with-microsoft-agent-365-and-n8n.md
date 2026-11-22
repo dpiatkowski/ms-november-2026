@@ -13,6 +13,7 @@ start: "2026-11-19T18:10:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agentic Business Applications", "Agents", "Partner", "Microsoft Copilot", "Azure Copilot", "Microsoft Agent 365"]
 topics: ["sponsor", "agent-365", "n8n", "orchestration", "workflows", "live-demo"]
+categories: ["Agent 365", "Building agents"]
 ---
 
 # Build agentic workflows with Microsoft Agent 365 and n8n

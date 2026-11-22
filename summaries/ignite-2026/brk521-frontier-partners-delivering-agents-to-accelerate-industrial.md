@@ -13,6 +13,7 @@ start: "2026-11-19T00:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI", "Copilot", "MAICPP"]
 topics: ["partner", "manufacturing", "industrial-ai", "marketplace", "sight-machine"]
+categories: ["Frontier transformation", "Industry solutions", "Partners and marketplace", "Physical AI"]
 ---
 
 # Frontier Partners: Delivering agents to accelerate Industrial AI

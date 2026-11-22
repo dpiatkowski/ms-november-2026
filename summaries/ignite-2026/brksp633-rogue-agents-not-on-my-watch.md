@@ -13,6 +13,7 @@ start: "2026-11-19T21:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["sponsor", "cisco", "splunk", "observability", "agentic-ai", "security"]
+categories: ["Agentic security"]
 ---
 
 # Rogue agents? Not on my watch

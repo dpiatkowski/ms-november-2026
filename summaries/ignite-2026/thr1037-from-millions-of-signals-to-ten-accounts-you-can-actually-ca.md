@@ -13,6 +13,7 @@ start: "2026-11-19T23:45:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["MAICPP"]
 topics: ["partner", "propensity-signals", "co-sell", "account-selection"]
+categories: ["Partners and marketplace"]
 ---
 
 # From Millions of Signals to Ten Accounts You Can Actually Call​

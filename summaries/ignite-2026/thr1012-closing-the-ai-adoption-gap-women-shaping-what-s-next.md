@@ -13,6 +13,7 @@ start: "2026-11-17T23:10:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Other"]
 topics: ["women-in-ai", "ai-adoption", "panel", "community"]
+categories: ["Skilling and adoption"]
 ---
 
 # Closing the AI Adoption Gap: Women Shaping What's Next

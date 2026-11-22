@@ -13,6 +13,7 @@ start: "2026-11-19T21:40:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agentic Business Applications", "Agents", "Microsoft Foundry"]
 topics: ["sponsor", "datadog", "foundry", "agent-observability", "evaluation"]
+categories: ["Evaluation and observability"]
 ---
 
 # Trace, evaluate, and ship reliable AI agents

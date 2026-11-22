@@ -13,6 +13,7 @@ start: "2026-11-17T22:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Windows", "AI", "Security in Windows", "AI Security", "Management controls", "Windows", "Windows Autopatch", "Windows Resiliency", "Zero Trust", "Microsoft Intune", "Intune", "Cloud Endpoints", "Microsoft Defender for Endpoint", "Get Ready for AI", "Defend with AI"]
 topics: ["intune", "patching", "endpoint-management", "agents", "governance"]
+categories: ["Microsoft Intune"]
 ---
 
 # What’s New in Intune: Secure, Patch, and Scale

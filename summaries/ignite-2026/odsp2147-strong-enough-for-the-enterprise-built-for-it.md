@@ -13,6 +13,7 @@ start: null
 level: "(300) Advanced"
 ignite_topics: ["Security"]
 topics: ["sponsor", "privileged-access-management", "security", "it-admin"]
+categories: []
 ---
 
 # Strong enough for the enterprise, built for IT

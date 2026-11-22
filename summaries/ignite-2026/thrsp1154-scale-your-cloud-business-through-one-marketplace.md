@@ -13,6 +13,7 @@ start: "2026-11-20T00:55:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Other", "Marketplace", "AI Transformation"]
 topics: ["sponsor", "cloud-marketplace", "csp", "provisioning", "partner-operations"]
+categories: ["Partners and marketplace"]
 ---
 
 # Scale your cloud business through one marketplace​

@@ -13,6 +13,7 @@ start: "2026-11-18T00:30:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Agent Platform", "Customer"]
 topics: ["replit", "agents", "sandboxing", "azure", "customer-story"]
+categories: ["Building agents"]
 ---
 
 # Agent Orchestration at Scale: How Replit Builds and Deploys on Azure

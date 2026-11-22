@@ -13,6 +13,7 @@ start: "2026-11-19T17:00:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Cloud & AI", "AI controls"]
 topics: ["partner", "modernization", "agentic-tooling", "practice-building"]
+categories: ["Migration and modernization"]
 ---
 
 # Modernize with AI to expand your practice and unlock customer growth​

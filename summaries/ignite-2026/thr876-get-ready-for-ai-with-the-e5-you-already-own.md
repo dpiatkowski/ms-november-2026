@@ -13,6 +13,7 @@ start: "2026-11-18T00:05:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Security", "AI", "Security", "Microsoft Entra", "Microsoft Purview", "Get Ready for AI", "Microsoft Defender", "Secure your foundation"]
 topics: ["microsoft-365-e5", "security", "isoc", "sentinel", "siem"]
+categories: ["Microsoft 365 Copilot", "Zero trust"]
 ---
 
 # Get ready for AI with the E5 you already own

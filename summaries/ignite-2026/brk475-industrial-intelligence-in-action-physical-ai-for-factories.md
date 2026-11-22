@@ -13,6 +13,7 @@ start: "2026-11-18T23:00:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Agentic Business Applications", "AI", "Agents", "Partner", "Microsoft Foundry"]
 topics: ["manufacturing", "physical-ai", "edge", "agents", "customer-story"]
+categories: ["Industry solutions", "Physical AI"]
 ---
 
 # Industrial intelligence in action: Physical AI for factories

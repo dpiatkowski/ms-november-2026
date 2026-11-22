@@ -13,6 +13,7 @@ start: "2026-11-19T22:45:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Windows", "Windows 365", "Analytics", "Azure Virtual Desktop", "VDI", "AVD", "Cloud Endpoints"]
 topics: ["azure-virtual-desktop", "windows-365", "vdi", "modernization"]
+categories: ["Migration and modernization", "Sovereignty and hybrid", "Windows 365 and Azure Virtual Desktop"]
 ---
 
 # Modernize on-prem VDI with Azure Virtual Desktop and Windows 365

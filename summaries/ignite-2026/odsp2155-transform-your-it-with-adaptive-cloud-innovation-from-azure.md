@@ -13,6 +13,7 @@ start: null
 level: "(100) Foundational"
 ignite_topics: ["Other", "Azure Virtual Desktop", "AVD", "Azure Local", "Azure Kubernetes Service", "Windows Server", "Hyper-V"]
 topics: ["sponsor", "azure-local", "dataon", "hybrid", "avd", "aks"]
+categories: ["Azure infrastructure", "Sovereignty and hybrid"]
 ---
 
 # Transform your IT with adaptive cloud innovation from Azure Local

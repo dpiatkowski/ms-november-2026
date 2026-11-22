@@ -13,6 +13,7 @@ start: "2026-11-20T01:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "AI Security", "Agents", "Microsoft Agent 365"]
 topics: ["agent-365", "agent-security", "defender", "cyera", "darktrace"]
+categories: ["Agent 365", "Agent governance", "Agentic security"]
 ---
 
 # Secure, Govern, and Scale: Protecting AI Agents with Microsoft Agent 365

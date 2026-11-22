@@ -13,6 +13,7 @@ start: "2026-11-18T17:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: []
 topics: ["adoption", "digital-accelerator", "copilot", "change-management"]
+categories: ["Skilling and adoption"]
 ---
 
 # Scale AI Adoption Without Scaling Your Services Budget

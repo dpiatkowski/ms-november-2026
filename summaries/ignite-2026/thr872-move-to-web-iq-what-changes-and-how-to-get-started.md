@@ -13,6 +13,7 @@ start: "2026-11-19T23:25:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Microsoft IQ"]
 topics: ["web-iq", "grounding-with-bing", "migration", "developer"]
+categories: ["Microsoft IQ"]
 ---
 
 # Move to Web IQ: What changes and how to get started

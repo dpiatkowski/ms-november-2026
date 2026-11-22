@@ -13,6 +13,7 @@ start: "2026-11-16T21:30:00Z"
 level: "(100) Foundational"
 ignite_topics: []
 topics: ["ignite", "conference-guide", "networking"]
+categories: []
 ---
 
 # Microsoft Ignite 101: Navigate, Connect & Maximize Your Experience

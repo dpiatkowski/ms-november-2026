@@ -13,6 +13,7 @@ start: "2026-11-18T00:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "Agents", "Microsoft Copilot", "Microsoft 365"]
 topics: ["copilot", "onenote", "productivity"]
+categories: ["Microsoft 365 Copilot"]
 ---
 
 # Agentic productivity with new Copilot capabilities in OneNote

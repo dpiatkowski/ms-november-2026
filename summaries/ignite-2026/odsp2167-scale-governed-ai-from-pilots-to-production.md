@@ -13,6 +13,7 @@ start: null
 level: "(300) Advanced"
 ignite_topics: ["Agent Platform", "AI", "Agents", "Governance"]
 topics: ["sponsor", "ai-governance", "llmops", "agentops", "risk-management"]
+categories: ["Agent governance"]
 ---
 
 # Scale governed AI from pilots to production
