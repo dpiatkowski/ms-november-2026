@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Enterprise Frontier Transformation: Defining a New Era of Growth​"
 speaker: "Stephen Boyle, Matt Kerner"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856650067001Eood-1791588231852001CukB"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/060ea8d6-0503-4efe-8a9a-4c20a1755bcb"
@@ -21,7 +21,9 @@ topics: ["partner", "enterprise", "frontier-transformation", "ai-platform"]
 
 ## Summary
 
-Building enterprise solutions and practices on the Microsoft AI platform to help customers become Frontier organizations.
+The session covers enterprise Frontier transformation as a new era of partner growth, celebrating Partner of the Year winners across Cloud and AI platforms, AI business solutions, security, industry and other categories. It cites IDC research (4.5x expected growth in worldwide AI spending, reaching $3.1T in 2030, and more gross margin for customer-zero partners), over $1 billion in total contract value through Microsoft Marketplace and 103 partners with the new Frontier badge.
+
+The partner value chain poses questions from the new way of working to managing AI risk and economics, with top integration and practice opportunities listed (Cowork and Code, GitHub Copilot, context, Azure Catalyst, Agent 365 and Perception, agentic SOC, AI risk and FinOps) and partner spotlights such as Adobe, OneStream and TCS.
 
 ## References
 

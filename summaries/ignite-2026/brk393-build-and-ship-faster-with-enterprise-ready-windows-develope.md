@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Build and ship faster with enterprise-ready Windows developer tools​"
 speaker: "Clint Rutkas, Hamza Usmani"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856633035001ES8o-1791588216792001COCr"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/09907545-3897-450c-8be6-a7bb6f39dbca"
@@ -21,7 +21,9 @@ topics: ["windows", "developer-tools", "terminal", "powertoys", "wsl"]
 
 ## Summary
 
-New productivity features in Windows Terminal, PowerToys and WSL aligned to enterprise IT priorities.
+The session covers Windows developer tools: Project Zenith (developer-class devices with 64 GB+ unified memory and calm, opinionated defaults, starting with the AMD Ryzen AI Halo, with Surface, HP and Asus devices to follow) and Windows Developer Configurations for one-command standard or full setups. A live demo uses local models on a Zenith device with Windows ML, GitHub Copilot and MAI-Code-1.1-Flash.
+
+Other topics: containers on Windows (Windows Sandbox, MXC for agent guardrails, WSL containers, now built into WSL), PowerShell 7 shipping in Windows (Windows PowerShell 5.1 optional, then disabled by default for new installs, then removed per the stated phases), PowerToys, and a "Windows K2" effort with claimed responsiveness gains of up to 20% (Microsoft-reported).
 
 ## References
 

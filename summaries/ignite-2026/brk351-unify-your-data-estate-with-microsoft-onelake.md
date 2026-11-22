@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Unify your data estate with Microsoft OneLake"
 speaker: "Dipti Borkar, Josh Caplan, Roy Hasson"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856626476001EYf1-1791951603323001qJeL"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/fb03bf4e-5e7e-4442-b530-d8e9e9f978a7"
@@ -21,7 +21,9 @@ topics: ["onelake", "fabric", "data-lake", "multicloud", "governance"]
 
 ## Summary
 
-Latest and upcoming OneLake investments in storage, governance, discovery and domains for a unified multi-cloud data estate.
+The session presents OneLake as an open, governed, AI-ready data lake that unifies data from all clouds, on-premises sources and apps with zero ETL, described as the "OneDrive for data". Announced is on-demand billing for OneLake: pay for what you use, with no Fabric capacity commitment, so any platform or AI agent can use it as a neutral foundation.
+
+The slides cite OneLake momentum (110B daily interactions, 40,000+ Fabric customers), the OneLake catalog (discovery, governance, security) embedded in apps such as Teams and Excel, and a consistent OneLake security model with row- and column-level rules enforced independent of compute. Data can be connected through shortcuts and mirroring without movement or duplication. Figures are Microsoft-reported.
 
 ## References
 

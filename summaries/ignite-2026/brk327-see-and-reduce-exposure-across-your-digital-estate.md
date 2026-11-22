@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "See and reduce exposure across your digital estate"
 speaker: "Nuno Costa, Alex Klausner, Kiran Kumar Dowluru, Greg Schellenberg"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856622798001EzDM-1791588217247001C7CU"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/7a741ace-a99b-4451-8782-b23992c01896"
@@ -21,7 +21,9 @@ topics: ["exposure-management", "security", "threat-intelligence", "prioritizati
 
 ## Summary
 
-New Security Exposure Management experience that maps threat intelligence to exposures and produces an agent-assisted, risk-ranked action plan.
+The session explains how AI is amplifying exposure: CVE volumes are on track to roughly double in 2026 (nearly 40K published in the first half, per the Microsoft Digital Defense Report 2026) and reverse engineering can turn a published fix into an exploit faster than customers deploy it. Reducing the patch window is one answer: Windows Hotpatch updates install in seconds with fewer restarts and are now the default on Autopatch, with anonymized customer examples of days to reach 90% patch compliance.
+
+Exposure management is described as continuous threat exposure management (scope and discover, prioritize and validate, mobilize and remediate, verify and report). Announcements include agentic exposure management in Microsoft Perception (generally available and preview items), AI readiness initiatives, and vulnerability shielding (preview), which temporarily shields assets until the patch lands. KPMG shares a customer view.
 
 ## References
 

@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Prioritize and remediate your riskiest agents with Project Perception"
 speaker: "Kristina Hotz, Joanne Marone, Ankur Patel"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856624332001E4L2-1791588172254001Cfj2"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/a1aebac1-7e8b-47a0-9999-cb835966ea6f"
@@ -21,7 +21,9 @@ topics: ["project-perception", "agents", "insider-risk", "risk-prioritization"]
 
 ## Summary
 
-Using Project Perception to continuously assess and respond to evolving risk from agents with changing permissions, data and tools.
+The session explains how Microsoft Perception (generally available) extends its red, blue and green agent teams to secure an organization's AI and agent estate. The framing is that agents are polymorphic, results-driven insiders operating at machine speed, so security needs multi-layer containment (identity, permissions, data, endpoint, network, cloud, runtime) built on the new cyber stack of agents, context, and signals, sensors and actuators.
+
+Red agents probe for agent misconfigurations and risky access paths, blue agents triage agent runtime alerts that feed Dynamic Agent Risk with evidence, and a new green agent (limited preview) evaluates the agent estate, explains risk, recommends controls and triggers actuators in Defender, Entra, Purview, Microsoft Execution Container and Intune using playbooks. A demo shows the stack in action.
 
 ## References
 

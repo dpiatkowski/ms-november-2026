@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Agentic Security Unfiltered with Allie Mellen: Hype vs. Reality"
 speaker: "Tanmay Ganacharya, Kim Kischel, Raviv Tamir, Allie Mellen"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856621701001E9Ma-1791588172987001CrWj"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/e1e581a6-ef06-4155-965f-0248c2d6b42e"
@@ -21,7 +21,9 @@ topics: ["agentic-soc", "security-operations", "guardrails", "analyst-panel"]
 
 ## Summary
 
-Live teardown of a modern SOC architecture with a Forrester analyst: where agents safely automate, where non-determinism breaks change control, and trustworthy guardrails.
+This panel-style session with analyst Allie Mellen and Microsoft security leaders separates hype from reality in agentic security. It describes attackers moving from AI assistance to direction to autonomous execution, and an attack timeline shrinking from days to hours while reach grows from tens to thousands of users, citing named actors (for example EvilTokens, ShinyHunters and Storm-1811 clusters).
+
+The deck is light on detail: most of the session is discussion, with pointers to Defender and Sentinel announcements and further Defender sessions.
 
 ## References
 

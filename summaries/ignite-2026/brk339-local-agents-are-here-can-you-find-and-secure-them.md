@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Local agents are here. Can you find and secure them?"
 speaker: "Swaroop Krishnamurthy ​, Dareen Radwan, Erica Toelle"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856624637001E5B5-1791588217692001Cy4F"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/e765b9de-af14-4351-a9ea-885b580d63c3"
@@ -21,7 +21,9 @@ topics: ["local-agents", "security", "visibility", "governance"]
 
 ## Summary
 
-Finding and securing unmanaged local agents: closing the visibility gap and enabling trusted adoption.
+The session follows a fictional finance analyst, Melissa, whose IT-approved local agent runs on her managed Windows device during quarter-end close, to show how to find and contain local agents. The risk is that employee authority becomes agent authority, accountability is unclear and response can mean restricting the employee or whole device. Securing them requires understanding agent, user and device/runtime contexts.
+
+Three admin views follow: IT discovers and assesses (Agent 365 registry gives the local agent an identity, shows connections and MCP servers, and separates agent from user activity), identity admins govern, and SOC investigates. Capabilities named include Entra Agent ID for local agents (preview), Intune containment policies (limited preview) and Windows MXC containers (generally available), with multi-layer containment across Entra, Purview, Intune, Windows and Defender and pointers to BRK336, BRK390 and BRK391.
 
 ## References
 

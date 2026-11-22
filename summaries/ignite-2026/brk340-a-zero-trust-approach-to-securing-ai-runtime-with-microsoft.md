@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "A Zero Trust approach to securing AI runtime with Microsoft Defender"
 speaker: "James Brotsos, Krishna Sunkavalli"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856624787001Ez7r-1791588351389001CNyF"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/2b9e7a32-9fc0-4036-b2bf-62659f0d85ca"
@@ -21,7 +21,9 @@ topics: ["defender", "zero-trust", "ai-runtime", "prompt-injection", "owasp", "m
 
 ## Summary
 
-Defending AI agent runtime against prompt injection, tool misuse and identity abuse with Defender, mapped to OWASP and MITRE.
+The session applies Zero Trust (verify explicitly, least privilege, assume breach) to AI agent runtime with Defender and Agent 365. It describes the agentic attack surface: instructions and data share one channel, so prompts, emails, malicious tool or MCP responses and poisoned grounding can steer agents, often unattended. Agents also range from managed to third-party, local and shadow AI, with least visibility at the unsanctioned end.
+
+Posture capabilities include one inventory (Copilot Studio, Foundry and Microsoft 365 Copilot agents; third-party cloud agents from Amazon Bedrock, Google and Anthropic synced to Agent 365; local agents and MCP servers on Windows; unsanctioned agents found on devices), a unique Entra Agent ID per agent, continuous risk scoring, attack-path mapping to sensitive data and right-sizing of access. Threat protection detects and blocks at runtime and correlates into one XDR incident. A live demo is included, and some items are marked preview.
 
 ## References
 

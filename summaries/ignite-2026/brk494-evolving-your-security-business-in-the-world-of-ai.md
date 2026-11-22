@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Evolving your security business in the world of AI​"
 speaker: "Gabriela Perez Arredondo, Naadia Sayed, Ken Robb"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856648411001EdsO-1791588119745001CqZK"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/b28fa5a4-4f50-43dc-8c73-bd6d9ba7f34c"
@@ -21,7 +21,9 @@ topics: ["partner", "security", "agentic-security", "managed-services"]
 
 ## Summary
 
-Agentic security innovations and how they reshape partner advisory, implementation and managed services.
+The session covers the partner business around Microsoft Perception, which reached general availability, for agentic security operations. Perception uses red, blue and green agent teams working from a shared security context: generally available agents include Recon, Triage, Attack Investigation and Threat Intelligence agents, with Detection Authoring and Posture Prioritization agents also shown, and playbooks for jobs such as identifying attack paths, assessing identity risk, triaging alerts and planning posture remediation.
+
+The agenda covers the general availability and business model, partner opportunity and assets, IDC research on agentic industry trends and EY's learnings from using Perception. The slides frame attackers as moving from AI assistance to autonomous execution.
 
 ## References
 

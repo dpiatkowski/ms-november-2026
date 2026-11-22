@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "From Prevention to Recovery: Building a More Resilient Windows Estate"
 speaker: "Roop Chevuri, Aaron Farmer, Mehmet Kucukgoz"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856633795001E6cQ-1791587923965001FkP9"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/1d1c7c42-99a2-4afe-b429-249b23633736"
@@ -21,7 +21,9 @@ topics: ["windows", "resilience", "recovery", "windows-365-reserve", "drivers"]
 
 ## Summary
 
-Windows resilience investments: securing drivers, recovery innovations and Windows 365 Reserve to reduce downtime.
+The session describes Windows resiliency as a lifecycle, prevent then recover, across physical PCs and Cloud PCs. Prevention centers on the Driver Quality Initiative: shift drivers out of the kernel to user mode, standardize on Microsoft-maintained class drivers, harden what must stay in the kernel, verify the supply chain (machine-readable SBOM with every signed driver, AI scanning of critical kernel binaries, stronger driver-signing agreements), keep drivers current (best known configuration, latest WDK) and measure quality by customer experience (stability, driver platform health, functional reliability).
+
+Recovery topics follow, including recovering PCs at scale and Windows 365 for resilience, with a related theater session (THR892) named.
 
 ## References
 

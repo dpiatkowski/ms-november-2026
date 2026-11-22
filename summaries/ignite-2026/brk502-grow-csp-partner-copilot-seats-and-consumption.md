@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Grow CSP Partner Copilot Seats and Consumption"
 speaker: "Sela Gu, Cristina Sima, Arun Subramanian, Pauline Peyrebesse"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856649622001EGbZ-1791588288655001COyp"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/f63bc1a0-9beb-4abd-8898-f5a24cd00015"
@@ -21,7 +21,9 @@ topics: ["partner", "csp", "copilot", "smb", "consumption"]
 
 ## Summary
 
-Growing Copilot seats and usage-based AI revenue for CSP partners in SMB.
+The session helps CSP partners grow Copilot seats and consumption. It frames Copilot as the new operating system for work across everyday AI (seat-based, USL) and advanced AI (usage-based, UBB, for Cowork, Code and Autopilot), and cites a GigaOm and Microsoft TCO comparison (October 2026) that the slides label as modeled estimates, not invoices or guaranteed savings.
+
+Partner themes: be "customer zero" by using Copilot in your own business first, build IP on Microsoft IQ (Atea built 10,000+ agents for itself and turned its Agent Hotel hub into an offering), and run AI governance as a managed service with Agent 365 (Insight discovered 9,734 agents). Infinity Group and Arrow share partner perspectives, and a Forrester finding on partner Copilot opportunities is cited.
 
 ## References
 

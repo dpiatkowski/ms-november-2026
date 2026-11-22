@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "How does the next wave of quantum impact scientific discovery?"
 speaker: "David Carmona, John Link, Kenichi Mori"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856640822001EOGB-1791814917804001CM5t"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/65e4d0a9-7c1b-4faa-9c39-1d15a7da051f"
@@ -21,7 +21,9 @@ topics: ["quantum", "microsoft-discovery", "scientific-rd", "agents"]
 
 ## Summary
 
-Updates on Microsoft Discovery and Quantum for agentic scientific R&D, with customer usage.
+The session explains how agentic discovery and quantum computing can change scientific R&D with Microsoft Discovery, which moves R&D from sequential experimentation to parallel, agent-driven discovery loops (scientific reasoning, hypothesis generation, experimentation and analysis, with classical simulation, specialized AI models and quantum or quantum-inspired computation). The platform spans chemistry, life sciences, physics and semiconductors on Foundry, Azure HPC and Quantum, Fabric and Microsoft IQ.
+
+Customer examples include Saint-Gobain connecting 62,000 patents and 44,000 abstracts to generate lower-carbon cement additive hypotheses (a knowledge base in hours versus an estimated year, with hypotheses to test in about six weeks, customer-reported), BHP applying 40+ R&D use cases, and Astellas as a guest speaker.
 
 ## References
 

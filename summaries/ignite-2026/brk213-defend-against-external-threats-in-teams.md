@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Defend Against External Threats in Teams"
 speaker: "Maryam Ahmad, Srisudha Mahadevan, Eric Sansom"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856605323001EVio-1791588287100001Cq2g"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/0de3988b-59a4-4016-9a01-6ae0e6c31577"
@@ -21,7 +21,9 @@ topics: ["teams", "security", "threat-protection", "phishing", "external-collabo
 
 ## Summary
 
-Built-in Teams protections against impersonation, voice phishing and suspicious external activity, including external-collaboration controls and partner integrations.
+The session covers protecting Teams meetings, calls and chats from external social engineering that is increasingly AI-assisted. It cites Microsoft Digital Defense Report 2026 and Deloitte figures, including 46M+ business email impersonation attacks detected and $40B in projected yearly US AI-fraud losses by 2027, and frames protection as prevent, detect, respond.
+
+Capabilities covered: identity and access controls (granular conditional access in meetings, external bot protection, brand and user impersonation detection), content and threat protection (AI-powered detection, a protection skill, content phishing, voice phishing and QR code detection), and user submissions plus protection reports in the Teams admin center for investigation. A newly announced native synthetic speech detection flags possible AI-generated voices in meetings, with logs in Microsoft Defender, aimed at scenarios such as remote-interview fraud and executive-impersonation wire fraud.
 
 ## References
 

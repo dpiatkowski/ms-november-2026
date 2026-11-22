@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Manage and Govern AI Agents on Windows as Your Trusted Execution Layer"
 speaker: "Daniel Ballard, Tunde Makinde, Jessica Yang, Jim Cooper"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856632736001EDzS-1791588285068001CR2r"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/25c86b1e-667d-45d1-8a15-30266c7aa64b"
@@ -21,7 +21,9 @@ topics: ["windows", "agents", "governance", "intune", "entra", "defender", "purv
 
 ## Summary
 
-Windows as the trusted execution layer for agents, with Intune, Entra, Defender and Purview discovering, securing and auditing them.
+The session explains how IT can govern agents on Windows with MXC and Intune. It lists real incidents (agents deleting production data, wiping project files, attacking beyond scope, a trojanized agent extension) to show why shadow AI and uncontrolled access need controls, within an end-to-end approach across Agent 365, Entra, Purview, Intune, Global Secure Access, MXC and Defender.
+
+Guidance: start with the basics (managed endpoints, inventory of agents and apps, baselines for local agent runtimes, Conditional Access requiring compliant devices), then adapt: MXC-ready agents follow a golden path (identified, approved, contained by MXC, with Intune setting the ceiling), while unwanted agents that skip MXC can make a device non-compliant. Intune policy for MXC process isolation (private preview) can target all or specific agents with folder access (deny, read-only, read-write), network access and a permissive learning mode, applied to Entra groups. HP shares a customer perspective.
 
 ## References
 

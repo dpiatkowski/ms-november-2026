@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Scale agents, not risk: Governance and FinOps for the enterprise"
 speaker: "Graham Mosley, Thomas Zou"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856612903001EK5O-1791588157241001CqrV"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/eb1012b8-4ac4-4a62-a5dc-f09b915b8886"
@@ -21,7 +21,9 @@ topics: ["copilot-studio", "governance", "finops", "security", "agents"]
 
 ## Summary
 
-Scaling agents while managing risk and cost across Microsoft layers, with guardrails and usage/spend insight for Copilot Studio agents.
+The session argues that more agent capability needs more layers of governance and walks through governing Copilot Studio agents across roles: Power Platform admins enable makers (environment strategy, connector policy, ALM), identity admins configure agent identity and access (Entra), compliance admins protect information (Purview), AI admins keep estate-wide observability (Agent 365), and security admins detect and respond (Defender).
+
+Admin questions are organized as where makers can build, what they build with, who releases and runs agents, who can access the agent, what it can access, and which content-safety guardrails apply. Cost management spans maker visibility (credits in test chat and evaluations), the Power Platform admin center (environment-centric policies, allocation, reporting API) and the Microsoft 365 admin center (user- and resource-based policies). Demos and a conversation with Lumen are included.
 
 ## References
 

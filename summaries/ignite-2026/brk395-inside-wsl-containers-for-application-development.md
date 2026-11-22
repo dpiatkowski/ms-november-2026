@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Inside WSL containers for application development ​"
 speaker: "Craig Loewen, Pooja Trivedi"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856633344001EnYU-1791814911975001CWpv"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/e9922d47-473f-40ca-932a-a61dd5c6a40a"
@@ -21,7 +21,9 @@ topics: ["wsl", "containers", "linux", "windows", "enterprise-dev"]
 
 ## Summary
 
-WSL containers from architecture to deployment, including performance, security, management and policy controls.
+The session covers WSL containers (WSLc), Linux containers built into Windows as part of WSL with no additional licenses and Intune and Microsoft Defender for Endpoint integration. Demos show getting started, using WSLc with Aspire and an Intel NPU, and AKS with WSLc.
+
+For enterprises, the architecture shows Intune WSLc policy and configuration via registry policy keys, a Defender plugin and Linux sensor monitoring everything inside containers, and the Moby container runtime in a utility VM. Roadmap items include NPU acceleration for containers on Intel devices, local Kubernetes clusters, USB passthrough for WSL distros and Compose. Partners and customers shaping the roadmap include Wells Fargo and Intel.
 
 ## References
 

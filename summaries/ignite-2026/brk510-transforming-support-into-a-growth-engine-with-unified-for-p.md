@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Transforming support into a growth engine with Unified for Partners"
 speaker: "Grant Schonberg, Blane Spiers"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856650829001EdIT-1791588174401001CWcI"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/9bb0762f-5ea1-430f-bcce-f839caa10fe3"
@@ -21,7 +21,9 @@ topics: ["partner", "support", "unified-for-partners", "retention"]
 
 ## Summary
 
-Unified for Partners turning support into a growth engine with an AI-ready model and performance-based pricing.
+The session presents Unified for Partners, a next-generation customer success offering meant to replace the legacy Advanced Support for Partners and Premier Support for Partners (end of sale January 1, 2027), as CSP incentives shift toward growth and AI. The argument is that support is a growth engine: the slides cite 33% of departing CSP customers naming poor support, 61% of partner opportunity arising after the sale and 3.5x more revenue growth for companies treating support as a value center.
+
+Unified for Partners combines proactive and reactive services with a connected support experience (faster response, coordinated escalation, Microsoft knowledge and a partner content portal), predictable monthly billing and performance-based incentives (eligibility requirements apply). Partners are guided to acquire, expand, retain and monetize through customer success, with non-CSP opportunities also covered.
 
 ## References
 

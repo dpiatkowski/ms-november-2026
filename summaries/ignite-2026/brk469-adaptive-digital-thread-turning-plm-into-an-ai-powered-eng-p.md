@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Adaptive Digital Thread: Turning PLM into an AI-Powered Eng Platform"
 speaker: "Josh Epstein, Alfonso Rodriguez, Marcellus Menges"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856644615001EMWj-1791588308717001ChGN"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/650668e6-c4aa-411a-b42b-b3e0fa71eef6"
@@ -21,7 +21,9 @@ topics: ["manufacturing", "plm", "digital-thread", "nvidia-omniverse", "digital-
 
 ## Summary
 
-AI-enabled, model-based PLM as a digital thread connecting product, service and compliance data, with SICK and Aras and NVIDIA Omniverse.
+The session covers agentic R&D in discrete manufacturing, connecting engineering from design to operations. It lists five areas (engineering intelligence and industrialization, autonomous factory operations, adaptable production, autonomous supply and fulfillment, and closed-loop orchestration) and a set of customer outcomes shown on the slides (for example troubleshooting reductions of 60-80% and engineering insights delivered 12x faster), which are customer-reported.
+
+Use cases for agents in R&D and digital engineering include requirements engineering and traceability, generative design and autonomous simulation, configuration and change reasoning across BOMs and variants, and engineering decision support. A customer segment on an "Adaptive Digital Thread" turns product lifecycle management into an AI-powered engineering platform.
 
 ## References
 

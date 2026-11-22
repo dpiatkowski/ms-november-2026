@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Why human skills matter for your AI outcome"
 speaker: "Jeana Jorgensen, Aneesh Raman"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856653593001Ejkh-1791814913391001CKAM"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/ef5fbd47-4203-4e88-b025-c4d8e8223047"
@@ -21,7 +21,9 @@ topics: ["skills", "workforce", "ai-adoption", "human-skills"]
 
 ## Summary
 
-Why skills-first development and human skills matter for AI adoption outcomes.
+Microsoft's skilling and economic opportunity leaders argue human skills matter for AI outcomes, drawing on the book Open to Work: work is changing rather than ending, human capability is becoming more important, and people have more agency than they think. They describe a shift from the "org chart" to the "work chart" and cite a Harvard Business Review finding that how leaders talk about AI predicts adoption.
+
+Barriers are fear and a confidence gap ("not good enough... yet"); workforce success needs mindset as well as AI fluency, skilling the whole employee with universal foundations, role-specific skills and human skills (curiosity, courage, communication, creativity, compassion, resilience). Microsoft's approach uses AI Skills Navigator and the Microsoft 365 Copilot Learning Agent, with five habits for a healthy workforce such as respecting the learner and moving to micro-skilling.
 
 ## References
 

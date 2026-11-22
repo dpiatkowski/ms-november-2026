@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Partners: Unlock growth with AI across apps, agents, and workflows​"
 speaker: "Thomas Abel, Ben Jeannot, Paula Nobre Santos, Marco Amoedo, Jordan O'Halloran"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856649473001Eo9Q-1791588284843001CGr1"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/e45b2f9e-eae2-4177-8c04-98753141d46b"
@@ -21,7 +21,9 @@ topics: ["partner", "power-apps", "copilot-studio", "agents", "workflows"]
 
 ## Summary
 
-Partner opportunity connecting apps, agents and workflows with governed deployment and cost controls.
+The session helps partners unlock growth with AI across apps, agents and workflows in Copilot Studio. It contrasts personal productivity (Copilot, Cowork) with business process agents, which must serve the team, survive reorgs and be optimized for scale, and presents Copilot Studio as one destination for agents (reasoning), workflows (consistency) and apps (structure).
+
+Ignite news covered: creating business processes from natural language in Cowork and Code (generally available), the Microsoft Copilot harness (the slides show +10.8 and +22.1 point eval pass-rate gains in offline tests with the same tasks and models, plus higher prompt cache hit rates), Agent Accounts (public preview in December), a Copilot Studio CLI, cost controls and in-product cost estimation, the customer conversation harness, and Copilot Managed Runtime for apps and agents (private preview for agents). Partner monetization and FY27 investments are discussed.
 
 ## References
 

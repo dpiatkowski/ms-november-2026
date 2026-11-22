@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Beyond the cache: How Sitecore builds to scale on Azure Managed Redis"
 speaker: "Justine Cocchi, Shruti Pathak"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856630041001EHZe-1791814912444001CazH"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/72ec1b4a-911c-4f90-a081-ef86a7200de6"
@@ -21,7 +21,9 @@ topics: ["azure-managed-redis", "caching", "aks", "customer-story", "sitecore"]
 
 ## Summary
 
-How Sitecore uses Azure Managed Redis with AKS workloads for Content Hub, with caching patterns and agent kit resources.
+The session covers Azure Managed Redis, a first-party fully managed in-memory datastore with 99.999% availability, active-active geo-replication across up to five instances, flash-optimized tiers and modules (RediSearch, RedisTimeSeries, RedisJSON, RedisBloom). Redis 8.2 support is in public preview for new clusters.
+
+Sitecore explains how its Content Hub (a workspace to create, manage and publish content and digital assets) uses Azure Managed Redis alongside Blob Storage for entity state, caching and custom priority messaging, illustrated with a fictional retailer's seasonal campaign flowing through organize, govern and process steps.
 
 ## References
 

@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Accelerating AI Leadership with MAICPP Frontier offers"
 speaker: "Tafara Pulse, Steve Thomas, Hillary Batchelder"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856651272001EUOu-1791588335150001Cc9h"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/5423c2f6-79fd-4653-a81b-228feb231a71"
@@ -21,7 +21,9 @@ topics: ["partner", "maicpp", "frontier-offers", "specialization"]
 
 ## Summary
 
-MAICPP Frontier offers (Frontier Transformation Engineer badge, Agentic Partner Capability Score, Frontier Specializations) for demonstrating AI expertise.
+The session covers Frontier offers in the Microsoft AI Cloud Partner Program (MAICPP). Frontier partner program items include an Agentic Partner Capability Score, a Frontier Partner specialization, a Frontier Distributor designation and Frontier Accelerate for Marketplace, which bundles Build and Publish, Grow Sales and Differentiate benefits (Azure credits and sponsorship tiers up to $2.1M, one engagement manager, 1:1 technical consults, expedited co-sell path and updated incentives).
+
+Partners can also become "customer zero" through a package with Copilot, Microsoft 365 E7 and Agent 365 licenses and more Copilot Studio credits, and use skilling (Partner Skilling Hub, a Frontier transformation engineer badge, outcome-led sales and delivery learning paths starting January). Transparity shares a partner perspective.
 
 ## References
 

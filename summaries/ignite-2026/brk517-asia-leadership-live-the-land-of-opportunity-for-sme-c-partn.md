@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Asia Leadership Live: The Land of Opportunity for SME&C Partners​​"
 speaker: "Rachel Bondi, Gustavo Fuchs"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856651904001EftC-1791587922977001Fvt3"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/1182ab29-f924-4b7d-9ff7-5e78661dedac"
@@ -21,7 +21,9 @@ topics: ["partner", "asia", "smec", "fy27-strategy", "co-sell"]
 
 ## Summary
 
-Asia Channels leadership on FY27 priorities and capturing SME&C AI demand, with a fireside chat on the customer landscape.
+Microsoft's Asia channel leadership turns the SME&C AI opportunity into partner growth. It celebrates Partner of the Year winners and sets FY27 priorities (transform with agentic AI, activate and focus on Copilot, agents, data and security, scale with co-sell and POD teams), measured by an "ABC" scorecard of Azure, billed revenue and Copilot, with Asia described as the fastest-growing region.
+
+Partner responses include clearer incentives (improved Copilot margins of 20% base up to 45%), predictable co-sell and programs refocused on Frontier transformation. Partner-led wins are shown across ASEAN and Japan (for example Copilot billed revenue growth and an EA-to-CSP transition), and a fireside chat covers SME&C customers and co-sell. Figures are Microsoft- or partner-reported.
 
 ## References
 

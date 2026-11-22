@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Build sovereign AI with Azure Local and Foundry Local"
 speaker: "Kushmeen Kambow, Anders Zwartjes"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856640517001EIKl-1791588245037001C6mG"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/24585be0-7bee-4f5c-93ac-a113bd7a3c14"
@@ -21,7 +21,9 @@ topics: ["azure-local", "foundry-local", "sovereign-ai", "disconnected", "infere
 
 ## Summary
 
-Foundry Local on Azure Local for model deployment, evaluation, agents and inference in customer-controlled and sovereign environments.
+The session covers building sovereign AI with Azure Local and Foundry Local, positioned within Microsoft Sovereign Cloud and driven by control, resilience, choice and flexibility across connected and disconnected environments (market figures cited from Gartner, Forrester, Capgemini and IDC).
+
+Announced: Foundry Local is generally available as a platform of models, agents and tools to run AI apps on premises. The stack includes a model catalog with your own models, local inference (ONNX Runtime GenAI and vLLM), agentic retrieval over local data (file shares, SharePoint Server), local MCP servers, a bring-your-own guardrail model plug-in, agent service and GitHub Enterprise Local (preview items marked), with TLS, API keys and Entra ID secured endpoints. Models, prompts, indexes and inference logs can stay within the customer's environment, managed via Azure Arc when connected or Azure Local disconnected operations.
 
 ## References
 

@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Accelerate your security services at machine speed​"
 speaker: "Cat Daniels, Saggie Haim, Alex Luig"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856648572001EGN5-1791588270688001CoUr"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/bea75088-ea33-488a-a009-3af3dca72157"
@@ -21,7 +21,9 @@ topics: ["partner", "sentinel", "defender", "integrated-soc", "managed-services"
 
 ## Summary
 
-Sentinel capabilities moving into the Defender experience and partner opportunities across the security services lifecycle.
+The session covers partner opportunities with ISOC (the integrated security operations center) in Microsoft Defender, which combines XDR, SIEM, threat intelligence and SOAR in the Defender portal and is included with eligible Defender Suite, Microsoft 365 E5 and E7 licenses (no workspace or ingestion needed for native Defender data, 90 days of Defender data retention, and $2.40/GB pay-as-you-go for non-Microsoft data via an added workspace). Sentinel remains a standalone SIEM, and eligible Sentinel customers can opt into ISOC.
+
+Because services start with licenses customers already own, partners can address customers with no SIEM and earn from assess, activate, transition, assure and operate stages, from projects to managed SOC retainers. A walkthrough shows converting a Sentinel workspace to ISOC (CI/CD support, Content Hub, an analytic-rules-to-custom-detections migration tool), and Ontinue shares a partner and customer example.
 
 ## References
 

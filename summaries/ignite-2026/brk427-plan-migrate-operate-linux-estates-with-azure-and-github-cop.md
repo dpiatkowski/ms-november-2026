@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Plan, migrate, operate Linux estates with Azure and GitHub Copilot"
 speaker: "Karl Abbott"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856638224001Ejm6-1791588310311001CoWQ"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/0040e21f-bcd6-4a71-bf6d-aed639bc7740"
@@ -21,7 +21,9 @@ topics: ["linux", "azure-migrate", "azure-monitor", "github-copilot", "migration
 
 ## Summary
 
-Planning, migrating and operating multi-distro Linux estates (RHEL, SUSE, Ubuntu, Azure Linux) with Azure Migrate, Monitor and Copilot.
+Using an illustrative operator ("Alex") who inherits four Linux choices (Ubuntu, Rocky-compatible, SUSE and RHEL) in one shipment-tracking application, the session shows planning, migrating and operating Linux estates on Azure with GitHub Copilot. It notes Azure is a Linux platform (the slides state a large share of external cores run Linux) and that Azure Catalyst moves workloads while an AI agent helps plan the move, with a plan reviewed and approved before changes.
+
+Operations tools shown are GitHub Copilot CLI (terminal-native), Azure Copilot agents and Azure SRE Agent, with a theme of exploring with Copilot then codifying with Ansible, and Linux signals through tools such as Inspektor Gadget. Agentic operations benefits listed are faster issue resolution, better outcomes over time and guardrails for AI workloads.
 
 ## References
 

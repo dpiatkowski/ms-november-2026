@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Frontier Transformation: AI Business Solutions Partner Opportunity"
 speaker: "Ananthram Balakrishnan, Inder Khanuja, Andrew Ross, Danny de Vries, Boris Ovcak"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856648880001ENlp-1791588119973001CAp5"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/4dd38437-202d-4b4b-b4c5-0e959d68c837"
@@ -21,7 +21,9 @@ topics: ["partner", "copilot", "cowork", "ai-services"]
 
 ## Summary
 
-New partner opportunities with the unified Copilot (chat, code, agents, Cowork) in services and consumption.
+The session covers the AI business solutions partner opportunity in Frontier transformation. It cites Q1 FY27 data (Microsoft 365 Copilot EA revenue partner-influenced, with the slides noting influence does not establish the partner alone caused revenue) and earnings-call momentum figures such as Agent 365 registry at 50M+ agents, and describes organizations shifting toward business-process redefinition and shared ownership of AI spend.
+
+Partner roles are strategic transformation leaders, extensible solution builders, industry and function experts, and accelerators of time to value. Four motions align to Frontier transformation: ME7 plus consumption, CISO secure the Frontier, Frontier workforce (Copilot and Cowork with a step-up from ME5) and agent management with AI economics and FinOps. The deck also introduces the new Copilot: Home, Code and Autopilot.
 
 ## References
 

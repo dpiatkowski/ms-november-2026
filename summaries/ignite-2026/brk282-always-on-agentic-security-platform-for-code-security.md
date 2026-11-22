@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Always-on agentic security platform for code security"
 speaker: "Leonardo Quimbaya, Eric Tooley"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856615873001Ew1V-1791588337175001CYir"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/1d66acc7-c506-46ae-8406-577bba4e7411"
@@ -21,7 +21,9 @@ topics: ["github-advanced-security", "code-security", "secret-scanning", "autofi
 
 ## Summary
 
-GitHub Advanced Security using AI to find multi-step exploits, block leaked secrets and deliver agentic autofix PRs.
+The session argues for always-on agentic security on GitHub: one engine and one rulebook for every change, whether from a developer, a legacy codebase or an agent (Copilot, Claude or Codex). The flow is generate (check code as agents work), find (CodeQL plus AI scan, and secret scanning that combines known patterns with AI-detected secrets), fix (assign up to 25 backlog alerts to Copilot and review the pull requests it creates) and govern (rulesets, required checks, merge gates and a single overview).
+
+A demo and audience polls accompany the argument, and attendees are pointed to a free security risk assessment and a how-to for securing code from commit to production.
 
 ## References
 

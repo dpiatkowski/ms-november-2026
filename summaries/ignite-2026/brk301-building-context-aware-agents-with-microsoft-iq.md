@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Building context-aware agents with Microsoft IQ"
 speaker: "Ayca Bas, Marco Casalaina"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856618741001ENa1-1791588242748001CtAF"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/a0c3c768-c836-4f86-a53c-6cb5b8b58311"
@@ -21,7 +21,9 @@ topics: ["microsoft-iq", "work-iq", "fabric-iq", "foundry-iq", "web-iq", "agents
 
 ## Summary
 
-How Microsoft IQ grounds agents across Work IQ, Fabric IQ, Foundry IQ and Web IQ for relevant actions and trusted decisions.
+The session shows how Microsoft IQ gives one agent context from four sources: Work IQ (how employees work), Fabric IQ (how the business operates), Foundry IQ (policies, authoritative documents and knowledge bases) and Web IQ (the real-time web). A finance "autopilot" scenario, built as a Foundry hosted agent with its own Entra identity and scoped access, governed through Agent 365, answers whether treasury can cover a $60,000 bridge.
+
+Demos ground the agent in each source: a treasury cash-flow model (Fabric IQ), a transfer policy requiring two approvals and a delegated approval matrix (Foundry IQ), a Federal Reserve FedACH Thanksgiving holiday schedule (Web IQ) and Teams and Outlook threads about who has approved (Work IQ). The agent keeps the transfer pending until people approve. Scenarios are illustrative.
 
 ## References
 

@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Modernize faster with AI-powered discovery, planning, and execution"
 speaker: "Ashish Babbar, Swati Devgan, Manish Kumar Kumar Jain, Roopesh Nair, Gabriel Pepe"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856635492001EG3n-1791588132441001CAt3"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/3bb1340d-f0f5-4533-8f81-c220a0be46b9"
@@ -21,7 +21,9 @@ topics: ["azure-migrate", "migration-agent", "modernization", "business-case", "
 
 ## Summary
 
-Azure Copilot Migration Agent for estate discovery, business cases, CAF/WAF-aligned designs, migration waves and governed runbook execution.
+The session presents Azure Catalyst, agent-led modernization to Azure, as a way to break technical-debt cycles and accelerate AI transformation. Aldermore describes consolidating its legacy data centres and migrating its critical data warehouse (100+ TB, hundreds of business-critical reports, 365bn rows) to Azure using Azure Migrate, Azure Storage Mover and Azure Chaos Studio through discovery, rehearsal, controlled cutover and validation, with results such as earlier regulatory datasets and node switching in minutes (customer-reported).
+
+The Azure Catalyst portion covers IT leader survey figures on modernization needs and the agent-led approach, with detail truncated in the available slide text.
 
 ## References
 

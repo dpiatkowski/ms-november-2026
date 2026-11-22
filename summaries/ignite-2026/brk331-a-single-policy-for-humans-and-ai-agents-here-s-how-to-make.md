@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "A Single Policy for Humans and AI Agents? Here’s How to Make It Work"
 speaker: "Danielle Augustin, Etan Basseri, Sharon Sandhu"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856623422001EYHx-1791588309175001Cna0"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/562f2dae-c3dc-4ea9-aab5-6241a4ed00c6"
@@ -21,7 +21,9 @@ topics: ["entra", "conditional-access", "policy", "agents", "zero-trust"]
 
 ## Summary
 
-Unified policy engine combining identity, network, device and risk signals for one access policy model across humans and AI agents.
+The session addresses applying one access policy model to humans and AI agents with Microsoft Entra Conditional Access. It cites policy sprawl (thousands of policies for device compliance and policy collisions) and non-human identity growth (Gartner: a majority of secure access requests from non-human identities by 2029; Cloud Security Alliance: many organizations have had agents exceed intended permissions).
+
+Announced in public preview are Conditional Access policy plans, which express access intent with shared conditions instead of many separate policies, and Conditional Access for assistive agents (agents acting on behalf of a user), with dynamic agent risk. The session also describes the shift from authentication-time to action-time decisions to close the runtime blind spot after a token is issued, with demos.
 
 ## References
 

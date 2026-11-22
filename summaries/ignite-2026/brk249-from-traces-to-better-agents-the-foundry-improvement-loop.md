@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "From traces to better agents: The Foundry improvement loop"
 speaker: "Avinav Jami, Charles Kim, Takashi Okamoto, Yuji Shono"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856610944001ErzW-1791588218863001CWHQ"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/25394d02-90b5-4b9c-a642-2ee6e7b042a6"
@@ -21,7 +21,9 @@ topics: ["foundry", "agents", "tracing", "evaluation", "optimization"]
 
 ## Summary
 
-Foundry's improvement loop connecting traces, evaluations and optimization to find issues, test fixes and re-measure agent quality and cost.
+The session presents the Foundry improvement loop: most teams can trace their agents but few improve them. It cites survey data (LangChain, VentureBeat, McKinsey, EY, Gartner, Stanford AI Index) on production failures, reliance on manual evaluation and agents being decommissioned.
+
+Foundry's loop gives developers Insights (ranking recurring failures across traces, including LangChain, LangGraph and CrewAI agents) and Agent Optimizer (tests fixes while you choose what ships); lets subject matter experts annotate traces in plain language so feedback becomes tests and a rubric; and lets leaders compare each version against a baseline and watch cost. NTT DATA shares its experience applying the loop.
 
 ## References
 

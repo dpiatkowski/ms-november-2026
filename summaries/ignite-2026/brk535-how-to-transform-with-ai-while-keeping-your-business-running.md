@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "How to Transform with AI While Keeping Your Business Running"
 speaker: "Tal Saraf"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856654734001EUBe-1791588308496001Cm7M"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/49258b9e-019f-4a20-9f67-8939193e851c"
@@ -21,7 +21,9 @@ topics: ["customer-zero", "modernization", "ai-transformation", "reliability"]
 
 ## Summary
 
-Transforming with AI while keeping critical operations running, based on Microsoft's Customer Zero experience.
+Microsoft's chief technology and AI officer describes how to transform with AI while keeping the business running: two speeds (operational discipline alongside transformation) and three principles (start with the outcome and baseline, reimagine the work by fixing the whole process rather than one step, and build for production because a demo is not a deployment).
+
+The customer-zero story is reinventing how Microsoft makes deals with a Deal Agent, co-developed with sellers, released in rings and measured on the business, with early results shown for deal velocity and larger renewals (internal data, September 2026). Lessons: measure the business not the AI, fix the process not just the step, build into the business and run old and new until the new earns it, and treat launch as the beginning.
 
 ## References
 

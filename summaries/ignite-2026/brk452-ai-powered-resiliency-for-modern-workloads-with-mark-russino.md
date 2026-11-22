@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "AI-powered resiliency for modern workloads with Mark Russinovich"
 speaker: "Mark Russinovich, Amit Ganguli, Surya Sripathi Raju, Enrique González Bejarano"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856642045001EaOL-1791588199256001Ce5y"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/5e2c33d5-9be7-459c-89b4-4cad32c7d581"
@@ -21,7 +21,9 @@ topics: ["resilience", "mark-russinovich", "azure", "ai", "business-continuity"]
 
 ## Summary
 
-Mark Russinovich and experts on engineering for failure: dependency identification, resilience gaps, recovery and modernization.
+Mark Russinovich and colleagues describe AI-powered resiliency in Azure as a layered shared responsibility (hardware, zonal foundation, regional foundation, customer resiliency, customer application) with three pillars: infrastructure resiliency, data resiliency and cyber recovery. Using a fictional payments application, they show "start, get and stay resilient".
+
+Start resilient: a Resiliency Agent turns an architecture description into zone-redundant infrastructure-as-code (Bicep, Terraform or ARM). Get resilient: discover applications and dependencies, create service groups, assign criticality, assess posture and prioritize single points of failure with agent-guided remediation. Stay resilient involves validating with infrastructure-level tests. All of this builds on Azure Infrastructure Resiliency Manager, with Banco Santander as a customer speaker.
 
 ## References
 

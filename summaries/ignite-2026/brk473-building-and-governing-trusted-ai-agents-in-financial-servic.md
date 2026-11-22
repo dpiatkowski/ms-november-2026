@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Building and governing trusted AI agents in financial services"
 speaker: "Austin Laugesen, Zohar Raz, Azsure Dorton"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856645220001EUhq-1791588268917001CGsN"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/5fd1a5a1-f386-4f89-a525-5b5c39952c4f"
@@ -21,7 +21,9 @@ topics: ["financial-services", "ai-governance", "security", "compliance", "risk-
 
 ## Summary
 
-Governance, security and compliance patterns for deploying trusted AI agents in regulated financial institutions.
+The session covers building and governing trusted AI agents in financial services on a managed Power Platform: managed governance, operations, transformation and security for agents, apps and flows (Copilot Studio, Power Apps, Power Automate, Copilot Managed Runtime, Dataverse, 1,500+ connectors).
+
+State Farm describes growing "makers everywhere" through milestones earned with InfoSec and risk (default environment access, governance proven, managed environments, Copilot Studio agents in production, premium for all) and a maker ladder from training to personal, team and production environments. Examples include an HR policy agent and claims letter translation, with the slides reporting about 90% less manual effort for letters (customer-reported).
 
 ## References
 

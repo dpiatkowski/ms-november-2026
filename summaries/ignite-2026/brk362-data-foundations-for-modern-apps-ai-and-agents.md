@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Data foundations for modern apps, AI, and agents"
 speaker: "Shireesh Thota, Charles Feddersen, Kirill Gavrylyuk, Priya Sathy, Claire Armstrong"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856628173001EjIS-1791588129860001CUGS"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/4a434a09-f2d9-4dbb-a256-9da34250a5ad"
@@ -21,7 +21,9 @@ topics: ["databases", "data-platform", "ai-agents", "modernization", "azure"]
 
 ## Summary
 
-Microsoft databases vision from the CVP of Database Engineering: how operational, analytical, relational and NoSQL platforms support modern apps and agents.
+The session surveys Microsoft's database portfolio for apps, AI and agents. Azure HorizonDB, a cloud-native PostgreSQL service (generally available), is described with scale to 3,072 vCores and 128 TB, up to 8x faster transactions than self-managed Postgres and under 1 ms multi-zone commit latency (Microsoft-reported). Azure SQL Database Hyperscale gets better price-performance, HTAP read isolation and faster recovery, plus a free local container and a local-to-cloud deployment wizard.
+
+Fabric SaaS databases (SQL Database, Cosmos DB, and Fabric HorizonDB in public preview) offer unified operational and analytical data with mirroring and translytical queries on the same connection. Fabric apps (build like a startup, deploy like an enterprise) provide a managed code-first backend with database connectors, functions and auth. A demo shows spotting hidden risk with in-database AI.
 
 ## References
 

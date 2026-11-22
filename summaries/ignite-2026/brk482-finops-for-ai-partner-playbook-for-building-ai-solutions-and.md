@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "FinOps for AI: Partner Playbook for Building AI Solutions and Services"
 speaker: "Matt Kerner, Adam Bogobowicz, Jimmy Priestas"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856646604001EsgZ-1791588099082001C482"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/4738c3ed-5be0-4972-b0f4-7a4dbf571125"
@@ -21,7 +21,9 @@ topics: ["partner", "finops", "ai-economics", "token-consumption"]
 
 ## Summary
 
-FinOps framework for partners to anticipate, govern and optimize AI costs and build profitable AI services.
+The session is a partner playbook for FinOps for AI, motivated by surging token demand and CFO cost pressure (Gartner and Goldman Sachs citations). It offers one framework (plan, control, optimize) across roles: developers (Foundry cost optimization of prompts, retrieval, tool calling and model routing), IT (Agent 365 policies to govern agent usage), business leaders (Agent 365 business analytics connecting adoption to priorities) and end users (Copilot credit tracking), each shown in a demo.
+
+Partner monetization areas are economic advisory (should we invest), economic governance (spending policy, budgets, chargeback, guardrails, agent inventory) and operations and optimization (monitoring, anomaly detection, outcome-to-cost analysis, QBRs), along with a capability maturity path. Accenture joins a fireside chat.
 
 ## References
 

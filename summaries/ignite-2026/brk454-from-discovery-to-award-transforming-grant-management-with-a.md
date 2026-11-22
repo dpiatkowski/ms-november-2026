@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "From discovery to award: transforming grant management with AI agents"
 speaker: "Minji Kim, Mike Olson"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856642349001EIdC-1791588286208001Cits"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/210a9abd-e9ef-4953-a6d2-19d5fa922732"
@@ -21,7 +21,9 @@ topics: ["nonprofit", "copilot", "agents", "grant-management"]
 
 ## Summary
 
-Live demo of Copilot and agent teams finding funding, checking eligibility and speeding proposal development for nonprofit grants.
+The session shows how nonprofits and mission-driven organizations can use AI agents to transform grant management from discovery to award. It cites Sage and IDC data on nonprofit data readiness, automation barriers, burnout (95% of leaders report burnout) and privacy constraints, and advises starting where funding comes in: grants and fundraising.
+
+The guidance is to start with the mission process rather than the tool, pick the right level (no-code Microsoft Copilot, low-code Copilot Studio, or pro-code Foundry) and note that most effort goes into defining the process and preparing data. A live demo, SMART Grants, uses a team of agents to go from grant discovery to a draft application, with cost right-sizing and next steps.
 
 ## References
 

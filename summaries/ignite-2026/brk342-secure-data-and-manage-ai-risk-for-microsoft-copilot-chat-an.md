@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Secure data and manage AI risk for Microsoft Copilot Chat and Cowork"
 speaker: "Nathalia Borges, Ran Marom"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856625088001EIdJ-1791588335605001C6lD"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/ac4337a3-2306-44de-b63b-c64250533040"
@@ -21,7 +21,9 @@ topics: ["purview", "copilot", "data-protection", "oversharing", "incident-inves
 
 ## Summary
 
-Using Purview to protect sensitive data and govern permissions when deploying Copilot Chat and Cowork.
+The session covers securing data and managing AI risk for Microsoft Copilot and Cowork with Purview. It argues AI does not create the problem but amplifies it, since Copilot respects existing access but weak permissions or missing classification can still expose sensitive content, and that a single Copilot interaction (discover, prompt, respond) touches enterprise content, user input, the web and generated output.
+
+The Purview approach is a repeatable operating model across visibility, risk assessment, policy enforcement and investigation: discover and classify sensitive data and exposure risks, label content at scale and protect data across Copilot interactions, then investigate AI activity and manage compliance. New items shown are classification with precision at scale, Copilot grounding based on sensitive information types and data loss prevention for Copilot and agents, built into the Microsoft 365 compliance boundary.
 
 ## References
 

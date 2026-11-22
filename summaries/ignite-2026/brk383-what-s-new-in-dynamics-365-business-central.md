@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "What’s new in Dynamics 365 Business Central​"
 speaker: "Dave Barlin, Dmitry Chadayev"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856631464001E0K2-1791588271138001CYpm"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/eb6d1976-e6e6-4613-a289-80e5e3e26c05"
@@ -21,7 +21,9 @@ topics: ["dynamics-365", "business-central", "erp", "agents", "copilot"]
 
 ## Summary
 
-What's new in Business Central for agentic ERP across finance, sales, service and operations.
+The session covers what is new in Dynamics 365 Business Central, framed by McKinsey's State of AI in 2026 data (about 90% have adopted AI but only about 6% see 5% or more of EBIT from it; the high performers redesigned business processes) and the argument that ERP is where AI drives cost reductions. A legacy supply-delay scenario shows people acting as middleware, versus a redesigned process where people act as agent bosses across Chat, Cowork, Code and Autopilot with Business Central.
+
+Roadmap items include Copilot in Business Central, Edit with Copilot, business skills, Business Central in Cowork and first- and third-party agents in Cowork across public preview (November), January and April 2027 waves. Product updates include master data sharing across environments and companies, report layouts in Word (reusable headers, footers and branding) and analytics options from Excel to Power BI and Fabric.
 
 ## References
 

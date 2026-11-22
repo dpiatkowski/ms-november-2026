@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "The Partner Path to Growth: Turning AI Ambition into Customer Impact​"
 speaker: "Cyril Belikoff, Ann Choi, Alex Iovine, Max Uritsky, Anoop Gopinatha Gopinatha, John Held, Parker Johnston"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856646457001Eylw-1791587922485001FnJH"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/0e829861-35fc-446e-b342-fdad35cdf717"
@@ -21,7 +21,9 @@ topics: ["partner", "ai-growth", "go-to-market", "microsoft-partners"]
 
 ## Summary
 
-Microsoft leaders and partners on adapting to AI-driven demand changes and building growth.
+The session lays out the partner path to growth in Microsoft's FY27 go-to-market, organized around Frontier transformation conversations (AI-ready productivity and security, agentify business processes, modernize with confidence, build a unified governed data and AI estate). It lists Ignite news that fuels these conversations, such as Copilot workspaces and Copilot Code, Autopilot, Copilot Managed Runtime, Microsoft IQ, Perception, Azure Catalyst, Azure HorizonDB, Cobalt 200 and the AI Flex Plan.
+
+Services partner opportunities include AI advisory, agentic transformation, FinOps for AI, building a "Customer IQ", packaging industry IP as reusable plugins, SOC modernization with ISOC in Defender and Agent 365 governance as managed services. Azure Catalyst is described as an agentic modernization service with claimed up to 70% faster modernization (Microsoft figure), and partner benefits such as becoming Customer Zero are mentioned.
 
 ## References
 

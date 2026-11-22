@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Beyond the AI pilot: How leading operators scale"
 speaker: "Kevin Shatzkamer, Sean Alexander, Junwon Kim, MIN-SUB KIM"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856642651001EV2l-1791588353654001CdsK"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/5d26973d-bf66-42d1-ad69-48b34cd97f2e"
@@ -21,7 +21,9 @@ topics: ["telecom", "industry", "agentic-ai", "ai-at-scale", "governance"]
 
 ## Summary
 
-How telecom operators moved from AI pilots to production with agentic automation, a connected data foundation, governance and a roadmap.
+The session explains how leading telecom operators move AI beyond pilots, asking how many ideas reached production, produced measurable value and built reusable capability. It frames three phases (Telco, Digital Telco, AI-Native Telco) and shifts across network (detect, AI diagnosis, automated remediation, human validation), customer, products and employees.
+
+Four layers determine whether agents succeed in production: intelligence (governed semantic grounding), reasoning (business logic, orchestration, identity and entitlements, auditable decisions), execution (existing OSS/BSS, NMS, ITSM, CRM applications exposed as governed tools) and learning (human overrides become structured feedback so agents earn wider authority). The principle stated is that the model is rented, the learning loop is owned. Lumen and KT share operator experience.
 
 ## References
 

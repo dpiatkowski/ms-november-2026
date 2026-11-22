@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Designing the data layer for AI apps and agents with Azure Cosmos DB"
 speaker: "Madeline Egan, Gahl Levy, Nick Blake, Loveleen Rekhi"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856628953001E5nm-1791814920587001CYwd"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/8da8250f-49f1-414a-825a-da3ff532a190"
@@ -21,7 +21,9 @@ topics: ["cosmos-db", "vector-search", "agent-memory", "hybrid-search", "data-la
 
 ## Summary
 
-Designing the data layer for agents with Cosmos DB: full-text, vector, hybrid and semantic retrieval, memory and personalization.
+The session covers designing the data layer for AI agents on Azure Cosmos DB around three needs: operate (agents using the database under the same Entra ID controls as apps), remember (conversation history, memory and operational data) and retrieve (grounding in current data). Announced items include an Agent Kit with 130+ Cosmos DB best practices (generally available), a managed MCP server (preview, read-only with Entra ID), Azure Backup for Cosmos DB (up to 10-year immutable retention) and Microsoft-Embedding-1 (public preview, multimodal, 8k context).
+
+The Agent Memory Toolkit (Python SDK, preview, integrates with Microsoft Agent Framework) runs a capture, extract, recall, curate lifecycle, and multi-agent systems can share memory and state in one data layer. Retrieval guidance is to choose queries, full-text, vector or hybrid search plus semantic ranking to fit the question, with a customer example from Willis Towers Watson.
 
 ## References
 

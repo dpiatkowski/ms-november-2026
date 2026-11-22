@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Signals into sales: The intelligence advantage in consumer goods"
 speaker: "Lindsay Berg, Keith Mercier, Ioannis Kesisoglou, Ruchika Sachdeva"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856645825001E3uR-1791588268452001Cfjk"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/4d5db000-7ed3-44cd-bdae-9853da1e7c10"
@@ -21,7 +21,9 @@ topics: ["consumer-goods", "agentic-ai", "demand-planning", "content-creation", 
 
 ## Summary
 
-Using signals from consumers, content and factories for dynamic content, shopping assistants, autonomous factories and demand planning.
+The session covers the intelligence advantage in consumer goods, turning signals into sales with agentic AI across the value chain (assortment, shopping assistants, marketing content, demand planning, R&D, supply, pricing, factory operations), grounded in business context and governed through Agent 365. A Work Trend Index figure on Frontier professionals is cited.
+
+A panel with Coca-Cola Hellenic Group leaders discusses examples such as a frontline customer concierge and a profitable revenue guardian, with advice to engage customers sooner, make one business decision per quarter, put customer experience first and move faster. Next steps point to prioritizing use cases, an AI Designed for People catalog and the Microsoft Frontier Playbook.
 
 ## References
 

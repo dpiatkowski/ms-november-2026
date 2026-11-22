@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Co-Selling to Enterprise, Corporate and SMB​"
 speaker: "Fabian Grote, Regina Manfredi"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856650369001EyjT-1791588171540001C7id"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/7e8b1791-a0b2-4513-b2ed-9c32985a83af"
@@ -21,7 +21,9 @@ topics: ["partner", "co-sell", "enterprise", "smb"]
 
 ## Summary
 
-Practical guidance on co-selling with Microsoft across Enterprise, Corporate and SMB.
+The session explains how partners can co-sell with Microsoft across Enterprise, Corporate and SMB segments. Co-sell is described as a strategic sales motion, not just a Partner Center process: solution co-sell (IP, often transactable in Marketplace) versus services co-sell (capability, proven by designations and specializations), with four referral types in Partner Center (active co-sell, partner-led, private deal, partner-to-partner) and shared commitments on early engagement and context.
+
+It announces Partner Center for Sales (PC4S), a Teams-native workspace for shared leads, opportunities and seller-to-seller collaboration, launching January 2027, and shows segment-specific guidance (the slides cite a $628B addressable SMB market). SoftwareOne gives a partner perspective, and the session closes with how to build a co-sell engine.
 
 ## References
 

@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "One assistant, every system: A governed AI front door for healthcare"
 speaker: "Srinivasan Venkatarajan, Manpreet Singh"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787854984059001tl2k-1791588311661001CaTl"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/ef75b10a-4399-4035-9efe-d91f6dea9bef"
@@ -21,7 +21,9 @@ topics: ["sponsor", "cognizant", "copilot", "healthcare", "governance", "demo"]
 
 ## Summary
 
-Copilot as a governed front door across enterprise systems in healthcare, with architecture, governance and human oversight.
+Cognizant describes unifying the enterprise through Microsoft 365 Copilot as one governed surface ("one assistant, every system"). It argues agents are outpacing governance (citing Microsoft Cyber Pulse and Deloitte data on low-code agents and unsanctioned use) and that the result is fragmentation, not intelligence.
+
+The architecture uses Microsoft 365 Copilot as the single surface with Cowork for multi-step work, Microsoft IQ (Work IQ, Fabric IQ, Foundry IQ) for context, Agent 365 with Entra, Purview and Defender as the trust layer, and systems of record such as Salesforce, ServiceNow, Workday, Jira and SAP staying authoritative, built with Copilot Studio, Foundry and Fabric. The Cognizant Copilot Launchpad and a live demo of one conversation across systems follow.
 
 ## References
 

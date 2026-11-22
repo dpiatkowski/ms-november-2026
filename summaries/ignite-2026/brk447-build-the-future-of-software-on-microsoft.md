@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Build the future of software on Microsoft"
 speaker: "Cyril Belikoff"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856641281001EX13-1791588174864001CmDH"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/d16821e3-46c9-4cb7-995f-aba7ee3f0195"
@@ -21,7 +21,9 @@ topics: ["isv", "marketplace", "software-development", "partner", "go-to-market"
 
 ## Summary
 
-For software companies: building AI-powered products on the Microsoft platform and selling through Microsoft Marketplace.
+The session is aimed at software companies building, monetizing and scaling on Microsoft. Build: GitHub Copilot, Microsoft IQ and Foundry, plus GitHub Copilot Fusion (evaluates what a task needs and executes across one or more models), Microsoft Copilot SDK 2.0 and Azure HorizonDB. Monetize: Microsoft Marketplace to reach buyers with private offers. Scale: Microsoft 365 and Copilot, resellers and co-sell.
+
+Frontier Accelerate for Marketplace is generally available, and App Advisor speeds up agent and custom app development and sales. Elastic, Icertis and Kore.ai join a discussion. The slides cite Omdia and IDC market opportunity figures, including an estimated $1T cloud TAM by 2030.
 
 ## References
 

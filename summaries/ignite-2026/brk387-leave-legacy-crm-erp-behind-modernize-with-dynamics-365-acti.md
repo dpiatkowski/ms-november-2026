@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Leave legacy CRM & ERP behind: Modernize with Dynamics 365 Activate​"
 speaker: "Swamy Narayana, Gokul Ramesh, Poonam Thawani, Marty Priest, John Scandar"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856632105001EFPk-1791588118374001CWB0"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/3530f639-8f39-41e5-906b-77bdd29efc3d"
@@ -21,7 +21,9 @@ topics: ["dynamics-365", "migration", "modernization", "crm", "erp", "agents"]
 
 ## Summary
 
-Agent-assisted migration (discovery, assessment, configuration) from legacy CRM/ERP to Dynamics 365 with customer examples.
+The session presents Dynamics 365 Activate, which accelerates discovery, implementation and migration to Dynamics 365 from legacy CRM and ERP. Salesforce migration capabilities (generally available) include an automated org scan, complexity scoring and migration waves, best-fit schema mapping, one-click schema deployment and delta, resumable data migration with a health report. SAP ECC discovery (private preview) maps data dictionaries, custom code complexity, users and security roles to Dynamics 365 and produces business case reports and estimates.
+
+The slides list migration pain points (manual discovery, costly licensing, heavy customization, data hard to use for AI) and a typical flow from discovery workshop to partner proposal and kick-off, with customer and partner (Alithya) quotes and a demo.
 
 ## References
 

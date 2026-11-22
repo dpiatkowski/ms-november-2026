@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Your Most Valuable AI Asset Isn't a Model"
 speaker: "Shelley Bransten, RAJESH Ramachandran"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856654587001EOkU-1791588172016001CfBH"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/fec14998-0875-4eb1-8c45-b226f776e2a0"
@@ -21,7 +21,9 @@ topics: ["institutional-knowledge", "frontier-firm", "ai-strategy"]
 
 ## Summary
 
-Argues an organization's institutional knowledge and operating context, not a model, is its key AI asset.
+Microsoft's Frontier Company leader argues the model is not the edge: AI prices are falling fast (citing Epoch AI) and most transformation effort goes to people and processes (BCG's 10-20-70 rule), so value comes from how organizations work. The slides cite the 2026 Work Trend Index on AI users producing work they could not have a year ago and on leadership alignment.
+
+Getting to the AI frontier requires shifts in people, process and technology, anchored by human ambition, intelligence and trust, with customer examples across industries (telco, construction, banking, manufacturing, retail) such as faster network issue detection and research time collapsing from a year to hours (customer-reported). Leaders from ABB and Al-Futtaim join, and attendees are pointed to Microsoft Frontier Company resources.
 
 ## References
 

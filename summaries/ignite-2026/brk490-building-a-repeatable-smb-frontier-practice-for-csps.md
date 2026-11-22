@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Building a Repeatable SMB Frontier Practice for CSPs"
 speaker: "Diego Bekerman, Danielle Crayton, Erwin Visser"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856647812001EaqH-1791588339213001CrDT"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/5bc0df37-397e-467e-bffd-e8221dedf1a8"
@@ -21,7 +21,9 @@ topics: ["partner", "csp", "smb", "go-to-market"]
 
 ## Summary
 
-Building a repeatable SMB practice through a unified customer conversation in the AI era.
+The session helps CSP partners build a repeatable SMB Frontier practice. It sizes the SMB opportunity using Microsoft estimates based on IDC data (a $625B cloud TAM growing 68% by FY30 across 157M SMB accounts) and notes newly acquired SMB cloud customers show higher growth than the existing cohort.
+
+Why now: SMB AI ambition outpaces readiness (many lack full-time IT, cite GenAI software cost and ROI gaps). The partner path is start (find the first use case, drive adoption), connect (ground AI in business data and workflows) and scale securely (secure, govern and manage AI costs), with each step creating advisory, implementation and managed services, organized into five FY27 SMB conversations beginning with Microsoft 365 Copilot Business.
 
 ## References
 

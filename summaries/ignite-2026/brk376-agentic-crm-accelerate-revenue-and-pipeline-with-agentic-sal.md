@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Agentic CRM: Accelerate revenue and pipeline with agentic sales"
 speaker: "Ryan Braastad, Mike Morton, Maya Agnihotri, Dan Robinson"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856630362001EPk2-1791588197416001COdu"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/c666a942-24eb-491e-afe2-685b95db05fa"
@@ -21,7 +21,9 @@ topics: ["dynamics-365", "sales", "agentic-crm", "copilot", "agents"]
 
 ## Summary
 
-Agentic Dynamics 365 Sales turning CRM into a system of action that reduces admin work and automates sales processes.
+The session presents Agentic CRM with Dynamics 365 as a virtuous loop: CRM automatically captures conversations and signals from email, meetings, calls and chat, stays current, and AI turns the data into context and action. Sellers work in the flow of work across Copilot Chat, Cowork, Autopilot, Teams, Outlook and Dynamics, grounded in Work IQ, with a "day in the life" of meeting prep, insights and tailored proposals.
+
+Softcat, the UK's largest value-added reseller (1,500+ sellers), describes its journey from a 25-year-old platform, with a Quote Ingestion Agent handling about 4,000 quotes a day (233 hours of daily quoting) and a Teams-embedded Customer Central Assistant, and plans for more insight sources and case management automation. Adobe also appears as a speaker. Outcomes are customer-reported.
 
 ## References
 

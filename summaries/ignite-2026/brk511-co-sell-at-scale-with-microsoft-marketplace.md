@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Co-sell at scale with Microsoft Marketplace"
 speaker: "Mira Ayad, Sandy Gupta"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856650977001EsUx-1791588232072001CbYN"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/c9284064-0b16-4eee-871b-b58494851193"
@@ -21,7 +21,9 @@ topics: ["partner", "marketplace", "co-sell", "isv"]
 
 ## Summary
 
-Playbook for co-selling through Microsoft Marketplace for software and services partners, with new capabilities.
+The session covers scaling co-sell with Microsoft Marketplace, citing growth in sales and new-customer growth outside the US, and announcing continued expansion of multiparty private offers (nearly 40 markets in under six months, with Malaysia and Saudi Arabia now added), plus coming-soon support for 16 selling currencies, attaching professional services to software in one deal, request-private-offer, private offer enhancements and future-dated agreements.
+
+Microsoft is increasing seller investment (the slides cite a 200% increase in investments), prioritizing Marketplace quota and incentives, and offering Frontier Accelerate for Marketplace with Azure sponsorship tiers for qualifying partners. The slides cite an IDC estimate of a $1T cloud TAM by 2030, and partner perspectives are shared.
 
 ## References
 

@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "AI-First Transformation – Becoming a Partner of the Future​"
 speaker: "Ginny Hoban, Gabriela Perez Arredondo, Francois van Splunder"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856649919001ENaF-1791588307118001CQ1g"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/356ad809-41eb-4cc1-9358-89680563dd70"
@@ -21,7 +21,9 @@ topics: ["partner", "operating-model", "outcome-based", "ai-first"]
 
 ## Summary
 
-Partner of the Future vision: evolving operating models and go-to-market toward outcome-based, AI-first services.
+The session explains how partners can become a "Partner of the Future" through AI-first transformation, built on three pillars: end-to-end outcomes, economic model shift and AI-powered partner. It cites an IDC InfoBrief (November 2026) that recurring revenue is expected to grow from 34% to 47% in two years and that partners see growth in run and optimize even though they hold most influence in advise and design.
+
+The transformation spans delivery operating model, AI-native service offerings, delivery talent, IP development, economic model and integrated go-to-market, informed by Microsoft's own customer zero learnings (start with outcomes, redesign whole workflows, put employees at the center). Activation resources are listed.
 
 ## References
 

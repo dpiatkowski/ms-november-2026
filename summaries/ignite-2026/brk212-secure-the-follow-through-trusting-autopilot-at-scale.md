@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Secure the Follow-Through: Trusting Autopilot at Scale"
 speaker: "Eric Sachs, Erica Toelle"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856605173001E6Pi-1791588198567001CV7r"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/0ef3edb8-3781-4617-a1e1-19ee227a0f7d"
@@ -21,7 +21,11 @@ topics: ["autopilot", "security", "agents", "data-protection", "containment"]
 
 ## Summary
 
-Security model for Autopilot: protecting its access and actions, safeguarding data when AI is misled, and containing activity across devices, apps and networks.
+The session introduces Microsoft Autopilot, a first-party Microsoft 365 agent that prepares, organizes and follows through on work, and uses it to explain how to trust an autonomous agent. Four principles frame the discussion: the agent is uniquely identifiable, bounded and governed, continuously protected, and transparent and auditable.
+
+Autopilot is described as a Microsoft-managed service with a managed execution environment, its own Entra identity, mailbox, calendar and OneDrive storage, Work IQ integration and built-in action safeguards. Trust is presented as shared: Microsoft provides the foundation, while the organization configures access and policies and operates ownership, approvals, access reviews, investigation and offboarding.
+
+Demos walk through finding Autopilot's Entra Agent ID and its sponsor/manager relationships, granting least-privilege, time-bound access via Entra Identity Governance access packages, and investigating a risk with Defender and Purview, alongside Agent 365 and audit logs.
 
 ## References
 

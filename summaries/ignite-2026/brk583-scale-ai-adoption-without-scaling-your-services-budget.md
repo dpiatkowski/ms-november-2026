@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Scale AI Adoption Without Scaling Your Services Budget"
 speaker: "Nydia Cavazos, Nick Stillings"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1791521099349001ii9S-1791957693161001eckb"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/fdcf490e-61e6-4148-8608-465ff5d772c0"
@@ -21,7 +21,9 @@ topics: ["adoption", "digital-accelerator", "copilot", "change-management"]
 
 ## Summary
 
-Using Microsoft Adoption resources and Digital Accelerator journeys to scale AI usage without large services budgets.
+The session helps adoption leads scale AI adoption without scaling their services budget. It cites research (Harvard Business School and HBR, the Microsoft 2026 Work Trend Index, and BCG) that manager modeling, change management and training drive adoption and trust, then offers a "MADRE" checklist for finding your biggest blocker: measurable value, adoption strategy, designated support, readiness to deploy and spend, and executive sponsorship.
+
+Attendees build an adoption plan: identify the biggest blocker, choose three workflows AI should change first, bookmark Microsoft adoption resources and enroll in a Digital Accelerator journey, with pointers to Copilot Guided Outcomes and a Cowork value program.
 
 ## References
 

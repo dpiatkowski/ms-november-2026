@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Lost in San Francisco: Build AI agents that find their way"
 speaker: "Anthony Bartolo, Henk Boelman"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1789665054726001RJBT-1791588221125001CtVw"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/7c05f90e-f946-4827-a504-e5b7d3486a34"
@@ -21,7 +21,9 @@ topics: ["foundry", "github-copilot", "vscode", "agent-framework", "mcp", "agent
 
 ## Summary
 
-Developer loop for grounded, observable agents with Foundry, Copilot, VS Code, Agent Framework and MCP, tied to the Open Hack.
+A hands-on game-themed session ("Lost in San Francisco") shows how to build an AI agent that reasons about quests, calls specialist help and remembers what it learns. The agent uses instructions, Foundry IQ knowledge retrieval, tools via MCP, agent-to-agent (A2A) calls and memory, with models named on the slide including GPT-5.6 Luna, GPT-4.1-mini and text-embedding-3-large, and the game agent hosted in Foundry.
+
+Demos cover MCP (for example how to travel), A2A versus MCP, Foundry IQ retrieval (for example finding Dolores Park) and GitHub Copilot with Foundry side by side. A related lab (LAB667, building multi-agent systems) and a challenge-based learning workshop are referenced.
 
 ## References
 

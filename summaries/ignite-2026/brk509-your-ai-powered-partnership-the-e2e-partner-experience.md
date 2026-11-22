@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Your AI-Powered Partnership: The E2E Partner Experience​"
 speaker: "Carole O’Malley​, Andrew Smith"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856650665001EBIO-1791588174165001CdN9"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/7c13e4b8-e78c-4759-9278-c314637bd8a4"
@@ -21,7 +21,9 @@ topics: ["partner", "partner-center", "agentic-co-sell", "partner-360"]
 
 ## Summary
 
-Live walkthrough of the AI-enabled partner experience: agentic co-sell in Partner Center, recommendations, licensing guidance and Partner 360.
+The session presents the new agentic experiences in Partner Center across plan, activate and grow, designed as one connected, personalized experience for alliance and incentive managers, usable in Partner Center, through a partner's own agent or via the Partner Center API, with every recommendation arriving with rationale and a next step.
+
+A demo follows a fictional distributor and reseller: Plan includes a Partner Health Dashboard (planned for January) showing health against Microsoft targets by solution area, with plain-language questions answered as charts; Activate includes a Sales Recommender that finds and ranks opportunities; Grow covers co-selling in Teams.
 
 ## References
 

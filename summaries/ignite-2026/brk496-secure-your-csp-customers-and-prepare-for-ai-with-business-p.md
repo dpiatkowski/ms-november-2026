@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Secure your CSP customers and prepare for AI with Business Premium​"
 speaker: "Marcelo Dichtchekenian, Kate Long, Kirk Shulman"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856648724001EdoE-1791588284401001CPEQ"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/cff1a43b-ddc8-44b6-bfc1-e98bc89df0ee"
@@ -21,7 +21,9 @@ topics: ["partner", "csp", "business-premium", "security", "smb"]
 
 ## Summary
 
-Building a profitable Business Premium practice for SMBs focused on security and AI readiness.
+The session helps CSP partners secure SMB customers and prepare them for AI with Microsoft 365 Business Premium. It argues AI creates new risks (shadow AI, oversharing through plugins, agents with excess permissions, AI-powered phishing) while the average SMB juggles 10+ disconnected security tools, and positions Business Premium as the security baseline for AI built on three pillars: adopt AI confidently, prevent advanced cyberattacks, and secure data and stay compliant.
+
+For partners, it cites a Forrester Total Economic Impact study on the security partner opportunity at small and medium customers, covering growing revenue and profitability, plus go-to-market, best practice and next steps with Arrow as a distribution partner. Market figures come from Microsoft, IDC, Verizon and VikingCloud sources shown on the slides.
 
 ## References
 

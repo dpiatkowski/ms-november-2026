@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Enabling Partners to Position the Copilot Advantage"
 speaker: "Beth Demko, Mayank Kapur"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1790967913846001JrLh-1792709503891001qcbT"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/05f3ea77-1823-4210-8067-d3008869c368"
@@ -21,7 +21,9 @@ topics: ["partner", "copilot", "positioning", "cowork"]
 
 ## Summary
 
-Helping partners reframe Copilot comparisons around customer business outcomes and durable platform value.
+The session gives partners a framework to position the Copilot advantage against competitors in three moves: uncover the business outcome behind a competitive objection, connect it to the most relevant pillar, and explain why the platform matters as needs evolve. An opening quiz argues the best model does not always win, user preference does not decide every deal and feature-for-feature comparisons are ineffective.
+
+The framing is that buying is shifting from experimentation to standardization, so customers need a decision they can defend about platform, data, identity, governance and cost. Discovery questions surface the objective, and a five-pillar durable value proposition (Copilot, Work IQ, agentic work with multi-model, agent platform and others) anchors the answers, followed by three reframed objections.
 
 ## References
 

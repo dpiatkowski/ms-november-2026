@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Intelligence on Windows: Unlocking the Full Value of Microsoft Copilot"
 speaker: "Paul Gusmorino, Guneet Singh, Jason Pope"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856633959001Ee8N-1791588117904001CT8v"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/5708a344-7738-4ecd-bb8f-33b6404123c6"
@@ -21,7 +21,9 @@ topics: ["windows", "copilot", "adoption", "data-sovereignty", "productivity"]
 
 ## Summary
 
-How Windows helps organizations adopt and get more value from Copilot, including data sovereignty considerations.
+The session argues the PC is part of an AI strategy and that Windows is where Copilot delivers the most value (built together by Windows, Microsoft 365 and Copilot, with the Copilot key, Ask Copilot in the taskbar and context that knows files and the PC). It cites higher repeat engagement with the Copilot app on Windows among paid subscribers (26 weeks of commercial data to November 16, 2026).
+
+Pillars are faster, smarter (Windows hybrid intelligence bringing PC context, actions and local models to Copilot) and ready for the organization (employee permissions, execution boundaries, IT control). It repeats the Windows 11 quality improvements (less memory use, faster File Explorer, Start and taskbar changes on WinUI 3) with the caveat that demonstrations are internal measurements that vary by device.
 
 ## References
 

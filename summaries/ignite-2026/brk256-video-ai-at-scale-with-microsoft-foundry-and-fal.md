@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Video AI at scale with Microsoft Foundry and fal"
 speaker: "Alexander Hughes, Naomi Moneypenny, Burkay Gur, Lovis Odin Odin"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856612005001EK31-1791588245510001C1B2"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/cd099c8b-eee0-43e9-a94b-470e9b9c52df"
@@ -21,7 +21,9 @@ topics: ["foundry", "video-ai", "fal", "multimodal", "partnership"]
 
 ## Summary
 
-The fal and Foundry partnership for enterprise video generation: model portfolio, idea-to-video workflow and choosing models per creative need.
+The session covers generative video and image at scale through Foundry and fal. It lists models available in Foundry (OpenAI GPT-image and Sora, FLUX, NVIDIA Cosmos, Microsoft TRELLIS for 3D, and audio models) and shares customer quotes from WPP, HyperCinema, Pixel Lab and CoStar.
+
+The announcement is fal on Microsoft Foundry: video models from fal's catalog now available as a first-party Azure service in public preview, including Kling Video v3 (Pro, Standard, Turbo), MiniMax H3 (Max and Turbo) and LTX-2.5 (Pro and Fast), shown with sample prompts and outputs.
 
 ## References
 

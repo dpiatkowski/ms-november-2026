@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Work IQ governance and trust: Control the intelligence layer"
 speaker: "Lior Kamrat, Karissa Rohde, Heather Stoffels"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856617981001EHsD-1791588173465001CwIH"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/7db15f3c-56f2-403a-b5b6-d9074e433c17"
@@ -21,7 +21,9 @@ topics: ["work-iq", "governance", "trust", "admin", "cost"]
 
 ## Summary
 
-Governance controls for Work IQ: data access, policy, consumption monitoring and cost optimization.
+The session covers governance and trust for Work IQ, the intelligence layer (mail, chats, meetings, files, people, business app data through 350+ connectors) used by Cowork, Autopilot, Code and custom agents. A "case of the Mondays" scenario shows unchecked agent changes plus untrusted content causing chaos in business systems, and two questions follow: can guardrails apply consistently across many agents, and can an agent trust the content it reads?
+
+Governance Guardrails (public preview) lets tenant admins set policy per Work IQ data type and assign granular agent policies, with approval for risky actions. Information flow control brings sanitization (private preview), which removes hidden malicious instructions in an isolated, no-internet sandbox before an agent reads untrusted content, and provenance via C2PA signed content credentials so tampering is detectable, with zero change needed in existing agents. Early access sign-up is offered.
 
 ## References
 

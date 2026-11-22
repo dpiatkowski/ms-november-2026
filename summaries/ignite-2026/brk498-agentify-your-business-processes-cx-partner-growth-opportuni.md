@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Agentify Your Business Processes: CX Partner Growth Opportunity​"
 speaker: "Mike Morton, Maitane Munoz, Girish Smith, Paul Harrison, Marty Priest"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856649029001EggS-1791588099760001CpsZ"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/7cb15ea7-65ea-4925-801a-3620d71ace33"
@@ -21,7 +21,9 @@ topics: ["partner", "dynamics-365", "customer-experience", "agents", "business-p
 
 ## Summary
 
-Partner growth around 'Agentify Your Business Processes' for sales, service and contact center.
+The session covers the CX partner growth opportunity with agentic CRM in Dynamics 365. It describes the vicious cycle of CRM distrust and a virtuous loop where CRM automatically captures conversations and signals, stays current and turns data into context, designed for sellers in the flow of work across Copilot Chat, Cowork and Autopilot. A spectrum of sales agents runs from retrieval to task automation to autonomous field updates, covering the full sales cycle.
+
+Dynamics 365 Activate accelerates Salesforce-to-Dynamics migration with visibility and control in one tool, and an AI-first go-to-market transformation and partner panel (including a partner testimonial) follow. Some slide content is placeholder text in the deck.
 
 ## References
 

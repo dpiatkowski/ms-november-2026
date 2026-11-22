@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Turn shadow agents into governed digital coworkers"
 speaker: "Matthew Devaney, Rafsan Huseynov"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787854983514001tUM8-1791588196008001CfTD"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/225588bd-0cbf-4ee8-a63a-968068d6ffdb"
@@ -21,7 +21,9 @@ topics: ["sponsor", "agent-governance", "entra-agent-id", "agent-365", "purview"
 
 ## Summary
 
-Live demo of turning unmanaged agents into governed digital coworkers using Entra Agent IDs, Conditional Access, lifecycle workflows and the Agent 365 SDK.
+SHI describes turning shadow agents into governed digital coworkers with Microsoft Agent 365. It lists common concerns (unknown agents, excessive access, unclear ownership, limited control) and the sources of shadow agents (low-code, custom development, AI-assisted development and agent features in SaaS apps), citing Cloud Security Alliance and Token Security data.
+
+Agent 365 is presented as the control plane (observe, govern, secure) with a centralized registry in the Microsoft 365 admin center, Entra identity and ownership, Purview data protection and Defender runtime protection. Three paths bring agents in: Microsoft platforms (automatic), connected platforms (registry sync for Bedrock, Vertex AI, Snowflake, Salesforce and others) and developer-integrated through an SDK. A demo contrasts an unmanaged "Payroll Pal" agent with no identity or owner against a governed version.
 
 ## References
 

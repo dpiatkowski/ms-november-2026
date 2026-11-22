@@ -3,7 +3,7 @@ event: "Microsoft Ignite 2026"
 title: "Partner Opportunity: Sovereignty in Every Modernization Conversation"
 speaker: "Lisa James, Pang Ngernsupaluck, Eva Gram, Kristin Thayer, VEER JI WANGOO Wangoo"
 source_url: "https://ignite.microsoft.com/en-US/sessions/1787856647653001EFmV-1791588220902001CGNJ"
-source_type: "session-abstract"
+source_type: "session-abstract+slides"
 summary_type: "ai-generated"
 video_url: null
 ondemand_url: "https://medius.microsoft.com/Embed/video-nc/0f6cb60a-ad94-4ea6-bfdd-db250c89294d"
@@ -21,7 +21,9 @@ topics: ["partner", "sovereignty", "compliance", "data-residency"]
 
 ## Summary
 
-Microsoft's sovereignty approach and capabilities, with incentives and programs for partners.
+The session helps partners put sovereignty into modernization conversations, citing Gartner's forecast that the sovereign cloud IaaS market grows from $45B at a 38% five-year CAGR to $224B in 2029. Partner value is described as assess and design, implement and modernize, and operate and evolve, supported by a digital sovereignty risk framework that weighs impact and probability of risks such as lawful access, data residency, cyber resilience, sanctions and model training.
+
+New Microsoft Sovereign Cloud capabilities listed: for sovereign public cloud, Sovereign Control Panel (public preview), Data Guardian (phased rollout), Azure Confidential Clean Rooms (limited preview), Azure Managed HSM with External Key Management (generally available) and a Sovereign Landing Zone with Bicep and Terraform; for sovereign private cloud, moving Azure Local from connected to disconnected operations, multi-tenancy (coming soon) and confidential VMs. Partner specializations and a field panel follow.
 
 ## References
 
