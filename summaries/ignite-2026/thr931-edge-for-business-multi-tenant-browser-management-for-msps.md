@@ -13,7 +13,7 @@ start: "2026-11-20T02:05:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Security"]
 topics: ["edge-for-business", "msp", "multi-tenant", "inforcer", "browser-management"]
-categories: ["Windows"]
+categories: ["Endpoint management"]
 ---
 
 # Edge for Business: Multi-tenant browser management for MSPs

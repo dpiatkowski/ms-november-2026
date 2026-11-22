@@ -13,7 +13,7 @@ start: "2026-11-17T23:30:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Agentic Business Applications", "MVP"]
 topics: ["mcp", "security", "scalability", "stateless-mcp", "prompt-injection", "multi-tenant"]
-categories: ["MCP"]
+categories: ["AI apps and agents"]
 ---
 
 # Hardening MCP: Advanced Security and Scale for Enterprise AI Hubs

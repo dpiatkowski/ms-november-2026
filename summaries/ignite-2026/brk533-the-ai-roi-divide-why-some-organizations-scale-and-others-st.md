@@ -13,7 +13,7 @@ start: "2026-11-18T21:45:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Frontier Transformation", "AI", "AI Transformation"]
 topics: ["ai-roi", "research", "operating-model", "leadership"]
-categories: ["Frontier transformation"]
+categories: ["AI adoption and skills"]
 ---
 
 # The AI ROI Divide: Why Some Organizations Scale and Others Stall

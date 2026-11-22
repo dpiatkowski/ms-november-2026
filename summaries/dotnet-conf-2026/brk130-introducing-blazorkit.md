@@ -9,7 +9,7 @@ video_url: "https://youtu.be/PURTGbu6q_Y"
 session_id: "BRK130"
 start: "2026-11-13T14:00:00-08:00"
 topics: ["blazor", "templates", "open-source", "dotnet-11", "community-day"]
-categories: ["Blazor"]
+categories: ["Web development"]
 ---
 
 # Introducing BlazorKit

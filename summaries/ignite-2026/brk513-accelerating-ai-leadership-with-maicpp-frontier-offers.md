@@ -13,7 +13,7 @@ start: "2026-11-19T18:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Frontier Transformation", "MAICPP"]
 topics: ["partner", "maicpp", "frontier-offers", "specialization"]
-categories: ["Frontier transformation", "Partners and marketplace"]
+categories: ["AI adoption and skills", "Partners and marketplace"]
 ---
 
 # Accelerating AI Leadership with MAICPP Frontier offers

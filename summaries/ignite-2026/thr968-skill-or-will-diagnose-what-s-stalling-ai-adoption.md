@@ -13,7 +13,7 @@ start: "2026-11-18T00:40:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Frontier Transformation", "Other", "AI"]
 topics: ["ai-adoption", "diagnostic", "leadership", "skill-vs-will"]
-categories: ["Skilling and adoption"]
+categories: ["AI adoption and skills"]
 ---
 
 # Skill or will? Diagnose what’s stalling AI adoption

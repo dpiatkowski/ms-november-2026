@@ -13,7 +13,7 @@ start: "2026-11-18T19:30:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Cloud & AI"]
 topics: ["isv", "marketplace", "software-development", "partner", "go-to-market"]
-categories: ["GitHub Copilot", "Microsoft Foundry", "Microsoft IQ", "Partners and marketplace"]
+categories: ["AI-assisted development", "AI apps and agents", "AI grounding and retrieval", "Partners and marketplace"]
 ---
 
 # Build the future of software on Microsoft

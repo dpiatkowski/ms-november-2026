@@ -13,7 +13,7 @@ start: "2026-11-17T22:35:00Z"
 level: "(400) Expert"
 ignite_topics: ["Security", "AI", "Security", "Agents", "Governance", "Perception", "Defend with AI", "Defend with agents"]
 topics: ["multi-agent-defense", "project-perception", "agentic-security", "readiness"]
-categories: ["Building agents"]
+categories: ["AI apps and agents"]
 ---
 
 # Protect continuously and proactively with multi-agent defense​

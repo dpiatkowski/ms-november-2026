@@ -13,7 +13,7 @@ start: "2026-11-18T21:45:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "AI", "Security", "AI controls", "Agents", "Partner", "Microsoft Foundry", "Windows AI Foundry", "Windows Developer", "Governance", "Microsoft Copilot", "Microsoft Foundry on Windows", "Customer", "Get Ready for AI", "Microsoft Agent 365"]
 topics: ["sponsor", "sei", "agentic-platform", "governance", "operating-model", "customer-story"]
-categories: ["Agent governance"]
+categories: ["AI governance and safety"]
 ---
 
 # Go inside SEI's journey to a governed agentic platform

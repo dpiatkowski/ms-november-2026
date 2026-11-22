@@ -13,7 +13,7 @@ start: "2026-11-19T19:40:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Frontier Transformation", "AI controls", "Agents", "Copilot Analytics", "Copilot for Security", "Cloud Endpoints"]
 topics: ["sponsor", "frontier-technologies", "executive", "fireside"]
-categories: ["Frontier transformation"]
+categories: ["AI adoption and skills"]
 ---
 
 # Navigate the next wave of AI and frontier technologies

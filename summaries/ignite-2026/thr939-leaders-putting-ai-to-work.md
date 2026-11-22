@@ -13,7 +13,7 @@ start: "2026-11-18T00:40:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Frontier Transformation", "AI", "AI Transformation"]
 topics: ["leadership", "ai-adoption", "organizational-change", "panel"]
-categories: ["Frontier transformation", "Skilling and adoption"]
+categories: ["AI adoption and skills"]
 ---
 
 # Leaders putting AI to work​

@@ -9,7 +9,7 @@ video_url: "https://youtu.be/fa_rzHLYU_E"
 session_id: "BRK034"
 start: "2026-11-10T17:00:00-08:00"
 topics: ["maui", "coreclr", "mono", "native-aot", "mobile", "performance", "trimming"]
-categories: [".NET", "Mobile devices", "Performance"]
+categories: ["C# and .NET runtime", "Desktop and mobile apps", "Performance"]
 ---
 
 # How We Brought CoreCLR to .NET MAUI and Mobile

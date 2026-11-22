@@ -13,7 +13,7 @@ start: "2026-11-19T20:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agentic Business Applications", "AI", "Microsoft 365 apps", "Agents", "Microsoft Teams", "Partner", "SharePoint", "W365 for Agents", "Microsoft Copilot", "Azure Copilot", "Marketplace", "Copilot Analytics", "Microsoft 365", "Customer", "Get Ready for AI", "Microsoft Agent 365", "Microsoft Copilot Studio"]
 topics: ["sponsor", "docusign", "agreement-intelligence", "copilot", "workflows"]
-categories: ["Customer experience"]
+categories: ["Business apps and automation"]
 ---
 
 # Accelerate business with AI-powered agreements from Docusign

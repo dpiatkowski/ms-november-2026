@@ -13,7 +13,7 @@ start: "2026-11-19T22:45:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Security", "Security", "Agents", "Threat Intelligence", "Defend with AI", "Defend with agents"]
 topics: ["security", "threat-intelligence", "incident-response", "ai-agents", "cyber-resilience"]
-categories: ["Microsoft Defender", "Security operations"]
+categories: ["Threat detection and response"]
 ---
 
 # What the Frontlines Reveal About Modern Security

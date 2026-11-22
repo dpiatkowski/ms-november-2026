@@ -13,7 +13,7 @@ start: "2026-11-18T21:45:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Cloud & AI", "AI", "AI controls", "AI Security", "Azure Virtual Desktop", "Partner", "Data governance", "Microsoft Foundry", "VDI", "Windows AI Foundry", "Windows Resiliency", "AVD", "Cloud Endpoints", "Microsoft Foundry on Windows", "Customer", "Secure AI"]
 topics: ["sponsor", "lenovo", "azure-local", "sovereign-ai", "confidential-computing"]
-categories: ["Azure infrastructure", "Sovereignty and hybrid"]
+categories: ["Cloud infrastructure", "Hybrid and sovereign cloud"]
 ---
 
 # Sovereign by design with smarter AI on Azure Local

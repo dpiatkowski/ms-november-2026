@@ -13,7 +13,7 @@ start: "2026-11-19T21:40:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Other"]
 topics: ["ai-skills-navigator", "personalized-learning", "hands-on"]
-categories: ["Skilling and adoption"]
+categories: ["AI adoption and skills"]
 ---
 
 # Make learning personal and hands-on with AI Skills Navigator

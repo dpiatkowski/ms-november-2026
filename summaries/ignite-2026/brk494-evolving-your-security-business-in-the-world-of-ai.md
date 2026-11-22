@@ -13,7 +13,7 @@ start: "2026-11-18T00:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Security", "AI Security"]
 topics: ["partner", "security", "agentic-security", "managed-services"]
-categories: ["Microsoft Defender", "Partners and marketplace", "Security operations"]
+categories: ["Threat detection and response", "Partners and marketplace"]
 ---
 
 # Evolving your security business in the world of AI​

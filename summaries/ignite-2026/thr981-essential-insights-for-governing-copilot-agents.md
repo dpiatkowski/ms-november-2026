@@ -13,7 +13,7 @@ start: "2026-11-18T00:05:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "MVP"]
 topics: ["copilot-agents", "governance", "purview", "dlp", "agent-sprawl"]
-categories: ["Agent governance", "Microsoft 365 Copilot"]
+categories: ["AI governance and safety", "Microsoft 365 and collaboration"]
 ---
 
 # Essential Insights for Governing Copilot Agents

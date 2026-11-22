@@ -13,7 +13,7 @@ start: null
 level: null
 ignite_topics: []
 topics: ["broadcast", "copilot", "agent-365", "agents", "security"]
-categories: ["Agent 365", "Microsoft 365 Copilot"]
+categories: ["AI governance and safety", "Microsoft 365 and collaboration"]
 ---
 
 # Put Agents to Work: Charles Lamanna and Alysa Taylor on Copilot, Agent 365, and the Future of Work

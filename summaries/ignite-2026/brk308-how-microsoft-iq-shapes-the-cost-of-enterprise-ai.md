@@ -13,7 +13,7 @@ start: "2026-11-20T00:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Microsoft IQ"]
 topics: ["microsoft-iq", "cost-modeling", "finops", "enterprise-ai"]
-categories: ["FinOps", "Microsoft IQ"]
+categories: ["Cloud cost management", "AI grounding and retrieval"]
 ---
 
 # How Microsoft IQ shapes the cost of enterprise AI

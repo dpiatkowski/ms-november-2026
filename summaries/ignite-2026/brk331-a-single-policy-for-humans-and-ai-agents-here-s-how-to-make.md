@@ -13,7 +13,7 @@ start: "2026-11-19T21:30:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Security", "AI", "Security", "Identity and network access", "AI controls", "Agents", "Microsoft Entra", "Get Ready for AI", "Secure your foundation"]
 topics: ["entra", "conditional-access", "policy", "agents", "zero-trust"]
-categories: ["Agent governance", "Microsoft Entra"]
+categories: ["AI governance and safety", "Identity and access"]
 ---
 
 # A Single Policy for Humans and AI Agents? Here’s How to Make It Work

@@ -13,7 +13,7 @@ start: "2026-11-17T23:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform"]
 topics: ["foundry", "model-optimization", "evaluation", "reinforcement-learning", "observability"]
-categories: ["Microsoft Foundry"]
+categories: ["AI apps and agents"]
 ---
 
 # Build your self-improving AI Platform with Microsoft Foundry

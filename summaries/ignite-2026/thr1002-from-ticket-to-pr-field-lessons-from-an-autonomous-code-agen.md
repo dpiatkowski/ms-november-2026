@@ -13,7 +13,7 @@ start: "2026-11-18T17:00:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Agent Platform", "MVP"]
 topics: ["autonomous-coding-agent", "pull-requests", "software-engineering", "field-lessons"]
-categories: ["IT operations"]
+categories: ["Endpoint management"]
 ---
 
 # From Ticket to PR: Field Lessons from an Autonomous Code Agent

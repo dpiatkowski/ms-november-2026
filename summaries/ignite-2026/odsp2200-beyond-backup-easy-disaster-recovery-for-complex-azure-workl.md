@@ -13,7 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI", "Resiliency", "Zero Trust", "Data protection", "Azure networking", "Azure Backup", "Site Reliability Engineering (SRE)", "Cloud Operations", "Azure Infrastructure"]
 topics: ["sponsor", "arpio", "disaster-recovery", "azure", "ransomware"]
-categories: ["Resilience"]
+categories: ["Operations and reliability"]
 ---
 
 # Beyond backup: Easy disaster recovery for complex Azure workloads

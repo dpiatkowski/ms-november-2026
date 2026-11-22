@@ -13,7 +13,7 @@ start: "2026-11-19T22:45:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Agent Platform", "Cloud & AI"]
 topics: ["partner", "sovereignty", "compliance", "data-residency"]
-categories: ["Migration and modernization", "Partners and marketplace", "Sovereignty and hybrid"]
+categories: ["Migration and modernization", "Partners and marketplace", "Hybrid and sovereign cloud"]
 ---
 
 # Partner Opportunity: Sovereignty in Every Modernization Conversation

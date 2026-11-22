@@ -13,7 +13,7 @@ start: "2026-11-17T22:35:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "Microsoft Teams", "Microsoft Copilot", "Microsoft 365"]
 topics: ["work-iq", "org-context", "workforce-transformation", "copilot"]
-categories: ["Microsoft IQ", "Microsoft Teams"]
+categories: ["AI grounding and retrieval", "Microsoft 365 and collaboration"]
 ---
 
 # Build AI-ready teams with Work IQ people and org context

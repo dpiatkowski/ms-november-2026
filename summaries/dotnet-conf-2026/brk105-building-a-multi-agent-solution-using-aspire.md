@@ -9,7 +9,7 @@ video_url: "https://youtu.be/NSWn3c2IFB0"
 session_id: "BRK105"
 start: "2026-11-12T10:30:00-08:00"
 topics: ["agents", "multi-agent", "aspire", "security-testing", "playwright", "community-day"]
-categories: ["Agentic engineering", "Aspire", "Security", "Testing"]
+categories: ["AI apps and agents", "Application architecture", "Application and agent security", "Testing and evaluation"]
 ---
 
 # Building a multi agent solution using Aspire

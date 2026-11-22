@@ -13,7 +13,7 @@ start: "2026-11-18T18:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "AI", "Security in Windows", "Microsoft 365 apps", "Identity and network access", "Microsoft Defender for Cloud", "AI controls", "AI Security", "Agents", "Microsoft Defender XDR", "Partner", "Windows", "Zero Trust", "Microsoft Copilot", "Microsoft Purview", "Copilot for Security", "Microsoft Sentinel", "Microsoft 365", "Zero Trust for AI"]
 topics: ["sponsor", "insight", "microsoft-ecosystem", "ai-adoption", "security"]
-categories: ["Skilling and adoption"]
+categories: ["AI adoption and skills"]
 ---
 
 # Get an AI advantage when the Microsoft ecosystem works together

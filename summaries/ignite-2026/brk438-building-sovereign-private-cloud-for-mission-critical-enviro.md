@@ -13,7 +13,7 @@ start: "2026-11-19T00:15:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Cloud & AI"]
 topics: ["sovereign-cloud", "azure-local", "private-cloud", "disconnected", "microsoft-365-local"]
-categories: ["Sovereignty and hybrid"]
+categories: ["Hybrid and sovereign cloud"]
 ---
 
 # Building sovereign private cloud for mission-critical environments

@@ -13,7 +13,7 @@ start: "2026-11-19T21:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Security", "AI controls", "AI Security", "Agents", "Copilot administration", "Data governance", "Azure Container Apps", "Zero Trust", "Governance", "Microsoft Copilot", "Community", "Microsoft Purview", "Zero Trust for AI", "Secure AI", "Microsoft Agent 365", "Microsoft Copilot Studio"]
 topics: ["sponsor", "agent-governance", "entra-agent-id", "agent-365", "purview"]
-categories: ["Agent governance", "Agentic security"]
+categories: ["AI governance and safety", "Application and agent security"]
 ---
 
 # Turn shadow agents into governed digital coworkers

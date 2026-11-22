@@ -9,7 +9,7 @@ video_url: "https://youtu.be/6_iXgdFkixI"
 session_id: "BRK024"
 start: "2026-11-11T12:30:00-08:00"
 topics: ["cswinrt", "winrt", "windows", "interop", "dotnet"]
-categories: ["Windows", ".NET"]
+categories: ["Desktop and mobile apps", "C# and .NET runtime"]
 ---
 
 # CsWinRT 3.0: Modernizing the Windows Projections for .NET

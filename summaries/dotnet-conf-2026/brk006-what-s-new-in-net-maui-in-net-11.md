@@ -9,7 +9,7 @@ video_url: "https://youtu.be/fh0c-EBCifU"
 session_id: "BRK006"
 start: "2026-11-10T11:30:00-08:00"
 topics: ["maui", "dotnet-11", "xaml", "coreclr", "hot-reload", "android", "ai-assisted-dev"]
-categories: ["Mobile devices", ".NET"]
+categories: ["Desktop and mobile apps"]
 ---
 
 # What's New in .NET MAUI in .NET 11

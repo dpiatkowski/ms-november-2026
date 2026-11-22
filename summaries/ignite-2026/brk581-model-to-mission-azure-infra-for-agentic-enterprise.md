@@ -13,7 +13,7 @@ start: "2026-11-20T18:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["azure", "infrastructure", "ai", "agentic-enterprise", "architecture"]
-categories: ["Azure infrastructure"]
+categories: ["Cloud infrastructure"]
 ---
 
 # Model to mission: Azure Infra for agentic enterprise

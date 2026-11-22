@@ -13,7 +13,7 @@ start: null
 level: "(100) Foundational"
 ignite_topics: ["Agentic Business Applications", "AI", "Windows 365", "Agents", "Microsoft Teams", "Microsoft Entra", "Windows", "Microsoft Intune", "Copilot Chat", "Intune", "Microsoft 365", "Get Ready for AI", "Windows Agents", "SMB", "Lean IT", "Knowledge retrieval", "AI Transformation"]
 topics: ["sponsor", "atera", "autonomous-it", "ticket-resolution"]
-categories: ["IT operations"]
+categories: ["Endpoint management"]
 ---
 
 # Make the best IT ticket the one that never reaches your team

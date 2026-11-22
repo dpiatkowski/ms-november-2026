@@ -13,7 +13,7 @@ start: "2026-11-19T22:15:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Frontier Transformation", "Other", "AI", "Perception", "Get Ready for AI"]
 topics: ["ai-anxiety", "future-of-work", "human-agency", "open-conversation"]
-categories: ["Skilling and adoption"]
+categories: ["AI adoption and skills"]
 ---
 
 # From AI fear to human agency

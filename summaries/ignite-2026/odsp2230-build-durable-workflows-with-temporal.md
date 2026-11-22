@@ -13,7 +13,7 @@ start: null
 level: "(100) Foundational"
 ignite_topics: ["Cloud & AI", "Agents", "Azure Container Apps", "Expertise"]
 topics: ["sponsor", "temporal", "durable-execution", "workflows", "azure", "ai-reliability"]
-categories: ["Building agents"]
+categories: ["AI apps and agents"]
 ---
 
 # Build durable workflows with Temporal

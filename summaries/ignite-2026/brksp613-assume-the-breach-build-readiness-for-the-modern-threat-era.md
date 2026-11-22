@@ -13,7 +13,7 @@ start: "2026-11-18T23:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Security", "Resiliency", "Security", "Azure Cosmos DB", "Data loss prevention", "AI Security", "Accessibility", "Microsoft Defender XDR", "Data governance", "Azure Container Apps", "Governance", "Copilot studio", "Copilot for Security", "Secure AI", "Agentic defense"]
 topics: ["sponsor", "insight", "cyber-resilience", "assume-breach", "managed-soc"]
-categories: ["Resilience", "Security operations"]
+categories: ["Operations and reliability", "Threat detection and response"]
 ---
 
 # Assume the breach: Build readiness for the modern threat era

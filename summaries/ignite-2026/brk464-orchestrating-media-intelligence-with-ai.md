@@ -13,7 +13,7 @@ start: "2026-11-18T17:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Data", "AI", "Agents", "Multicloud", "Data governance", "Microsoft Foundry"]
 topics: ["media-entertainment", "industry", "fabric", "foundry", "microsoft-iq", "orchestration"]
-categories: ["Industry solutions", "Microsoft Fabric", "Microsoft Foundry", "Microsoft IQ"]
+categories: ["Industry use cases", "Databases and analytics", "AI apps and agents", "AI grounding and retrieval"]
 ---
 
 # Orchestrating media intelligence with AI

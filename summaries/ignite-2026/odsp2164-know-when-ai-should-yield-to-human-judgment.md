@@ -13,7 +13,7 @@ start: null
 level: "(300) Advanced"
 ignite_topics: ["Data", "AI", "Security", "AI controls", "AI Security", "Azure Container Apps", "Governance", "Secure AI", "Get Ready for AI"]
 topics: ["sponsor", "autonomous-it", "human-oversight", "survey", "sysadmin"]
-categories: ["IT operations", "Responsible AI"]
+categories: ["Endpoint management", "AI governance and safety"]
 ---
 
 # Know when AI should yield to human judgment

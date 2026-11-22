@@ -13,7 +13,7 @@ start: "2026-11-19T22:45:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agentic Business Applications", "Agents"]
 topics: ["dynamics-365", "customer-service", "agents", "contact-center"]
-categories: ["Customer experience"]
+categories: ["Business apps and automation"]
 ---
 
 # The Agentic Shift: Reimagining Customer Service

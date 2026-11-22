@@ -13,7 +13,7 @@ start: "2026-11-19T17:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform"]
 topics: ["model-selection", "panel", "quality-cost-latency", "ai-apps"]
-categories: ["FinOps", "Microsoft Foundry"]
+categories: ["Cloud cost management", "AI apps and agents"]
 ---
 
 # Choosing the Right Model

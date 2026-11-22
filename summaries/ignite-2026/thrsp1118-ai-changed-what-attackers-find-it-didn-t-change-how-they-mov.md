@@ -13,7 +13,7 @@ start: "2026-11-19T19:40:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Security", "Identity and network access", "AI Security", "Multicloud security", "Governance", "Defender Cloud Security Posture Management (CSPM)"]
 topics: ["sponsor", "illumio", "lateral-movement", "segmentation", "east-west-traffic"]
-categories: ["Security operations", "Zero trust"]
+categories: ["Threat detection and response", "Identity and access"]
 ---
 
 # AI changed what attackers find. It didn't change how they move.

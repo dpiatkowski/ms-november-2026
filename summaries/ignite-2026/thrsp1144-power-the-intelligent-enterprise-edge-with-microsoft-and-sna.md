@@ -13,7 +13,7 @@ start: "2026-11-20T00:20:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agentic Business Applications"]
 topics: ["sponsor", "qualcomm", "snapdragon", "windows-ai", "npu", "edge"]
-categories: ["Azure infrastructure", "Windows"]
+categories: ["Cloud infrastructure", "Edge AI and devices"]
 ---
 
 # Power the intelligent enterprise edge with Microsoft and Snapdragon

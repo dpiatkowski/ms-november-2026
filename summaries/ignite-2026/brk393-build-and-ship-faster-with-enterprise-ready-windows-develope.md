@@ -13,7 +13,7 @@ start: "2026-11-20T00:00:00Z"
 level: "(400) Expert"
 ignite_topics: ["Windows", "Windows", "Windows Apps", "Windows Developer", "Azure Copilot"]
 topics: ["windows", "developer-tools", "terminal", "powertoys", "wsl"]
-categories: ["Windows"]
+categories: ["Developer tools and delivery"]
 ---
 
 # Build and ship faster with enterprise-ready Windows developer tools​

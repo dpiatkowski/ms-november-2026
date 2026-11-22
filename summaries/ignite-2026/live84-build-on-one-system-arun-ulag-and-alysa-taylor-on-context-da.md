@@ -13,7 +13,7 @@ start: null
 level: null
 ignite_topics: []
 topics: ["broadcast", "microsoft-iq", "onelake", "azure", "context", "data"]
-categories: ["Data and grounding", "Microsoft Fabric"]
+categories: ["AI grounding and retrieval", "Databases and analytics"]
 ---
 
 # Build on One System: Arun Ulag and Alysa Taylor on Context, Data, and the Future of Azure

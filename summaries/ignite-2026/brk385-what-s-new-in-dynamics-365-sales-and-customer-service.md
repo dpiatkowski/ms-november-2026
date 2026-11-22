@@ -13,7 +13,7 @@ start: "2026-11-18T21:45:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Agentic Business Applications", "Agents"]
 topics: ["dynamics-365", "sales", "customer-service", "copilot", "agents"]
-categories: ["Customer experience", "Dynamics 365"]
+categories: ["Business apps and automation"]
 ---
 
 # What’s new in Dynamics 365 Sales and Customer Service​

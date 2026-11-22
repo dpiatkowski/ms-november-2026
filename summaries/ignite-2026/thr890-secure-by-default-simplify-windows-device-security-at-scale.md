@@ -13,7 +13,7 @@ start: "2026-11-19T19:40:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Windows", "Security in Windows", "Security", "Management controls", "Windows", "Windows Resiliency", "Zero Trust", "Microsoft Intune", "Governance", "Cloud Endpoints"]
 topics: ["windows", "device-security", "secure-by-default", "ai-readiness"]
-categories: ["Windows"]
+categories: ["Endpoint management"]
 ---
 
 # Secure by Default: Simplify Windows device security at scale

@@ -13,7 +13,7 @@ start: "2026-11-20T18:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "Agents", "Microsoft Copilot", "Microsoft 365"]
 topics: ["internal-comms", "employee-engagement", "viva-engage", "copilot", "change-management"]
-categories: ["Microsoft 365 Copilot", "Skilling and adoption"]
+categories: ["Microsoft 365 and collaboration", "AI adoption and skills"]
 ---
 
 # How Microsoft Connects Employees, Leaders, and Knowledge at Scale

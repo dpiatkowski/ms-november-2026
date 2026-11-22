@@ -13,7 +13,7 @@ start: "2026-11-19T19:40:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["container-apps", "modernization", "cloud-native", "scale-to-zero", "operations"]
-categories: ["Azure infrastructure", "Migration and modernization"]
+categories: ["Cloud infrastructure", "Migration and modernization"]
 ---
 
 # Your existing apps, your next decade of cloud-native

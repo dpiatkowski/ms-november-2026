@@ -13,7 +13,7 @@ start: "2026-11-18T22:50:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Microsoft IQ"]
 topics: ["foundry-iq", "att", "customer-story", "transcripts", "multi-model-routing", "real-time"]
-categories: ["Microsoft Foundry", "Microsoft IQ"]
+categories: ["AI apps and agents", "AI grounding and retrieval"]
 ---
 
 # AT&T's enterprise-scale transcript intelligence with Foundry IQ

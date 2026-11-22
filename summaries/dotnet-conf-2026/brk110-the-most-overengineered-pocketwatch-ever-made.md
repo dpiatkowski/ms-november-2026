@@ -9,7 +9,7 @@ video_url: "https://youtu.be/N09AKvDkpGA"
 session_id: "BRK110"
 start: "2026-11-12T13:00:00-08:00"
 topics: ["iot", "voice-agent", "esp32", "ai", "claude-code", "community-day"]
-categories: ["Embedded devices", "AI applications", "Agentic engineering"]
+categories: ["Edge AI and devices", "AI apps and agents", "AI-assisted development"]
 ---
 
 # The Most Overengineered Pocketwatch Ever Made

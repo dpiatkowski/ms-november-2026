@@ -13,7 +13,7 @@ start: "2026-11-20T01:30:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Security", "AI", "Security", "Data loss prevention", "Microsoft Purview"]
 topics: ["purview", "dlp", "data-exfiltration", "endpoint", "browser", "network"]
-categories: ["Microsoft Purview"]
+categories: ["Data governance"]
 ---
 
 # Secure exfiltration gaps with Microsoft Purview Data Loss Prevention

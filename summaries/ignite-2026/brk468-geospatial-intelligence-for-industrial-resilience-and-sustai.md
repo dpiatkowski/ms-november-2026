@@ -13,7 +13,7 @@ start: "2026-11-19T19:30:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Microsoft IQ", "AI", "Resiliency", "Sustainability"]
 topics: ["geospatial", "industrial", "sustainability", "earth-observation", "industry"]
-categories: ["Industry solutions", "Physical AI", "Resilience"]
+categories: ["Industry use cases", "Edge AI and devices", "Operations and reliability"]
 ---
 
 # Geospatial intelligence for industrial resilience and sustainability

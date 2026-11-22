@@ -13,7 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI", "Microsoft Foundry"]
 topics: ["sponsor", "foundry", "fireworks", "open-models", "model-customization"]
-categories: ["Microsoft Foundry"]
+categories: ["AI apps and agents"]
 ---
 
 # Own your intelligence with Fireworks on Foundry

@@ -13,7 +13,7 @@ start: "2026-11-18T19:30:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Cloud & AI", "Customer"]
 topics: ["manufacturing", "rockwell-automation", "industrial-ai", "digital-twins", "customer-story"]
-categories: ["Industry solutions", "Physical AI"]
+categories: ["Industry use cases", "Edge AI and devices"]
 ---
 
 # AI-Powered Factories at Scale: Lessons from Rockwell Automation

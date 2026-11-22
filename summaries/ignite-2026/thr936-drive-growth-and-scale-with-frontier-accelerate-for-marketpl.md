@@ -13,7 +13,7 @@ start: "2026-11-18T00:05:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Cloud & AI", "MAICPP"]
 topics: ["partner", "marketplace", "frontier-accelerate", "isv", "co-sell"]
-categories: ["Frontier transformation", "Partners and marketplace"]
+categories: ["AI adoption and skills", "Partners and marketplace"]
 ---
 
 # Drive growth and scale with Frontier Accelerate for Marketplace

@@ -13,7 +13,7 @@ start: "2026-11-20T17:00:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Security", "Security", "Azure Local", "Get Ready for AI", "Microsoft Defender", "Secure your foundation"]
 topics: ["defender", "cloud-security", "application-security", "runtime-protection", "azure-firewall"]
-categories: ["Azure infrastructure", "Microsoft Defender"]
+categories: ["Cloud infrastructure", "Threat detection and response"]
 ---
 
 # Protect applications across code, cloud, and runtime

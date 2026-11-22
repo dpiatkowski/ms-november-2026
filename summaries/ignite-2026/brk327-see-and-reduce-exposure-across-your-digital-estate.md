@@ -13,7 +13,7 @@ start: "2026-11-20T01:15:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Security", "Security", "Azure Cosmos DB", "Agents", "Microsoft Entra", "Threat Intelligence", "Microsoft Intune", "Get Ready for AI", "Secure your foundation"]
 topics: ["exposure-management", "security", "threat-intelligence", "prioritization"]
-categories: ["Microsoft Defender", "Security operations"]
+categories: ["Threat detection and response"]
 ---
 
 # See and reduce exposure across your digital estate

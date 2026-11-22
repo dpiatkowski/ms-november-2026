@@ -13,7 +13,7 @@ start: "2026-11-19T00:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["MAICPP"]
 topics: ["partner", "media", "frontier-transformation", "ip"]
-categories: ["Frontier transformation", "Partners and marketplace"]
+categories: ["AI adoption and skills", "Partners and marketplace"]
 ---
 
 # Frontier Media: Intelligence, Trust, and the partners who build them​

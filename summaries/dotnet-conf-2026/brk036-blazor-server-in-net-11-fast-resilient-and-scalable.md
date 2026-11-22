@@ -9,7 +9,7 @@ video_url: "https://youtu.be/FyQGh9uFMW0"
 session_id: "BRK036"
 start: "2026-11-11T10:30:00-08:00"
 topics: ["blazor", "aspnet-core", "dotnet-11", "ssr", "scalability", "state-management"]
-categories: ["Blazor", "ASP.NET Core", "Performance", ".NET"]
+categories: ["Web development", "Performance"]
 ---
 
 # Blazor Server in .NET 11: Fast, resilient, and scalable

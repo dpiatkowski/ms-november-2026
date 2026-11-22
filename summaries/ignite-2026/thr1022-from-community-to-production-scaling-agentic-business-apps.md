@@ -13,7 +13,7 @@ start: "2026-11-20T01:30:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Agentic Business Applications", "Microsoft Surface", "Agents", "Microsoft Copilot Studio"]
 topics: ["agentic-apps", "community", "production", "scaling"]
-categories: ["Building agents"]
+categories: ["AI apps and agents"]
 ---
 
 # From Community to Production: Scaling Agentic Business Apps

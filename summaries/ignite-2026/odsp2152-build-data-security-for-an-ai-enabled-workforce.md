@@ -13,7 +13,7 @@ start: null
 level: "(300) Advanced"
 ignite_topics: ["Security", "Security", "Microsoft Defender for Cloud", "Data loss prevention", "AI Security", "Agents", "Microsoft Defender XDR", "Data governance", "Azure Container Apps", "Zero Trust", "Microsoft Intune", "Intune", "Microsoft Purview", "Copilot for Security", "Microsoft Defender for Endpoint", "Microsoft Sentinel", "Zero Trust for AI", "Secure AI", "Microsoft Defender", "Microsoft Agent 365", "Microsoft Defender Threat Intelligence", "Defender Cloud Security Posture Management (CSPM)", "Microsoft Defender Experts Threat Intelligence", "Microsoft Defender Experts MDR", "Microsoft Purview Data Loss Prevention", "Microsoft Purview Insider Risk Management", "Data protection"]
 topics: ["sponsor", "data-security", "dlp", "dspm", "shadow-ai", "copilot"]
-categories: ["Microsoft Purview"]
+categories: ["Data governance"]
 ---
 
 # Build data security for an AI-enabled workforce

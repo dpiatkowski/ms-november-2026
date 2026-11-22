@@ -13,7 +13,7 @@ start: "2026-11-18T21:45:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agentic Business Applications"]
 topics: ["partner", "dynamics-365", "customer-experience", "agents", "business-processes"]
-categories: ["Customer experience", "Partners and marketplace"]
+categories: ["Business apps and automation", "Partners and marketplace"]
 ---
 
 # Agentify Your Business Processes: CX Partner Growth Opportunity​

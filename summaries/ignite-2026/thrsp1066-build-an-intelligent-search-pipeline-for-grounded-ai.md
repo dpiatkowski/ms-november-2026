@@ -13,7 +13,7 @@ start: "2026-11-17T23:10:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["sponsor", "cohere", "search", "retrieval", "grounding"]
-categories: ["Data and grounding"]
+categories: ["AI grounding and retrieval"]
 ---
 
 # Build an intelligent search pipeline for grounded AI

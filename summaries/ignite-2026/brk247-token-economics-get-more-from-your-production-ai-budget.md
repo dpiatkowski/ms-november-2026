@@ -13,7 +13,7 @@ start: "2026-11-18T19:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "Microsoft Foundry", "Customer", "FinOps"]
 topics: ["foundry", "token-economics", "cost-optimization", "prompt-caching", "model-routing"]
-categories: ["FinOps"]
+categories: ["Cloud cost management"]
 ---
 
 # Token economics: Get more from your production AI budget

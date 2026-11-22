@@ -13,7 +13,7 @@ start: "2026-11-20T00:00:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Agentic Business Applications", "Agents"]
 topics: ["dynamics-365", "migration", "modernization", "crm", "erp", "agents"]
-categories: ["Dynamics 365", "Migration and modernization"]
+categories: ["Business apps and automation", "Migration and modernization"]
 ---
 
 # Leave legacy CRM & ERP behind: Modernize with Dynamics 365 Activate​

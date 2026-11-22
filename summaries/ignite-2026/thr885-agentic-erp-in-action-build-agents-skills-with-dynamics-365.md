@@ -13,7 +13,7 @@ start: "2026-11-17T22:35:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Agentic Business Applications", "Agents"]
 topics: ["dynamics-365", "erp", "mcp", "agents", "cowork", "copilot-studio"]
-categories: ["Building agents", "Dynamics 365", "MCP"]
+categories: ["AI apps and agents", "Business apps and automation"]
 ---
 
 # Agentic ERP in action:Build agents & skills with Dynamics 365 ERP MCP

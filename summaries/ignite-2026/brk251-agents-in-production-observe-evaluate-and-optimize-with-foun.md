@@ -13,7 +13,7 @@ start: "2026-11-18T23:00:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Agent Platform", "Microsoft Foundry", "Observability and evaluation"]
 topics: ["foundry", "agents", "observability", "evaluation", "customer-story"]
-categories: ["Evaluation and observability", "Microsoft Foundry"]
+categories: ["Testing and evaluation", "AI apps and agents"]
 ---
 
 # Agents in production: Observe, evaluate, and optimize with Foundry

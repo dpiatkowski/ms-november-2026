@@ -13,7 +13,7 @@ start: "2026-11-18T20:15:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Frontier Transformation", "Other", "AI", "Partner", "Get Ready for AI"]
 topics: ["training-partners", "skilling", "role-based-learning", "ai-adoption"]
-categories: ["Partners and marketplace", "Skilling and adoption"]
+categories: ["Partners and marketplace", "AI adoption and skills"]
 ---
 
 # Learn how Training Partners turn AI ambition into workforce action

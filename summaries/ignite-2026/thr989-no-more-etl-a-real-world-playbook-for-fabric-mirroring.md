@@ -13,7 +13,7 @@ start: "2026-11-19T21:40:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Data", "MVP"]
 topics: ["fabric-mirroring", "etl-migration", "cdc", "playbook"]
-categories: ["Microsoft Fabric"]
+categories: ["Databases and analytics"]
 ---
 
 # No More ETL? A Real-World Playbook for Fabric Mirroring

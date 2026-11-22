@@ -9,7 +9,7 @@ video_url: "https://youtu.be/q3R0Jpv42ag"
 session_id: "BRK101"
 start: "2026-11-12T08:30:00-08:00"
 topics: ["blazor", "ai", "mcp", "ui-components", "community-day", "vendor"]
-categories: ["Blazor", "MCP", "Agentic engineering", "AI applications"]
+categories: ["Web development", "AI apps and agents", "AI-assisted development"]
 ---
 
 # AI Journey with Telerik UI for Blazor: From Developer Productivity to Intelligent User Experiences

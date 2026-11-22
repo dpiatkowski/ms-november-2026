@@ -13,7 +13,7 @@ start: "2026-11-18T22:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "Agentic Business Applications", "AI", "Microsoft for Startups", "Marketplace"]
 topics: ["customer-service", "ai-resolution", "autonomous-agents", "architecture"]
-categories: ["Customer experience"]
+categories: ["Business apps and automation"]
 ---
 
 # From Assistance to Resolution: Customer Service in Action

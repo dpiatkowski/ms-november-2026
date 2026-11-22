@@ -9,7 +9,7 @@ video_url: "https://youtu.be/OoALkRag2tY"
 session_id: "BRK035"
 start: "2026-11-11T18:30:00-08:00"
 topics: ["agents", "sandboxing", "security", "modernization", "devcontainers"]
-categories: ["ASP.NET Legacy", ".NET", "GitHub Copilot", "Security", "Agentic engineering"]
+categories: ["Web development", "AI-assisted development", "Application and agent security", "Migration and modernization"]
 ---
 
 # Protect your PC from AI coding agents while modernising legacy .NET apps

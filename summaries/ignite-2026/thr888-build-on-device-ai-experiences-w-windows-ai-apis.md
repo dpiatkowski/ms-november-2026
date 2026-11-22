@@ -13,7 +13,7 @@ start: "2026-11-18T00:05:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Windows", "AI", "Windows", "Windows Developer", "Azure Copilot", "Azure HorizonDB", "Unmetered Intelligence"]
 topics: ["windows-ai-apis", "on-device-ai", "aion-instruct", "vision", "language"]
-categories: ["Windows"]
+categories: ["Edge AI and devices"]
 ---
 
 # Build On-Device AI Experiences w/ Windows AI APIs

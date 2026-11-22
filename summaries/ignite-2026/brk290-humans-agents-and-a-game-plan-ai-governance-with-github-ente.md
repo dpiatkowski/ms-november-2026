@@ -13,7 +13,7 @@ start: "2026-11-18T21:45:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Agent Platform", "GitHub", "Developer Tools"]
 topics: ["github-enterprise", "ai-governance", "copilot", "policies", "spend"]
-categories: ["Agent governance"]
+categories: ["AI governance and safety"]
 ---
 
 # Humans, agents, and a game plan: AI governance with GitHub Enterprise

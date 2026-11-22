@@ -13,7 +13,7 @@ start: "2026-11-18T17:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Windows", "Windows 365", "Agents", "Microsoft Foundry", "W365 for Agents", "Windows Developer", "Cloud PC", "Azure Copilot", "Intune", "Marketplace", "Cloud Endpoints", "MXC", "Unmetered Intelligence", "Get Ready for AI", "Microsoft Agent 365", "Microsoft Copilot Studio"]
 topics: ["windows-365", "developers", "agents", "computer-use", "cloud-pc"]
-categories: ["Windows 365 and Azure Virtual Desktop"]
+categories: ["Endpoint management"]
 ---
 
 # Every developer and agent needs a computer: Building with Windows 365

@@ -13,7 +13,7 @@ start: "2026-11-20T19:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "AI", "Microsoft Copilot", "Microsoft 365"]
 topics: ["copilot", "work-iq", "comparison", "multi-model", "security"]
-categories: ["Microsoft 365 Copilot"]
+categories: ["Microsoft 365 and collaboration"]
 ---
 
 # Built for work: What sets Copilot apart

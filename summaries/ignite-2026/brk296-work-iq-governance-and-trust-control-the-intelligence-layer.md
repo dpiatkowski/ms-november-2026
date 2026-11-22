@@ -13,7 +13,7 @@ start: "2026-11-20T01:15:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Microsoft IQ"]
 topics: ["work-iq", "governance", "trust", "admin", "cost"]
-categories: ["Microsoft IQ"]
+categories: ["AI grounding and retrieval"]
 ---
 
 # Work IQ governance and trust: Control the intelligence layer

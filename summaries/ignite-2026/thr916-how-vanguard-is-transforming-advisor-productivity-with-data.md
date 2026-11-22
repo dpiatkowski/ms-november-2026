@@ -13,7 +13,7 @@ start: "2026-11-18T18:10:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agentic Business Applications", "AI", "Agents", "Azure Container Apps", "Governance", "Customer"]
 topics: ["financial-services", "vanguard", "sales-agent", "dynamics", "fabric", "customer-story"]
-categories: ["Industry solutions"]
+categories: ["Industry use cases"]
 ---
 
 # How Vanguard is transforming advisor productivity with data and AI

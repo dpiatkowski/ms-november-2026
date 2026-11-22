@@ -13,7 +13,7 @@ start: "2026-11-18T18:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "Agents", "Microsoft Copilot", "Microsoft 365"]
 topics: ["teams", "copilot", "agents", "work-iq", "agent-365", "collaboration"]
-categories: ["Microsoft 365 Copilot", "Microsoft Teams"]
+categories: ["Microsoft 365 and collaboration"]
 ---
 
 # From Conversation to Completion: How Teams and Copilot move work ahead

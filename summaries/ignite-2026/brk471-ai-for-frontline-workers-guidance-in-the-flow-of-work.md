@@ -13,7 +13,7 @@ start: "2026-11-20T18:15:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Agent Platform", "AI", "Agents", "Microsoft Teams", "Partner", "Microsoft Copilot"]
 topics: ["manufacturing", "industrial-ai", "frontline-workers", "customer-story", "azure"]
-categories: ["Industry solutions"]
+categories: ["Industry use cases"]
 ---
 
 # AI for frontline workers: Guidance in the flow of work

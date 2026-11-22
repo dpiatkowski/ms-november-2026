@@ -13,7 +13,7 @@ start: "2026-11-19T00:20:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Copilot", "Other", "AI controls", "FinOps"]
 topics: ["ai-finops", "token-spend", "model-choice", "workload-placement"]
-categories: ["FinOps"]
+categories: ["Cloud cost management"]
 ---
 
 # AI FinOps in practice: what IT and business owe each other

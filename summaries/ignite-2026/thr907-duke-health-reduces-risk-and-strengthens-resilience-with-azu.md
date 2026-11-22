@@ -13,7 +13,7 @@ start: "2026-11-18T23:45:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Data", "AI", "Agents", "Azure Copilot", "Get Ready for AI"]
 topics: ["healthcare", "duke-health", "epic", "disaster-recovery", "defender", "customer-story"]
-categories: ["Resilience"]
+categories: ["Operations and reliability"]
 ---
 
 # Duke Health reduces risk and strengthens resilience with Azure

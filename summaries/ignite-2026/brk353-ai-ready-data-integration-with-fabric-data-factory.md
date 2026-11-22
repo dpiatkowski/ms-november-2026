@@ -13,7 +13,7 @@ start: "2026-11-20T18:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Data"]
 topics: ["fabric", "data-factory", "data-integration", "mirroring", "dbt", "migration"]
-categories: ["Microsoft Fabric"]
+categories: ["Databases and analytics"]
 ---
 
 # AI-ready data integration with Fabric Data Factory

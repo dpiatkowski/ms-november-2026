@@ -13,7 +13,7 @@ start: "2026-11-18T18:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agentic Business Applications", "AI", "Windows 365", "Agents", "Microsoft Teams", "Microsoft Entra", "Windows", "Microsoft Intune", "Copilot Chat", "Intune", "Microsoft 365", "Secure AI", "Get Ready for AI", "Windows Agents", "SMB", "Lean IT", "Knowledge retrieval", "AI Transformation"]
 topics: ["sponsor", "atera", "autonomous-it", "incident-resolution", "ai-technician"]
-categories: ["Cloud operations", "IT operations"]
+categories: ["Operations and reliability", "Endpoint management"]
 ---
 
 # The end of IT as we know it?

@@ -13,7 +13,7 @@ start: "2026-11-19T19:30:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Agent Platform", "Microsoft Foundry", "Governance"]
 topics: ["ai-governance", "open-source", "foundry", "agent-frameworks", "identity"]
-categories: ["Agent governance"]
+categories: ["AI governance and safety"]
 ---
 
 # Govern AI everywhere: From open frameworks to enterprise control

@@ -13,7 +13,7 @@ start: "2026-11-20T00:55:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["sponsor", "lovable", "copilot-managed-runtime", "azure", "app-building"]
-categories: ["Copilot Studio", "Power Platform"]
+categories: ["AI apps and agents", "Business apps and automation"]
 ---
 
 # Build with Lovable, ship in your Microsoft environment

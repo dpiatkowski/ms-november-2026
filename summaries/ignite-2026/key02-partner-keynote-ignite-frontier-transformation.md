@@ -13,7 +13,7 @@ start: "2026-11-18T17:00:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Frontier Transformation", "Cloud & AI", "Agentic Business Applications", "Copilot", "MAICPP", "Partner Keynote"]
 topics: ["keynote", "partner", "frontier-transformation"]
-categories: ["Frontier transformation", "Partners and marketplace"]
+categories: ["AI adoption and skills", "Partners and marketplace"]
 ---
 
 # Partner Keynote: Ignite Frontier Transformation

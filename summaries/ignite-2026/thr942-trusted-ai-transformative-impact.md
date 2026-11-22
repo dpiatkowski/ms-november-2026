@@ -13,7 +13,7 @@ start: "2026-11-17T22:35:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Frontier Transformation", "AI", "AI Transformation"]
 topics: ["trusted-ai", "governance", "accountability", "leadership"]
-categories: ["Frontier transformation", "Responsible AI"]
+categories: ["AI adoption and skills", "AI governance and safety"]
 ---
 
 # Trusted AI, transformative impact​

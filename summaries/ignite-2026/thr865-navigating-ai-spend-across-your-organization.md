@@ -13,7 +13,7 @@ start: "2026-11-17T22:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform"]
 topics: ["ai-spend", "finops", "governance", "roi", "forecasting"]
-categories: ["FinOps"]
+categories: ["Cloud cost management"]
 ---
 
 # Navigating AI spend across your organization

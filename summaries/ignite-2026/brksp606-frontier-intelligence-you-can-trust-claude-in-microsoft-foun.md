@@ -13,7 +13,7 @@ start: "2026-11-19T18:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI", "Observability", "Agents", "Microsoft Foundry", "Governance", "Secure AI", "FinOps", "Sovereignty & Compliance"]
 topics: ["sponsor", "anthropic", "claude", "foundry", "governance", "safety"]
-categories: ["Frontier transformation", "Microsoft Foundry"]
+categories: ["AI adoption and skills", "AI apps and agents"]
 ---
 
 # Frontier intelligence you can trust: Claude in Microsoft Foundry

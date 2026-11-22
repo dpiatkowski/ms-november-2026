@@ -13,7 +13,7 @@ start: "2026-11-18T23:00:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Agentic Business Applications"]
 topics: ["partner", "dynamics-365", "erp", "agents", "business-processes"]
-categories: ["Dynamics 365", "Partners and marketplace"]
+categories: ["Business apps and automation", "Partners and marketplace"]
 ---
 
 # Agentify Your Business Processes for ERP Partner Opportunities​

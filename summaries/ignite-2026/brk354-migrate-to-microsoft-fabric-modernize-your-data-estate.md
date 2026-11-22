@@ -13,7 +13,7 @@ start: "2026-11-18T18:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Data"]
 topics: ["fabric", "migration", "synapse", "data-factory", "lakehouse"]
-categories: ["Microsoft Fabric", "Migration and modernization"]
+categories: ["Databases and analytics", "Migration and modernization"]
 ---
 
 # Migrate to Microsoft Fabric: Modernize your data estate

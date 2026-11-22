@@ -13,7 +13,7 @@ start: null
 level: "(300) Advanced"
 ignite_topics: ["Agentic Business Applications", "AI", "Security in Windows", "AI Security", "Microsoft Intune", "Intune"]
 topics: ["sponsor", "intune", "app-packaging", "ai", "automation"]
-categories: ["Microsoft Intune"]
+categories: ["Endpoint management"]
 ---
 
 # From installer to Intune: AI-powered app packaging

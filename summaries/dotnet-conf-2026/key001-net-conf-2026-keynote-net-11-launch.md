@@ -9,7 +9,7 @@ video_url: "https://youtu.be/PWAVvWTzzHo"
 session_id: "KEY001"
 start: "2026-11-10T08:00:00-08:00"
 topics: ["dotnet-11", "keynote", "ai", "copilot", "agents"]
-categories: [".NET", "GitHub Copilot", "Agentic engineering"]
+categories: ["C# and .NET runtime", "AI-assisted development"]
 ---
 
 # .NET Conf 2026 Keynote - .NET 11 Launch

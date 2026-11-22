@@ -13,7 +13,7 @@ start: "2026-11-20T00:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "SharePoint", "Microsoft Copilot", "Microsoft 365"]
 topics: ["sharepoint", "copilot", "knowledge-management", "customer-stories"]
-categories: ["Frontier transformation", "Microsoft 365 Copilot", "SharePoint and OneDrive"]
+categories: ["AI adoption and skills", "Microsoft 365 and collaboration"]
 ---
 
 # Real-World AI Transformation with Copilot in SharePoint​‌

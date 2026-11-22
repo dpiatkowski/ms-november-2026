@@ -13,7 +13,7 @@ start: "2026-11-18T18:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "Agents", "Copilot Chat", "Microsoft Copilot"]
 topics: ["copilot", "cowork", "agents", "delegation", "adoption"]
-categories: ["Microsoft 365 Copilot"]
+categories: ["Microsoft 365 and collaboration"]
 ---
 
 # Beyond Chat: Delegate Complex Work with Copilot Cowork

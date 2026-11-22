@@ -13,7 +13,7 @@ start: "2026-11-20T19:30:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Agent Platform", "Microsoft Foundry", "Windows"]
 topics: ["foundry-local", "on-device-ai", "privacy", "agents", "cross-platform"]
-categories: ["Building agents", "Microsoft Foundry"]
+categories: ["AI apps and agents"]
 ---
 
 # Build private, responsive on-device AI agents with Foundry

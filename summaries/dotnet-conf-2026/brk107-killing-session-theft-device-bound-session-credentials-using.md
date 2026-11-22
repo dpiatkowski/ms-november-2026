@@ -9,7 +9,7 @@ video_url: "https://youtu.be/QWj9aKirn6s"
 session_id: "BRK107"
 start: "2026-11-12T11:30:00-08:00"
 topics: ["security", "authentication", "aspnet-core", "cookies", "dbsc", "community-day"]
-categories: ["ASP.NET Core", "Security"]
+categories: ["Web development", "Application and agent security", "Identity and access"]
 ---
 
 # Killing Session Theft: Device Bound Session Credentials using ASP.NET Core

@@ -13,7 +13,7 @@ start: "2026-11-18T17:00:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Agentic Business Applications", "AI", "Agents", "Microsoft Copilot", "Get Ready for AI"]
 topics: ["retail", "agentic-ai", "shopping-assistants", "demand-planning", "industry"]
-categories: ["Industry solutions"]
+categories: ["Industry use cases"]
 ---
 
 # Activate your retail intelligence: High-value agentic AI use cases

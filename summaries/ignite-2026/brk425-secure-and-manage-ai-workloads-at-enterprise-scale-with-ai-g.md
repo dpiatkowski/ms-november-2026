@@ -13,7 +13,7 @@ start: "2026-11-18T21:45:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["ai-gateway", "governance", "mcp", "foundry", "agent-365", "cost-management"]
-categories: ["Azure infrastructure"]
+categories: ["Cloud infrastructure"]
 ---
 
 # Secure and manage AI workloads at enterprise scale with AI Gateway

@@ -13,7 +13,7 @@ start: "2026-11-20T00:00:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Agent Platform", "Github Copilot", "GitHub", "Model customization", "Observability and evaluation", "Developer Tools"]
 topics: ["github", "security", "coding-agents", "sandboxing", "supply-chain"]
-categories: ["Agentic security", "Software engineering"]
+categories: ["Application and agent security", "Developer tools and delivery"]
 ---
 
 # Securing coding agents and their code

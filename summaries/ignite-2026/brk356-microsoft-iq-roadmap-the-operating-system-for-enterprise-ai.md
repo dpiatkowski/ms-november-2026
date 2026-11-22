@@ -13,7 +13,7 @@ start: "2026-11-18T21:45:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Microsoft IQ"]
 topics: ["microsoft-iq", "agent-platform", "agent-identity", "governance", "roadmap"]
-categories: ["Microsoft IQ"]
+categories: ["AI grounding and retrieval"]
 ---
 
 # Microsoft IQ roadmap: The operating system for enterprise AI agents

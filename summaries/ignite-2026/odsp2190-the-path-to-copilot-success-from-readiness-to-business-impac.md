@@ -13,7 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "AI", "Security", "Agents", "Partner", "Data governance", "Azure Container Apps", "Governance", "Microsoft Copilot", "Microsoft 365"]
 topics: ["sponsor", "copilot", "adoption", "readiness", "new-charter", "wayfinder"]
-categories: ["Microsoft 365 Copilot"]
+categories: ["Microsoft 365 and collaboration"]
 ---
 
 # The path to Copilot success: From readiness to business impact

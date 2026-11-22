@@ -13,7 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Windows", "AI", "Security in Windows", "Resiliency", "Windows 365", "Partner", "Software Development Company", "VDI", "W365 Cloud Apps", "Windows", "Windows Apps", "Microsoft Intune", "AVD", "Cloud PC", "Azure Copilot", "Intune", "Customer", "Perception"]
 topics: ["sponsor", "msix", "app-packaging", "appcure", "entra"]
-categories: ["Windows"]
+categories: ["Desktop and mobile apps"]
 ---
 
 # MSIX transformation and delivery of the modern Windows app lifecycle

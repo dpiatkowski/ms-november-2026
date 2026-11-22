@@ -13,7 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["sponsor", "dell", "agentic-ai", "ai-pc", "infrastructure"]
-categories: ["Azure infrastructure", "Windows"]
+categories: ["Cloud infrastructure", "Edge AI and devices"]
 ---
 
 # Scale agentic AI from deskside to data center with Dell and Microsoft

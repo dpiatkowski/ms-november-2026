@@ -13,7 +13,7 @@ start: "2026-11-18T21:45:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Microsoft IQ"]
 topics: ["web-iq", "grounding", "agents", "latency", "cost-optimization"]
-categories: ["Data and grounding", "Microsoft IQ"]
+categories: ["AI grounding and retrieval"]
 ---
 
 # Optimizing AI agents to meet your goals: Grounding with Web IQ

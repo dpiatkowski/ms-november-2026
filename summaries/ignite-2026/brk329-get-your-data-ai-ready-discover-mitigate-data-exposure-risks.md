@@ -13,7 +13,7 @@ start: "2026-11-20T00:00:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Security", "AI", "Security", "Azure Container Apps", "Microsoft Purview", "Get Ready for AI", "Secure your foundation"]
 topics: ["purview", "data-security", "oversharing", "classification", "ai-readiness"]
-categories: ["Data and grounding", "Microsoft Purview"]
+categories: ["AI grounding and retrieval", "Data governance"]
 ---
 
 # Get your data AI-ready: Discover & mitigate data exposure risks

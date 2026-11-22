@@ -13,7 +13,7 @@ start: "2026-11-18T18:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Windows", "Windows", "Windows Resiliency", "Cloud Endpoints"]
 topics: ["windows", "quality", "reliability", "windows-insider", "driver-quality"]
-categories: ["Windows"]
+categories: ["Endpoint management"]
 ---
 
 # Raising the Bar for Windows Quality: Built with Your Feedback

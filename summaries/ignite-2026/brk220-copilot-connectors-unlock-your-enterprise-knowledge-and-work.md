@@ -13,7 +13,7 @@ start: "2026-11-19T18:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "Agents", "Microsoft Copilot", "Microsoft 365"]
 topics: ["copilot", "connectors", "enterprise-data", "extensibility", "governance"]
-categories: ["Microsoft 365 Copilot"]
+categories: ["Microsoft 365 and collaboration"]
 ---
 
 # Copilot Connectors: Unlock your enterprise knowledge and workflows

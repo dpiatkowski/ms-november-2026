@@ -13,7 +13,7 @@ start: "2026-11-20T00:20:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Microsoft IQ"]
 topics: ["foundry", "community", "ama", "product-updates"]
-categories: ["Microsoft Foundry"]
+categories: ["AI apps and agents"]
 ---
 
 # Foundry Discord Live: Product Updates & Community AMA

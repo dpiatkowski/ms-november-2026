@@ -13,7 +13,7 @@ start: "2026-11-19T22:45:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Security"]
 topics: ["sponsor", "agent-security", "identity", "policy", "runtime-failures"]
-categories: ["Agentic security"]
+categories: ["Application and agent security"]
 ---
 
 # Security for systems that won’t obey

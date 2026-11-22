@@ -13,7 +13,7 @@ start: "2026-11-17T22:35:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agentic Business Applications", "Data", "Agents", "Secure AI"]
 topics: ["fabric", "customer-signals", "agentic-apps", "governance", "telemetry"]
-categories: ["Microsoft Fabric"]
+categories: ["Databases and analytics"]
 ---
 
 # From Traditional Reports to Business-Ready Agentic Apps at Scale, Powered by Microsoft Fabric

@@ -13,7 +13,7 @@ start: "2026-11-19T21:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Security", "AI", "Resiliency", "Security", "Identity and network access", "Threat Intelligence", "Community"]
 topics: ["sponsor", "huntress", "phishing", "aitm", "session-token-theft", "microsoft-365"]
-categories: ["Agentic security", "Microsoft 365 Copilot"]
+categories: ["Application and agent security", "Microsoft 365 and collaboration"]
 ---
 
 # Defend against vibe-coded Microsoft 365 attacks

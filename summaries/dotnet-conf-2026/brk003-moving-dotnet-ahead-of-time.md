@@ -9,7 +9,7 @@ video_url: "https://youtu.be/d_2bTXnJQqQ"
 session_id: "BRK003"
 start: "2026-11-10T10:00:00-08:00"
 topics: ["dotnet-cli", "native-aot", "performance", "dotnet-11", "tooling"]
-categories: [".NET", "Performance"]
+categories: ["C# and .NET runtime", "Performance"]
 ---
 
 # Moving `dotnet` Ahead (of Time)!

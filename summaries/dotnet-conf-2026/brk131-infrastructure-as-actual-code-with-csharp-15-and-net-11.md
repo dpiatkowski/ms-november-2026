@@ -9,7 +9,7 @@ video_url: "https://youtu.be/gOtjSXdWxAI"
 session_id: "BRK131"
 start: "2026-11-13T14:30:00-08:00"
 topics: ["iac", "pulumi", "azure", "csharp", "dotnet-11", "community-day"]
-categories: ["Infrastructure as code", "Azure"]
+categories: ["Cloud infrastructure"]
 ---
 
 # Infrastructure as (Actual) Code with C# 15 and .NET 11

@@ -13,7 +13,7 @@ start: "2026-11-18T19:40:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Other"]
 topics: ["microsoft-certified-trainers", "skilling", "community"]
-categories: ["Skilling and adoption"]
+categories: ["AI adoption and skills"]
 ---
 
 # Behind the skills: Life of a Microsoft Certified Trainer

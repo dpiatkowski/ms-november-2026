@@ -13,7 +13,7 @@ start: "2026-11-18T17:35:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI", "Agents", "Defend with AI"]
 topics: ["sponsor", "atlassian", "connected-context", "customer-story", "spoton"]
-categories: ["Frontier transformation"]
+categories: ["AI adoption and skills"]
 ---
 
 # Create connected context to scale AI ROI

@@ -13,7 +13,7 @@ start: "2026-11-20T17:00:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Data", "Azure SQL", "Agents", "Github Copilot", "Visual Studio Code"]
 topics: ["azure-sql", "mssql-extension", "github-copilot", "vscode", "rag", "vector"]
-categories: ["Azure databases", "GitHub Copilot", "Software engineering"]
+categories: ["Databases and analytics", "AI-assisted development", "Developer tools and delivery"]
 ---
 
 # Build AI-ready apps on Azure SQL with GitHub Copilot in VS Code

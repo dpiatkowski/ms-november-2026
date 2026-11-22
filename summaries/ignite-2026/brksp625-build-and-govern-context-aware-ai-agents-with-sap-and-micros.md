@@ -13,7 +13,7 @@ start: "2026-11-19T17:00:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Agentic Business Applications"]
 topics: ["sponsor", "sap", "agents", "semantic-data", "governance", "architecture"]
-categories: ["Agent governance", "Building agents", "Data and grounding"]
+categories: ["AI governance and safety", "AI apps and agents", "AI grounding and retrieval"]
 ---
 
 # Build and govern context-aware AI agents with SAP and Microsoft

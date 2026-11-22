@@ -13,7 +13,7 @@ start: "2026-11-17T22:35:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "Agents", "Microsoft Foundry", "MCP", "Microsoft Copilot", "Skills"]
 topics: ["sponsor", "anthropic", "claude", "foundry", "agent-sdk", "agent-framework", "mcp"]
-categories: ["Microsoft Foundry"]
+categories: ["AI apps and agents"]
 ---
 
 # Building agents with Claude in Foundry: Choosing your stack

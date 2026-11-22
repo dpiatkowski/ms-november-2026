@@ -13,7 +13,7 @@ start: "2026-11-18T18:15:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Cloud & AI"]
 topics: ["sap", "azure", "copilot", "agents", "enterprise-ai"]
-categories: ["Azure infrastructure", "Data and grounding", "Microsoft IQ"]
+categories: ["Cloud infrastructure", "AI grounding and retrieval"]
 ---
 
 # Microsoft and SAP bring a connected system of intelligence

@@ -13,7 +13,7 @@ start: "2026-11-19T18:45:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["windows-server", "azure-arc", "hotpatching", "esu", "sql-server"]
-categories: ["Windows"]
+categories: ["Cloud infrastructure"]
 ---
 
 # Cloud management for every Windows Server​

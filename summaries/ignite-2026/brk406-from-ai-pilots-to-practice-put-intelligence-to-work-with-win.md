@@ -13,7 +13,7 @@ start: "2026-11-17T23:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Windows", "Security in Windows", "Identity and network access", "Azure Cosmos DB", "AI controls", "AI Security", "Agents", "Management controls", "Windows", "Zero Trust", "Microsoft Intune", "Community", "Cloud Endpoints", "Microsoft Defender for Endpoint", "Customer", "Zero Trust for AI", "Secure AI", "Agentic defense", "Microsoft Defender", "Microsoft Agent 365"]
 topics: ["windows", "agents", "governance", "ai-adoption", "customer-story"]
-categories: ["Frontier transformation", "Windows"]
+categories: ["AI adoption and skills", "Endpoint management"]
 ---
 
 # From AI Pilots to Practice: Put Intelligence to Work with Windows

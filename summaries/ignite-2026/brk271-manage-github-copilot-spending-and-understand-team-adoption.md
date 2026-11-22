@@ -13,7 +13,7 @@ start: "2026-11-19T19:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "Github Copilot", "Governance", "GitHub", "FinOps", "Developer Tools"]
 topics: ["github-copilot", "billing", "budgets", "adoption-analytics", "admin"]
-categories: ["GitHub Copilot", "Skilling and adoption"]
+categories: ["AI-assisted development", "AI adoption and skills"]
 ---
 
 # Manage GitHub Copilot spending and understand team adoption

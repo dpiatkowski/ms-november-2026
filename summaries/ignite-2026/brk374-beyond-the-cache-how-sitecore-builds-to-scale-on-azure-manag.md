@@ -13,7 +13,7 @@ start: "2026-11-20T01:15:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Data"]
 topics: ["azure-managed-redis", "caching", "aks", "customer-story", "sitecore"]
-categories: ["Azure databases"]
+categories: ["Databases and analytics"]
 ---
 
 # Beyond the cache: How Sitecore builds to scale on Azure Managed Redis

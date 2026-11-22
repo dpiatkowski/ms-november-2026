@@ -13,7 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Security", "AI", "Security in Windows", "Security", "AI controls", "AI Security", "Data governance", "Azure Container Apps", "Azure Databricks", "Governance", "Cloud Endpoints", "Secure AI", "Get Ready for AI"]
 topics: ["sponsor", "automox", "endpoint-management", "patching", "governance"]
-categories: ["Frontier transformation"]
+categories: ["AI adoption and skills"]
 ---
 
 # Govern IT at frontier pace: Endpoint readiness in an AI world

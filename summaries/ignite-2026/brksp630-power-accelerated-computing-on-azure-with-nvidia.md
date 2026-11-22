@@ -13,7 +13,7 @@ start: "2026-11-17T23:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI", "AI", "Resiliency", "AI controls", "AI Security", "Agents", "Multicloud", "Partner", "Windows AI Foundry", "Microsoft for Startups", "Azure Copilot", "API", "Cloud Endpoints"]
 topics: ["sponsor", "nvidia", "azure", "gpu", "accelerated-computing"]
-categories: ["Azure infrastructure"]
+categories: ["Cloud infrastructure"]
 ---
 
 # Power accelerated computing on Azure with NVIDIA

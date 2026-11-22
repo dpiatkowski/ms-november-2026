@@ -13,7 +13,7 @@ start: "2026-11-19T22:45:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI", "AI", "Multicloud", "Multicloud security", "API", "Azure Local"]
 topics: ["sponsor", "lumen", "networking", "programmable-network", "ai-workloads"]
-categories: ["Azure infrastructure"]
+categories: ["Cloud infrastructure"]
 ---
 
 # AI doesn't wait. Neither should your network.

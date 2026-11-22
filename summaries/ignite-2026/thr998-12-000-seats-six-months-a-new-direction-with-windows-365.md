@@ -13,7 +13,7 @@ start: "2026-11-20T00:55:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Windows", "MVP"]
 topics: ["windows-365", "migration", "euc", "customer-story", "lessons-learned"]
-categories: ["Windows 365 and Azure Virtual Desktop"]
+categories: ["Endpoint management"]
 ---
 
 # 12,000 Seats. Six Months. A New Direction with Windows 365.

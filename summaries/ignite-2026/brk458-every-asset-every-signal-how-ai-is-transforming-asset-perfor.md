@@ -13,7 +13,7 @@ start: "2026-11-19T17:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Microsoft IQ"]
 topics: ["energy", "industry", "asset-performance", "predictive-maintenance", "customer-story"]
-categories: ["Industry solutions", "Physical AI"]
+categories: ["Industry use cases", "Edge AI and devices"]
 ---
 
 # Every asset, every signal: How AI is transforming asset performance

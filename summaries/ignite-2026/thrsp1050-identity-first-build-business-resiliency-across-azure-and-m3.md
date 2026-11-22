@@ -13,7 +13,7 @@ start: "2026-11-17T22:35:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Security", "AI", "Security", "AI Security", "Partner", "Data governance", "Azure Container Apps", "Governance", "Microsoft Sentinel", "Secure AI", "Defend with AI"]
 topics: ["sponsor", "rackspace", "rubrik", "identity-resilience", "recovery"]
-categories: ["Microsoft Entra", "Resilience"]
+categories: ["Identity and access", "Operations and reliability"]
 ---
 
 # Identity first: Build business resiliency across Azure and M365

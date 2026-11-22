@@ -13,7 +13,7 @@ start: "2026-11-19T18:10:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Cloud & AI"]
 topics: ["sponsor", "networking", "ai-control-point", "governance", "performance"]
-categories: ["Azure infrastructure", "Zero trust"]
+categories: ["Cloud infrastructure", "Identity and access"]
 ---
 
 # Turn your network into the strategic control point for AI

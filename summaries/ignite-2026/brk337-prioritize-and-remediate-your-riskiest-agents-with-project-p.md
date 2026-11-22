@@ -13,7 +13,7 @@ start: "2026-11-17T23:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Security", "AI", "Security", "Azure Cosmos DB", "Agents", "Secure AI", "Agentic defense", "Microsoft Agent 365", "Secure Agentic Insiders"]
 topics: ["project-perception", "agents", "insider-risk", "risk-prioritization"]
-categories: ["Microsoft Defender"]
+categories: ["Threat detection and response"]
 ---
 
 # Prioritize and remediate your riskiest agents with Project Perception

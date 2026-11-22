@@ -13,7 +13,7 @@ start: null
 level: "(300) Advanced"
 ignite_topics: ["Agent Platform", "Agents", "SharePoint", "Microsoft Copilot", "Microsoft Agent 365"]
 topics: ["sponsor", "sharepoint", "agents", "sharepoint-advanced-management", "agent-365", "syskit"]
-categories: ["SharePoint and OneDrive"]
+categories: ["Microsoft 365 and collaboration"]
 ---
 
 # Manage SharePoint agents with SharePoint Advanced Management

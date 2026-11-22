@@ -13,7 +13,7 @@ start: "2026-11-17T23:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Data", "Analytics", "Microsoft Fabric", "Power BI"]
 topics: ["power-bi", "fabric", "decision-intelligence", "semantic-models", "ai"]
-categories: ["Power Platform"]
+categories: ["Business apps and automation"]
 ---
 
 # Evolution of Power BI in the agentic era

@@ -13,7 +13,7 @@ start: "2026-11-19T21:40:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Frontier Transformation", "Partner", "Customer"]
 topics: ["sponsor", "servicenow", "frontier-firm", "integration"]
-categories: ["Frontier transformation"]
+categories: ["AI adoption and skills"]
 ---
 
 # Innovate for the frontier firm with ServiceNow and Microsoft

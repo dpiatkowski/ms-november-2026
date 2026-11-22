@@ -13,7 +13,7 @@ start: "2026-11-20T00:55:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Data"]
 topics: ["postgresql", "azure-horizondb", "architecture-decision", "azure-database-for-postgresql"]
-categories: ["Azure databases"]
+categories: ["Databases and analytics"]
 ---
 
 # Two PostgreSQL services, one confident architecture decision

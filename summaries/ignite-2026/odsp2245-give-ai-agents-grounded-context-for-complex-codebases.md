@@ -13,7 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "AI", "Agents", "AI Transformation", "Application Modernization"]
 topics: ["sponsor", "corestory", "coding-agents", "mcp", "codebase-context", "modernization"]
-categories: ["Data and grounding", "MCP", "Software engineering"]
+categories: ["AI grounding and retrieval", "AI apps and agents", "Developer tools and delivery"]
 ---
 
 # Give AI agents grounded context for complex codebases

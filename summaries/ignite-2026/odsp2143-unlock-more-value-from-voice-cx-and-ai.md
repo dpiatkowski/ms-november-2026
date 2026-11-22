@@ -13,7 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Frontier Transformation", "Microsoft Copilot"]
 topics: ["sponsor", "voice", "customer-experience", "conversational-intelligence", "microsoft-365"]
-categories: ["Customer experience"]
+categories: ["Business apps and automation"]
 ---
 
 # Unlock more value from voice, CX, and AI

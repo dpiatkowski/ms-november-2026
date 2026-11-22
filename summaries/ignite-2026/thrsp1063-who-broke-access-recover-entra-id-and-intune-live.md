@@ -13,7 +13,7 @@ start: "2026-11-17T23:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Security", "Resiliency", "Security", "AI Security", "Microsoft Entra", "Microsoft Intune", "Intune"]
 topics: ["sponsor", "entra-id", "intune", "identity-recovery", "backup", "demo"]
-categories: ["Microsoft Entra", "Microsoft Intune", "Resilience"]
+categories: ["Identity and access", "Endpoint management", "Operations and reliability"]
 ---
 
 # Who broke access? Recover Entra ID and Intune live

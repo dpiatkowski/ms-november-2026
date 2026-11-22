@@ -13,7 +13,7 @@ start: "2026-11-19T21:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "AI", "Security", "Microsoft Copilot", "Cloud PC"]
 topics: ["frontier-accelerate", "benefits", "skilling", "adoption"]
-categories: ["Frontier transformation"]
+categories: ["AI adoption and skills"]
 ---
 
 # Frontier Accelerate: Microsoft benefits that help you move forward

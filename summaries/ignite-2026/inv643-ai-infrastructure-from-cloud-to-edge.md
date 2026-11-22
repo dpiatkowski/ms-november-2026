@@ -13,7 +13,7 @@ start: "2026-11-17T22:00:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Windows"]
 topics: ["innovation-session", "azure", "windows", "ai-infrastructure", "edge"]
-categories: ["Azure infrastructure"]
+categories: ["Cloud infrastructure"]
 ---
 
 # AI infrastructure from cloud to edge

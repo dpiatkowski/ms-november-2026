@@ -13,7 +13,7 @@ start: "2026-11-18T00:30:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Agent Platform", "Github Copilot", "GitHub", "Developer Tools"]
 topics: ["github-copilot", "code-review", "agents", "pull-requests"]
-categories: ["GitHub Copilot", "Software engineering"]
+categories: ["AI-assisted development", "Developer tools and delivery"]
 ---
 
 # Inside Copilot code review: From context to approval

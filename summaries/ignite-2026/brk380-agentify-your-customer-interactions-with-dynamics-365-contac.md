@@ -13,7 +13,7 @@ start: "2026-11-19T17:00:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Agentic Business Applications", "Dynamics 365"]
 topics: ["dynamics-365", "contact-center", "intelligent-routing", "copilot", "self-service"]
-categories: ["Customer experience", "Dynamics 365"]
+categories: ["Business apps and automation"]
 ---
 
 # Agentify your customer interactions with Dynamics 365 Contact Center

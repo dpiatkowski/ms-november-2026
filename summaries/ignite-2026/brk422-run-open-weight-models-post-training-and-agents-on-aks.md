@@ -13,7 +13,7 @@ start: "2026-11-20T01:15:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Cloud & AI"]
 topics: ["aks", "open-weight-models", "ray", "mcp", "gpu", "post-training"]
-categories: ["Azure infrastructure"]
+categories: ["Cloud infrastructure"]
 ---
 
 # Run open-weight models, post-training, and agents on AKS

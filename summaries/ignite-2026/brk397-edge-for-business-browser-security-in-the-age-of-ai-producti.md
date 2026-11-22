@@ -13,7 +13,7 @@ start: "2026-11-19T21:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Windows", "Microsoft Edge for Business", "AI controls", "AI Security", "Azure Container Apps", "Copilot studio", "Browser controls", "BYOD", "Data protection", "Shadow AI", "Unmanaged devices"]
 topics: ["edge-for-business", "browser-security", "ai", "policy-enforcement", "compliance"]
-categories: ["Windows"]
+categories: ["Endpoint management"]
 ---
 
 # Edge for Business: Browser security in the age of AI productivity

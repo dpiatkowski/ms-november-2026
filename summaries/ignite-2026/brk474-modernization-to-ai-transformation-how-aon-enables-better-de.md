@@ -13,7 +13,7 @@ start: "2026-11-19T17:00:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Copilot", "Agents", "Microsoft Copilot", "Customer"]
 topics: ["aon", "copilot", "power-platform", "customer-story", "enterprise-transformation"]
-categories: ["Frontier transformation", "Migration and modernization"]
+categories: ["AI adoption and skills", "Migration and modernization"]
 ---
 
 # Modernization to AI transformation: How Aon enables better decisions

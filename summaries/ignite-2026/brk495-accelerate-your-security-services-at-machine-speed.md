@@ -13,7 +13,7 @@ start: "2026-11-19T17:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Security", "Copilot"]
 topics: ["partner", "sentinel", "defender", "integrated-soc", "managed-services"]
-categories: ["Microsoft Defender", "Partners and marketplace", "Security operations"]
+categories: ["Threat detection and response", "Partners and marketplace"]
 ---
 
 # Accelerate your security services at machine speed​

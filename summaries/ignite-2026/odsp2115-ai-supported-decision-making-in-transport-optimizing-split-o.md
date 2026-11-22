@@ -13,7 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI", "Agents", "Customer", "AI Transformation"]
 topics: ["sponsor", "transport", "ahold-delhaize", "epam", "decision-support", "customer-story"]
-categories: ["Industry solutions"]
+categories: ["Industry use cases"]
 ---
 
 # AI-supported decision making in transport: Optimizing split orders

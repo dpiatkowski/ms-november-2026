@@ -13,7 +13,7 @@ start: "2026-11-19T18:10:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["monitoring", "drasi", "cncf", "observability", "change-driven"]
-categories: ["Cloud operations", "Evaluation and observability"]
+categories: ["Operations and reliability"]
 ---
 
 # Monitoring without polling: Real-time, change-driven monitoring

@@ -13,7 +13,7 @@ start: "2026-11-18T23:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform"]
 topics: ["copilot-studio", "copilot-harness", "agent-architecture", "cost"]
-categories: ["Building agents", "Copilot Studio"]
+categories: ["AI apps and agents"]
 ---
 
 # Pick the right harness to build your agents with using Copilot Studio

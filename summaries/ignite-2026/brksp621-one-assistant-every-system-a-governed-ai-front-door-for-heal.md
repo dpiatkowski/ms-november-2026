@@ -13,7 +13,7 @@ start: "2026-11-18T23:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agentic Business Applications", "AI", "AI controls", "Agents", "Copilot Control System"]
 topics: ["sponsor", "cognizant", "copilot", "healthcare", "governance", "demo"]
-categories: ["Agent governance", "Industry solutions"]
+categories: ["AI governance and safety", "Industry use cases"]
 ---
 
 # One assistant, every system: A governed AI front door for healthcare

@@ -13,7 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "AI", "Security", "Azure SQL", "Microsoft 365 apps", "AI controls", "AI Security", "Agents", "Microsoft Teams", "Partner", "Copilot administration", "Data governance", "Azure Container Apps", "Azure Databricks", "Zero Trust", "Governance", "Copilot Chat", "Microsoft Copilot", "Marketplace", "MVP", "Copilot for Security", "Copilot Control System", "Microsoft 365", "Customer", "Zero Trust for AI", "Secure AI", "Get Ready for AI", "Defend with AI", "Agentic defense", "Microsoft Agent 365", "Microsoft Copilot Studio"]
 topics: ["sponsor", "getabstract", "copilot", "compliance", "grounding"]
-categories: ["Microsoft 365 Copilot"]
+categories: ["Microsoft 365 and collaboration"]
 ---
 
 # Get trusted answers to compliance questions in Copilot

@@ -13,7 +13,7 @@ start: "2026-11-20T00:00:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Cloud & AI", "SMB", "Small Business", "SME&C", "SMB Partner", "Lean IT", "Corporate"]
 topics: ["partner", "csp", "smb", "go-to-market"]
-categories: ["Frontier transformation", "Small and medium business"]
+categories: ["AI adoption and skills", "Industry use cases"]
 ---
 
 # Building a Repeatable SMB Frontier Practice for CSPs

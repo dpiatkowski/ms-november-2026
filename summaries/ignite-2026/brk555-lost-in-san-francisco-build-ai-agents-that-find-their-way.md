@@ -13,7 +13,7 @@ start: "2026-11-17T22:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "Cloud & AI", "Other"]
 topics: ["foundry", "github-copilot", "vscode", "agent-framework", "mcp", "agents"]
-categories: ["Building agents", "MCP", "Microsoft Foundry", "Microsoft IQ"]
+categories: ["AI apps and agents", "AI grounding and retrieval"]
 ---
 
 # Lost in San Francisco: Build AI agents that find their way

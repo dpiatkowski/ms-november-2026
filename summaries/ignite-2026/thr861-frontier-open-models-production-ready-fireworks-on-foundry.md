@@ -13,7 +13,7 @@ start: "2026-11-19T22:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform"]
 topics: ["foundry", "fireworks", "open-models", "price-performance", "agents"]
-categories: ["Frontier transformation", "Microsoft Foundry"]
+categories: ["AI adoption and skills", "AI apps and agents"]
 ---
 
 # Frontier open models, production-ready: Fireworks on Foundry

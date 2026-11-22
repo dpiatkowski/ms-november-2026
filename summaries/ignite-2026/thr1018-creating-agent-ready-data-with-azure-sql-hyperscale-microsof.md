@@ -13,7 +13,7 @@ start: "2026-11-18T17:35:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Data"]
 topics: ["azure-sql-hyperscale", "fabric", "real-time-intelligence", "change-event-streaming", "agent-ready-data"]
-categories: ["Azure databases", "Microsoft Fabric"]
+categories: ["Databases and analytics"]
 ---
 
 # Creating agent-ready data with Azure SQL Hyperscale & Microsoft Fabric

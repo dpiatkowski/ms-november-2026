@@ -13,7 +13,7 @@ start: "2026-11-20T00:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "Resiliency", "Copilot studio"]
 topics: ["copilot-studio", "workflows", "agents", "automation"]
-categories: ["Copilot Studio"]
+categories: ["AI apps and agents"]
 ---
 
 # Agentic automation: How Copilot Studio blends workflows and agents

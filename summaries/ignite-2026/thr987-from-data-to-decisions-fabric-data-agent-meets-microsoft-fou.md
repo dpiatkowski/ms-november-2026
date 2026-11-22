@@ -13,7 +13,7 @@ start: "2026-11-19T22:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Data", "MVP"]
 topics: ["fabric-data-agent", "foundry", "retail", "demo", "evaluation", "tracing"]
-categories: ["Microsoft Fabric", "Microsoft Foundry"]
+categories: ["Databases and analytics", "AI apps and agents"]
 ---
 
 # From Data to Decisions: Fabric Data Agent Meets Microsoft Foundry

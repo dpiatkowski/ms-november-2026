@@ -13,7 +13,7 @@ start: "2026-11-18T19:30:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Agentic Business Applications", "AI", "Resiliency", "AI Security", "Agents", "Data governance", "Governance", "Secure AI"]
 topics: ["sponsor", "capgemini", "physical-ai", "industry", "autonomous-workflows"]
-categories: ["Physical AI"]
+categories: ["Edge AI and devices"]
 ---
 
 # Transform operations across industries with physical AI in action

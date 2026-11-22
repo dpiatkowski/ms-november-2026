@@ -13,7 +13,7 @@ start: "2026-11-18T21:45:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Copilot", "Azure Container Apps", "Microsoft Copilot", "Microsoft 365"]
 topics: ["work-iq", "copilot", "frontier-firm", "semantic-context", "business-data"]
-categories: ["Frontier transformation", "Microsoft 365 Copilot", "Microsoft IQ"]
+categories: ["AI adoption and skills", "Microsoft 365 and collaboration", "AI grounding and retrieval"]
 ---
 
 # Work IQ: Powering Copilot for the Frontier Firm

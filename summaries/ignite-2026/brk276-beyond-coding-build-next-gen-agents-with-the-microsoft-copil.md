@@ -13,7 +13,7 @@ start: "2026-11-18T19:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "Github Copilot", "Governance", "GitHub", "Developer Tools"]
 topics: ["copilot-sdk", "agents", "agent-harness", "software-factory"]
-categories: ["Building agents", "GitHub Copilot", "Microsoft 365 Copilot"]
+categories: ["AI apps and agents", "AI-assisted development", "Microsoft 365 and collaboration"]
 ---
 
 # Beyond coding: Build next-gen agents with the Microsoft Copilot SDK

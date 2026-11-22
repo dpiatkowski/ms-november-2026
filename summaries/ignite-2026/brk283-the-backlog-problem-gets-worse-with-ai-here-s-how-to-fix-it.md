@@ -13,7 +13,7 @@ start: "2026-11-20T17:00:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Agent Platform", "Security", "GitHub", "Get Ready for AI", "Developer Tools"]
 topics: ["security-debt", "vulnerability-prioritization", "autofix", "security-campaigns"]
-categories: ["Security operations", "Software engineering"]
+categories: ["Threat detection and response", "Developer tools and delivery"]
 ---
 
 # The backlog problem gets worse with AI. Here's how to fix it.

@@ -13,7 +13,7 @@ start: "2026-11-17T22:00:00Z"
 level: "(100) Foundational"
 ignite_topics: ["MAICPP"]
 topics: ["partner", "asia", "enterprise", "omdia", "fy27-strategy"]
-categories: ["Frontier transformation", "Partners and marketplace"]
+categories: ["AI adoption and skills", "Partners and marketplace"]
 ---
 
 # Beyond the Frontier: Asia’s Partners and the Enterprise opportunity

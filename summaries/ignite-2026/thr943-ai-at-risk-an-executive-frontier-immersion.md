@@ -13,7 +13,7 @@ start: "2026-11-18T17:00:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Frontier Transformation", "AI", "AI Transformation"]
 topics: ["executive", "ai-risk", "tabletop", "governance", "agents"]
-categories: ["Frontier transformation"]
+categories: ["AI adoption and skills"]
 ---
 
 # AI at Risk: An Executive Frontier Immersion

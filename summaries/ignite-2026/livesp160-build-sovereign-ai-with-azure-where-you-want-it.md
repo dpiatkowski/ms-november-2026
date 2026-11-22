@@ -13,7 +13,7 @@ start: null
 level: "(100) Foundational"
 ignite_topics: ["Cloud & AI", "AI", "AI Security", "Data governance", "Microsoft Foundry on Windows", "Secure AI", "Get Ready for AI"]
 topics: ["sponsor", "lenovo", "azure-local", "sovereign-ai", "confidential-computing"]
-categories: ["Sovereignty and hybrid"]
+categories: ["Hybrid and sovereign cloud"]
 ---
 
 # Build sovereign AI with Azure where you want it

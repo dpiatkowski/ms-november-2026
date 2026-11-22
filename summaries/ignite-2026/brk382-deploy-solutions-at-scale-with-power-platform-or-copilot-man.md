@@ -13,7 +13,7 @@ start: "2026-11-20T01:15:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Agentic Business Applications", "Agents"]
 topics: ["power-platform", "copilot-managed-runtime", "alm", "governance", "deployment"]
-categories: ["Microsoft 365 Copilot", "Power Platform"]
+categories: ["Microsoft 365 and collaboration", "Business apps and automation"]
 ---
 
 # Deploy solutions at scale with Power Platform or Copilot Managed Runtime

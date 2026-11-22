@@ -13,7 +13,7 @@ start: "2026-11-19T18:15:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Frontier Transformation", "AI", "Perception", "Get Ready for AI", "AI Transformation"]
 topics: ["skills", "workforce", "ai-adoption", "human-skills"]
-categories: ["Skilling and adoption"]
+categories: ["AI adoption and skills"]
 ---
 
 # Why human skills matter for your AI outcome

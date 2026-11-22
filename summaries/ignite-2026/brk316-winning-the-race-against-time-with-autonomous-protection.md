@@ -13,7 +13,7 @@ start: "2026-11-18T19:30:00Z"
 level: "(400) Expert"
 ignite_topics: ["Security", "Security", "Azure Cosmos DB", "AI Security", "Agents", "Defend with AI", "Data protection", "Defend with agents"]
 topics: ["security", "autonomous-protection", "exposure", "threat-response"]
-categories: ["Microsoft Defender", "Security operations"]
+categories: ["Threat detection and response"]
 ---
 
 # Winning the Race Against Time with Autonomous Protection

@@ -13,7 +13,7 @@ start: "2026-11-19T19:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Frontier Transformation", "AI", "Work management", "Azure networking"]
 topics: ["sponsor", "insurance", "ntt-data", "ai-at-scale", "governance"]
-categories: ["Frontier transformation", "Industry solutions"]
+categories: ["AI adoption and skills", "Industry use cases"]
 ---
 
 # Move from AI pilots to enterprise impact in insurance

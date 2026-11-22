@@ -13,7 +13,7 @@ start: "2026-11-20T00:55:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform"]
 topics: ["azure-openai", "prompt-caching", "cost-optimization", "latency", "throughput"]
-categories: ["FinOps", "Microsoft Foundry"]
+categories: ["Cloud cost management", "AI apps and agents"]
 ---
 
 # Prompt caching at scale: Build faster, more efficient AI applications

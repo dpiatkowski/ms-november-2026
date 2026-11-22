@@ -13,7 +13,7 @@ start: "2026-11-20T19:05:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Cloud & AI", "Other", "AI controls", "Management controls", "Governance", "Shadow AI"]
 topics: ["it-operations", "ai-adoption", "change-champion", "enablement"]
-categories: ["IT operations", "Skilling and adoption"]
+categories: ["Endpoint management", "AI adoption and skills"]
 ---
 
 # IT operations as AI enablement

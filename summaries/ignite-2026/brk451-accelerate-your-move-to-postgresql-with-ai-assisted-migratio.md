@@ -13,7 +13,7 @@ start: "2026-11-19T17:00:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Cloud & AI"]
 topics: ["postgresql", "oracle-migration", "ai-assisted-migration", "azure"]
-categories: ["Azure databases", "Migration and modernization"]
+categories: ["Databases and analytics", "Migration and modernization"]
 ---
 
 # Accelerate your move to PostgreSQL with AI-assisted migration

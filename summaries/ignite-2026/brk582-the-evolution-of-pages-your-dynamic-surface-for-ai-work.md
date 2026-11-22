@@ -13,7 +13,7 @@ start: "2026-11-18T17:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot"]
 topics: ["copilot", "pages", "collaboration", "agents"]
-categories: ["Microsoft 365 Copilot"]
+categories: ["Microsoft 365 and collaboration"]
 ---
 
 # The evolution of Pages: Your dynamic surface for AI work

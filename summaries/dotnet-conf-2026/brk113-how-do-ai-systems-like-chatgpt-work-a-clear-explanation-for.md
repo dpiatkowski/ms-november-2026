@@ -9,7 +9,7 @@ video_url: "https://youtu.be/ZRovrZ_0hf0"
 session_id: "BRK113"
 start: "2026-11-12T14:30:00-08:00"
 topics: ["ai", "llm", "fundamentals", "community-day"]
-categories: ["AI applications"]
+categories: ["AI apps and agents"]
 ---
 
 # How Do AI Systems Like ChatGPT Work? A Clear Explanation for Everyone!

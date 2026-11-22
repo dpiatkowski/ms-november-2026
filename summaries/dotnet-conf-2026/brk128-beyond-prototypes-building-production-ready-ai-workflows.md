@@ -9,7 +9,7 @@ video_url: "https://youtu.be/8LMfvWo4VoY"
 session_id: "BRK128"
 start: "2026-11-13T13:00:00-08:00"
 topics: ["ai", "durable-execution", "workflows", "distributed-systems", "community-day"]
-categories: ["AI applications", "Distributed systems", "Reliability"]
+categories: ["AI apps and agents", "Application architecture", "Operations and reliability"]
 ---
 
 # Beyond Prototypes: Building Production Ready AI Workflows

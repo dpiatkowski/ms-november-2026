@@ -13,7 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "Agents", "AI Transformation"]
 topics: ["sponsor", "pwc", "agent-ready-infrastructure", "governance", "azure"]
-categories: ["Building agents", "Migration and modernization"]
+categories: ["AI apps and agents", "Migration and modernization"]
 ---
 
 # From cloud-ready to agent-ready: Cattle, not pets

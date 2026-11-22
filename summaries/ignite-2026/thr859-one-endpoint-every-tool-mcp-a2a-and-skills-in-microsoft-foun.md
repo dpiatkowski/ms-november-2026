@@ -13,7 +13,7 @@ start: "2026-11-19T23:25:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform"]
 topics: ["foundry", "toolboxes", "mcp", "a2a", "skills", "tool-governance"]
-categories: ["MCP", "Microsoft Foundry"]
+categories: ["AI apps and agents"]
 ---
 
 # One endpoint, every tool: MCP, A2A, and skills in Microsoft Foundry

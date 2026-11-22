@@ -13,7 +13,7 @@ start: "2026-11-20T18:15:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Microsoft IQ"]
 topics: ["web-iq", "agents", "customer-story", "governance", "grounding"]
-categories: ["Agent governance", "Building agents", "Microsoft IQ"]
+categories: ["AI governance and safety", "AI apps and agents", "AI grounding and retrieval"]
 ---
 
 # Web IQ in action: How enterprises build grounded, governed AI agents

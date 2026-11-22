@@ -13,7 +13,7 @@ start: "2026-11-18T17:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Windows", "Security in Windows", "Security", "Identity and network access", "Windows 365", "AI Security", "Management controls", "Windows", "Windows Autopatch", "Windows Resiliency", "Zero Trust", "Microsoft Intune", "Cloud Endpoints", "Microsoft Defender for Endpoint", "Zero Trust for AI", "Get Ready for AI"]
 topics: ["windows-security", "trusted-foundation", "data-protection", "ai-resilience"]
-categories: ["Windows"]
+categories: ["Endpoint management"]
 ---
 
 # What's new in Windows security: Start secure, protect what matters, prepare for the AI era

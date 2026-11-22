@@ -13,7 +13,7 @@ start: "2026-11-18T00:05:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Security", "Security", "Identity and network access", "AI controls", "AI Security", "Agents", "Microsoft Entra", "Azure HorizonDB", "Secure AI", "Microsoft Agent 365", "Secure Agentic Insiders"]
 topics: ["entra-agent-id", "agents", "access-control", "network-controls", "security"]
-categories: ["Agentic security", "Microsoft Entra"]
+categories: ["Application and agent security", "Identity and access"]
 ---
 
 # AI agents: access granted. Trust not included

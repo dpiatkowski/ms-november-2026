@@ -13,7 +13,7 @@ start: "2026-11-18T00:30:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Agentic Business Applications", "Agents"]
 topics: ["dynamics-365", "finance-operations", "erp", "agents", "architecture"]
-categories: ["Dynamics 365"]
+categories: ["Business apps and automation"]
 ---
 
 # What’s new in Dynamics 365 Finance & Operations​

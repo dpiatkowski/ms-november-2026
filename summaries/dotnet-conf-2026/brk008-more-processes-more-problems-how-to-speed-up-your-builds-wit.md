@@ -9,7 +9,7 @@ video_url: "https://youtu.be/9WDTK828qtg"
 session_id: "BRK008"
 start: "2026-11-10T12:30:00-08:00"
 topics: ["msbuild", "build-performance", "dotnet-cli", "tooling"]
-categories: [".NET", "Performance"]
+categories: ["Performance", "Developer tools and delivery"]
 ---
 
 # More Processes, More Problems - how to speed up your builds with Multithreaded MSBuild

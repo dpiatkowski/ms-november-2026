@@ -13,7 +13,7 @@ start: "2026-11-20T00:00:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Data", "Agents", "Data governance"]
 topics: ["sponsor", "senzing", "entity-resolution", "fraud", "azure"]
-categories: ["Industry solutions", "Microsoft Entra"]
+categories: ["Industry use cases", "Identity and access"]
 ---
 
 # Catch synthetic identity rings at scale

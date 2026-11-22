@@ -13,7 +13,7 @@ start: "2026-11-20T17:35:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Windows", "Security in Windows", "Security", "Partner", "Software Development Company", "Windows", "Windows Developer", "Windows Recovery", "Windows Resiliency", "Azure Copilot", "Cloud Endpoints"]
 topics: ["windows", "driver-quality", "kernel-security", "reliability"]
-categories: ["Windows"]
+categories: ["Endpoint management"]
 ---
 
 # Reliable by design: Driver Quality Initiative in Action

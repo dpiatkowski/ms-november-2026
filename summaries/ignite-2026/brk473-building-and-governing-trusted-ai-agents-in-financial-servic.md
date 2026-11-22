@@ -13,7 +13,7 @@ start: "2026-11-19T18:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Security", "AI Security", "Agents", "Governance", "Zero Trust for AI", "Secure AI"]
 topics: ["financial-services", "ai-governance", "security", "compliance", "risk-management"]
-categories: ["Agent governance", "Industry solutions"]
+categories: ["AI governance and safety", "Industry use cases"]
 ---
 
 # Building and governing trusted AI agents in financial services

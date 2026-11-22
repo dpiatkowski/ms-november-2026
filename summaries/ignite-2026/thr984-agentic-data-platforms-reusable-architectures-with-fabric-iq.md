@@ -13,7 +13,7 @@ start: "2026-11-20T01:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Data", "MVP"]
 topics: ["fabric-iq", "agentic-data-platform", "reference-architecture", "ontology", "onelake"]
-categories: ["Microsoft Fabric", "Microsoft IQ"]
+categories: ["Databases and analytics", "AI grounding and retrieval"]
 ---
 
 # Agentic Data Platforms: Reusable Architectures with Fabric IQ

@@ -9,7 +9,7 @@ video_url: "https://youtu.be/tT-rgopqhsU"
 session_id: "BRK013"
 start: "2026-11-10T15:00:00-08:00"
 topics: ["aspire", "agents", "native-aot", "blazor", "polyglot", "developer-tools"]
-categories: ["Aspire", "Blazor", ".NET"]
+categories: ["Application architecture", "Web development"]
 ---
 
 # How Aspire uses .NET to build an agent-first toolchain for any programming language

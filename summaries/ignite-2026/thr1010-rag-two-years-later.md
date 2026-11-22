@@ -13,7 +13,7 @@ start: "2026-11-19T17:35:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform"]
 topics: ["rag", "retrieval", "agents", "grounding"]
-categories: ["Data and grounding"]
+categories: ["AI grounding and retrieval"]
 ---
 
 # RAG: Two years later

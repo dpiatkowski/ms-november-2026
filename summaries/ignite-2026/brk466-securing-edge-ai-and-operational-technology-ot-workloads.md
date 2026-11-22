@@ -13,7 +13,7 @@ start: "2026-11-19T19:30:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Security", "AI controls", "AI Security", "Azure Container Apps", "Zero Trust for AI", "Secure AI"]
 topics: ["manufacturing", "edge-ai", "ot-security", "zero-trust", "industry"]
-categories: ["Physical AI"]
+categories: ["Edge AI and devices"]
 ---
 
 # Securing edge AI and operational technology (OT) workloads

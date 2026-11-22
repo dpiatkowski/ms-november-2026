@@ -13,7 +13,7 @@ start: "2026-11-19T20:15:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Security", "Other", "Microsoft Defender for Cloud", "AI Security"]
 topics: ["security-skills", "simulation", "hands-on-learning", "training"]
-categories: ["Skilling and adoption"]
+categories: ["AI adoption and skills"]
 ---
 
 # Building security skills through hands-on learning

@@ -13,7 +13,7 @@ start: "2026-11-19T19:30:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Data"]
 topics: ["fabric", "spark", "price-performance", "workload-management"]
-categories: ["Microsoft Fabric"]
+categories: ["Databases and analytics"]
 ---
 
 # Get more Spark for less with Microsoft Fabric

@@ -13,7 +13,7 @@ start: "2026-11-17T22:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "Microsoft Teams", "Microsoft Copilot", "Microsoft 365"]
 topics: ["copilot", "customer-stories", "business-functions", "legal", "finance"]
-categories: ["Microsoft 365 Copilot"]
+categories: ["Microsoft 365 and collaboration"]
 ---
 
 # Customer stories: Transform business functions with Microsoft Copilot

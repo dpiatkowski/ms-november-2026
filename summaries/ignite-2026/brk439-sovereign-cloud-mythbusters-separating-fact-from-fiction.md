@@ -13,7 +13,7 @@ start: "2026-11-17T23:15:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Cloud & AI"]
 topics: ["sovereign-cloud", "data-residency", "ai-governance", "myths"]
-categories: ["Sovereignty and hybrid"]
+categories: ["Hybrid and sovereign cloud"]
 ---
 
 # Sovereign cloud mythbusters: Separating fact from fiction

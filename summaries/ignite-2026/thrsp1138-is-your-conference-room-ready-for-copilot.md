@@ -13,7 +13,7 @@ start: "2026-11-19T22:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "AI", "Microsoft 365 apps", "Microsoft Surface", "Microsoft Teams", "Microsoft Copilot", "Microsoft 365"]
 topics: ["sponsor", "dten", "teams-rooms", "copilot", "meeting-intelligence"]
-categories: ["Microsoft 365 Copilot"]
+categories: ["Microsoft 365 and collaboration"]
 ---
 
 # Is your conference room ready for Copilot?

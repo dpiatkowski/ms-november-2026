@@ -13,7 +13,7 @@ start: "2026-11-18T21:45:00Z"
 level: "(400) Expert"
 ignite_topics: ["Windows", "AI", "Agents", "Windows", "Windows Apps", "Windows Developer", "Azure Copilot", "API"]
 topics: ["winui", "windows-app-development", "winappcli", "agents", "visual-studio"]
-categories: ["Windows"]
+categories: ["Desktop and mobile apps"]
 ---
 
 # Building Windows apps with WinUI and agents​

@@ -13,7 +13,7 @@ start: null
 level: "(100) Foundational"
 ignite_topics: ["Agentic Business Applications", "AI Security"]
 topics: ["sponsor", "it-support", "ticket-reduction", "security"]
-categories: ["IT operations"]
+categories: ["Endpoint management"]
 ---
 
 # More to support. More to secure. No more capacity.

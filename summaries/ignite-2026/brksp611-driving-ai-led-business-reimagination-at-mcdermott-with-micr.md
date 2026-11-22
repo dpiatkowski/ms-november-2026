@@ -13,7 +13,7 @@ start: "2026-11-18T17:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI", "AI", "Azure Database for MySQL", "Identity and network access", "AI controls", "Partner", "Azure Local", "Cloud Endpoints", "Corporate Partner", "Partner-Led", "Azure compute", "AI Transformation"]
 topics: ["sponsor", "mcdermott", "tcs", "hybrid-ai", "azure-openai", "customer-story"]
-categories: ["Frontier transformation", "Industry solutions"]
+categories: ["AI adoption and skills", "Industry use cases"]
 ---
 
 # Driving AI-led business reimagination at McDermott with Microsoft

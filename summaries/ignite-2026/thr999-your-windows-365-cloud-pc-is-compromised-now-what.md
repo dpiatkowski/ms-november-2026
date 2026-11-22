@@ -13,7 +13,7 @@ start: "2026-11-20T01:30:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Windows", "MVP"]
 topics: ["windows-365", "cloud-pc", "zero-trust", "defender", "intune", "incident-response"]
-categories: ["Windows 365 and Azure Virtual Desktop"]
+categories: ["Endpoint management"]
 ---
 
 # Your Windows 365 Cloud PC Is Compromised. Now What?

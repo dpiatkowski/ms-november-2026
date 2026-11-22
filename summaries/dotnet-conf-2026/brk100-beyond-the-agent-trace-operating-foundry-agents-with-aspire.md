@@ -9,7 +9,7 @@ video_url: "https://youtu.be/iDiPHBsiZd4"
 session_id: "BRK100"
 start: "2026-11-12T08:00:00-08:00"
 topics: ["agents", "foundry", "aspire", "observability", "audit", "community-day"]
-categories: ["Aspire", "Azure", "AI applications", "Observability"]
+categories: ["Application architecture", "Cloud infrastructure", "AI apps and agents", "Operations and reliability"]
 ---
 
 # Beyond the Agent Trace: Operating Foundry Agents with Aspire

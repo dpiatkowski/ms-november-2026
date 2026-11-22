@@ -9,7 +9,7 @@ video_url: "https://youtu.be/stj-kD2qu4E"
 session_id: "BRK027"
 start: "2026-11-11T14:00:00-08:00"
 topics: ["winui", "csharp", "mvu", "file-based-apps", "analyzers", "experimental"]
-categories: ["Windows"]
+categories: ["Desktop and mobile apps"]
 ---
 
 # No XAML Required: Native Windows Apps in Pure C#

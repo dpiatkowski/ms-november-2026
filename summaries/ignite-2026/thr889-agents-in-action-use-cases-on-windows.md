@@ -13,7 +13,7 @@ start: "2026-11-18T00:40:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Windows"]
 topics: ["windows", "agents", "identity", "containment", "governance"]
-categories: ["Windows"]
+categories: ["Edge AI and devices"]
 ---
 
 # Agents in Action: Use Cases on Windows

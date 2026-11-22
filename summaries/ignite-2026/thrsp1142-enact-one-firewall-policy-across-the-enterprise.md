@@ -13,7 +13,7 @@ start: "2026-11-19T22:50:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Security", "AI", "Azure Cosmos DB", "Data loss prevention", "AI Security", "Azure Container Apps", "Threat Intelligence", "Secure AI"]
 topics: ["sponsor", "firewall", "network-security", "marketplace", "ai-workloads"]
-categories: ["Azure infrastructure", "Zero trust"]
+categories: ["Cloud infrastructure", "Identity and access"]
 ---
 
 # Enact one firewall policy across the enterprise

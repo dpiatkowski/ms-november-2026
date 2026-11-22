@@ -13,7 +13,7 @@ start: "2026-11-19T00:15:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Security", "AI controls", "Agents", "Microsoft Foundry", "Secure AI", "Microsoft Agent 365", "Secure Agentic Insiders"]
 topics: ["agent-365", "entra", "nvidia", "agent-identity", "access-governance"]
-categories: ["Agent 365", "Agent governance", "Agentic security", "Building agents", "Microsoft Entra"]
+categories: ["AI governance and safety", "Application and agent security", "AI apps and agents", "Identity and access"]
 ---
 
 # Build, secure and govern agents across platforms with A365 and Entra

@@ -9,7 +9,7 @@ video_url: "https://youtu.be/o2RUf9npgns"
 session_id: "BRK007"
 start: "2026-11-11T16:00:00-08:00"
 topics: ["foundry", "ai", "dotnet-ai", "azure", "models"]
-categories: ["Azure", "AI applications"]
+categories: ["Cloud infrastructure", "AI apps and agents"]
 ---
 
 # .NET + Foundry: Better Together

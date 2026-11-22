@@ -13,7 +13,7 @@ start: "2026-11-17T22:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Security", "AI", "AI Security", "Agents", "Azure Container Apps", "Governance", "Secure AI", "Microsoft Agent 365", "Secure Agentic Insiders"]
 topics: ["ai-security", "agents", "governance", "network-controls", "defender"]
-categories: ["Agentic security"]
+categories: ["Application and agent security"]
 ---
 
 # When AI acts, security has to answer: Microsoft Security for AI

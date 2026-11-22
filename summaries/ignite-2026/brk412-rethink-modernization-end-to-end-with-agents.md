@@ -13,7 +13,7 @@ start: "2026-11-18T17:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["modernization", "agents", "azure", "customer-story", "lumen"]
-categories: ["Building agents", "Migration and modernization"]
+categories: ["AI apps and agents", "Migration and modernization"]
 ---
 
 # Rethink modernization end to end with agents

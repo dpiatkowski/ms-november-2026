@@ -13,7 +13,7 @@ start: "2026-11-18T17:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform"]
 topics: ["copilot-studio", "governance", "finops", "security", "agents"]
-categories: ["Agent governance", "FinOps"]
+categories: ["AI governance and safety", "Cloud cost management"]
 ---
 
 # Scale agents, not risk: Governance and FinOps for the enterprise

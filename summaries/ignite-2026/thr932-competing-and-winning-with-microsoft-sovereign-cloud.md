@@ -13,7 +13,7 @@ start: "2026-11-20T00:20:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Agent Platform", "Cloud & AI"]
 topics: ["partner", "sovereign-cloud", "sovereign-ai", "emea", "regulation"]
-categories: ["Sovereignty and hybrid"]
+categories: ["Hybrid and sovereign cloud"]
 ---
 
 # Competing and Winning with Microsoft Sovereign Cloud

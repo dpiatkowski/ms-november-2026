@@ -13,7 +13,7 @@ start: "2026-11-18T21:45:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "AI Security", "Microsoft Copilot"]
 topics: ["copilot", "multi-model", "model-routing", "cost-management", "governance"]
-categories: ["Microsoft 365 Copilot"]
+categories: ["Microsoft 365 and collaboration"]
 ---
 
 # Multi-model AI in Copilot: Performance and value with built-in trust

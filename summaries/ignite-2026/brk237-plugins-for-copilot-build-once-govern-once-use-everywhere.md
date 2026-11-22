@@ -13,7 +13,7 @@ start: "2026-11-17T23:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "Agents", "Microsoft Copilot"]
 topics: ["copilot", "plugins", "mcp", "skills", "lifecycle", "governance"]
-categories: ["Microsoft 365 Copilot"]
+categories: ["Microsoft 365 and collaboration"]
 ---
 
 # Plugins for Copilot: build once, govern once, use everywhere

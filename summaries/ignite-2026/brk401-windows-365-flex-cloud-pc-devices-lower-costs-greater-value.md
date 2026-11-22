@@ -13,7 +13,7 @@ start: "2026-11-19T18:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Windows", "Windows 365", "VDI", "W365 Cloud Apps", "W365 Link", "Cloud PC", "Cloud Endpoints"]
 topics: ["windows-365", "flex", "cloud-pc", "cost-optimization"]
-categories: ["Windows 365 and Azure Virtual Desktop"]
+categories: ["Endpoint management"]
 ---
 
 # Windows 365 Flex & Cloud PC Devices: Lower Costs, Greater Value

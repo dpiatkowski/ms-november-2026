@@ -13,7 +13,7 @@ start: null
 level: "(100) Foundational"
 ignite_topics: ["Security", "Security", "Agents", "Microsoft 365", "Microsoft Agent 365"]
 topics: ["agent-365", "agent-governance", "microsoft-365", "content-access", "sharepoint"]
-categories: ["Agent 365", "Agent governance"]
+categories: ["AI governance and safety"]
 ---
 
 # Agent 365: Governing agent access to Microsoft 365 content

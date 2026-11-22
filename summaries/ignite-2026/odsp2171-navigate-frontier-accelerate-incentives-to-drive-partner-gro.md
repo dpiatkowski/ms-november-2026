@@ -13,7 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI", "Software Development Company", "Marketplace"]
 topics: ["sponsor", "partner", "frontier-accelerate", "incentives", "tpm"]
-categories: ["Frontier transformation", "Partners and marketplace"]
+categories: ["AI adoption and skills", "Partners and marketplace"]
 ---
 
 # Navigate Frontier Accelerate incentives to drive partner growth

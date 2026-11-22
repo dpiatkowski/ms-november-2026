@@ -13,7 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "AI controls", "AI Security", "Agents", "Data governance", "API", "Copilot for Security", "Copilot Control System"]
 topics: ["sponsor", "hcltech", "agent-governance", "risk", "compliance"]
-categories: ["Agent governance"]
+categories: ["AI governance and safety"]
 ---
 
 # Govern AI at scale with HCLTech Agent Passport

@@ -13,7 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI", "AI", "Windows 365", "AI controls", "AI Security", "Agents", "Microsoft Foundry", "W365 for Agents", "Windows AI Foundry", "Windows Developer", "Microsoft Intune", "Governance", "Azure Copilot", "Microsoft Foundry on Windows", "Zero Trust for AI", "Secure AI"]
 topics: ["sponsor", "autonomous-engineering", "buildengine", "foundry", "windows-365-for-agents", "governance"]
-categories: ["Agent governance", "Microsoft Foundry", "Software engineering", "Windows 365 and Azure Virtual Desktop"]
+categories: ["AI governance and safety", "AI apps and agents", "Developer tools and delivery", "Endpoint management"]
 ---
 
 # Govern autonomous engineering inside your Azure tenant

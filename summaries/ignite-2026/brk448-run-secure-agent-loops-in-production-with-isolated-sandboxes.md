@@ -13,7 +13,7 @@ start: "2026-11-19T00:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["container-apps", "agents", "sandboxing", "microvm", "governance"]
-categories: ["Agentic security"]
+categories: ["Application and agent security"]
 ---
 
 # Run secure agent loops in production with isolated sandboxes at scale

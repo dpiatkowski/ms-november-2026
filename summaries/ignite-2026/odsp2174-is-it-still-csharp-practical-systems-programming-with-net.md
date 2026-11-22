@@ -13,7 +13,7 @@ start: null
 level: "(300) Advanced"
 ignite_topics: ["Data", "AI", "Software Development Company", "Azure Copilot", "API", "Azure HorizonDB"]
 topics: ["sponsor", "dotnet", "csharp", "performance", "systems-programming", "database"]
-categories: ["Software engineering"]
+categories: ["C# and .NET runtime"]
 ---
 
 # Is it still C#? Practical systems programming with .NET

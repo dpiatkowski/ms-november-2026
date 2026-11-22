@@ -13,7 +13,7 @@ start: "2026-11-20T00:00:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Security", "Security", "Identity and network access", "AI controls", "AI Security", "Agents", "Microsoft Entra", "Azure HorizonDB", "Secure AI", "Microsoft Agent 365", "Secure Agentic Insiders"]
 topics: ["local-agents", "security", "visibility", "governance"]
-categories: ["Agentic security", "Windows"]
+categories: ["Application and agent security", "Endpoint management"]
 ---
 
 # Local agents are here. Can you find and secure them?

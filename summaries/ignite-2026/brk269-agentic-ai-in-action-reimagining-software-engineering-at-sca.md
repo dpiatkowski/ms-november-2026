@@ -13,7 +13,7 @@ start: "2026-11-19T18:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "AI", "Agents", "Github Copilot", "GitHub", "Customer", "Get Ready for AI", "Developer Tools"]
 topics: ["github-copilot", "hpe", "software-engineering", "agentic-platform", "customer-story"]
-categories: ["Software engineering"]
+categories: ["Developer tools and delivery"]
 ---
 
 # Agentic AI in action: Reimagining software engineering at scale

@@ -13,7 +13,7 @@ start: "2026-11-20T01:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Security", "Security", "AI Security", "Threat Intelligence", "Zero Trust for AI", "Secure AI", "Microsoft Agent 365", "Secure Agentic Insiders"]
 topics: ["agent-365", "agent-governance", "lifecycle", "policy"]
-categories: ["Agent 365", "Agent governance"]
+categories: ["AI governance and safety"]
 ---
 
 # Master Agent Governance with Agent 365

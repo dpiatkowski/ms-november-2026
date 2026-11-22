@@ -9,7 +9,7 @@ video_url: "https://youtu.be/dgd37KXqcEQ"
 session_id: "BRK032"
 start: "2026-11-11T16:30:00-08:00"
 topics: ["ef-core", "data", "vector-search", "sql-server", "linq", "cosmos-db", "dotnet-11"]
-categories: ["Data", ".NET"]
+categories: ["Databases and analytics"]
 ---
 
 # EF Core 11: Vector Search, Smarter LINQ, and a Friendlier dotnet ef

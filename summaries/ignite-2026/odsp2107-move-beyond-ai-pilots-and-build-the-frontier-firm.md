@@ -13,7 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "AI", "AI controls", "Agents", "Copilot administration", "Data governance", "Governance", "Copilot Chat", "Microsoft Copilot", "Copilot Analytics", "Microsoft Purview", "Copilot Control System", "Zero Trust for AI", "Secure AI", "Get Ready for AI", "Agentic defense", "Microsoft Agent 365", "Microsoft Copilot Studio"]
 topics: ["sponsor", "frontier-firm", "agent-governance", "operating-model", "responsible-ai"]
-categories: ["Frontier transformation"]
+categories: ["AI adoption and skills"]
 ---
 
 # Move beyond AI pilots and build the frontier firm

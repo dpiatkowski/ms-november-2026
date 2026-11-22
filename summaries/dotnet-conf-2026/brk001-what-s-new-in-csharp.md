@@ -9,7 +9,7 @@ video_url: "https://youtu.be/ls0rNrJsnkY"
 session_id: "BRK001"
 start: "2026-11-10T09:00:00-08:00"
 topics: ["csharp", "dotnet-11", "language-features", "union-types"]
-categories: [".NET"]
+categories: ["C# and .NET runtime"]
 ---
 
 # What's new in C#

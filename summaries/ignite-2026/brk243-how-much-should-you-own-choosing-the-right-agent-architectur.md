@@ -13,7 +13,7 @@ start: "2026-11-19T21:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "Github Copilot", "Microsoft Foundry", "Governance"]
 topics: ["foundry", "agent-architecture", "hosted-agents", "copilot-harness", "ci-cd"]
-categories: ["Building agents"]
+categories: ["AI apps and agents"]
 ---
 
 # How much should you own? Choosing the right agent architecture

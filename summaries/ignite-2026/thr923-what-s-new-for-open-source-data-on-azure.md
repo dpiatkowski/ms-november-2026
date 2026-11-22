@@ -13,7 +13,7 @@ start: "2026-11-19T00:20:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Data", "PostgreSQL", "Knowledge retrieval"]
 topics: ["open-source-databases", "azure-horizondb", "postgresql", "mysql", "managed-redis", "documentdb"]
-categories: ["Azure databases"]
+categories: ["Databases and analytics"]
 ---
 
 # What’s new for open-source data on Azure?

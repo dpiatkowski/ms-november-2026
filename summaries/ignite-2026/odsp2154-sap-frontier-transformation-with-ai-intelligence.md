@@ -13,7 +13,7 @@ start: null
 level: "(100) Foundational"
 ignite_topics: ["Frontier Transformation", "AI", "Agents", "Microsoft Foundry", "Foundry IQ", "Partner-Led", "Fabric IQ", "Microsoft IQ", "OneLake", "Real-Time Intelligence", "SAP on Azure", "AI Transformation"]
 topics: ["sponsor", "sap", "ontology", "microsoft-iq", "foundry", "modernization"]
-categories: ["Frontier transformation"]
+categories: ["AI adoption and skills"]
 ---
 
 # SAP frontier transformation with AI intelligence

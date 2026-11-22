@@ -13,7 +13,7 @@ start: "2026-11-20T01:15:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Cloud & AI"]
 topics: ["red-hat", "openshift", "hybrid-cloud", "azure", "customer-story"]
-categories: ["Sovereignty and hybrid"]
+categories: ["Hybrid and sovereign cloud"]
 ---
 
 # Red Hat on Azure: Advancing unified hybrid cloud together

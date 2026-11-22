@@ -13,7 +13,7 @@ start: null
 level: "(400) Expert"
 ignite_topics: ["Frontier Transformation"]
 topics: ["sponsor", "service-management", "newell-brands", "ntt-data", "multi-agent", "customer-story"]
-categories: ["Frontier transformation"]
+categories: ["AI adoption and skills"]
 ---
 
 # From service management to frontier transformation

@@ -13,7 +13,7 @@ start: "2026-11-19T17:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "Microsoft Foundry", "Customer", "Observability and evaluation"]
 topics: ["foundry", "agents", "microsoft-internal", "expertise-scaling", "incident-management"]
-categories: ["Microsoft Foundry"]
+categories: ["AI apps and agents"]
 ---
 
 # Inside Microsoft: How we scale expertise with Foundry agents

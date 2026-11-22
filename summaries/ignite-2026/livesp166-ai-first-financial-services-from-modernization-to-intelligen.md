@@ -13,7 +13,7 @@ start: null
 level: "(100) Foundational"
 ignite_topics: ["Agentic Business Applications", "AI", "Security", "AI Security", "Data governance", "Governance", "Data protection", "Migration and modernization", "AI Transformation", "AI Infrastructure", "Application Modernization"]
 topics: ["sponsor", "financial-services", "tcs", "ai-native", "modernization"]
-categories: ["Industry solutions", "Migration and modernization"]
+categories: ["Industry use cases", "Migration and modernization"]
 ---
 
 # AI-first financial services: From modernization to intelligence

@@ -13,7 +13,7 @@ start: "2026-11-19T19:30:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Security", "Security", "Microsoft Defender for Cloud", "AI Security", "Microsoft Defender XDR", "Microsoft Entra", "Microsoft Defender for Endpoint", "Microsoft Sentinel"]
 topics: ["sponsor", "lenovo", "cyber-resiliency", "microsoft-security", "managed-security"]
-categories: ["Resilience"]
+categories: ["Operations and reliability"]
 ---
 
 # Secure the enterprise with cyber resiliency in the AI era

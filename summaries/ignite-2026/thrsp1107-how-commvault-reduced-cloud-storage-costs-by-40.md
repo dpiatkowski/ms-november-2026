@@ -13,7 +13,7 @@ start: "2026-11-19T17:35:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Cloud & AI", "Resiliency", "Customer"]
 topics: ["sponsor", "commvault", "lucidity", "cloud-storage", "cost-optimization"]
-categories: ["Azure infrastructure", "FinOps"]
+categories: ["Cloud infrastructure", "Cloud cost management"]
 ---
 
 # How Commvault reduced cloud storage costs by 40%

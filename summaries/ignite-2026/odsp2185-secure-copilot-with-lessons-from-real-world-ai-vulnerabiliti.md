@@ -13,7 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Security", "AI", "Security", "AI Security", "Azure Container Apps", "Microsoft Copilot", "Copilot for Security", "Secure AI", "Data protection"]
 topics: ["sponsor", "varonis", "copilot-security", "vulnerabilities", "reprompt", "searchleak", "cosnitch"]
-categories: ["Microsoft 365 Copilot"]
+categories: ["Microsoft 365 and collaboration"]
 ---
 
 # Secure Copilot with lessons from real-world AI vulnerabilities

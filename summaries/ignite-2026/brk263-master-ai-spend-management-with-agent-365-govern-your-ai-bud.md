@@ -13,7 +13,7 @@ start: "2026-11-19T17:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform"]
 topics: ["agent-365", "ai-finops", "admin-center", "budgeting"]
-categories: ["Agent 365", "Agent governance", "FinOps"]
+categories: ["AI governance and safety", "Cloud cost management"]
 ---
 
 # Master AI spend management with Agent 365: Govern your AI budget

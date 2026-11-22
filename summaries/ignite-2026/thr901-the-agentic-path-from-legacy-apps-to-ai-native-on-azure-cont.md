@@ -13,7 +13,7 @@ start: "2026-11-20T00:00:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Cloud & AI"]
 topics: ["container-apps", "legacy-modernization", "serverless", "agent-led-rewrite", "scale-to-zero"]
-categories: ["Azure infrastructure", "Migration and modernization"]
+categories: ["Cloud infrastructure", "Migration and modernization"]
 ---
 
 # The agentic path from legacy apps to AI-native on Azure Container Apps

@@ -13,7 +13,7 @@ start: "2026-11-20T01:30:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Security", "MVP"]
 topics: ["purview", "agents", "audit", "ediscovery", "data-protection"]
-categories: ["Agent governance", "Microsoft Purview"]
+categories: ["AI governance and safety", "Data governance"]
 ---
 
 # Your Agent Has Access. Now Prove What It Did.

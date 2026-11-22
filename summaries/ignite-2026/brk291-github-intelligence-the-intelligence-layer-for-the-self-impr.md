@@ -13,7 +13,7 @@ start: "2026-11-18T00:30:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Agent Platform", "GitHub", "Developer Tools"]
 topics: ["github-intelligence", "sdlc", "agents", "knowledge", "pull-requests"]
-categories: ["Software engineering"]
+categories: ["Developer tools and delivery"]
 ---
 
 # GitHub Intelligence: The intelligence layer for the self-improving SDLC

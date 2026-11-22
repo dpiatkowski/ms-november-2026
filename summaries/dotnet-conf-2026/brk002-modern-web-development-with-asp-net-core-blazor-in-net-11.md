@@ -9,7 +9,7 @@ video_url: "https://youtu.be/19L2hdUs3_s"
 session_id: "BRK002"
 start: "2026-11-10T09:30:00-08:00"
 topics: ["aspnet-core", "blazor", "dotnet-11", "minimal-apis", "signalr", "aspire", "agentic-ui", "observability"]
-categories: ["ASP.NET Core", "Blazor", ".NET"]
+categories: ["Web development"]
 ---
 
 # Modern web development with ASP.NET Core & Blazor in .NET 11

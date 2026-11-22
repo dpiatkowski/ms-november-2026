@@ -13,7 +13,7 @@ start: "2026-11-20T00:20:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Agentic Business Applications", "Microsoft 365 apps", "Agents", "Copilot Chat", "Microsoft Copilot", "Marketplace"]
 topics: ["sponsor", "adobe", "copilot", "customer-intelligence", "cx"]
-categories: ["Customer experience", "Microsoft 365 Copilot"]
+categories: ["Business apps and automation", "Microsoft 365 and collaboration"]
 ---
 
 # Turn customer intelligence into action with Adobe and Microsoft

@@ -13,7 +13,7 @@ start: "2026-11-19T00:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "AI Security", "Agents", "Microsoft Agent 365"]
 topics: ["agent-365", "agents", "governance", "security", "control-plane"]
-categories: ["Agent 365", "Agentic security"]
+categories: ["AI governance and safety", "Application and agent security"]
 ---
 
 # Manage and Secure your AI Agents at Enterprise Scale with Agent 365

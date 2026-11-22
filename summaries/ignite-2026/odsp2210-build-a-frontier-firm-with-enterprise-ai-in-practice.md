@@ -13,7 +13,7 @@ start: null
 level: "(300) Advanced"
 ignite_topics: ["Frontier Transformation", "AI controls", "AI Security", "Agents", "Data governance", "Github Copilot", "Microsoft Fabric", "Governance", "Get Ready for AI", "Observability and evaluation"]
 topics: ["sponsor", "frontier-firm", "improving", "landing-zones", "fabric", "github-copilot", "governance"]
-categories: ["Frontier transformation"]
+categories: ["AI adoption and skills"]
 ---
 
 # Build a Frontier Firm with enterprise AI in practice

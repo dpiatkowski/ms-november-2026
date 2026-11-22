@@ -13,7 +13,7 @@ start: "2026-11-18T00:30:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Frontier Transformation", "AI", "AI Transformation"]
 topics: ["institutional-knowledge", "frontier-firm", "ai-strategy"]
-categories: ["Data and grounding", "Frontier transformation"]
+categories: ["AI grounding and retrieval", "AI adoption and skills"]
 ---
 
 # Your Most Valuable AI Asset Isn't a Model

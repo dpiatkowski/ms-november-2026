@@ -13,7 +13,7 @@ start: "2026-11-18T18:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["aks", "fleet-manager", "flex-nodes", "sovereign-cloud", "edge", "kubernetes"]
-categories: ["Azure infrastructure", "Sovereignty and hybrid"]
+categories: ["Cloud infrastructure", "Hybrid and sovereign cloud"]
 ---
 
 # Operate a global AKS fleet across regions, edge, and sovereign clouds​

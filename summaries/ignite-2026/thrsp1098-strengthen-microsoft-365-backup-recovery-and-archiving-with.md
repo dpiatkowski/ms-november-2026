@@ -13,7 +13,7 @@ start: "2026-11-20T01:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Data", "Resiliency", "Microsoft 365 Archive", "Microsoft 365 apps", "Microsoft Teams", "Multicloud", "Multicloud security", "Partner", "Data governance", "Microsoft 365 Backup", "SharePoint", "Microsoft Copilot", "Marketplace", "Microsoft 365", "Microsoft Agent 365", "Microsoft Purview Data Loss Prevention", "Data protection"]
 topics: ["sponsor", "crashplan", "microsoft-365", "backup", "archiving", "azure"]
-categories: ["Resilience"]
+categories: ["Operations and reliability"]
 ---
 
 # Strengthen Microsoft 365 backup, recovery, and archiving with Azure

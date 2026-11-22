@@ -13,7 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Frontier Transformation", "AI", "Agents", "Governance", "FinOps", "Observability and evaluation", "AI Transformation", "Application Modernization"]
 topics: ["sponsor", "sdlc", "ai-assisted-coding", "governance", "technical-debt"]
-categories: ["Software engineering"]
+categories: ["Developer tools and delivery"]
 ---
 
 # Evolve from AI-assisted coding​ to AI-enabled SDLC​

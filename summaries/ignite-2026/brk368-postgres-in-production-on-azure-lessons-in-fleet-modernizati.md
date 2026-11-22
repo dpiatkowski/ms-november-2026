@@ -13,7 +13,7 @@ start: "2026-11-19T19:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Data", "PostgreSQL", "Migration and modernization"]
 topics: ["postgresql", "azure-database-for-postgresql", "elastic-clusters", "fleet-management", "backups"]
-categories: ["Azure databases", "Migration and modernization"]
+categories: ["Databases and analytics", "Migration and modernization"]
 ---
 
 # Postgres in production on Azure: Lessons in fleet modernization

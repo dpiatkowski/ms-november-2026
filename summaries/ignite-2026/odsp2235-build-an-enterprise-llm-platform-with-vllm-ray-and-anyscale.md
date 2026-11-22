@@ -13,7 +13,7 @@ start: null
 level: "(300) Advanced"
 ignite_topics: ["Cloud & AI", "AI", "Agents", "Azure compute", "Azure Kubernetes Service", "AI Infrastructure"]
 topics: ["sponsor", "anyscale", "ray", "vllm", "open-models", "llm-platform"]
-categories: ["Azure infrastructure", "Microsoft Foundry"]
+categories: ["Cloud infrastructure", "AI apps and agents"]
 ---
 
 # Build an enterprise LLM platform with vLLM, Ray, and Anyscale

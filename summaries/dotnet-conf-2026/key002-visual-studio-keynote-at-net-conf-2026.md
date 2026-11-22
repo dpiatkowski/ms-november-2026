@@ -9,7 +9,7 @@ video_url: "https://youtu.be/Ehbngy2gk5I"
 session_id: "KEY002"
 start: "2026-11-11T08:00:00-08:00"
 topics: ["visual-studio", "keynote", "ai", "developer-tools"]
-categories: ["IDEs", "Agentic engineering"]
+categories: ["Developer tools and delivery", "AI-assisted development"]
 ---
 
 # Visual Studio Keynote at .NET Conf 2026

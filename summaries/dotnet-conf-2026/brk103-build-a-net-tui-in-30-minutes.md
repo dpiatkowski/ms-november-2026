@@ -9,7 +9,7 @@ video_url: "https://youtu.be/BQk3T1Ljrk4"
 session_id: "BRK103"
 start: "2026-11-12T09:30:00-08:00"
 topics: ["tui", "cli", "csharp", "developer-tools", "community-day"]
-categories: [".NET"]
+categories: ["Developer tools and delivery"]
 ---
 
 # Build a .NET TUI in 30 Minutes

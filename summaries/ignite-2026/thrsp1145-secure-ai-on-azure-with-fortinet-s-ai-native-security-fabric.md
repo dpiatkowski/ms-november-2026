@@ -13,7 +13,7 @@ start: "2026-11-19T22:50:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI", "AI Security", "Agents", "Multicloud security", "Cloud Endpoints", "Secure AI"]
 topics: ["sponsor", "fortinet", "azure", "ai-security", "mcp", "runtime-security"]
-categories: ["Agentic security", "Azure infrastructure", "MCP"]
+categories: ["Application and agent security", "Cloud infrastructure", "AI apps and agents"]
 ---
 
 # Secure AI on Azure with Fortinet’s AI-native Security Fabric

@@ -13,7 +13,7 @@ start: "2026-11-18T00:40:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Microsoft IQ"]
 topics: ["azure-friday", "scott-hanselman", "kinectify", "financial-crime", "ai-agents"]
-categories: ["Building agents", "Industry solutions"]
+categories: ["AI apps and agents", "Industry use cases"]
 ---
 
 # Azure Friday with Scott Hanselman: Kinectify fights financial crime

@@ -13,7 +13,7 @@ start: "2026-11-17T22:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Microsoft IQ"]
 topics: ["web-iq", "agents", "search", "retrieval", "agentic-web"]
-categories: ["Microsoft IQ"]
+categories: ["AI grounding and retrieval"]
 ---
 
 # Web IQ: The new search engine for agents

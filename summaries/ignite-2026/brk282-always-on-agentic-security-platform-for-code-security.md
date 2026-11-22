@@ -13,7 +13,7 @@ start: "2026-11-20T00:00:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Agent Platform", "Security", "Governance", "GitHub", "Developer Tools"]
 topics: ["github-advanced-security", "code-security", "secret-scanning", "autofix", "agentic-security"]
-categories: ["Agentic security"]
+categories: ["Application and agent security"]
 ---
 
 # Always-on agentic security platform for code security

@@ -9,7 +9,7 @@ video_url: "https://youtu.be/3mAhtBjBW88"
 session_id: "BRK125"
 start: "2026-11-13T11:30:00-08:00"
 topics: ["aspnet-core", "opentelemetry", "observability", "metrics", "tracing", "semantic-conventions", "dotnet-11", "community-day"]
-categories: ["ASP.NET Core", "Observability"]
+categories: ["Web development", "Operations and reliability"]
 ---
 
 # ASP.NET Core 11 💖 OpenTelemetry

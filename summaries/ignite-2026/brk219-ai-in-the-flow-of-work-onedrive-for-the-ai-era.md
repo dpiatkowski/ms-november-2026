@@ -13,7 +13,7 @@ start: "2026-11-19T22:45:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "Microsoft Teams", "Microsoft Copilot", "Microsoft 365"]
 topics: ["onedrive", "copilot", "content", "collaboration"]
-categories: ["Microsoft 365 Copilot", "SharePoint and OneDrive"]
+categories: ["Microsoft 365 and collaboration"]
 ---
 
 # AI in the Flow of Work: OneDrive for the AI Era

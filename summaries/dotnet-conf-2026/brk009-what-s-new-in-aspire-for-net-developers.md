@@ -9,7 +9,7 @@ video_url: "https://youtu.be/wVq9fIXsVWE"
 session_id: "BRK009"
 start: "2026-11-10T13:00:00-08:00"
 topics: ["aspire", "dotnet-11", "cloud-native", "polyglot", "developer-experience"]
-categories: ["Aspire"]
+categories: ["Application architecture"]
 ---
 
 # What's New in Aspire for .NET Developers

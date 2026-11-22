@@ -13,7 +13,7 @@ start: "2026-11-20T19:30:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Security", "AI", "Security", "Microsoft Entra", "Get Ready for AI", "Microsoft Defender", "Secure your foundation"]
 topics: ["phishing", "identity-security", "email-security", "impersonation", "attack-disruption"]
-categories: ["Security operations"]
+categories: ["Threat detection and response"]
 ---
 
 # Modern Phishing Doesn't End at the Click

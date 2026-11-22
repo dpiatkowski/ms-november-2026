@@ -9,7 +9,7 @@ video_url: "https://youtu.be/HK3IwBezg0w"
 session_id: "BRK112"
 start: "2026-11-12T14:00:00-08:00"
 topics: ["architecture", "clean-architecture", "vertical-slices", "aspnet-core", "community-day"]
-categories: ["ASP.NET Core", "Architecture"]
+categories: ["Web development", "Application architecture"]
 ---
 
 # Clean Architecture AND MORE with ASP.NET Core

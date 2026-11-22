@@ -13,7 +13,7 @@ start: null
 level: "(100) Foundational"
 ignite_topics: ["Cloud & AI", "AI", "Microsoft 365"]
 topics: ["sponsor", "dynamics-365", "conga", "cpq", "pricing"]
-categories: ["Dynamics 365"]
+categories: ["Business apps and automation"]
 ---
 
 # Overcome pricing complexity and sales inefficiency in Dynamics 365

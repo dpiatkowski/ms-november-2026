@@ -13,7 +13,7 @@ start: "2026-11-17T22:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["MAICPP", "SMB", "Small Business", "SME&C", "SMB Partner", "Lean IT", "Corporate"]
 topics: ["partner", "co-sell", "enterprise", "smb"]
-categories: ["Partners and marketplace", "Small and medium business"]
+categories: ["Partners and marketplace", "Industry use cases"]
 ---
 
 # Co-Selling to Enterprise, Corporate and SMB​

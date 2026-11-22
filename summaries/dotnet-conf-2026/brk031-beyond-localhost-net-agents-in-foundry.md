@@ -9,7 +9,7 @@ video_url: "https://youtu.be/Dq8fcig5-Gk"
 session_id: "BRK031"
 start: "2026-11-11T17:00:00-08:00"
 topics: ["foundry", "agents", "hosted-agents", "azure", "dotnet-ai"]
-categories: ["Azure", "AI applications"]
+categories: ["Cloud infrastructure", "AI apps and agents"]
 ---
 
 # Beyond Localhost: .NET Agents in Foundry

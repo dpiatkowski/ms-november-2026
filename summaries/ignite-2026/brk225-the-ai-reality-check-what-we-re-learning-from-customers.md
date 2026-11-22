@@ -13,7 +13,7 @@ start: "2026-11-19T00:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "Microsoft Copilot"]
 topics: ["copilot", "adoption", "governance", "customer-lessons", "readiness"]
-categories: ["Microsoft 365 Copilot", "Skilling and adoption"]
+categories: ["Microsoft 365 and collaboration", "AI adoption and skills"]
 ---
 
 # The AI Reality Check: What We’re Learning from Customers​

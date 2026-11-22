@@ -13,7 +13,7 @@ start: "2026-11-20T01:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Security", "Security", "AI controls", "AI Security", "Microsoft Defender XDR", "Azure HorizonDB", "Zero Trust for AI", "Secure AI", "Agentic defense", "Microsoft Defender", "Microsoft Agent 365", "Secure Agentic Insiders"]
 topics: ["defender", "zero-trust", "ai-runtime", "prompt-injection", "owasp", "mitre"]
-categories: ["Microsoft Defender", "Zero trust"]
+categories: ["Threat detection and response", "Identity and access"]
 ---
 
 # A Zero Trust approach to securing AI runtime with Microsoft Defender

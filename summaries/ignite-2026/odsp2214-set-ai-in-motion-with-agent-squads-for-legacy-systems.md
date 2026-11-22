@@ -13,7 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Frontier Transformation", "AI", "Agents", "Governance", "Azure Copilot", "API", "Get Ready for AI"]
 topics: ["sponsor", "legacy-systems", "agent-squads", "business-rules", "human-oversight"]
-categories: ["Building agents", "Migration and modernization"]
+categories: ["AI apps and agents", "Migration and modernization"]
 ---
 
 # Set AI in motion with agent squads for legacy systems

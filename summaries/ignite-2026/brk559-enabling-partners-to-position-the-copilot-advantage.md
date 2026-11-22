@@ -13,7 +13,7 @@ start: "2026-11-19T21:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "Microsoft Copilot"]
 topics: ["partner", "copilot", "positioning", "cowork"]
-categories: ["Microsoft 365 Copilot", "Partners and marketplace"]
+categories: ["Microsoft 365 and collaboration", "Partners and marketplace"]
 ---
 
 # Enabling Partners to Position the Copilot Advantage

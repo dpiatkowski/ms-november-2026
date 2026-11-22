@@ -13,7 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Agentic Business Applications", "AI", "AI controls", "AI Security", "Agents", "Partner", "Dynamics 365", "Microsoft Foundry", "Governance", "Customer", "Secure AI", "Migration and modernization", "Voice agents"]
 topics: ["sponsor", "banking", "kore-ai", "agents", "evaluation", "azure"]
-categories: ["Industry solutions"]
+categories: ["Industry use cases"]
 ---
 
 # The wire stalled. The closing didn’t. AI agents for regulated banking.

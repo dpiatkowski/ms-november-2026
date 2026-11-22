@@ -13,7 +13,7 @@ start: "2026-11-19T18:10:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agentic Business Applications"]
 topics: ["sponsor", "ryan-specialty", "multimodal", "foundry", "insurance", "human-in-the-loop"]
-categories: ["Industry solutions"]
+categories: ["Industry use cases"]
 ---
 
 # How multimodal AI transforms property inspections at Ryan Specialty

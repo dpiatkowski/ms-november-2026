@@ -13,7 +13,7 @@ start: "2026-11-19T17:00:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Frontier Transformation", "AI", "Data loss prevention", "AI controls", "AI Security", "Agents", "Data governance", "Microsoft Purview", "Copilot Control System", "Get Ready for AI", "Agentic defense", "Microsoft Defender", "Microsoft Agent 365", "Microsoft Copilot Studio", "FinOps", "SMB", "Small Business", "SME&C", "AI Transformation", "AI Infrastructure"]
 topics: ["sponsor", "cnxn", "agent-governance", "operating-model", "scale"]
-categories: ["Agent governance", "Building agents"]
+categories: ["AI governance and safety", "AI apps and agents"]
 ---
 
 # Scale to 1,000 AI agents without scaling headcount

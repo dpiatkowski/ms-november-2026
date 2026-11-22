@@ -13,7 +13,7 @@ start: "2026-11-18T18:10:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "MVP"]
 topics: ["agent-governance", "copilot-studio", "purview", "azure-ai", "framework"]
-categories: ["Agent governance"]
+categories: ["AI governance and safety"]
 ---
 
 # AI Governance Playbook: Scaling Agents Without Chaos

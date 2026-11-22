@@ -13,7 +13,7 @@ start: "2026-11-18T17:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "AI", "AI controls", "Agents", "Copilot administration", "Data governance", "Copilot Control System", "Microsoft Agent 365", "Microsoft Copilot Studio"]
 topics: ["sponsor", "ai-visibility", "token-consumption", "cost-governance"]
-categories: ["Agent governance"]
+categories: ["AI governance and safety"]
 ---
 
 # Scale AI agents with visibility, governance, and cost control

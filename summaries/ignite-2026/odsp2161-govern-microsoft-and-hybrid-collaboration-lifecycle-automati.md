@@ -13,7 +13,7 @@ start: null
 level: "(100) Foundational"
 ignite_topics: ["Cloud & AI", "Azure SQL", "Microsoft Teams", "Partner", "Management controls", "Microsoft Entra", "Governance", "Microsoft 365"]
 topics: ["sponsor", "teams", "collaboration-governance", "akkadian", "lifecycle-automation"]
-categories: ["Agent governance", "Microsoft Teams"]
+categories: ["AI governance and safety", "Microsoft 365 and collaboration"]
 ---
 
 # Govern Microsoft and hybrid collaboration lifecycle automation

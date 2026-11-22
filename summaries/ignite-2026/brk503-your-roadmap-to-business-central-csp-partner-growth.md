@@ -13,7 +13,7 @@ start: "2026-11-20T01:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Frontier Transformation", "Cloud & AI", "SMB", "Small Business", "SME&C", "SMB Partner", "Lean IT", "Corporate"]
 topics: ["partner", "business-central", "csp", "agents"]
-categories: ["Dynamics 365", "Partners and marketplace"]
+categories: ["Business apps and automation", "Partners and marketplace"]
 ---
 
 # Your Roadmap to Business Central CSP Partner Growth

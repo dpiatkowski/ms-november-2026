@@ -13,7 +13,7 @@ start: "2026-11-17T23:15:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Cloud & AI"]
 topics: ["government", "partner", "ai", "customer-story"]
-categories: ["Industry solutions", "Partners and marketplace"]
+categories: ["Industry use cases", "Partners and marketplace"]
 ---
 
 # In Their Words: Building Government AI With Partners​

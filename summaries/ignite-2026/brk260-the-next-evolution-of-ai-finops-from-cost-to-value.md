@@ -13,7 +13,7 @@ start: "2026-11-20T00:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform"]
 topics: ["ai-finops", "cost-management", "value-measurement"]
-categories: ["FinOps"]
+categories: ["Cloud cost management"]
 ---
 
 # The next evolution of AI FinOps: From cost to value

@@ -9,7 +9,7 @@ video_url: "https://youtu.be/uszy8DGurcs"
 session_id: "BRK106"
 start: "2026-11-12T11:00:00-08:00"
 topics: ["cake", "ci-cd", "pipelines", "csharp", "devops", "dotnet-11", "community-day"]
-categories: ["CI/CD"]
+categories: ["Developer tools and delivery"]
 ---
 
 # Taking Cake 7 to Eleven: Pipelines as Code with C# and .NET 11

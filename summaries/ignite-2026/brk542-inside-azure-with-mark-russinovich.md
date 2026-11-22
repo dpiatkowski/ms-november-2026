@@ -13,7 +13,7 @@ start: "2026-11-18T18:15:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Cloud & AI"]
 topics: ["azure", "mark-russinovich", "ai-infrastructure", "confidential-computing", "networking"]
-categories: ["Azure infrastructure"]
+categories: ["Cloud infrastructure"]
 ---
 
 # Inside Azure with Mark Russinovich

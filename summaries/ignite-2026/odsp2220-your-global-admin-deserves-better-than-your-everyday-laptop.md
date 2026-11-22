@@ -13,7 +13,7 @@ start: null
 level: "(300) Advanced"
 ignite_topics: ["Security", "Security in Windows", "Security", "Identity and network access", "Azure Virtual Desktop", "Windows", "Zero Trust", "Microsoft Intune", "Community", "AVD", "Intune", "MVP", "Microsoft Defender for Endpoint", "Microsoft Defender"]
 topics: ["sponsor", "privileged-access", "entra-id", "intune", "defender", "avd", "assume-breach"]
-categories: ["Microsoft Defender", "Microsoft Entra", "Microsoft Intune", "Windows 365 and Azure Virtual Desktop"]
+categories: ["Threat detection and response", "Identity and access", "Endpoint management"]
 ---
 
 # Your global admin deserves better than your everyday laptop

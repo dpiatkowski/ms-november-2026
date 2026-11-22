@@ -13,7 +13,7 @@ start: "2026-11-19T18:15:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Agentic Business Applications", "Agents"]
 topics: ["copilot-studio", "customer-agents", "contact-center", "teams-phone", "omnichannel"]
-categories: ["Building agents", "Copilot Studio", "Customer experience", "Microsoft Teams"]
+categories: ["AI apps and agents", "Business apps and automation", "Microsoft 365 and collaboration"]
 ---
 
 # Build Customer-Facing Agents in Copilot Studio, Teams, and CCI

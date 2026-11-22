@@ -13,7 +13,7 @@ start: "2026-11-19T22:15:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Agent Platform", "Cloud & AI"]
 topics: ["foundry", "agent-graphs", "multi-agent", "planner", "web-iq", "orchestration"]
-categories: ["Microsoft Foundry"]
+categories: ["AI apps and agents"]
 ---
 
 # Wire Agents Into Systems: Graph Engineering on Microsoft Foundry

@@ -13,7 +13,7 @@ start: "2026-11-19T17:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Security", "AI", "Security", "AI Security", "Threat Intelligence", "Defend with AI", "Microsoft Defender Threat Intelligence", "Unified SecOps", "Microsoft Defender Experts Threat Intelligence", "Defend with agents"]
 topics: ["threat-intelligence", "security", "ai-automation", "defender"]
-categories: ["Security operations"]
+categories: ["Threat detection and response"]
 ---
 
 # Threat Intelligence reimagined: From signals to protection at AI speed

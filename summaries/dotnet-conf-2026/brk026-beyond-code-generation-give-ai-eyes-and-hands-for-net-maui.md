@@ -9,7 +9,7 @@ video_url: "https://youtu.be/-3ClD7BHbLU"
 session_id: "BRK026"
 start: "2026-11-11T13:30:00-08:00"
 topics: ["maui", "ai", "copilot", "mcp", "devflow", "testing", "agents"]
-categories: ["Mobile devices", "GitHub Copilot", "MCP", "Agentic engineering"]
+categories: ["Desktop and mobile apps", "AI-assisted development", "AI apps and agents"]
 ---
 
 # Beyond Code Generation: Give AI Eyes and Hands for .NET MAUI

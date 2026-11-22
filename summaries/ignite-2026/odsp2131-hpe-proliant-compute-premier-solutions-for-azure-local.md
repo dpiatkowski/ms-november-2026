@@ -13,7 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI", "Azure Local"]
 topics: ["sponsor", "hpe", "azure-local", "hybrid-cloud", "infrastructure"]
-categories: ["Azure infrastructure", "Sovereignty and hybrid"]
+categories: ["Cloud infrastructure", "Hybrid and sovereign cloud"]
 ---
 
 # HPE ProLiant Compute Premier Solutions for Azure Local

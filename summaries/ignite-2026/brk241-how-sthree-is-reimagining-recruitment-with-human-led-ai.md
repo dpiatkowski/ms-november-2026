@@ -13,7 +13,7 @@ start: "2026-11-18T18:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "Microsoft Foundry", "Governance", "Customer"]
 topics: ["foundry", "agents", "recruitment", "customer-story", "human-in-the-loop"]
-categories: ["Building agents", "Microsoft Foundry"]
+categories: ["AI apps and agents"]
 ---
 
 # How SThree is reimagining recruitment with human-led AI

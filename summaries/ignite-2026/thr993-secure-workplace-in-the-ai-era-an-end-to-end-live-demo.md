@@ -13,7 +13,7 @@ start: "2026-11-20T00:55:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Security", "MVP"]
 topics: ["security", "entra", "intune", "defender-xdr", "purview", "copilot", "demo"]
-categories: ["Microsoft 365 Copilot", "Microsoft Defender", "Microsoft Entra", "Microsoft Intune", "Microsoft Purview"]
+categories: ["Microsoft 365 and collaboration", "Threat detection and response", "Identity and access", "Endpoint management", "Data governance"]
 ---
 
 # Secure Workplace in the AI Era: An End-to-End Live Demo

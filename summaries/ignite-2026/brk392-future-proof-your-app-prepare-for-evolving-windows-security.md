@@ -13,7 +13,7 @@ start: "2026-11-20T01:15:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Security", "Windows", "Security in Windows", "Resiliency", "Security", "Identity and network access", "Windows", "Windows Developer", "Zero Trust", "Azure Copilot"]
 topics: ["windows-security", "ntlm", "kerberos", "admin-protection", "code-signing"]
-categories: ["Windows"]
+categories: ["Desktop and mobile apps"]
 ---
 
 # Future-proof your App: Prepare for evolving Windows security standards

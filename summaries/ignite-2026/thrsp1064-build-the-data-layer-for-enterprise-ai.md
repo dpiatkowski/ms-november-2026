@@ -13,7 +13,7 @@ start: "2026-11-17T22:35:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["sponsor", "onelake", "fabric-iq", "data-layer", "context"]
-categories: ["Data and grounding", "Microsoft Fabric", "Microsoft IQ"]
+categories: ["AI grounding and retrieval", "Databases and analytics"]
 ---
 
 # Build the data layer for enterprise AI

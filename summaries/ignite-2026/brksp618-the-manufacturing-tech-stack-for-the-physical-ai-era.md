@@ -13,7 +13,7 @@ start: "2026-11-19T21:30:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Cloud & AI", "AI", "Agents", "Data governance", "Customer", "Microsoft Copilot Studio"]
 topics: ["sponsor", "manufacturing", "physical-ai", "plm", "mes", "digital-twins", "robotics"]
-categories: ["Industry solutions", "Physical AI"]
+categories: ["Industry use cases", "Edge AI and devices"]
 ---
 
 # The manufacturing tech stack for the physical AI era

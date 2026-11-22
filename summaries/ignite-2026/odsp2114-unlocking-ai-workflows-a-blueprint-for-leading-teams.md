@@ -13,7 +13,7 @@ start: null
 level: "(100) Foundational"
 ignite_topics: ["Agent Platform", "AI controls", "Agents"]
 topics: ["sponsor", "atlassian", "rovo", "ai-native", "workflows"]
-categories: ["Microsoft Teams"]
+categories: ["Microsoft 365 and collaboration"]
 ---
 
 # Unlocking AI workflows: A blueprint for leading teams

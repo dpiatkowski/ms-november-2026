@@ -13,7 +13,7 @@ start: "2026-11-19T17:00:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Frontier Transformation", "Other", "AI", "Partner", "Get Ready for AI"]
 topics: ["credly", "certifications", "verifiable-credentials", "pearson", "hiring"]
-categories: ["Skilling and adoption"]
+categories: ["AI adoption and skills"]
 ---
 
 # Credly in action: Unlocking the full value of your credential

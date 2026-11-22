@@ -13,7 +13,7 @@ start: "2026-11-18T00:05:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "Agentic Business Applications", "AI", "Microsoft for Startups", "Marketplace"]
 topics: ["ai-adoption", "workforce-readiness", "demos", "productivity"]
-categories: ["Skilling and adoption"]
+categories: ["AI adoption and skills"]
 ---
 
 # From Pilot to Productivity: AI Adoption in Action

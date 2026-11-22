@@ -13,7 +13,7 @@ start: "2026-11-17T22:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agentic Business Applications", "AI", "Microsoft 365 apps", "Agents", "Data governance", "Microsoft Copilot", "Copilot for Security", "Copilot Control System", "Get Ready for AI", "Microsoft Agent 365", "Microsoft Copilot Studio"]
 topics: ["sponsor", "ey", "personal-agents", "enterprise-agents", "governance"]
-categories: ["Agent governance"]
+categories: ["AI governance and safety"]
 ---
 
 # Turn personal agents into enterprise assets

@@ -13,7 +13,7 @@ start: "2026-11-17T22:00:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Windows", "AI", "Agents", "Azure Container Apps", "Windows", "Azure HorizonDB", "Secure AI", "Microsoft Agent 365", "Agentic browsing", "Windows Agents"]
 topics: ["sponsor", "intel", "local-ai", "hybrid-ai", "azure"]
-categories: ["Microsoft Foundry", "Sovereignty and hybrid"]
+categories: ["AI apps and agents", "Hybrid and sovereign cloud"]
 ---
 
 # Local when it matters. Cloud when it counts.

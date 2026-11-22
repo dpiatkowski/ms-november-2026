@@ -13,7 +13,7 @@ start: "2026-11-18T23:25:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "AI", "Agents"]
 topics: ["automotive", "bosch", "slm", "ai-cockpit", "edge"]
-categories: ["Industry solutions", "Physical AI"]
+categories: ["Industry use cases", "Edge AI and devices"]
 ---
 
 # From Copilot to cockpit: Building the AI-powered vehicle with Bosch

@@ -13,7 +13,7 @@ start: "2026-11-18T23:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agentic Business Applications", "Agents", "Dynamics 365"]
 topics: ["dynamics-365", "sales", "agentic-crm", "copilot", "agents"]
-categories: ["Dynamics 365"]
+categories: ["Business apps and automation"]
 ---
 
 # Agentic CRM: Accelerate revenue and pipeline with agentic sales

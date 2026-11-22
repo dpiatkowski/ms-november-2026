@@ -13,7 +13,7 @@ start: null
 level: "(300) Advanced"
 ignite_topics: ["Cloud & AI", "AI", "Agents", "Multicloud", "Partner", "Software Development Company", "Governance", "Azure Copilot"]
 topics: ["sponsor", "ai-sre", "aiops", "remediation", "field-report"]
-categories: ["Cloud operations"]
+categories: ["Operations and reliability"]
 ---
 
 # AI SRE in production: What actually gets automated safely

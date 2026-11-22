@@ -13,7 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "AI", "AI controls", "Agents", "Github Copilot", "Microsoft Foundry", "GitHub", "Foundry IQ", "Work IQ", "Microsoft Copilot", "Azure Copilot", "Microsoft Agent 365", "Microsoft Copilot Studio", "Fabric IQ", "Microsoft IQ", "Migration and modernization", "AI Transformation", "Application Modernization"]
 topics: ["sponsor", "ibm", "imagine-enterprise", "digital-workforce", "copilot-studio", "fabric"]
-categories: ["Agent governance", "Building agents"]
+categories: ["AI governance and safety", "AI apps and agents"]
 ---
 
 # Build an agentic platform to scale and govern digital workforces

@@ -13,7 +13,7 @@ start: "2026-11-19T23:45:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Cloud & AI", "Other", "Resiliency"]
 topics: ["kubernetes", "aks", "it-admins", "infrastructure-translation"]
-categories: ["Azure infrastructure"]
+categories: ["Cloud infrastructure"]
 ---
 
 # From VMs to Pods: A Kubernetes translation guide for IT/ops admins

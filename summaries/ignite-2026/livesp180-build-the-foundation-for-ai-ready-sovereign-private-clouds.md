@@ -13,7 +13,7 @@ start: null
 level: "(100) Foundational"
 ignite_topics: ["Cloud & AI", "Security", "Multicloud", "Secure AI", "Get Ready for AI"]
 topics: ["sponsor", "lenovo", "sovereign-private-cloud", "azure", "ai"]
-categories: ["Sovereignty and hybrid"]
+categories: ["Hybrid and sovereign cloud"]
 ---
 
 # Build the foundation for AI-ready sovereign private clouds

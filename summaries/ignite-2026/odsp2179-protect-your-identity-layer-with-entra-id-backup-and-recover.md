@@ -13,7 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Security", "Identity and network access", "Zero Trust", "Governance"]
 topics: ["sponsor", "entra-id", "backup-recovery", "ransomware", "cyber-resilience"]
-categories: ["Microsoft Entra", "Resilience"]
+categories: ["Identity and access", "Operations and reliability"]
 ---
 
 # Protect your identity layer with Entra ID backup and recovery

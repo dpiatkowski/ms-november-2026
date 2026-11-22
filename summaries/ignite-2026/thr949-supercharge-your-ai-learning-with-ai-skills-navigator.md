@@ -13,7 +13,7 @@ start: "2026-11-17T22:00:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Other"]
 topics: ["ai-skills-navigator", "learning", "credentials"]
-categories: ["Skilling and adoption"]
+categories: ["AI adoption and skills"]
 ---
 
 # Supercharge your AI learning with AI Skills Navigator

@@ -13,7 +13,7 @@ start: "2026-11-19T22:45:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["nvidia", "ai-infrastructure", "azure-local", "jetson", "tokenomics"]
-categories: ["Azure infrastructure", "Industry solutions", "Microsoft Foundry", "Physical AI"]
+categories: ["Cloud infrastructure", "Industry use cases", "AI apps and agents", "Edge AI and devices"]
 ---
 
 # Scaling intelligence cloud to edge with agentic AI factories

@@ -13,7 +13,7 @@ start: "2026-11-19T19:40:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Other"]
 topics: ["github-agentic-workflows", "automation", "governance", "scale"]
-categories: ["GitHub Copilot", "Software engineering"]
+categories: ["AI-assisted development", "Developer tools and delivery"]
 ---
 
 # From one automation to many: GitHub Agentic Workflows at scale

@@ -13,7 +13,7 @@ start: "2026-11-18T23:00:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Agent Platform", "Github Copilot", "Microsoft Entra", "GitHub", "MCP", "Developer Tools"]
 topics: ["copilot-sdk", "agent-harness", "orchestration", "architecture"]
-categories: ["Building agents", "GitHub Copilot", "Microsoft 365 Copilot"]
+categories: ["AI apps and agents", "AI-assisted development", "Microsoft 365 and collaboration"]
 ---
 
 # Hack the harness: Copilot SDK agents from prototype to production

@@ -13,7 +13,7 @@ start: "2026-11-18T18:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform"]
 topics: ["copilot-studio", "power-apps", "agents", "business-processes", "lifecycle"]
-categories: ["Copilot Studio"]
+categories: ["AI apps and agents"]
 ---
 
 # Apps and agents: Business process transformation in Copilot Studio

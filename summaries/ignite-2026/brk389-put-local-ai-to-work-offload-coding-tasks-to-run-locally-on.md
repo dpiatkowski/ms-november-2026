@@ -13,7 +13,7 @@ start: "2026-11-19T17:00:00Z"
 level: "(400) Expert"
 ignite_topics: ["Windows", "AI", "Agents", "Windows", "Windows Developer", "Azure Copilot", "Azure HorizonDB", "Microsoft Foundry on Windows", "Unmetered Intelligence"]
 topics: ["github-copilot", "local-ai", "windows", "mai-code", "dgx-station"]
-categories: ["Windows"]
+categories: ["AI-assisted development"]
 ---
 
 # Put Local AI to Work: Offload Coding Tasks to run locally on Windows

@@ -13,7 +13,7 @@ start: "2026-11-18T00:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["aks", "foundry", "gpu", "hosted-agents", "workload-identity", "observability"]
-categories: ["Azure infrastructure", "Microsoft Foundry"]
+categories: ["Cloud infrastructure", "AI apps and agents"]
 ---
 
 # Deploy and run Microsoft Foundry models and agents on AKS

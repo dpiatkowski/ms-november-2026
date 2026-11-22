@@ -13,7 +13,7 @@ start: "2026-11-18T18:15:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Cloud & AI", "AI", "Agents", "Partner", "Governance", "Microsoft Copilot", "Secure AI", "Corporate Partner", "AI Transformation", "AI Infrastructure", "Cloud Operations", "Azure Infrastructure", "Application Modernization"]
 topics: ["sponsor", "hitachi", "physical-ai", "industrial", "customer-zero"]
-categories: ["Industry solutions", "Physical AI"]
+categories: ["Industry use cases", "Edge AI and devices"]
 ---
 
 # Scale industrial physical AI with Hitachi and Microsoft

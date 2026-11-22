@@ -13,7 +13,7 @@ start: null
 level: "(300) Advanced"
 ignite_topics: ["Security", "Security in Windows", "Resiliency", "Security", "Identity and network access", "AI Security", "Microsoft Teams", "Multicloud security", "Microsoft 365 Backup", "Microsoft Entra", "Threat Intelligence", "Windows Recovery", "Windows Resiliency", "Zero Trust", "Microsoft Intune", "Intune", "Microsoft 365", "Zero Trust for AI", "Microsoft Defender Threat Intelligence", "Azure Backup"]
 topics: ["sponsor", "entra-id", "identity-recovery", "hybrid", "active-directory"]
-categories: ["Microsoft Entra", "Resilience"]
+categories: ["Identity and access", "Operations and reliability"]
 ---
 
 # Strengthen identity recovery across Entra ID and hybrid environments

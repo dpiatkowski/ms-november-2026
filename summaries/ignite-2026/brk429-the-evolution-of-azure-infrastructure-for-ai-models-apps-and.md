@@ -13,7 +13,7 @@ start: "2026-11-17T23:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["azure-iaas", "ai-infrastructure", "gpu", "inference", "right-sizing"]
-categories: ["Azure infrastructure"]
+categories: ["Cloud infrastructure"]
 ---
 
 # The evolution of Azure infrastructure for AI models, apps, and agents

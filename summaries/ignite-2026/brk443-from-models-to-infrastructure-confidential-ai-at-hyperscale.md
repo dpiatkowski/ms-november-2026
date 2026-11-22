@@ -13,7 +13,7 @@ start: "2026-11-20T18:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["confidential-computing", "confidential-vms", "ai", "security", "azure"]
-categories: ["Azure infrastructure"]
+categories: ["Cloud infrastructure"]
 ---
 
 # From models to infrastructure: Confidential AI at Hyperscale on Azure

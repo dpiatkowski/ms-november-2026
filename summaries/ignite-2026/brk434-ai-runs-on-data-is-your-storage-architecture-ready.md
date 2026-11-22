@@ -13,7 +13,7 @@ start: "2026-11-19T21:30:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Cloud & AI"]
 topics: ["azure-storage", "ai", "data-architecture", "performance", "resiliency"]
-categories: ["Azure infrastructure"]
+categories: ["Cloud infrastructure"]
 ---
 
 # AI runs on data. Is your storage architecture ready?

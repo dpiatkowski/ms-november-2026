@@ -13,7 +13,7 @@ start: "2026-11-20T17:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "GitHub", "Developer Tools"]
 topics: ["github-copilot", "mobile", "agents", "native-apps", "builds"]
-categories: ["GitHub Copilot"]
+categories: ["AI-assisted development"]
 ---
 
 # Beyond the browser: Build a mobile app with GitHub Copilot

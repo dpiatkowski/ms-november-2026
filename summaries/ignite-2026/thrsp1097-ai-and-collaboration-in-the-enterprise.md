@@ -13,7 +13,7 @@ start: "2026-11-19T17:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Windows", "Agents", "AVD"]
 topics: ["sponsor", "logitech", "workplace-devices", "teams-rooms", "copilot"]
-categories: ["Microsoft Teams"]
+categories: ["Microsoft 365 and collaboration"]
 ---
 
 # AI and collaboration in the enterprise

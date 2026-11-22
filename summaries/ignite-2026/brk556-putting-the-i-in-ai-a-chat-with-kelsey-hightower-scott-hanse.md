@@ -13,7 +13,7 @@ start: "2026-11-17T23:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["developer-culture", "ai", "fireside", "kelsey-hightower", "scott-hanselman"]
-categories: ["Software engineering"]
+categories: ["Developer tools and delivery"]
 ---
 
 # Putting the I in AI; a chat with Kelsey Hightower & Scott Hanselman

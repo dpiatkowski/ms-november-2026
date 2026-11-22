@@ -13,7 +13,7 @@ start: "2026-11-18T00:40:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform"]
 topics: ["foundry", "agents", "patterns", "developer"]
-categories: ["Building agents"]
+categories: ["AI apps and agents"]
 ---
 
 # Building Real Agents

@@ -13,7 +13,7 @@ start: null
 level: "(300) Advanced"
 ignite_topics: ["Cloud & AI"]
 topics: ["sponsor", "agent-security", "data-leakage", "foundry", "prompt-injection", "demo"]
-categories: ["Agent governance", "Microsoft Purview"]
+categories: ["AI governance and safety", "Data governance"]
 ---
 
 # Follow one record: What an AI agent will hand over if you ask nicely

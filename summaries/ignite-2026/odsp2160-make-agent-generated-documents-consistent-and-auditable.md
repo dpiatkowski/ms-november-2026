@@ -13,7 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Agentic Business Applications", "AI", "Microsoft 365 apps", "AI controls", "AI Security", "Agents", "Copilot Chat", "Microsoft Copilot", "API", "Cloud Endpoints", "Microsoft 365", "Secure AI"]
 topics: ["sponsor", "doctavian", "mcp", "document-generation", "digital-signatures", "audit"]
-categories: ["Building agents", "MCP"]
+categories: ["AI apps and agents"]
 ---
 
 # Make agent-generated documents consistent and auditable

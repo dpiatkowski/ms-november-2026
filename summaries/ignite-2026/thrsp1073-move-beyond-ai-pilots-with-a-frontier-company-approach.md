@@ -13,7 +13,7 @@ start: "2026-11-18T17:35:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Frontier Transformation", "AI", "AI controls", "AI Security", "Agents", "Copilot administration", "Data governance", "Github Copilot", "Copilot Chat", "Microsoft Copilot", "Copilot studio", "Azure Copilot", "Copilot for Security", "Copilot Control System", "Zero Trust for AI", "Secure AI", "Get Ready for AI", "Agentic defense", "Microsoft Agent 365", "Microsoft Copilot Studio", "Agentic browsing", "Data protection", "AI Transformation", "AI Infrastructure"]
 topics: ["sponsor", "frontier-company", "ai-operating-model", "adoption"]
-categories: ["Frontier transformation"]
+categories: ["AI adoption and skills"]
 ---
 
 # Move beyond AI pilots with a Frontier Company approach

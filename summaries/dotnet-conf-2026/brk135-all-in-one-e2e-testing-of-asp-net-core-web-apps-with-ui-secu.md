@@ -9,7 +9,7 @@ video_url: "https://youtu.be/Xclc_0sYZ5A"
 session_id: "BRK135"
 start: "2026-11-13T16:30:00-08:00"
 topics: ["testing", "e2e", "accessibility", "security-testing", "selenium", "aspnet-core", "community-day"]
-categories: ["ASP.NET Core", "Testing", "Accessibility", "Security"]
+categories: ["Web development", "Testing and evaluation", "Accessibility", "Application and agent security"]
 ---
 
 # All in one E2E testing of ASP.NET Core web apps with UI/security/accessibility tests and more

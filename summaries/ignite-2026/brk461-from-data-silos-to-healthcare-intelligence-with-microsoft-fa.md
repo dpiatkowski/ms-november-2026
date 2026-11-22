@@ -13,7 +13,7 @@ start: "2026-11-18T19:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Data", "AI", "Agents", "Azure Copilot", "Get Ready for AI"]
 topics: ["healthcare", "fabric", "onelake", "data-unification", "customer-story"]
-categories: ["Industry solutions", "Microsoft Fabric"]
+categories: ["Industry use cases", "Databases and analytics"]
 ---
 
 # From data silos to healthcare intelligence with Microsoft Fabric

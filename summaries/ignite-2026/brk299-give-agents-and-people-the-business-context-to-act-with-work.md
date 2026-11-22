@@ -13,7 +13,7 @@ start: "2026-11-18T18:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Microsoft IQ"]
 topics: ["work-iq", "business-apps", "crm", "erp", "context"]
-categories: ["Data and grounding", "Microsoft IQ"]
+categories: ["AI grounding and retrieval"]
 ---
 
 # Give agents and people the business context to act with Work IQ

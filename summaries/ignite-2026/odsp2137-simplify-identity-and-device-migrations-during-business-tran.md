@@ -13,7 +13,7 @@ start: null
 level: "(300) Advanced"
 ignite_topics: ["Windows", "Microsoft Intune", "Community", "Marketplace"]
 topics: ["sponsor", "identity-migration", "active-directory", "powersyncpro", "mergers"]
-categories: ["Microsoft Entra", "Migration and modernization"]
+categories: ["Identity and access", "Migration and modernization"]
 ---
 
 # Simplify identity and device migrations during business transformation

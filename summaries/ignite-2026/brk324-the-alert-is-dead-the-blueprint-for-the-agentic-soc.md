@@ -13,7 +13,7 @@ start: "2026-11-18T17:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Security", "AI", "Security", "Defend with AI", "Agentic defense", "Defend with agents"]
 topics: ["agentic-soc", "security-operations", "attack-disruption", "isoc"]
-categories: ["Security operations"]
+categories: ["Threat detection and response"]
 ---
 
 # The Alert Is Dead. The Blueprint for the Agentic SOC

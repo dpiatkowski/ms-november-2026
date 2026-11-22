@@ -13,7 +13,7 @@ start: "2026-11-19T18:45:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "Security", "AI controls", "AI Security", "Agents", "Zero Trust", "Copilot Chat", "Community", "Microsoft Purview"]
 topics: ["sponsor", "copilot-readiness", "configuration-drift", "microsoft-365"]
-categories: ["Microsoft 365 Copilot"]
+categories: ["Microsoft 365 and collaboration"]
 ---
 
 # Copilot readiness doesn't stay ready

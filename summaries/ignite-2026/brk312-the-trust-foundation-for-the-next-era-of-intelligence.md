@@ -13,7 +13,7 @@ start: "2026-11-19T00:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform"]
 topics: ["trustworthy-ai", "responsible-ai", "governance", "security", "agents"]
-categories: ["Agentic security", "Responsible AI"]
+categories: ["Application and agent security", "AI governance and safety"]
 ---
 
 # The trust foundation for the next era of intelligence

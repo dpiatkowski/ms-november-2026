@@ -13,7 +13,7 @@ start: "2026-11-18T17:35:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "GitHub", "Developer Tools"]
 topics: ["github", "foundry", "agent-365", "agent-lifecycle", "sdlc"]
-categories: ["Agent 365", "GitHub Copilot", "Microsoft Foundry", "Software engineering"]
+categories: ["AI governance and safety", "AI-assisted development", "AI apps and agents", "Developer tools and delivery"]
 ---
 
 # From code to control: Building on the agent platform

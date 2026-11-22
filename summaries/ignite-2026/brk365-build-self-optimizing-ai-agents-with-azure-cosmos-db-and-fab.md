@@ -13,7 +13,7 @@ start: "2026-11-19T17:00:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Data", "AI", "Agents", "Microsoft Foundry", "Azure Copilot"]
 topics: ["cosmos-db", "fabric", "agents", "observability", "customer-story"]
-categories: ["Azure databases", "Building agents", "Microsoft Fabric"]
+categories: ["Databases and analytics", "AI apps and agents"]
 ---
 
 # Build self-optimizing AI agents with Azure Cosmos DB and Fabric

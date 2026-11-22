@@ -13,7 +13,7 @@ start: "2026-11-19T22:45:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Data"]
 topics: ["mongodb", "azure-documentdb", "migration", "modernization"]
-categories: ["Azure databases", "Migration and modernization"]
+categories: ["Databases and analytics", "Migration and modernization"]
 ---
 
 # Migrate and modernize MongoDB applications with Azure DocumentDB

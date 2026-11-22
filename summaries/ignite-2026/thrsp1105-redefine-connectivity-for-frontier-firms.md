@@ -13,7 +13,7 @@ start: "2026-11-19T17:00:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Data"]
 topics: ["sponsor", "equinix", "connectivity", "azure", "multicloud"]
-categories: ["Frontier transformation"]
+categories: ["AI adoption and skills"]
 ---
 
 # Redefine connectivity for frontier firms

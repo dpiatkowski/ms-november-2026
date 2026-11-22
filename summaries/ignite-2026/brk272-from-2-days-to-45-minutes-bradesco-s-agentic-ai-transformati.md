@@ -13,7 +13,7 @@ start: "2026-11-19T00:15:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Agent Platform", "GitHub", "Developer Tools"]
 topics: ["bradesco", "customer-story", "modernization", "github-copilot", "foundry"]
-categories: ["Frontier transformation"]
+categories: ["AI adoption and skills"]
 ---
 
 # From 2 days to 45 minutes: Bradesco’s agentic AI transformation

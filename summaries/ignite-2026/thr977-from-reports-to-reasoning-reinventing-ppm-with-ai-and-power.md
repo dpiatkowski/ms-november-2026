@@ -13,7 +13,7 @@ start: "2026-11-17T22:35:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Agentic Business Applications", "MVP"]
 topics: ["power-apps", "dataverse", "ppm", "ai", "mvp", "customer-story"]
-categories: ["Power Platform"]
+categories: ["Business apps and automation"]
 ---
 
 # From Reports to Reasoning: Reinventing PPM with AI and Power Apps

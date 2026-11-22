@@ -13,7 +13,7 @@ start: "2026-11-19T23:45:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Agent Platform", "MVP"]
 topics: ["agent-governance", "entra", "purview", "foundry", "security", "framework"]
-categories: ["Agent governance"]
+categories: ["AI governance and safety"]
 ---
 
 # Agents Are the New Service Principals. Only More Dangerous

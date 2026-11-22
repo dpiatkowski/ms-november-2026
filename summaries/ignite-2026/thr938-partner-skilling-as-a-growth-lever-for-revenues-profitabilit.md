@@ -13,7 +13,7 @@ start: "2026-11-17T22:00:00Z"
 level: "(100) Foundational"
 ignite_topics: ["MAICPP"]
 topics: ["partner", "skilling", "revenue", "profitability", "data-science"]
-categories: ["Partners and marketplace", "Skilling and adoption"]
+categories: ["Partners and marketplace", "AI adoption and skills"]
 ---
 
 # Partner Skilling as a Growth Lever for Revenues & Profitability

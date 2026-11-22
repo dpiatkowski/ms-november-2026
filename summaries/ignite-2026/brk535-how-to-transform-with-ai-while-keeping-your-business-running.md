@@ -13,7 +13,7 @@ start: "2026-11-19T21:30:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Frontier Transformation", "AI", "AI Security", "Secure AI", "AI Transformation"]
 topics: ["customer-zero", "modernization", "ai-transformation", "reliability"]
-categories: ["Frontier transformation"]
+categories: ["AI adoption and skills"]
 ---
 
 # How to Transform with AI While Keeping Your Business Running

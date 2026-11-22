@@ -13,7 +13,7 @@ start: "2026-11-18T19:30:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Security", "AI", "Microsoft Defender for Cloud", "Data loss prevention", "AI controls", "AI Security", "Accessibility", "Agents", "Data governance", "Azure Container Apps", "Zero Trust", "Microsoft Copilot", "Microsoft Purview", "Copilot for Security", "Zero Trust for AI", "Secure AI", "Microsoft Agent 365", "Microsoft Purview Data Loss Prevention", "Microsoft Purview Insider Risk Management"]
 topics: ["partner", "smb", "pax8", "managed-services", "security"]
-categories: ["Small and medium business"]
+categories: ["Industry use cases"]
 ---
 
 # Build the managed intelligence stack for SMBs with Pax8 and Microsoft

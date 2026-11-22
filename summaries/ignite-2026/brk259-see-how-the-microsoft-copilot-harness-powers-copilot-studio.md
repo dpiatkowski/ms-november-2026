@@ -13,7 +13,7 @@ start: "2026-11-20T01:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "Github Copilot", "Copilot studio"]
 topics: ["copilot-studio", "copilot-harness", "multi-agent", "skills", "azure-containers"]
-categories: ["Building agents", "Copilot Studio"]
+categories: ["AI apps and agents"]
 ---
 
 # See how the Microsoft Copilot harness powers Copilot Studio

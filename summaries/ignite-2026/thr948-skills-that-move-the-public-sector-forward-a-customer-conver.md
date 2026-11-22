@@ -13,7 +13,7 @@ start: "2026-11-19T22:50:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Frontier Transformation", "Other", "AI", "Customer", "Get Ready for AI", "AI Transformation"]
 topics: ["skilling", "public-sector", "customer-conversation", "responsible-ai"]
-categories: ["Industry solutions", "Skilling and adoption"]
+categories: ["Industry use cases", "AI adoption and skills"]
 ---
 
 # Skills that move the public sector forward: A customer conversation

@@ -13,7 +13,7 @@ start: "2026-11-19T19:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["logic-apps", "biztalk", "migration", "integration", "agents", "edi"]
-categories: ["Azure infrastructure", "Migration and modernization"]
+categories: ["Cloud infrastructure", "Migration and modernization"]
 ---
 
 # Modernize legacy integration with Azure Logic Apps

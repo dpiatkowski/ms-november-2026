@@ -13,7 +13,7 @@ start: "2026-11-18T22:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Security", "Security", "Microsoft Agent 365", "Secure Agentic Insiders", "Secure your foundation", "Secure data", "Defend with agents"]
 topics: ["innovation-session", "observability", "security", "agents", "governance"]
-categories: ["Evaluation and observability"]
+categories: ["Operations and reliability"]
 ---
 
 # Observability at every layer for every role

@@ -13,7 +13,7 @@ start: "2026-11-19T22:50:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "AI", "AI controls", "Agents", "Partner", "Customer", "Agentic browsing", "Voice agents", "AI Transformation"]
 topics: ["sponsor", "recursive-self-improvement", "agents", "napster", "agent-training"]
-categories: ["Building agents"]
+categories: ["AI apps and agents"]
 ---
 
 # Leverage recursive self-improvement to train better AI agents

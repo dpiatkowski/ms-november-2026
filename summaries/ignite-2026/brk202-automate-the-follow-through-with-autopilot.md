@@ -13,7 +13,7 @@ start: "2026-11-18T00:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "Microsoft Surface", "Agents", "Microsoft 365"]
 topics: ["copilot", "autopilot", "automation", "agents", "governance"]
-categories: ["Microsoft 365 Copilot"]
+categories: ["Microsoft 365 and collaboration"]
 ---
 
 # Automate the Follow-Through with Autopilot

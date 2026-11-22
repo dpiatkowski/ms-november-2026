@@ -13,7 +13,7 @@ start: "2026-11-19T17:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI", "AI", "Resiliency", "Security", "Data loss prevention", "Multicloud", "Partner", "Azure Container Apps", "Threat Intelligence", "Windows Resiliency", "Zero Trust", "Marketplace", "Customer", "Secure AI", "Get Ready for AI", "Defend with AI"]
 topics: ["sponsor", "commvault", "azure-native", "recovery", "backup"]
-categories: ["Resilience"]
+categories: ["Operations and reliability"]
 ---
 
 # Simplify recovery with an Azure-native approach

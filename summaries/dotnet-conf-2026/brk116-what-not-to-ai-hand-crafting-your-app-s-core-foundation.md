@@ -9,7 +9,7 @@ video_url: "https://youtu.be/Hu0pDa0jwkM"
 session_id: "BRK116"
 start: "2026-11-12T16:00:00-08:00"
 topics: ["ai", "vibe-coding", "architecture", "agentic-coding", "community-day"]
-categories: ["Architecture", "Agentic engineering"]
+categories: ["Application architecture", "AI-assisted development"]
 ---
 
 # What NOT to AI: Hand-Crafting Your App's Core Foundation

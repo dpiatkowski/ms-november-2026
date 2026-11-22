@@ -9,7 +9,7 @@ video_url: "https://youtu.be/Y_nc0NIZvEw"
 session_id: "BRK019"
 start: "2026-11-11T09:30:00-08:00"
 topics: ["visual-studio", "git", "version-control", "pull-requests", "ai"]
-categories: ["IDEs"]
+categories: ["Developer tools and delivery"]
 ---
 
 # Get the most out of git in Visual Studio

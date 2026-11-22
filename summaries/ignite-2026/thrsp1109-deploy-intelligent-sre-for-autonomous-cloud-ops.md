@@ -13,7 +13,7 @@ start: "2026-11-19T17:35:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI"]
 topics: ["sponsor", "dynatrace", "azure-sre-agent", "observability", "mcp", "aiops"]
-categories: ["Cloud operations"]
+categories: ["Operations and reliability"]
 ---
 
 # Deploy intelligent SRE for autonomous cloud ops

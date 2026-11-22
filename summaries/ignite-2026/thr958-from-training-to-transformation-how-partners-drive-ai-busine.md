@@ -13,7 +13,7 @@ start: "2026-11-18T23:45:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Frontier Transformation", "Other", "AI", "Partner", "Get Ready for AI"]
 topics: ["training-partners", "skilling", "business-value", "customer-story"]
-categories: ["Partners and marketplace", "Skilling and adoption"]
+categories: ["Partners and marketplace", "AI adoption and skills"]
 ---
 
 # From training to transformation: How partners drive AI business value

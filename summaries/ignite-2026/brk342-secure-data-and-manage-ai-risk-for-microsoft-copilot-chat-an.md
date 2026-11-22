@@ -13,7 +13,7 @@ start: "2026-11-19T17:00:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Security", "Data loss prevention", "Azure Container Apps", "Microsoft Copilot", "Microsoft Purview", "Secure AI", "Secure Agentic Insiders"]
 topics: ["purview", "copilot", "data-protection", "oversharing", "incident-investigation"]
-categories: ["Microsoft 365 Copilot", "Responsible AI"]
+categories: ["Microsoft 365 and collaboration", "AI governance and safety"]
 ---
 
 # Secure data and manage AI risk for Microsoft Copilot Chat and Cowork

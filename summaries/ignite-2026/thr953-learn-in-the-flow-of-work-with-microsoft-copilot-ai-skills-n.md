@@ -13,7 +13,7 @@ start: "2026-11-20T18:10:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Other"]
 topics: ["learning-agent", "copilot", "ai-skills-navigator", "flow-of-work"]
-categories: ["Microsoft 365 Copilot", "Skilling and adoption"]
+categories: ["Microsoft 365 and collaboration", "AI adoption and skills"]
 ---
 
 # Learn in the flow of work with Microsoft Copilot + AI Skills Navigator

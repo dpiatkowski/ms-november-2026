@@ -13,7 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI", "Multicloud"]
 topics: ["sponsor", "nutanix", "azure", "vmware-migration", "hybrid-cloud"]
-categories: ["Migration and modernization", "Sovereignty and hybrid"]
+categories: ["Migration and modernization", "Hybrid and sovereign cloud"]
 ---
 
 # Gain hybrid cloud flexibility beyond legacy virtualization

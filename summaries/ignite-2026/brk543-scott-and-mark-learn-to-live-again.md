@@ -13,7 +13,7 @@ start: "2026-11-19T22:45:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform"]
 topics: ["ai", "developer-experience", "local-inference", "agentic-coding", "fireside"]
-categories: ["Software engineering"]
+categories: ["Developer tools and delivery"]
 ---
 
 # Scott and Mark learn to... live again

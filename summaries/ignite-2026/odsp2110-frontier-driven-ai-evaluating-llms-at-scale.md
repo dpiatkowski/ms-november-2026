@@ -13,7 +13,7 @@ start: null
 level: "(200) Intermediate"
 ignite_topics: ["Agentic Business Applications", "AI", "AI controls", "AI Security", "Microsoft Foundry", "Governance", "Azure Copilot", "Secure AI", "Get Ready for AI"]
 topics: ["sponsor", "foundry", "llm-evaluation", "model-promotion", "safety-testing", "cost-analysis"]
-categories: ["Evaluation and observability", "Frontier transformation"]
+categories: ["Testing and evaluation", "AI adoption and skills"]
 ---
 
 # Frontier-driven AI: Evaluating LLMs at scale

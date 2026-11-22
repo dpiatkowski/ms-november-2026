@@ -13,7 +13,7 @@ start: "2026-11-20T00:20:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Data"]
 topics: ["power-bi", "agentic-development", "github-copilot", "semantic-models"]
-categories: ["Power Platform"]
+categories: ["Business apps and automation"]
 ---
 
 # Power BI Development in the Agentic Era

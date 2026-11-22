@@ -13,7 +13,7 @@ start: "2026-11-18T18:15:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Frontier Transformation", "AI", "AI Transformation"]
 topics: ["leadership", "ai-strategy", "human-judgment", "culture"]
-categories: ["Frontier transformation"]
+categories: ["AI adoption and skills"]
 ---
 
 # More Human Value

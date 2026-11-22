@@ -13,7 +13,7 @@ start: "2026-11-20T01:30:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Cloud & AI"]
 topics: ["ai-gateway", "finops", "token-quotas", "semantic-caching", "routing"]
-categories: ["Azure infrastructure", "FinOps"]
+categories: ["Cloud infrastructure", "Cloud cost management"]
 ---
 
 # Take control of runaway AI costs with AI Gateway

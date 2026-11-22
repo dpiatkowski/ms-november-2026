@@ -13,7 +13,7 @@ start: "2026-11-18T00:30:00Z"
 level: "(100) Foundational"
 ignite_topics: ["MAICPP"]
 topics: ["partner", "asia", "smec", "fy27-strategy", "co-sell"]
-categories: ["Partners and marketplace", "Small and medium business"]
+categories: ["Partners and marketplace", "Industry use cases"]
 ---
 
 # Asia Leadership Live: The Land of Opportunity for SME&C Partners​​

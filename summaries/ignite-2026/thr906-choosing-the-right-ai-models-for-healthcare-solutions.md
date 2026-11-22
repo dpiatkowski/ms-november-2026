@@ -13,7 +13,7 @@ start: "2026-11-20T02:05:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "AI", "Microsoft Foundry", "Azure Copilot"]
 topics: ["healthcare", "model-selection", "fine-tuning", "evaluation"]
-categories: ["Industry solutions"]
+categories: ["Industry use cases"]
 ---
 
 # Choosing the right AI models for healthcare solutions

@@ -13,7 +13,7 @@ start: "2026-11-18T00:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Data"]
 topics: ["fabric", "horizondb", "postgresql", "oltp", "onelake", "ai"]
-categories: ["Azure databases", "Microsoft Fabric"]
+categories: ["Databases and analytics"]
 ---
 
 # Build intelligent PostgreSQL apps with Microsoft Fabric HorizonDB

@@ -13,7 +13,7 @@ start: null
 level: "(300) Advanced"
 ignite_topics: ["Frontier Transformation", "AI", "AI controls", "AI Security", "Agents", "Partner", "Copilot administration", "Github Copilot", "Microsoft Fabric", "Microsoft Foundry", "Copilot studio", "Secure AI", "Get Ready for AI", "Microsoft Agent 365", "Microsoft Copilot Studio", "Power Platform", "SME&C", "Azure compute", "Data Factory", "Dataverse", "Fabric IQ", "Microsoft IQ", "Migration and modernization", "OneLake", "AI Transformation"]
 topics: ["sponsor", "ilink", "ai-operating-model", "agent-discovery", "frontier-transformation"]
-categories: ["Frontier transformation"]
+categories: ["AI adoption and skills"]
 ---
 
 # Scale AI beyond pilots with a practical operating model

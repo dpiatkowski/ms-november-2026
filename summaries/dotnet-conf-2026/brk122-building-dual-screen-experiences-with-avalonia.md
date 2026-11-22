@@ -9,7 +9,7 @@ video_url: "https://youtu.be/kH7xpWZqjKU"
 session_id: "BRK122"
 start: "2026-11-13T10:00:00-08:00"
 topics: ["avalonia", "dual-screen", "foldables", "ui", "cross-platform", "community-day"]
-categories: ["Mobile devices"]
+categories: ["Desktop and mobile apps"]
 ---
 
 # Building Dual-Screen Experiences with Avalonia

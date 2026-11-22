@@ -13,7 +13,7 @@ start: "2026-11-17T22:00:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Microsoft IQ"]
 topics: ["work-iq", "context", "retrieval", "grounding", "roadmap"]
-categories: ["Microsoft IQ"]
+categories: ["AI grounding and retrieval"]
 ---
 
 # What's new in Work IQ

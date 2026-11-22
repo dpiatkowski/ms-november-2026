@@ -13,7 +13,7 @@ start: "2026-11-18T18:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform"]
 topics: ["frontier-tuning", "copilot-studio", "foundry", "agent-optimization", "evaluation"]
-categories: ["Frontier transformation", "Microsoft Foundry"]
+categories: ["AI adoption and skills", "AI apps and agents"]
 ---
 
 # Frontier tuning: Optimize AI agents for real-world business outcomes

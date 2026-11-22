@@ -13,7 +13,7 @@ start: "2026-11-18T19:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Copilot", "Copilot Chat", "Microsoft Copilot"]
 topics: ["copilot", "customer-stories", "roi", "adoption"]
-categories: ["Microsoft 365 Copilot"]
+categories: ["Microsoft 365 and collaboration"]
 ---
 
 # How customers are unlocking value & growth with Copilot

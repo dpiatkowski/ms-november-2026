@@ -9,7 +9,7 @@ video_url: "https://youtu.be/fpinJnmi248"
 session_id: "BRK120"
 start: "2026-11-13T09:00:00-08:00"
 topics: ["csharp", "language-features", "nullable", "pattern-matching", "community-day"]
-categories: [".NET"]
+categories: ["C# and .NET runtime"]
 ---
 
 # Let's catch up with C#!

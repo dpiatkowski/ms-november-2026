@@ -13,7 +13,7 @@ start: "2026-11-18T21:45:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "Microsoft Foundry", "Customer"]
 topics: ["foundry", "open-weight-models", "managed-compute", "gpu", "customer-story"]
-categories: ["Microsoft Foundry"]
+categories: ["AI apps and agents"]
 ---
 
 # From open weights to workload: Operationalizing at enterprise scale

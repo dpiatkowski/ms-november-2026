@@ -13,7 +13,7 @@ start: "2026-11-17T23:15:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Agentic Business Applications", "Agents"]
 topics: ["power-platform", "power-apps", "power-automate", "power-pages", "low-code", "ai"]
-categories: ["Power Platform"]
+categories: ["Business apps and automation"]
 ---
 
 # What's new in Power Platform

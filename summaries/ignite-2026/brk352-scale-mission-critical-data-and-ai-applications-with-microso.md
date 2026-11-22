@@ -13,7 +13,7 @@ start: "2026-11-19T00:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Data"]
 topics: ["fabric", "reliability", "security", "capacity-management", "network-isolation"]
-categories: ["Microsoft Fabric"]
+categories: ["Databases and analytics"]
 ---
 
 # Scale mission-critical data and AI applications with Microsoft Fabric

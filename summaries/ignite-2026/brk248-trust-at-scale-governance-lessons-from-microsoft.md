@@ -13,7 +13,7 @@ start: "2026-11-18T18:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agent Platform", "Governance", "Secure AI", "Get Ready for AI"]
 topics: ["responsible-ai", "governance", "safety", "compliance", "microsoft-internal"]
-categories: ["Agent governance", "Responsible AI"]
+categories: ["AI governance and safety"]
 ---
 
 # Trust at scale: Governance lessons from Microsoft

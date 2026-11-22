@@ -13,7 +13,7 @@ start: "2026-11-19T18:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Cloud & AI", "AI", "AI Security", "Agents", "Partner", "Data governance", "Azure Container Apps", "Microsoft Copilot", "Marketplace", "API", "Customer", "Secure AI", "Defend with AI", "Agentic defense"]
 topics: ["partner", "smb", "td-synnex", "ai-practice", "adoption"]
-categories: ["Frontier transformation"]
+categories: ["AI adoption and skills"]
 ---
 
 # Scale your AI practice from AI curiosity to frontier transformation

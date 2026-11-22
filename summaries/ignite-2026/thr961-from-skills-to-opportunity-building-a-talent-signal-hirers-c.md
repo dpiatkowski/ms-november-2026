@@ -13,7 +13,7 @@ start: "2026-11-18T00:05:00Z"
 level: "(100) Foundational"
 ignite_topics: ["Frontier Transformation", "Other", "AI", "Skills"]
 topics: ["talent-signals", "verified-proficiency", "github-copilot", "linkedin", "hiring"]
-categories: ["Skilling and adoption"]
+categories: ["AI adoption and skills"]
 ---
 
 # From skills to opportunity: Building a talent signal hirers can trust

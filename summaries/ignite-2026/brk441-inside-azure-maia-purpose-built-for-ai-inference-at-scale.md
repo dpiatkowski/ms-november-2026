@@ -13,7 +13,7 @@ start: "2026-11-18T00:30:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Cloud & AI"]
 topics: ["azure-maia", "ai-inference", "custom-silicon", "co-design"]
-categories: ["Azure infrastructure"]
+categories: ["Cloud infrastructure"]
 ---
 
 # Inside Azure Maia: Purpose-built for AI inference at scale

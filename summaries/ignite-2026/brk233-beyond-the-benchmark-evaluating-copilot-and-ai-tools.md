@@ -13,7 +13,7 @@ start: "2026-11-18T23:00:00Z"
 level: "(300) Advanced"
 ignite_topics: ["Copilot", "AI", "Agents", "Copilot Chat", "Microsoft Copilot"]
 topics: ["copilot", "evaluation", "benchmarking", "cowork"]
-categories: ["Evaluation and observability", "Microsoft 365 Copilot"]
+categories: ["Testing and evaluation", "Microsoft 365 and collaboration"]
 ---
 
 # Beyond the Benchmark: Evaluating Copilot and AI Tools

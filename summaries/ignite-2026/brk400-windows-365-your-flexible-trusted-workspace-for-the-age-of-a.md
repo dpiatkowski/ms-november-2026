@@ -13,7 +13,7 @@ start: "2026-11-19T00:15:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Windows", "Windows 365", "Agents", "W365 for Agents", "Cloud PC", "Cloud Endpoints", "MXC"]
 topics: ["windows-365", "cloud-pc", "agents", "admin", "ai"]
-categories: ["Windows 365 and Azure Virtual Desktop"]
+categories: ["Endpoint management"]
 ---
 
 # Windows 365 – Your flexible, trusted workspace for the age of AI

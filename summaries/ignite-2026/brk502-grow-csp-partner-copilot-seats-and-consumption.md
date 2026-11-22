@@ -13,7 +13,7 @@ start: "2026-11-19T19:30:00Z"
 level: "(200) Intermediate"
 ignite_topics: ["Agentic Business Applications", "SMB", "Small Business", "SME&C", "SMB Partner", "Lean IT", "Corporate"]
 topics: ["partner", "csp", "copilot", "smb", "consumption"]
-categories: ["Microsoft 365 Copilot", "Partners and marketplace"]
+categories: ["Microsoft 365 and collaboration", "Partners and marketplace"]
 ---
 
 # Grow CSP Partner Copilot Seats and Consumption
