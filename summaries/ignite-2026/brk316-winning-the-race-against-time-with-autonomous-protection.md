@@ -1,0 +1,35 @@
+---
+event: "Microsoft Ignite 2026"
+title: "Winning the Race Against Time with Autonomous Protection"
+speaker: "Noam Hadash, Raviv Tamir, Ken Robb"
+source_url: "https://ignite.microsoft.com/en-US/sessions/1787856621042001EDGy-1791588155309001C8PS"
+source_type: "session-abstract"
+summary_type: "ai-generated"
+video_url: null
+ondemand_url: "https://medius.microsoft.com/Embed/video-nc/f65dde26-b5cc-4857-af86-3cdfb7039bea"
+session_id: "BRK316"
+session_type: "Breakout"
+start: "2026-11-18T19:30:00Z"
+level: "(400) Expert"
+ignite_topics: ["Security", "Security", "Azure Cosmos DB", "AI Security", "Agents", "Defend with AI", "Data protection", "Defend with agents"]
+topics: ["security", "autonomous-protection", "exposure", "threat-response"]
+---
+
+# Winning the Race Against Time with Autonomous Protection
+
+**Speaker(s):** Noam Hadash, Raviv Tamir, Ken Robb
+
+## Summary
+
+Microsoft's approach to autonomous protection as AI compresses the time between vulnerability discovery and exploitation.
+
+## References
+
+- Session page: https://ignite.microsoft.com/en-US/sessions/1787856621042001EDGy-1791588155309001C8PS
+- On-demand recording (Microsoft-hosted): https://medius.microsoft.com/Embed/video-nc/f65dde26-b5cc-4857-af86-3cdfb7039bea
+- Slide deck (Microsoft-hosted, not copied here): https://medius.microsoft.com/video/asset/PPT/f65dde26-b5cc-4857-af86-3cdfb7039bea
+- Microsoft Perception Site: https://aka.ms/PerceptionWeb
+- Microsoft Perception Blog: https://aka.ms/PerceptionBlog
+- Vulnerability Shielding Blog: https://aka.ms/vulnerabilityshielding
+- Microsoft Defender Ignite Blog: https://aka.ms/Defender_Ignite26
+- Vulnerability Shielding Sizzle Video: https://aka.ms/vulnerabilityshielding-sizzle
