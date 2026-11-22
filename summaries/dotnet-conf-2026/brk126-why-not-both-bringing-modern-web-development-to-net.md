@@ -5,7 +5,7 @@ speaker: "David Whitney"
 source_url: "https://dotnet.microsoft.com/en-us/conf/2026/agenda/brk126"
 source_type: "session-abstract"
 summary_type: "ai-generated"
-video_url: null
+video_url: "https://youtu.be/vfSIqdvmMEc"
 session_id: "BRK126"
 start: "2026-11-13T12:00:00-08:00"
 topics: ["web", "react", "typescript", "astro", "experiments", "community-day"]
@@ -22,3 +22,4 @@ Three experiments that became real projects: JsxCore (React/JSX with ASP.NET MVC
 ## References
 
 - Session page: https://dotnet.microsoft.com/en-us/conf/2026/agenda/brk126
+- Recording: https://youtu.be/vfSIqdvmMEc

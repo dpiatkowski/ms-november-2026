@@ -5,7 +5,7 @@ speaker: "Paul Usher"
 source_url: "https://dotnet.microsoft.com/en-us/conf/2026/agenda/brk117"
 source_type: "session-abstract"
 summary_type: "ai-generated"
-video_url: null
+video_url: "https://youtu.be/GxAq2bxt-d8"
 session_id: "BRK117"
 start: "2026-11-12T16:30:00-08:00"
 topics: ["maui", "mobile", "offline", "production", "lessons-learned", "community-day"]
@@ -22,3 +22,4 @@ Lessons from deploying real-world MAUI business apps on iOS and Android: unrelia
 ## References
 
 - Session page: https://dotnet.microsoft.com/en-us/conf/2026/agenda/brk117
+- Recording: https://youtu.be/GxAq2bxt-d8

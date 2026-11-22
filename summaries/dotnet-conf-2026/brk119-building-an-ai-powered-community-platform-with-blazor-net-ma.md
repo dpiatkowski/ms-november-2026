@@ -5,7 +5,7 @@ speaker: "Augustine Correa"
 source_url: "https://dotnet.microsoft.com/en-us/conf/2026/agenda/brk119"
 source_type: "session-abstract"
 summary_type: "ai-generated"
-video_url: null
+video_url: "https://youtu.be/X0Cfvm9Y_mg"
 session_id: "BRK119"
 start: "2026-11-13T08:30:00-08:00"
 topics: ["blazor", "maui", "aspire", "foundry", "ai", "community-day"]
@@ -22,3 +22,4 @@ Case study of Bethuya, an AI-powered community platform with a unified participa
 ## References
 
 - Session page: https://dotnet.microsoft.com/en-us/conf/2026/agenda/brk119
+- Recording: https://youtu.be/X0Cfvm9Y_mg

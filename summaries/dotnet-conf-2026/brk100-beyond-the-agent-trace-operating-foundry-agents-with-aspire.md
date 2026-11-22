@@ -5,7 +5,7 @@ speaker: "Shweta Iyer"
 source_url: "https://dotnet.microsoft.com/en-us/conf/2026/agenda/brk100"
 source_type: "session-abstract"
 summary_type: "ai-generated"
-video_url: null
+video_url: "https://youtu.be/iDiPHBsiZd4"
 session_id: "BRK100"
 start: "2026-11-12T08:00:00-08:00"
 topics: ["agents", "foundry", "aspire", "observability", "audit", "community-day"]
@@ -22,3 +22,4 @@ Practical patterns from a C# procurement workflow that calls a Foundry agent, us
 ## References
 
 - Session page: https://dotnet.microsoft.com/en-us/conf/2026/agenda/brk100
+- Recording: https://youtu.be/iDiPHBsiZd4

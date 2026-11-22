@@ -5,7 +5,7 @@ speaker: "James Hutchison"
 source_url: "https://dotnet.microsoft.com/en-us/conf/2026/agenda/brk104"
 source_type: "session-abstract"
 summary_type: "ai-generated"
-video_url: null
+video_url: "https://youtu.be/uUJztTsg-SY"
 session_id: "BRK104"
 start: "2026-11-12T10:00:00-08:00"
 topics: ["blazor", "webassembly", "migration", "webforms", "authentication", "community-day"]
@@ -22,3 +22,4 @@ Experience report migrating a large 180+ component ASP.NET Web Forms UI to Blazo
 ## References
 
 - Session page: https://dotnet.microsoft.com/en-us/conf/2026/agenda/brk104
+- Recording: https://youtu.be/uUJztTsg-SY

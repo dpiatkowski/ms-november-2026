@@ -5,7 +5,7 @@ speaker: "Barry Stahl"
 source_url: "https://dotnet.microsoft.com/en-us/conf/2026/agenda/brk121"
 source_type: "session-abstract"
 summary_type: "ai-generated"
-video_url: null
+video_url: "https://youtu.be/wIlPm6XhRPQ"
 session_id: "BRK121"
 start: "2026-11-13T09:30:00-08:00"
 topics: ["reliability", "dual-writes", "outbox", "distributed-systems", "architecture", "community-day"]
@@ -22,6 +22,7 @@ Explains the dual-writes anti-pattern, how it causes hard-to-find inconsistencie
 ## References
 
 - Session page: https://dotnet.microsoft.com/en-us/conf/2026/agenda/brk121
+- Recording: https://youtu.be/wIlPm6XhRPQ
 - Eliminating Hidden Dangers - Short Session - Slide Deck: https://cognitiveinheritance.com/Presentations/ShortSession/EliminatingHiddenDangers/index.html
 - AZGiveCamp: https://www.azgivecamp.org/
 - Cognitive Inheritance: https://cognitiveinheritance.com/

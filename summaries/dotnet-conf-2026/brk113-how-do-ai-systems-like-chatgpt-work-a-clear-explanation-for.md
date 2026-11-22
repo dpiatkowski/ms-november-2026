@@ -5,7 +5,7 @@ speaker: "Otto Dobretsberger"
 source_url: "https://dotnet.microsoft.com/en-us/conf/2026/agenda/brk113"
 source_type: "session-abstract"
 summary_type: "ai-generated"
-video_url: null
+video_url: "https://youtu.be/ZRovrZ_0hf0"
 session_id: "BRK113"
 start: "2026-11-12T14:30:00-08:00"
 topics: ["ai", "llm", "fundamentals", "community-day"]
@@ -22,4 +22,5 @@ Accessible explanation of how LLMs generate answers token by token and the key c
 ## References
 
 - Session page: https://dotnet.microsoft.com/en-us/conf/2026/agenda/brk113
+- Recording: https://youtu.be/ZRovrZ_0hf0
 - Slides (published in the conference repo, not copied here): https://github.com/dotnetConf/2026/blob/main/Technical/CommunityDays/CD114/How%20Do%20AI%20Systems%20Like%20ChatGPT%20Work.pdf

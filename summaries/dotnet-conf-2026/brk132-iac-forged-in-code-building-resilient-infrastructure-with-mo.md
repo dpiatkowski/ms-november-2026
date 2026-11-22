@@ -5,7 +5,7 @@ speaker: "Mike Benkovich"
 source_url: "https://dotnet.microsoft.com/en-us/conf/2026/agenda/brk132"
 source_type: "session-abstract"
 summary_type: "ai-generated"
-video_url: null
+video_url: "https://youtu.be/okZ_ybEqXPY"
 session_id: "BRK132"
 start: "2026-11-13T15:00:00-08:00"
 topics: ["iac", "bicep", "terraform", "modules", "azure", "community-day"]
@@ -22,3 +22,4 @@ Designing shared, reusable infrastructure modules in Bicep and Terraform: author
 ## References
 
 - Session page: https://dotnet.microsoft.com/en-us/conf/2026/agenda/brk132
+- Recording: https://youtu.be/okZ_ybEqXPY

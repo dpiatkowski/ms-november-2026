@@ -5,7 +5,7 @@ speaker: "Isaac Levin"
 source_url: "https://dotnet.microsoft.com/en-us/conf/2026/agenda/brk103"
 source_type: "session-abstract"
 summary_type: "ai-generated"
-video_url: null
+video_url: "https://youtu.be/BQk3T1Ljrk4"
 session_id: "BRK103"
 start: "2026-11-12T09:30:00-08:00"
 topics: ["tui", "cli", "csharp", "developer-tools", "community-day"]
@@ -22,3 +22,4 @@ Shows how a terminal UI gives CLI tools structure (inputs, validation, progress)
 ## References
 
 - Session page: https://dotnet.microsoft.com/en-us/conf/2026/agenda/brk103
+- Recording: https://youtu.be/BQk3T1Ljrk4

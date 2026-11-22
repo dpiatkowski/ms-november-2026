@@ -5,7 +5,7 @@ speaker: "Juergen Gutsch"
 source_url: "https://dotnet.microsoft.com/en-us/conf/2026/agenda/brk105"
 source_type: "session-abstract"
 summary_type: "ai-generated"
-video_url: null
+video_url: "https://youtu.be/NSWn3c2IFB0"
 session_id: "BRK105"
 start: "2026-11-12T10:30:00-08:00"
 topics: ["agents", "multi-agent", "aspire", "security-testing", "playwright", "community-day"]
@@ -22,3 +22,4 @@ Side project in which a planning agent coordinates multiple AI agents to pen-tes
 ## References
 
 - Session page: https://dotnet.microsoft.com/en-us/conf/2026/agenda/brk105
+- Recording: https://youtu.be/NSWn3c2IFB0

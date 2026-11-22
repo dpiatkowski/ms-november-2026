@@ -5,7 +5,7 @@ speaker: "Sarah Dutkiewicz"
 source_url: "https://dotnet.microsoft.com/en-us/conf/2026/agenda/brk129"
 source_type: "session-abstract"
 summary_type: "ai-generated"
-video_url: null
+video_url: "https://youtu.be/l58PiFWCxA4"
 session_id: "BRK129"
 start: "2026-11-13T13:30:00-08:00"
 topics: ["csharp", "domain-modeling", "union-types", "dotnet-11", "community-day"]
@@ -22,3 +22,4 @@ Uses board game mechanics (turns, tile placement, victory conditions) to show ty
 ## References
 
 - Session page: https://dotnet.microsoft.com/en-us/conf/2026/agenda/brk129
+- Recording: https://youtu.be/l58PiFWCxA4

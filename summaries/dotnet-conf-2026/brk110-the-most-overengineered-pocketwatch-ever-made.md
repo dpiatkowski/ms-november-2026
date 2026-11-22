@@ -5,7 +5,7 @@ speaker: "Ed Charbeneau"
 source_url: "https://dotnet.microsoft.com/en-us/conf/2026/agenda/brk110"
 source_type: "session-abstract"
 summary_type: "ai-generated"
-video_url: null
+video_url: "https://youtu.be/N09AKvDkpGA"
 session_id: "BRK110"
 start: "2026-11-12T13:00:00-08:00"
 topics: ["iot", "voice-agent", "esp32", "ai", "claude-code", "community-day"]
@@ -22,3 +22,4 @@ Retrospective on building a pocket watch running a real-time voice agent in a we
 ## References
 
 - Session page: https://dotnet.microsoft.com/en-us/conf/2026/agenda/brk110
+- Recording: https://youtu.be/N09AKvDkpGA

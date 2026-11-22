@@ -5,7 +5,7 @@ speaker: "Maya Mateva"
 source_url: "https://dotnet.microsoft.com/en-us/conf/2026/agenda/brk101"
 source_type: "session-abstract"
 summary_type: "ai-generated"
-video_url: null
+video_url: "https://youtu.be/q3R0Jpv42ag"
 session_id: "BRK101"
 start: "2026-11-12T08:30:00-08:00"
 topics: ["blazor", "ai", "mcp", "ui-components", "community-day", "vendor"]
@@ -22,6 +22,7 @@ Vendor session on Telerik tooling for Blazor: MCP and AI skills for developer pr
 ## References
 
 - Session page: https://dotnet.microsoft.com/en-us/conf/2026/agenda/brk101
+- Recording: https://youtu.be/q3R0Jpv42ag
 - Slides (published in the conference repo, not copied here): https://github.com/dotnetConf/2026/blob/main/Technical/CommunityDays/CD102/TelerikUIBlazor_DotNetConf_2026.pdf
 - Telerik MCP/Agentic UI Generator: https://www.telerik.com/blazor-ui/documentation/ai/agentic-ui-generator/overview
 - Telerik WebMcpKit: https://www.telerik.com/blazor-ui/documentation/ai/web-mcp/overview
