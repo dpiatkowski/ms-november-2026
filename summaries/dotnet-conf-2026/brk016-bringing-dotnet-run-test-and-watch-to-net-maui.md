@@ -9,6 +9,7 @@ video_url: "https://youtu.be/Lw7nN8sBZn0"
 session_id: "BRK016"
 start: "2026-11-10T16:30:00-08:00"
 topics: ["maui", "dotnet-cli", "mobile", "testing", "hot-reload", "ci"]
+categories: ["Mobile devices", ".NET", "Testing"]
 ---
 
 # Bringing dotnet run, test, and watch to .NET MAUI

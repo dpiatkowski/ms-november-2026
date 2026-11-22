@@ -9,6 +9,7 @@ video_url: "https://youtu.be/s7p7nuSvY3s"
 session_id: "BRK042"
 start: "2026-11-10T12:00:00-08:00"
 topics: ["vscode", "csharp-dev-kit", "native-aot", "performance", "developer-tools", "agents"]
+categories: ["IDEs", ".NET", "Performance"]
 ---
 
 # C# Dev Kit 11: Faster Foundations for .NET Development—and What Comes Next

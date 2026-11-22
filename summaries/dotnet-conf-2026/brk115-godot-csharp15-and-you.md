@@ -9,6 +9,7 @@ video_url: "https://youtu.be/SPiLKdBBuSY"
 session_id: "BRK115"
 start: "2026-11-12T15:30:00-08:00"
 topics: ["godot", "game-dev", "csharp", "union-types", "polysharp", "community-day"]
+categories: ["Game design", ".NET"]
 ---
 
 # Godot + C#15 and You!

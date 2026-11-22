@@ -9,6 +9,7 @@ video_url: "https://youtu.be/7EXrTrcJ7zA"
 session_id: "BRK040"
 start: "2026-11-11T19:00:00-08:00"
 topics: ["iot", "agents", "aspire", "robotics", "embedded", "dotnet-11"]
+categories: ["Embedded devices", "AI applications"]
 ---
 
 # Give Your .NET Agent a Face: Building an AI Desk Companion with M5Stack

@@ -9,6 +9,7 @@ video_url: "https://youtu.be/pQ429wyoCo8"
 session_id: "BRK022"
 start: "2026-11-11T11:30:00-08:00"
 topics: ["winui", "windows", "native-aot", "dotnet-cli", "agents", "tooling"]
+categories: ["Windows", "Agentic engineering", ".NET"]
 ---
 
 # Building great Windows apps with WinUI and agents

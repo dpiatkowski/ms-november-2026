@@ -9,6 +9,7 @@ video_url: "https://youtu.be/jSecTephxJc"
 session_id: "BRK012"
 start: "2026-11-10T14:30:00-08:00"
 topics: ["numerics", "dotnet-11", "performance", "tensors", "generic-math"]
+categories: [".NET"]
 ---
 
 # .NET 11 Numerics

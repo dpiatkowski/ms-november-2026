@@ -9,6 +9,7 @@ video_url: "https://youtu.be/l58PiFWCxA4"
 session_id: "BRK129"
 start: "2026-11-13T13:30:00-08:00"
 topics: ["csharp", "domain-modeling", "union-types", "dotnet-11", "community-day"]
+categories: ["Architecture", ".NET", "Game design"]
 ---
 
 # Meeple-Driven Design: Modeling Board Game Domains with C# 15 & .NET 11

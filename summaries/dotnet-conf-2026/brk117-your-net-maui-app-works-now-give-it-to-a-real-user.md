@@ -9,6 +9,7 @@ video_url: "https://youtu.be/GxAq2bxt-d8"
 session_id: "BRK117"
 start: "2026-11-12T16:30:00-08:00"
 topics: ["maui", "mobile", "offline", "production", "lessons-learned", "community-day"]
+categories: ["Mobile devices"]
 ---
 
 # Your .NET MAUI App Works. Now Give It to a Real User.

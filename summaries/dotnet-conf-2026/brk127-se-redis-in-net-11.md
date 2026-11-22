@@ -9,6 +9,7 @@ video_url: "https://youtu.be/bEaK4JIGuTc"
 session_id: "BRK127"
 start: "2026-11-13T12:30:00-08:00"
 topics: ["redis", "caching", "performance", "dotnet-11", "community-day"]
+categories: ["Data"]
 ---
 
 # SE.Redis in .NET 11

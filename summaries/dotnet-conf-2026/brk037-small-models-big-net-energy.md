@@ -9,6 +9,7 @@ video_url: "https://youtu.be/ongDevKLRxM"
 session_id: "BRK037"
 start: "2026-11-10T18:30:00-08:00"
 topics: ["ai", "local-models", "foundry-local", "small-language-models", "dotnet-ai"]
+categories: ["AI applications", "Game design"]
 ---
 
 # Small Models, Big .NET Energy

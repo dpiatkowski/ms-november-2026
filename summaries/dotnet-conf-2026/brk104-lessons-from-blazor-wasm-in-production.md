@@ -9,6 +9,7 @@ video_url: "https://youtu.be/uUJztTsg-SY"
 session_id: "BRK104"
 start: "2026-11-12T10:00:00-08:00"
 topics: ["blazor", "webassembly", "migration", "webforms", "authentication", "community-day"]
+categories: ["ASP.NET Legacy", "Blazor"]
 ---
 
 # Lessons from Blazor WASM in Production

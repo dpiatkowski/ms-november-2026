@@ -9,6 +9,7 @@ video_url: "https://youtu.be/k5NgrQDCdKE"
 session_id: "BRK111"
 start: "2026-11-12T13:30:00-08:00"
 topics: ["ai", "agents", "workflow", "local-models", "privacy", "community-day"]
+categories: ["Agentic engineering"]
 ---
 
 # Developer Workflows in AI Age - Local or Cloud

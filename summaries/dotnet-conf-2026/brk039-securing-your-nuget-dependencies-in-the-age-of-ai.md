@@ -9,6 +9,7 @@ video_url: "https://youtu.be/H54iAyM08VM"
 session_id: "BRK039"
 start: "2026-11-10T18:00:00-08:00"
 topics: ["nuget", "supply-chain", "security", "ai", "agents"]
+categories: [".NET", "Security"]
 ---
 
 # Securing Your NuGet Dependencies in the Age of AI

@@ -9,6 +9,7 @@ video_url: "https://youtu.be/pLGVnUFQjfM"
 session_id: "BRK015"
 start: "2026-11-10T16:00:00-08:00"
 topics: ["cryptography", "post-quantum", "security", "dotnet-11"]
+categories: ["Security", ".NET"]
 ---
 
 # Post-Quantum Cryptography with .NET 11

@@ -9,6 +9,7 @@ video_url: "https://youtu.be/OJl-hgGrQg8"
 session_id: "BRK108"
 start: "2026-11-12T12:00:00-08:00"
 topics: ["rx-net", "async", "reactive", "csharp", "community-day"]
+categories: [".NET"]
 ---
 
 # Async Rx.NET

@@ -9,6 +9,7 @@ video_url: "https://youtu.be/o6hODySxDTA"
 session_id: "BRK028"
 start: "2026-11-11T14:30:00-08:00"
 topics: ["azure", "container-apps", "ai-gateway", "sre-agent", "copilot", "agents"]
+categories: ["Azure", "Agentic engineering"]
 ---
 
 # Azure's new lineup for .NET developers (Part 1)

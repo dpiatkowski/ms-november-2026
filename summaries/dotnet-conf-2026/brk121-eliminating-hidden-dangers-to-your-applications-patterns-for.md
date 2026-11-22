@@ -9,6 +9,7 @@ video_url: "https://youtu.be/wIlPm6XhRPQ"
 session_id: "BRK121"
 start: "2026-11-13T09:30:00-08:00"
 topics: ["reliability", "dual-writes", "outbox", "distributed-systems", "architecture", "community-day"]
+categories: ["Distributed systems", "Architecture", "Reliability"]
 ---
 
 # Eliminating Hidden Dangers to Your Applications: Patterns for Reliable Systems

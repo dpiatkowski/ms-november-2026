@@ -9,6 +9,7 @@ video_url: "https://youtu.be/cH5NssOa-3c"
 session_id: "BRK020"
 start: "2026-11-11T10:00:00-08:00"
 topics: ["visual-studio", "debugging", "profiling", "diagnostics", "ai"]
+categories: ["IDEs"]
 ---
 
 # What's New in Visual Studio Debugging and Diagnostics

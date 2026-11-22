@@ -9,6 +9,7 @@ video_url: "https://youtu.be/X0Cfvm9Y_mg"
 session_id: "BRK119"
 start: "2026-11-13T08:30:00-08:00"
 topics: ["blazor", "maui", "aspire", "foundry", "ai", "community-day"]
+categories: ["Blazor", "Aspire", "Azure", "AI applications"]
 ---
 
 # Building an AI-Powered Community Platform with Blazor, .NET MAUI, Aspire, and Azure AI Foundry

@@ -9,6 +9,7 @@ video_url: "https://youtu.be/k_DUJR6Zhrc"
 session_id: "BRK114"
 start: "2026-11-12T15:00:00-08:00"
 topics: ["ai", "architecture", "devops", "copilot", "github", "community-day"]
+categories: ["Architecture", "AI applications", "GitHub Copilot", "CI/CD", "Agentic engineering"]
 ---
 
 # .NET AI Architecture and DevOps

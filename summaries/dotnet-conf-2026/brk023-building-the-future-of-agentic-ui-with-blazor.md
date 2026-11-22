@@ -9,6 +9,7 @@ video_url: "https://youtu.be/KTq7jpv2Eik"
 session_id: "BRK023"
 start: "2026-11-11T12:00:00-08:00"
 topics: ["blazor", "agentic-ui", "ag-ui", "agent-framework", "foundry", "aspire", "human-in-the-loop"]
+categories: ["Blazor", "AI applications", "Microsoft Agent Framework", "Azure"]
 ---
 
 # Building the future of agentic UI with Blazor

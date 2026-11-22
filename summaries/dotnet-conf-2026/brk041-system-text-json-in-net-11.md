@@ -9,6 +9,7 @@ video_url: "https://youtu.be/vZibbAH3xiY"
 session_id: "BRK041"
 start: "2026-11-10T17:30:00-08:00"
 topics: ["json", "system-text-json", "serialization", "csharp", "union-types", "dotnet-11"]
+categories: [".NET"]
 ---
 
 # System.Text.Json in .NET 11

@@ -9,6 +9,7 @@ video_url: "https://youtu.be/FYGBT08-N48"
 session_id: "BRK033"
 start: "2026-11-11T17:30:00-08:00"
 topics: ["maui", "ai", "microsoft-extensions-ai", "tool-calling", "mobile"]
+categories: ["Mobile devices", "AI applications"]
 ---
 
 # Less Chat, More Action: AI-Powered .NET MAUI Apps

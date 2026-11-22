@@ -9,6 +9,7 @@ video_url: "https://youtu.be/ziD2ugBywDM"
 session_id: "BRK005"
 start: "2026-11-10T11:00:00-08:00"
 topics: ["ai", "dotnet-ai", "agents", "rag", "local-inference", "architecture"]
+categories: ["AI applications", "Architecture", "Blazor"]
 ---
 
 # The .NET AI Stack: What's New, What's Next, and How It Fits Together

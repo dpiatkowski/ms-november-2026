@@ -9,6 +9,7 @@ video_url: "https://youtu.be/04L6Xhyh6K8"
 session_id: "BRK118"
 start: "2026-11-13T08:00:00-08:00"
 topics: ["blazor", "maui", "blazor-hybrid", "code-sharing", "razor-components", "community-day"]
+categories: ["Blazor", "Mobile devices", "Windows"]
 ---
 
 # One Codebase, Two Worlds: Sharing Razor Components Across Blazor Web and .NET MAUI Hybrid

@@ -9,6 +9,7 @@ video_url: "https://youtu.be/vfSIqdvmMEc"
 session_id: "BRK126"
 start: "2026-11-13T12:00:00-08:00"
 topics: ["web", "react", "typescript", "astro", "experiments", "community-day"]
+categories: [".NET", "ASP.NET Legacy"]
 ---
 
 # Why not both? Bringing Modern Web Development to .NET

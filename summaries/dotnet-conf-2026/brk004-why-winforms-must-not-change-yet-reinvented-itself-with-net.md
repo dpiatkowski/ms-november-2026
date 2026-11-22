@@ -9,6 +9,7 @@ video_url: "https://youtu.be/WKzrwIplf2M"
 session_id: "BRK004"
 start: "2026-11-10T10:30:00-08:00"
 topics: ["winforms", "dotnet-11", "modernization", "accessibility", "ai", "windows"]
+categories: ["Windows", "Accessibility", ".NET"]
 ---
 
 # Why WinForms must not change - yet reinvented itself with .NET 11!

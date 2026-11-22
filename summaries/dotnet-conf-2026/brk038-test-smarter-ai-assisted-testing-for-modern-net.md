@@ -9,6 +9,7 @@ video_url: "https://youtu.be/fKnZotxlEec"
 session_id: "BRK038"
 start: "2026-11-11T18:00:00-08:00"
 topics: ["testing", "ai", "mstest", "microsoft-testing-platform", "copilot"]
+categories: ["GitHub Copilot", "Agentic engineering", "Testing"]
 ---
 
 # Test Smarter: AI-Assisted Testing for Modern .NET

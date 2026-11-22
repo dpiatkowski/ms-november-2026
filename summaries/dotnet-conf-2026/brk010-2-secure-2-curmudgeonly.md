@@ -9,6 +9,7 @@ video_url: "https://youtu.be/VExpC7L9mAQ"
 session_id: "BRK010"
 start: "2026-11-10T13:30:00-08:00"
 topics: ["security", "vulnerabilities", "dotnet", "secure-coding"]
+categories: ["Security"]
 ---
 
 # 2 Secure 2 Curmudgeonly

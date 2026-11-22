@@ -9,6 +9,7 @@ video_url: "https://youtu.be/R4ZgrOcazT4"
 session_id: "BRK011"
 start: "2026-11-10T14:00:00-08:00"
 topics: ["copilot", "ai-assisted-dev", "agents", "visual-studio", "productivity"]
+categories: ["GitHub Copilot", "Agentic engineering"]
 ---
 
 # Beyond Autocomplete: Getting the Most from GitHub Copilot for .NET

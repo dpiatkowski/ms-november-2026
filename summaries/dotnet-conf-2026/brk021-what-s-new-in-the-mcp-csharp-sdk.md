@@ -9,6 +9,7 @@ video_url: "https://youtu.be/ydqzvPkTPxw"
 session_id: "BRK021"
 start: "2026-11-11T11:00:00-08:00"
 topics: ["mcp", "ai", "agents", "csharp-sdk", "protocol"]
+categories: ["MCP", "AI applications"]
 ---
 
 # What's new in the MCP C# SDK

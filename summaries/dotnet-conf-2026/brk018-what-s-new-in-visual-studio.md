@@ -9,6 +9,7 @@ video_url: "https://youtu.be/lGE8J6OnzLA"
 session_id: "BRK018"
 start: "2026-11-11T09:00:00-08:00"
 topics: ["visual-studio", "productivity", "editor", "testing", "markdown"]
+categories: ["IDEs"]
 ---
 
 # What's new in Visual Studio

@@ -9,6 +9,7 @@ video_url: "https://youtu.be/8vxdOlv-n9g"
 session_id: "BRK134"
 start: "2026-11-13T16:00:00-08:00"
 topics: ["oracle", "ef-core", "vector-search", "agent-framework", "data", "community-day", "vendor"]
+categories: ["Data", "Microsoft Agent Framework", "AI applications"]
 ---
 
 # Building Oracle AI Apps with .NET and EF Core 11

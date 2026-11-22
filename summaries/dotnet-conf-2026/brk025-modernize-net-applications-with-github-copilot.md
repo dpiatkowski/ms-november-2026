@@ -9,6 +9,7 @@ video_url: "https://youtu.be/cdbwHdGikhg"
 session_id: "BRK025"
 start: "2026-11-11T13:00:00-08:00"
 topics: ["modernization", "copilot", "agents", "upgrade", "migration"]
+categories: ["GitHub Copilot", "Agentic engineering"]
 ---
 
 # Modernize .NET Applications with GitHub Copilot

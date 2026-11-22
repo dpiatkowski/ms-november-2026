@@ -9,6 +9,7 @@ video_url: "https://youtu.be/7udirOvQqLk"
 session_id: "BRK014"
 start: "2026-11-10T15:30:00-08:00"
 topics: ["runtime", "async", "memory-safety", "performance", "jit", "dotnet-11"]
+categories: [".NET", "Security"]
 ---
 
 # .NET Runtime vNext: Memory Safety and Runtime Async

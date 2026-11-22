@@ -9,6 +9,7 @@ video_url: "https://youtu.be/u_4fVzO7ESg"
 session_id: "BRK109"
 start: "2026-11-12T12:30:00-08:00"
 topics: ["feature-flags", "deployment", "progressive-delivery", "devops", "community-day"]
+categories: ["CI/CD"]
 ---
 
 # Silent Superpowers: Why Breaking Production Isn't Scary Anymore

@@ -9,6 +9,7 @@ video_url: "https://youtu.be/9UbzM5WbZkk"
 session_id: "BRK102"
 start: "2026-11-12T09:00:00-08:00"
 topics: ["architecture", "azure", "microservices", "app-service", "azure-functions", "service-bus", "community-day"]
+categories: ["Azure", "Architecture", "Distributed systems"]
 ---
 
 # Miniservices not Microservices in Azure

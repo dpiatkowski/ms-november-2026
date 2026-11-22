@@ -9,6 +9,7 @@ video_url: "https://youtu.be/CnV8B-ER67k"
 session_id: "BRK017"
 start: "2026-11-11T08:30:00-08:00"
 topics: ["visual-studio", "ai", "copilot", "agents", "models"]
+categories: ["IDEs", "GitHub Copilot", "Agentic engineering"]
 ---
 
 # The State of AI in Visual Studio

@@ -9,6 +9,7 @@ video_url: "https://youtu.be/Yd_fI485naI"
 session_id: "BRK124"
 start: "2026-11-13T11:00:00-08:00"
 topics: ["testing", "property-based-testing", "snapshot-testing", "community-day"]
+categories: ["Testing"]
 ---
 
 # When Unit tests are not enough: Property-based testing and Snapshot tests

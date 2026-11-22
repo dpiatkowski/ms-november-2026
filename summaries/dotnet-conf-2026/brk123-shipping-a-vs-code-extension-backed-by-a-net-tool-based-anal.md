@@ -9,6 +9,7 @@ video_url: "https://youtu.be/2tGmslbWmsU"
 session_id: "BRK123"
 start: "2026-11-13T10:30:00-08:00"
 topics: ["vscode", "extensions", "sql", "analyzers", "dotnet-tool", "community-day"]
+categories: ["IDEs"]
 ---
 
 # Shipping a VS Code extension backed by a .NET Tool based analyzer

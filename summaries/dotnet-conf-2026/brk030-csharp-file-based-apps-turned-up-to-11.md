@@ -9,6 +9,7 @@ video_url: "https://youtu.be/Yvn7liNioto"
 session_id: "BRK030"
 start: "2026-11-11T15:30:00-08:00"
 topics: ["csharp", "file-based-apps", "dotnet-cli", "dotnet-11"]
+categories: [".NET"]
 ---
 
 # C# File-based apps turned up to 11!
